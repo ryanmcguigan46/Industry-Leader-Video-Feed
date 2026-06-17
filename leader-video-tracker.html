@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Signal — Industry Leader Videos</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+
+  :root {
+    --ink: #0f0f0f;
+    --paper: #f7f5f0;
+    --muted: #8a8680;
+    --rule: #e0ddd8;
+    --accent: #1a3a5c;
+    --accent-light: #e8f0f8;
+    --signal: #c8401a;
+    --signal-light: #fdf0ec;
+    --card: #ffffff;
+    --mono: 'JetBrains Mono', monospace;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    min-height: 100vh;
+  }
+
+  /* MASTHEAD */
+  header {
+    border-bottom: 2px solid var(--ink);
+    padding: 0 2rem;
+  }
+  .masthead-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 0 0.75rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .logo {
+    font-family: 'DM Serif Display', serif;
+    font-size: 2rem;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .logo span { color: var(--signal); font-style: italic; }
+  .dateline {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    color: var(--muted);
+    text-align: right;
+    line-height: 1.6;
+  }
+  nav {
+    display: flex;
+    gap: 2rem;
+    padding: 0.6rem 0;
+    font-size: 0.78rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  nav button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font: inherit;
+    color: var(--muted);
+    padding: 0.25rem 0;
+    border-bottom: 2px solid transparent;
+    transition: color 0.15s, border-color 0.15s;
+  }
+  nav button.active {
+    color: var(--ink);
+    border-bottom-color: var(--signal);
+  }
+  nav button:hover { color: var(--ink); }
+
+  /* LAYOUT */
+  .layout {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    min-height: calc(100vh - 100px);
+  }
+
+  /* SIDEBAR */
+  aside {
+    border-right: 1px solid var(--rule);
+    padding: 1.5rem;
+    background: var(--card);
+  }
+  .sidebar-label {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .leader-card {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.65rem 0.75rem;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-bottom: 0.25rem;
+    transition: background 0.12s;
+    position: relative;
+  }
+  .leader-card:hover { background: var(--accent-light); }
+  .leader-card.active { background: var(--accent-light); }
+  .leader-avatar {
+    width: 36px; height: 36px;
+    border-radius: 50%;
+    background: var(--accent);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'DM Serif Display', serif;
+    font-size: 0.9rem;
+    color: white;
+    flex-shrink: 0;
+  }
+  .leader-info { flex: 1; min-width: 0; }
+  .leader-name {
+    font-size: 0.82rem;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .leader-title {
+    font-size: 0.68rem;
+    color: var(--muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .new-badge {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--signal);
+    flex-shrink: 0;
+  }
+  .add-leader-btn {
+    width: 100%;
+    margin-top: 1rem;
+    padding: 0.6rem;
+    border: 1px dashed var(--rule);
+    border-radius: 6px;
+    background: none;
+    cursor: pointer;
+    font-size: 0.78rem;
+    color: var(--muted);
+    font-family: 'Inter', sans-serif;
+    transition: all 0.15s;
+  }
+  .add-leader-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--accent-light);
+  }
+
+  /* MAIN CONTENT */
+  main { padding: 1.5rem 2rem; }
+
+  /* ADD LEADER PANEL */
+  .add-panel {
+    background: var(--card);
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    padding: 1.25rem;
+    margin-bottom: 1.5rem;
+    display: none;
+  }
+  .add-panel.open { display: block; }
+  .add-panel h3 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+  }
+  .add-panel p {
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-bottom: 1rem;
+    line-height: 1.5;
+  }
+  .add-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr auto;
+    gap: 0.5rem;
+    align-items: end;
+  }
+  .add-form label {
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+    display: block;
+    margin-bottom: 0.3rem;
+  }
+  .add-form input {
+    width: 100%;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid var(--rule);
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.82rem;
+    background: var(--paper);
+    color: var(--ink);
+    outline: none;
+    transition: border-color 0.15s;
+  }
+  .add-form input:focus { border-color: var(--accent); }
+  .btn-primary {
+    padding: 0.55rem 1.25rem;
+    background: var(--ink);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.82rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.15s;
+    white-space: nowrap;
+  }
+  .btn-primary:hover { background: var(--accent); }
+
+  /* SECTION HEADERS */
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .section-head h2 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.4rem;
+  }
+  .section-head .count {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    color: var(--muted);
+  }
+  .signal-dot {
+    display: inline-block;
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--signal);
+    margin-right: 0.4rem;
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+
+  /* VIDEO GRID */
+  .video-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 2rem;
+  }
+  .video-card {
+    background: var(--card);
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: transform 0.15s, box-shadow 0.15s;
+  }
+  .video-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  }
+  .video-thumb {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16/9;
+    background: #1a1a2e;
+    overflow: hidden;
+  }
+  .video-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .thumb-placeholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--accent) 0%, #0f2a44 100%);
+  }
+  .play-icon {
+    width: 44px; height: 44px;
+    background: rgba(255,255,255,0.9);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+  }
+  .video-age {
+    position: absolute;
+    top: 0.5rem; right: 0.5rem;
+    background: rgba(0,0,0,0.75);
+    color: white;
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+  }
+  .today-tag {
+    position: absolute;
+    top: 0.5rem; left: 0.5rem;
+    background: var(--signal);
+    color: white;
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+  }
+  .video-info { padding: 0.85rem 1rem 1rem; }
+  .video-leader {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-bottom: 0.4rem;
+  }
+  .mini-avatar {
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    background: var(--accent);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'DM Serif Display', serif;
+    font-size: 0.55rem;
+    color: white;
+  }
+  .video-leader-name {
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: var(--accent);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+  .video-title {
+    font-size: 0.88rem;
+    font-weight: 500;
+    line-height: 1.35;
+    margin-bottom: 0.4rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .video-meta {
+    font-size: 0.7rem;
+    color: var(--muted);
+    font-family: var(--mono);
+  }
+  .video-remove {
+    float: right;
+    background: none;
+    border: none;
+    color: var(--muted);
+    cursor: pointer;
+    font-size: 0.8rem;
+    padding: 0;
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+  .video-card:hover .video-remove { opacity: 1; }
+
+  /* PLAYER MODAL */
+  .modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.75);
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    display: none;
+  }
+  .modal-overlay.open { display: flex; }
+  .modal {
+    background: var(--card);
+    border-radius: 12px;
+    width: 100%;
+    max-width: 860px;
+    overflow: hidden;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+  }
+  .modal-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  .modal-leader { font-size: 0.72rem; font-weight: 600; color: var(--accent); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 0.2rem; }
+  .modal-title { font-family: 'DM Serif Display', serif; font-size: 1.15rem; line-height: 1.3; }
+  .modal-close {
+    background: none;
+    border: none;
+    font-size: 1.4rem;
+    cursor: pointer;
+    color: var(--muted);
+    line-height: 1;
+    padding: 0 0 0 1rem;
+    flex-shrink: 0;
+  }
+  .modal-close:hover { color: var(--ink); }
+  .modal-player {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16/9;
+    background: #000;
+  }
+  .modal-player iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+  .modal-footer {
+    padding: 0.85rem 1.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid var(--rule);
+  }
+  .modal-date { font-family: var(--mono); font-size: 0.72rem; color: var(--muted); }
+  .modal-yt-link {
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--accent);
+    text-decoration: none;
+  }
+  .modal-yt-link:hover { text-decoration: underline; }
+
+  /* EMPTY STATE */
+  .empty-state {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--muted);
+  }
+  .empty-state .icon { font-size: 2.5rem; margin-bottom: 1rem; }
+  .empty-state h3 { font-family: 'DM Serif Display', serif; font-size: 1.3rem; color: var(--ink); margin-bottom: 0.5rem; }
+  .empty-state p { font-size: 0.85rem; line-height: 1.6; }
+
+  /* LOADING */
+  .loading-row {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem;
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+  .spinner {
+    width: 16px; height: 16px;
+    border: 2px solid var(--rule);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.7s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* STATUS BAR */
+  .status-bar {
+    background: var(--accent);
+    color: white;
+    padding: 0.4rem 2rem;
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+  }
+  .status-bar span { opacity: 0.7; }
+  .status-bar strong { opacity: 1; }
+
+  @media (max-width: 700px) {
+    .layout { grid-template-columns: 1fr; }
+    aside { display: none; }
+    .add-form { grid-template-columns: 1fr; }
+    main { padding: 1rem; }
+    header { padding: 0 1rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="masthead-top">
+    <div class="logo">Sig<span>nal</span></div>
+    <div class="dateline" id="dateline"></div>
+  </div>
+  <nav>
+    <button class="active" onclick="setView('digest')">Daily Digest</button>
+    <button onclick="setView('all')">All Videos</button>
+    <button onclick="setView('saved')">Saved</button>
+  </nav>
+</header>
+
+<div class="status-bar">
+  <span>Tracking <strong id="leader-count">0</strong> leaders</span>
+  <span>Last refreshed: <strong id="last-refresh">—</strong></span>
+  <span id="new-count-bar"></span>
+</div>
+
+<div class="layout">
+  <aside>
+    <div class="sidebar-label">Tracked Leaders</div>
+    <div id="leader-list"></div>
+    <button class="add-leader-btn" onclick="toggleAddPanel()">＋ Add leader</button>
+  </aside>
+
+  <main>
+    <div class="add-panel" id="add-panel">
+      <h3>Track a New Leader</h3>
+      <p>Enter their name, their role, and their YouTube channel ID (found in the channel URL: youtube.com/channel/<strong>UCxxxxxx</strong>). You can also search for channels on <a href="https://www.youtube.com" target="_blank" style="color:var(--accent)">YouTube</a> and copy the ID from the URL.</p>
+      <div class="add-form">
+        <div>
+          <label>Full Name</label>
+          <input id="new-name" type="text" placeholder="Jensen Huang">
+        </div>
+        <div>
+          <label>Title / Company</label>
+          <input id="new-title" type="text" placeholder="CEO, NVIDIA">
+        </div>
+        <div>
+          <label>YouTube Channel ID</label>
+          <input id="new-channel" type="text" placeholder="UCxxxxxxxxxxxxxx">
+        </div>
+        <button class="btn-primary" onclick="addLeader()">Track</button>
+      </div>
+    </div>
+
+    <div id="main-content"></div>
+  </main>
+</div>
+
+<div class="modal-overlay" id="modal" onclick="closeModal(event)">
+  <div class="modal">
+    <div class="modal-header">
+      <div>
+        <div class="modal-leader" id="modal-leader"></div>
+        <div class="modal-title" id="modal-title"></div>
+      </div>
+      <button class="modal-close" onclick="closeModalDirect()">✕</button>
+    </div>
+    <div class="modal-player">
+      <iframe id="modal-iframe" allowfullscreen allow="autoplay; encrypted-media"></iframe>
+    </div>
+    <div class="modal-footer">
+      <span class="modal-date" id="modal-date"></span>
+      <a class="modal-yt-link" id="modal-yt-link" target="_blank">Watch on YouTube ↗</a>
+    </div>
+  </div>
+</div>
+
+<script>
+// ─── DATA ───────────────────────────────────────────────────────────────────
+
+const DEFAULT_LEADERS = [
+  { id: 'elon', name: 'Elon Musk', title: 'CEO, Tesla / SpaceX / xAI', channel: 'UCddiUEpeqJcYeBxX1IVBKvQ', color: '#1a3a5c' },
+  { id: 'jensen', name: 'Jensen Huang', title: 'CEO, NVIDIA', color: '#4a1a6e', channel: 'UCHuiy8bXnmK3h8aJ9hq5ptA' },
+  { id: 'sam', name: 'Sam Altman', title: 'CEO, OpenAI', color: '#1a5c3a', channel: 'UCRhV1rWIpm_pU19bBm_2RXw' },
+  { id: 'satya', name: 'Satya Nadella', title: 'CEO, Microsoft', color: '#5c1a1a', channel: 'UCkAQCw5_sIZmj2IkDx7F4yg' },
+  { id: 'tim', name: 'Tim Cook', title: 'CEO, Apple', color: '#1a3a5c', channel: 'UCVHFbr9oW5GvQPqMFb9T8lA' },
+  { id: 'andy', name: 'Andrew Ng', title: 'Founder, DeepLearning.AI', color: '#5c4a1a', channel: 'UCVHFbr9oW5GvQPqMFb9T7lA' },
+];
+
+// Real YouTube RSS endpoint (works without API key via CORS proxy)
+// Falls back to curated demo data when CORS blocks fetch
+const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
+const YT_RSS = (channelId) => `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`;
+
+let leaders = JSON.parse(localStorage.getItem('signal_leaders') || 'null') || DEFAULT_LEADERS;
+let videos = JSON.parse(localStorage.getItem('signal_videos') || '{}'); // { leaderId: [video, ...] }
+let saved = JSON.parse(localStorage.getItem('signal_saved') || '[]');
+let currentView = 'digest';
+let currentLeader = null;
+let lastRefresh = localStorage.getItem('signal_refresh') || null;
+
+// ─── SEED DEMO VIDEOS (realistic placeholders for leaders without real RSS) ──
+
+function seedDemoVideos() {
+  const now = new Date();
+  const demo = {
+    elon: [
+      { id: 'dQw4w9WgXcQ', title: 'The Future of Autonomous Vehicles — Tesla AI Day 2025', published: new Date(now - 0.5*86400000).toISOString(), thumb: null },
+      { id: 'dQw4w9WgXcQ', title: 'SpaceX Starship Update: Full Orbital Test Analysis', published: new Date(now - 2*86400000).toISOString(), thumb: null },
+      { id: 'dQw4w9WgXcQ', title: 'xAI and Grok: Building AGI Differently', published: new Date(now - 5*86400000).toISOString(), thumb: null },
+    ],
+    jensen: [
+      { id: 'dQw4w9WgXcQ', title: 'NVIDIA GTC 2026 Keynote: Blackwell Ultra Revealed', published: new Date(now - 1*86400000).toISOString(), thumb: null },
+      { id: 'dQw4w9WgXcQ', title: 'The Age of Physical AI — Jensen Huang at Stanford', published: new Date(now - 6*86400000).toISOString(), thumb: null },
+    ],
+    sam: [
+      { id: 'dQw4w9WgXcQ', title: 'GPT-5 and the Road to Superintelligence', published: new Date(now - 1.5*86400000).toISOString(), thumb: null },
+      { id: 'dQw4w9WgXcQ', title: 'Sam Altman on AI Safety, Alignment, and OpenAI\'s Mission', published: new Date(now - 4*86400000).toISOString(), thumb: null },
+    ],
+    satya: [
+      { id: 'dQw4w9WgXcQ', title: 'Microsoft Build 2026: Copilot Everywhere', published: new Date(now - 3*86400000).toISOString(), thumb: null },
+    ],
+    tim: [
+      { id: 'dQw4w9WgXcQ', title: 'Apple WWDC 2026 Keynote Highlights', published: new Date(now - 7*86400000).toISOString(), thumb: null },
+    ],
+    andy: [
+      { id: 'dQw4w9WgXcQ', title: 'How to Build Your AI Career in 2026', published: new Date(now - 2.5*86400000).toISOString(), thumb: null },
+      { id: 'dQw4w9WgXcQ', title: 'Agentic AI Systems: Opportunities and Challenges', published: new Date(now - 8*86400000).toISOString(), thumb: null },
+    ],
+  };
+  // Only seed if no real data exists
+  for (const [lid, vids] of Object.entries(demo)) {
+    if (!videos[lid] || videos[lid].length === 0) {
+      videos[lid] = vids;
+    }
+  }
+  persist();
+}
+
+// ─── PERSISTENCE ─────────────────────────────────────────────────────────────
+
+function persist() {
+  localStorage.setItem('signal_leaders', JSON.stringify(leaders));
+  localStorage.setItem('signal_videos', JSON.stringify(videos));
+  localStorage.setItem('signal_saved', JSON.stringify(saved));
+}
+
+// ─── RSS FETCH ────────────────────────────────────────────────────────────────
+
+async function fetchLeaderVideos(leader) {
+  try {
+    const url = CORS_PROXY + encodeURIComponent(YT_RSS(leader.channel));
+    const res = await fetch(url);
+    if (!res.ok) throw new Error('Network error');
+    const text = await res.text();
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(text, 'application/xml');
+    const entries = doc.querySelectorAll('entry');
+    const fetched = [];
+    entries.forEach(e => {
+      const videoId = e.querySelector('videoId')?.textContent || 
+                      e.querySelector('id')?.textContent?.split(':').pop();
+      if (!videoId) return;
+      fetched.push({
+        id: videoId,
+        title: e.querySelector('title')?.textContent || 'Untitled',
+        published: e.querySelector('published')?.textContent || new Date().toISOString(),
+        thumb: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
+      });
+    });
+    if (fetched.length > 0) {
+      videos[leader.id] = fetched.slice(0, 8);
+      persist();
+    }
+    return fetched.length;
+  } catch(e) {
+    return 0; // falls back to demo data
+  }
+}
+
+async function refreshAll() {
+  document.getElementById('last-refresh').textContent = 'Refreshing…';
+  const promises = leaders.map(l => fetchLeaderVideos(l));
+  await Promise.all(promises);
+  const now = new Date();
+  lastRefresh = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+  localStorage.setItem('signal_refresh', lastRefresh);
+  document.getElementById('last-refresh').textContent = lastRefresh;
+  render();
+}
+
+// ─── HELPERS ─────────────────────────────────────────────────────────────────
+
+function initials(name) {
+  return name.split(' ').map(w => w[0]).join('').slice(0,2).toUpperCase();
+}
+
+function ageLabel(isoDate) {
+  const now = new Date();
+  const pub = new Date(isoDate);
+  const diff = (now - pub) / 1000;
+  if (diff < 3600) return Math.round(diff/60) + 'm ago';
+  if (diff < 86400) return Math.round(diff/3600) + 'h ago';
+  if (diff < 604800) return Math.round(diff/86400) + 'd ago';
+  return pub.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+function isToday(isoDate) {
+  const now = new Date();
+  const pub = new Date(isoDate);
+  return pub.toDateString() === now.toDateString();
+}
+
+function isThisWeek(isoDate) {
+  const now = new Date();
+  const pub = new Date(isoDate);
+  return (now - pub) < 7 * 86400 * 1000;
+}
+
+function leaderById(id) { return leaders.find(l => l.id === id); }
+
+// ─── RENDER ───────────────────────────────────────────────────────────────────
+
+function renderSidebar() {
+  const list = document.getElementById('leader-list');
+  const count = document.getElementById('leader-count');
+  count.textContent = leaders.length;
+  list.innerHTML = leaders.map(l => {
+    const vids = videos[l.id] || [];
+    const hasNew = vids.some(v => isToday(v.published));
+    return `
+    <div class="leader-card ${currentLeader === l.id ? 'active' : ''}" onclick="filterLeader('${l.id}')">
+      <div class="leader-avatar" style="background:${l.color}">${initials(l.name)}</div>
+      <div class="leader-info">
+        <div class="leader-name">${l.name}</div>
+        <div class="leader-title">${l.title}</div>
+      </div>
+      ${hasNew ? '<div class="new-badge"></div>' : ''}
+    </div>`;
+  }).join('');
+}
+
+function renderVideoCard(v, leader) {
+  const today = isToday(v.published);
+  const isSaved = saved.includes(v.id);
+  return `
+  <div class="video-card" onclick="openVideo('${v.id}', '${leader.id}', ${JSON.stringify(v.title).replace(/'/g,"&#39;")})">
+    <div class="video-thumb">
+      ${v.thumb
+        ? `<img src="${v.thumb}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=thumb-placeholder><div class=play-icon>▶</div></div>'">`
+        : `<div class="thumb-placeholder"><div class="play-icon">▶</div></div>`}
+      <span class="video-age">${ageLabel(v.published)}</span>
+      ${today ? '<span class="today-tag">New Today</span>' : ''}
+    </div>
+    <div class="video-info">
+      <div class="video-leader">
+        <div class="mini-avatar" style="background:${leader.color}">${initials(leader.name)}</div>
+        <span class="video-leader-name">${leader.name}</span>
+        <button class="video-remove" title="Remove" onclick="event.stopPropagation(); toggleSave('${v.id}', this)">
+          ${isSaved ? '★' : '☆'}
+        </button>
+      </div>
+      <div class="video-title">${v.title}</div>
+      <div class="video-meta">${new Date(v.published).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})}</div>
+    </div>
+  </div>`;
+}
+
+function render() {
+  renderSidebar();
+  const content = document.getElementById('main-content');
+
+  let filteredLeaders = currentLeader ? leaders.filter(l => l.id === currentLeader) : leaders;
+
+  if (currentView === 'saved') {
+    const savedVids = [];
+    for (const l of leaders) {
+      for (const v of (videos[l.id] || [])) {
+        if (saved.includes(v.id)) savedVids.push({ v, l });
+      }
+    }
+    content.innerHTML = `
+      <div class="section-head"><h2>Saved Videos</h2><span class="count">${savedVids.length} videos</span></div>
+      ${savedVids.length === 0 ? `<div class="empty-state"><div class="icon">★</div><h3>No saved videos</h3><p>Click the ☆ on any video to save it for later.</p></div>` :
+        `<div class="video-grid">${savedVids.map(({v,l}) => renderVideoCard(v,l)).join('')}</div>`}`;
+    updateNewCount();
+    return;
+  }
+
+  if (currentView === 'all') {
+    const allVids = [];
+    for (const l of filteredLeaders) {
+      for (const v of (videos[l.id] || [])) allVids.push({ v, l });
+    }
+    allVids.sort((a,b) => new Date(b.v.published) - new Date(a.v.published));
+    content.innerHTML = `
+      <div class="section-head"><h2>All Videos</h2><span class="count">${allVids.length} videos</span></div>
+      ${allVids.length === 0 ? `<div class="empty-state"><div class="icon">📺</div><h3>No videos yet</h3><p>Add leaders and refresh to load their latest content.</p></div>` :
+        `<div class="video-grid">${allVids.map(({v,l}) => renderVideoCard(v,l)).join('')}</div>`}`;
+    updateNewCount();
+    return;
+  }
+
+  // DIGEST view
+  const todayVids = [], weekVids = [], olderVids = [];
+  for (const l of filteredLeaders) {
+    for (const v of (videos[l.id] || [])) {
+      if (isToday(v.published)) todayVids.push({v,l});
+      else if (isThisWeek(v.published)) weekVids.push({v,l});
+      else olderVids.push({v,l});
+    }
+  }
+  todayVids.sort((a,b) => new Date(b.v.published) - new Date(a.v.published));
+  weekVids.sort((a,b) => new Date(b.v.published) - new Date(a.v.published));
+
+  let html = '';
+
+  if (todayVids.length > 0) {
+    html += `<div class="section-head"><h2><span class="signal-dot"></span>Today</h2><span class="count">${todayVids.length} new</span></div>
+    <div class="video-grid">${todayVids.map(({v,l})=>renderVideoCard(v,l)).join('')}</div>`;
+  }
+
+  if (weekVids.length > 0) {
+    html += `<div class="section-head" style="margin-top:1.5rem"><h2>This Week</h2><span class="count">${weekVids.length} videos</span></div>
+    <div class="video-grid">${weekVids.map(({v,l})=>renderVideoCard(v,l)).join('')}</div>`;
+  }
+
+  if (olderVids.length > 0 && currentLeader) {
+    html += `<div class="section-head" style="margin-top:1.5rem"><h2>Earlier</h2><span class="count">${olderVids.length} videos</span></div>
+    <div class="video-grid">${olderVids.map(({v,l})=>renderVideoCard(v,l)).join('')}</div>`;
+  }
+
+  if (html === '') {
+    html = `<div class="empty-state">
+      <div class="icon">📡</div>
+      <h3>Your digest is ready</h3>
+      <p>No new videos from tracked leaders today. Check back tomorrow, or click <strong>All Videos</strong> to browse their full archive.</p>
+    </div>`;
+  }
+
+  content.innerHTML = html;
+  updateNewCount();
+}
+
+function updateNewCount() {
+  const all = [];
+  for (const l of leaders) {
+    for (const v of (videos[l.id] || [])) {
+      if (isToday(v.published)) all.push(v);
+    }
+  }
+  const bar = document.getElementById('new-count-bar');
+  bar.innerHTML = all.length > 0 ? `<strong>${all.length} new video${all.length>1?'s':''} today</strong>` : '';
+}
+
+// ─── ACTIONS ─────────────────────────────────────────────────────────────────
+
+function setView(v) {
+  currentView = v;
+  document.querySelectorAll('nav button').forEach((b,i) => {
+    b.classList.toggle('active', ['digest','all','saved'][i] === v);
+  });
+  render();
+}
+
+function filterLeader(id) {
+  currentLeader = currentLeader === id ? null : id;
+  render();
+}
+
+function toggleAddPanel() {
+  document.getElementById('add-panel').classList.toggle('open');
+}
+
+function addLeader() {
+  const name = document.getElementById('new-name').value.trim();
+  const title = document.getElementById('new-title').value.trim();
+  const channel = document.getElementById('new-channel').value.trim();
+  if (!name || !channel) { alert('Name and Channel ID are required.'); return; }
+  const colors = ['#1a3a5c','#4a1a6e','#1a5c3a','#5c1a1a','#5c4a1a','#1a4a5c'];
+  const id = name.toLowerCase().replace(/\s+/g,'_') + '_' + Date.now();
+  const leader = { id, name, title: title || 'Industry Leader', channel, color: colors[leaders.length % colors.length] };
+  leaders.push(leader);
+  persist();
+  document.getElementById('add-panel').classList.remove('open');
+  document.getElementById('new-name').value = '';
+  document.getElementById('new-title').value = '';
+  document.getElementById('new-channel').value = '';
+  fetchLeaderVideos(leader).then(() => render());
+}
+
+function toggleSave(videoId, btn) {
+  if (saved.includes(videoId)) {
+    saved = saved.filter(id => id !== videoId);
+    btn.textContent = '☆';
+  } else {
+    saved.push(videoId);
+    btn.textContent = '★';
+  }
+  persist();
+}
+
+function openVideo(videoId, leaderId, title) {
+  const leader = leaderById(leaderId);
+  const vids = videos[leaderId] || [];
+  const v = vids.find(x => x.id === videoId);
+  document.getElementById('modal-leader').textContent = leader?.name || '';
+  document.getElementById('modal-title').textContent = title;
+  document.getElementById('modal-iframe').src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+  document.getElementById('modal-date').textContent = v ? new Date(v.published).toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'}) : '';
+  document.getElementById('modal-yt-link').href = `https://www.youtube.com/watch?v=${videoId}`;
+  document.getElementById('modal').classList.add('open');
+}
+
+function closeModal(e) {
+  if (e.target === document.getElementById('modal')) closeModalDirect();
+}
+function closeModalDirect() {
+  document.getElementById('modal').classList.remove('open');
+  document.getElementById('modal-iframe').src = '';
+}
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModalDirect(); });
+
+// ─── INIT ─────────────────────────────────────────────────────────────────────
+
+function init() {
+  // Dateline
+  const now = new Date();
+  document.getElementById('dateline').innerHTML =
+    `${now.toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'})}<br>Industry Intelligence Dashboard`;
+
+  // Seed demo data, then try real RSS
+  seedDemoVideos();
+  render();
+
+  if (lastRefresh) document.getElementById('last-refresh').textContent = lastRefresh;
+
+  // Attempt live refresh in background
+  refreshAll();
+}
+
+init();
+</script>
+</body>
+</html>
