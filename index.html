@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Signal — Industry Leader Videos</title>
+<title>Signal — Industry Leader Video Digest</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
 
@@ -143,6 +143,12 @@
     overflow: hidden;
     text-overflow: ellipsis;
   }
+  .leader-meta {
+    font-family: var(--mono);
+    font-size: 0.62rem;
+    color: var(--muted);
+    flex-shrink: 0;
+  }
   .new-badge {
     width: 8px; height: 8px;
     border-radius: 50%;
@@ -171,69 +177,47 @@
   /* MAIN CONTENT */
   main { padding: 1.5rem 2rem; }
 
-  /* ADD LEADER PANEL */
+  /* INFO / ADD PANEL */
   .add-panel {
     background: var(--card);
     border: 1px solid var(--rule);
     border-radius: 8px;
-    padding: 1.25rem;
+    padding: 1.25rem 1.5rem;
     margin-bottom: 1.5rem;
     display: none;
   }
   .add-panel.open { display: block; }
   .add-panel h3 {
     font-family: 'DM Serif Display', serif;
-    font-size: 1.1rem;
+    font-size: 1.15rem;
     margin-bottom: 0.75rem;
   }
   .add-panel p {
-    font-size: 0.8rem;
-    color: var(--muted);
-    margin-bottom: 1rem;
-    line-height: 1.5;
-  }
-  .add-form {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr auto;
-    gap: 0.5rem;
-    align-items: end;
-  }
-  .add-form label {
-    font-size: 0.72rem;
-    font-weight: 500;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: var(--muted);
-    display: block;
-    margin-bottom: 0.3rem;
-  }
-  .add-form input {
-    width: 100%;
-    padding: 0.5rem 0.75rem;
-    border: 1px solid var(--rule);
-    border-radius: 5px;
-    font-family: 'Inter', sans-serif;
-    font-size: 0.82rem;
-    background: var(--paper);
+    font-size: 0.84rem;
     color: var(--ink);
-    outline: none;
-    transition: border-color 0.15s;
+    margin-bottom: 0.75rem;
+    line-height: 1.6;
   }
-  .add-form input:focus { border-color: var(--accent); }
-  .btn-primary {
-    padding: 0.55rem 1.25rem;
+  .add-panel code {
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 0.1rem 0.35rem;
+  }
+  .add-panel pre {
+    font-family: var(--mono);
+    font-size: 0.74rem;
     background: var(--ink);
-    color: white;
-    border: none;
-    border-radius: 5px;
-    font-family: 'Inter', sans-serif;
-    font-size: 0.82rem;
-    font-weight: 500;
-    cursor: pointer;
-    transition: background 0.15s;
-    white-space: nowrap;
+    color: #e8e8e8;
+    border-radius: 6px;
+    padding: 0.85rem 1rem;
+    overflow-x: auto;
+    line-height: 1.5;
+    margin: 0.5rem 0 0.75rem;
   }
-  .btn-primary:hover { background: var(--accent); }
+  .add-panel a { color: var(--accent); }
 
   /* SECTION HEADERS */
   .section-head {
@@ -265,6 +249,24 @@
     0%, 100% { opacity: 1; }
     50% { opacity: 0.4; }
   }
+
+  /* FILTER CHIPS */
+  .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.25rem; }
+  .chip {
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 0.3rem 0.7rem;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    background: var(--card);
+    color: var(--muted);
+    cursor: pointer;
+    transition: all 0.12s;
+  }
+  .chip:hover { border-color: var(--accent); color: var(--accent); }
+  .chip.active { background: var(--ink); color: white; border-color: var(--ink); }
 
   /* VIDEO GRID */
   .video-grid {
@@ -325,10 +327,10 @@
     padding: 0.2rem 0.5rem;
     border-radius: 3px;
   }
-  .today-tag {
+  .type-tag {
     position: absolute;
     top: 0.5rem; left: 0.5rem;
-    background: var(--signal);
+    background: var(--accent);
     color: white;
     font-family: var(--mono);
     font-size: 0.62rem;
@@ -337,6 +339,7 @@
     padding: 0.2rem 0.5rem;
     border-radius: 3px;
   }
+  .type-tag.today { background: var(--signal); }
   .video-info { padding: 0.85rem 1rem 1rem; }
   .video-leader {
     display: flex;
@@ -354,6 +357,7 @@
     font-family: 'DM Serif Display', serif;
     font-size: 0.55rem;
     color: white;
+    flex-shrink: 0;
   }
   .video-leader-name {
     font-size: 0.7rem;
@@ -376,19 +380,19 @@
     font-size: 0.7rem;
     color: var(--muted);
     font-family: var(--mono);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
-  .video-remove {
-    float: right;
+  .video-save {
     background: none;
     border: none;
     color: var(--muted);
     cursor: pointer;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     padding: 0;
-    opacity: 0;
-    transition: opacity 0.15s;
+    margin-left: auto;
   }
-  .video-card:hover .video-remove { opacity: 1; }
 
   /* PLAYER MODAL */
   .modal-overlay {
@@ -396,7 +400,6 @@
     inset: 0;
     background: rgba(0,0,0,0.75);
     z-index: 100;
-    display: flex;
     align-items: center;
     justify-content: center;
     padding: 2rem;
@@ -458,7 +461,7 @@
   }
   .modal-yt-link:hover { text-decoration: underline; }
 
-  /* EMPTY STATE */
+  /* EMPTY / LOADING STATE */
   .empty-state {
     text-align: center;
     padding: 4rem 2rem;
@@ -466,23 +469,14 @@
   }
   .empty-state .icon { font-size: 2.5rem; margin-bottom: 1rem; }
   .empty-state h3 { font-family: 'DM Serif Display', serif; font-size: 1.3rem; color: var(--ink); margin-bottom: 0.5rem; }
-  .empty-state p { font-size: 0.85rem; line-height: 1.6; }
-
-  /* LOADING */
-  .loading-row {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    padding: 1rem;
-    color: var(--muted);
-    font-size: 0.82rem;
-  }
+  .empty-state p { font-size: 0.85rem; line-height: 1.6; max-width: 460px; margin: 0 auto; }
   .spinner {
-    width: 16px; height: 16px;
-    border: 2px solid var(--rule);
+    width: 28px; height: 28px;
+    border: 3px solid var(--rule);
     border-top-color: var(--accent);
     border-radius: 50%;
     animation: spin 0.7s linear infinite;
+    margin: 0 auto 1rem;
   }
   @keyframes spin { to { transform: rotate(360deg); } }
 
@@ -496,6 +490,7 @@
     display: flex;
     align-items: center;
     gap: 1.5rem;
+    flex-wrap: wrap;
   }
   .status-bar span { opacity: 0.7; }
   .status-bar strong { opacity: 1; }
@@ -503,9 +498,9 @@
   @media (max-width: 700px) {
     .layout { grid-template-columns: 1fr; }
     aside { display: none; }
-    .add-form { grid-template-columns: 1fr; }
     main { padding: 1rem; }
     header { padding: 0 1rem; }
+    .status-bar { padding: 0.4rem 1rem; gap: 1rem; }
   }
 </style>
 </head>
@@ -517,15 +512,15 @@
     <div class="dateline" id="dateline"></div>
   </div>
   <nav>
-    <button class="active" onclick="setView('digest')">Daily Digest</button>
-    <button onclick="setView('all')">All Videos</button>
-    <button onclick="setView('saved')">Saved</button>
+    <button class="active" data-view="digest" onclick="setView('digest')">Daily Digest</button>
+    <button data-view="all" onclick="setView('all')">All Videos</button>
+    <button data-view="saved" onclick="setView('saved')">Saved</button>
   </nav>
 </header>
 
 <div class="status-bar">
   <span>Tracking <strong id="leader-count">0</strong> leaders</span>
-  <span>Last refreshed: <strong id="last-refresh">—</strong></span>
+  <span>Digest generated: <strong id="last-refresh">—</strong></span>
   <span id="new-count-bar"></span>
 </div>
 
@@ -533,31 +528,27 @@
   <aside>
     <div class="sidebar-label">Tracked Leaders</div>
     <div id="leader-list"></div>
-    <button class="add-leader-btn" onclick="toggleAddPanel()">＋ Add leader</button>
+    <button class="add-leader-btn" onclick="toggleAddPanel()">＋ Track a new leader</button>
   </aside>
 
   <main>
     <div class="add-panel" id="add-panel">
-      <h3>Track a New Leader</h3>
-      <p>Enter their name, their role, and their YouTube channel ID (found in the channel URL: youtube.com/channel/<strong>UCxxxxxx</strong>). You can also search for channels on <a href="https://www.youtube.com" target="_blank" style="color:var(--accent)">YouTube</a> and copy the ID from the URL.</p>
-      <div class="add-form">
-        <div>
-          <label>Full Name</label>
-          <input id="new-name" type="text" placeholder="Jensen Huang">
-        </div>
-        <div>
-          <label>Title / Company</label>
-          <input id="new-title" type="text" placeholder="CEO, NVIDIA">
-        </div>
-        <div>
-          <label>YouTube Channel ID</label>
-          <input id="new-channel" type="text" placeholder="UCxxxxxxxxxxxxxx">
-        </div>
-        <button class="btn-primary" onclick="addLeader()">Track</button>
-      </div>
+      <h3>Track a new leader</h3>
+      <p>Signal builds its digest in a scheduled <strong>GitHub Action</strong> (no API key needed), so leaders are configured in the repo rather than the browser. To add one, edit <code>config/leaders.json</code> and add an entry with the YouTube channel <strong>@handle</strong>(s) they post on:</p>
+      <pre>{
+  "id": "lisa-su",
+  "name": "Lisa Su",
+  "title": "CEO — AMD",
+  "color": "#6e1a3a",
+  "aliases": ["Lisa Su"],
+  "channels": ["@AMD"]
+}</pre>
+      <p>Commit the change — the daily workflow (or a manual <em>Run workflow</em> from the Actions tab) regenerates <code>data/digest.json</code> and this page updates automatically. See the <a href="https://github.com/ryanmcguigan46/industry-leader-video-feed#readme" target="_blank">README</a> for the full setup.</p>
     </div>
 
-    <div id="main-content"></div>
+    <div id="main-content">
+      <div class="empty-state"><div class="spinner"></div><p>Loading digest…</p></div>
+    </div>
   </main>
 </div>
 
@@ -581,370 +572,212 @@
 </div>
 
 <script>
-// ─── DATA ───────────────────────────────────────────────────────────────────
+// ─── STATE ──────────────────────────────────────────────────────────────────
 
-const DEFAULT_LEADERS = [
-  { id: 'elon', name: 'Elon Musk', title: 'CEO, Tesla / SpaceX / xAI', channel: 'UCddiUEpeqJcYeBxX1IVBKvQ', color: '#1a3a5c' },
-  { id: 'jensen', name: 'Jensen Huang', title: 'CEO, NVIDIA', color: '#4a1a6e', channel: 'UCHuiy8bXnmK3h8aJ9hq5ptA' },
-  { id: 'sam', name: 'Sam Altman', title: 'CEO, OpenAI', color: '#1a5c3a', channel: 'UCRhV1rWIpm_pU19bBm_2RXw' },
-  { id: 'satya', name: 'Satya Nadella', title: 'CEO, Microsoft', color: '#5c1a1a', channel: 'UCkAQCw5_sIZmj2IkDx7F4yg' },
-  { id: 'tim', name: 'Tim Cook', title: 'CEO, Apple', color: '#1a3a5c', channel: 'UCVHFbr9oW5GvQPqMFb9T8lA' },
-  { id: 'andy', name: 'Andrew Ng', title: 'Founder, DeepLearning.AI', color: '#5c4a1a', channel: 'UCVHFbr9oW5GvQPqMFb9T7lA' },
-];
-
-// Real YouTube RSS endpoint (works without API key via CORS proxy)
-// Falls back to curated demo data when CORS blocks fetch
-const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
-const YT_RSS = (channelId) => `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`;
-
-let leaders = JSON.parse(localStorage.getItem('signal_leaders') || 'null') || DEFAULT_LEADERS;
-let videos = JSON.parse(localStorage.getItem('signal_videos') || '{}'); // { leaderId: [video, ...] }
+let digest = { leaders: [], videos: [], generatedAt: null };
+let leaders = [];
+let videos = [];
 let saved = JSON.parse(localStorage.getItem('signal_saved') || '[]');
 let currentView = 'digest';
-let currentLeader = null;
-let lastRefresh = localStorage.getItem('signal_refresh') || null;
+let currentLeader = null;   // leader id filter
+let currentType = null;     // type filter (All Videos view)
 
-// ─── SEED DEMO VIDEOS (realistic placeholders for leaders without real RSS) ──
+// ─── DATA LOADING ───────────────────────────────────────────────────────────
 
-function seedDemoVideos() {
-  const now = new Date();
-  const demo = {
-    elon: [
-      { id: 'dQw4w9WgXcQ', title: 'The Future of Autonomous Vehicles — Tesla AI Day 2025', published: new Date(now - 0.5*86400000).toISOString(), thumb: null },
-      { id: 'dQw4w9WgXcQ', title: 'SpaceX Starship Update: Full Orbital Test Analysis', published: new Date(now - 2*86400000).toISOString(), thumb: null },
-      { id: 'dQw4w9WgXcQ', title: 'xAI and Grok: Building AGI Differently', published: new Date(now - 5*86400000).toISOString(), thumb: null },
-    ],
-    jensen: [
-      { id: 'dQw4w9WgXcQ', title: 'NVIDIA GTC 2026 Keynote: Blackwell Ultra Revealed', published: new Date(now - 1*86400000).toISOString(), thumb: null },
-      { id: 'dQw4w9WgXcQ', title: 'The Age of Physical AI — Jensen Huang at Stanford', published: new Date(now - 6*86400000).toISOString(), thumb: null },
-    ],
-    sam: [
-      { id: 'dQw4w9WgXcQ', title: 'GPT-5 and the Road to Superintelligence', published: new Date(now - 1.5*86400000).toISOString(), thumb: null },
-      { id: 'dQw4w9WgXcQ', title: 'Sam Altman on AI Safety, Alignment, and OpenAI\'s Mission', published: new Date(now - 4*86400000).toISOString(), thumb: null },
-    ],
-    satya: [
-      { id: 'dQw4w9WgXcQ', title: 'Microsoft Build 2026: Copilot Everywhere', published: new Date(now - 3*86400000).toISOString(), thumb: null },
-    ],
-    tim: [
-      { id: 'dQw4w9WgXcQ', title: 'Apple WWDC 2026 Keynote Highlights', published: new Date(now - 7*86400000).toISOString(), thumb: null },
-    ],
-    andy: [
-      { id: 'dQw4w9WgXcQ', title: 'How to Build Your AI Career in 2026', published: new Date(now - 2.5*86400000).toISOString(), thumb: null },
-      { id: 'dQw4w9WgXcQ', title: 'Agentic AI Systems: Opportunities and Challenges', published: new Date(now - 8*86400000).toISOString(), thumb: null },
-    ],
-  };
-  // Only seed if no real data exists
-  for (const [lid, vids] of Object.entries(demo)) {
-    if (!videos[lid] || videos[lid].length === 0) {
-      videos[lid] = vids;
-    }
-  }
-  persist();
-}
-
-// ─── PERSISTENCE ─────────────────────────────────────────────────────────────
-
-function persist() {
-  localStorage.setItem('signal_leaders', JSON.stringify(leaders));
-  localStorage.setItem('signal_videos', JSON.stringify(videos));
-  localStorage.setItem('signal_saved', JSON.stringify(saved));
-}
-
-// ─── RSS FETCH ────────────────────────────────────────────────────────────────
-
-async function fetchLeaderVideos(leader) {
+async function loadDigest() {
   try {
-    const url = CORS_PROXY + encodeURIComponent(YT_RSS(leader.channel));
-    const res = await fetch(url);
-    if (!res.ok) throw new Error('Network error');
-    const text = await res.text();
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(text, 'application/xml');
-    const entries = doc.querySelectorAll('entry');
-    const fetched = [];
-    entries.forEach(e => {
-      const videoId = e.querySelector('videoId')?.textContent || 
-                      e.querySelector('id')?.textContent?.split(':').pop();
-      if (!videoId) return;
-      fetched.push({
-        id: videoId,
-        title: e.querySelector('title')?.textContent || 'Untitled',
-        published: e.querySelector('published')?.textContent || new Date().toISOString(),
-        thumb: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
-      });
-    });
-    if (fetched.length > 0) {
-      videos[leader.id] = fetched.slice(0, 8);
-      persist();
-    }
-    return fetched.length;
-  } catch(e) {
-    return 0; // falls back to demo data
+    const res = await fetch('data/digest.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    digest = await res.json();
+  } catch (e) {
+    digest = { leaders: [], videos: [], generatedAt: null, error: e.message };
   }
-}
-
-async function refreshAll() {
-  document.getElementById('last-refresh').textContent = 'Refreshing…';
-  const promises = leaders.map(l => fetchLeaderVideos(l));
-  await Promise.all(promises);
-  const now = new Date();
-  lastRefresh = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
-  localStorage.setItem('signal_refresh', lastRefresh);
-  document.getElementById('last-refresh').textContent = lastRefresh;
+  leaders = digest.leaders || [];
+  videos = digest.videos || [];
+  document.getElementById('leader-count').textContent = leaders.length;
+  document.getElementById('last-refresh').textContent = digest.generatedAt
+    ? new Date(digest.generatedAt).toLocaleString([], { dateStyle: 'medium', timeStyle: 'short' })
+    : 'pending first run';
   render();
 }
 
-// ─── HELPERS ─────────────────────────────────────────────────────────────────
+// ─── HELPERS ────────────────────────────────────────────────────────────────
 
 function initials(name) {
-  return name.split(' ').map(w => w[0]).join('').slice(0,2).toUpperCase();
+  return name.split(/\s+/).map(w => w[0]).join('').slice(0, 2).toUpperCase();
 }
-
-function ageLabel(isoDate) {
-  const now = new Date();
-  const pub = new Date(isoDate);
-  const diff = (now - pub) / 1000;
-  if (diff < 3600) return Math.round(diff/60) + 'm ago';
-  if (diff < 86400) return Math.round(diff/3600) + 'h ago';
-  if (diff < 604800) return Math.round(diff/86400) + 'd ago';
-  return pub.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+function ageLabel(iso) {
+  const diff = (Date.now() - new Date(iso)) / 1000;
+  if (diff < 3600) return Math.max(1, Math.round(diff / 60)) + 'm ago';
+  if (diff < 86400) return Math.round(diff / 3600) + 'h ago';
+  if (diff < 604800) return Math.round(diff / 86400) + 'd ago';
+  return new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
 }
-
-function isToday(isoDate) {
-  const now = new Date();
-  const pub = new Date(isoDate);
-  return pub.toDateString() === now.toDateString();
-}
-
-function isThisWeek(isoDate) {
-  const now = new Date();
-  const pub = new Date(isoDate);
-  return (now - pub) < 7 * 86400 * 1000;
-}
-
+function isToday(iso) { return new Date(iso).toDateString() === new Date().toDateString(); }
+function isThisWeek(iso) { return (Date.now() - new Date(iso)) < 7 * 86400 * 1000; }
 function leaderById(id) { return leaders.find(l => l.id === id); }
+function leaderColor(id) { return leaderById(id)?.color || '#1a3a5c'; }
+function esc(s) { return String(s).replace(/[&<>"']/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c])); }
 
-// ─── RENDER ───────────────────────────────────────────────────────────────────
+// ─── RENDER ─────────────────────────────────────────────────────────────────
 
 function renderSidebar() {
   const list = document.getElementById('leader-list');
-  const count = document.getElementById('leader-count');
-  count.textContent = leaders.length;
   list.innerHTML = leaders.map(l => {
-    const vids = videos[l.id] || [];
+    const vids = videos.filter(v => v.leaderId === l.id);
     const hasNew = vids.some(v => isToday(v.published));
     return `
     <div class="leader-card ${currentLeader === l.id ? 'active' : ''}" onclick="filterLeader('${l.id}')">
       <div class="leader-avatar" style="background:${l.color}">${initials(l.name)}</div>
       <div class="leader-info">
-        <div class="leader-name">${l.name}</div>
-        <div class="leader-title">${l.title}</div>
+        <div class="leader-name">${esc(l.name)}</div>
+        <div class="leader-title">${esc(l.title)}</div>
       </div>
-      ${hasNew ? '<div class="new-badge"></div>' : ''}
+      ${hasNew ? '<div class="new-badge"></div>' : `<div class="leader-meta">${vids.length}</div>`}
     </div>`;
-  }).join('');
+  }).join('') || '<div class="leader-meta">No leaders configured.</div>';
 }
 
-function renderVideoCard(v, leader) {
+function videoCard(v) {
+  const leader = leaderById(v.leaderId) || { name: v.leaderName, color: '#1a3a5c' };
   const today = isToday(v.published);
-  const isSaved = saved.includes(v.id);
+  const isSaved = saved.includes(v.videoId);
   return `
-  <div class="video-card" onclick="openVideo('${v.id}', '${leader.id}', ${JSON.stringify(v.title).replace(/'/g,"&#39;")})">
+  <div class="video-card" onclick='openVideo(${JSON.stringify(v.videoId)})'>
     <div class="video-thumb">
-      ${v.thumb
-        ? `<img src="${v.thumb}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=thumb-placeholder><div class=play-icon>▶</div></div>'">`
-        : `<div class="thumb-placeholder"><div class="play-icon">▶</div></div>`}
+      <img src="${v.thumb}" alt="" loading="lazy"
+           onerror="this.parentElement.querySelector('.thumb-placeholder')?.removeAttribute('hidden'); this.remove();">
+      <div class="thumb-placeholder" hidden><div class="play-icon">▶</div></div>
       <span class="video-age">${ageLabel(v.published)}</span>
-      ${today ? '<span class="today-tag">New Today</span>' : ''}
+      <span class="type-tag ${today ? 'today' : ''}">${today ? 'New Today' : esc(v.type || 'Video')}</span>
     </div>
     <div class="video-info">
       <div class="video-leader">
         <div class="mini-avatar" style="background:${leader.color}">${initials(leader.name)}</div>
-        <span class="video-leader-name">${leader.name}</span>
-        <button class="video-remove" title="Remove" onclick="event.stopPropagation(); toggleSave('${v.id}', this)">
-          ${isSaved ? '★' : '☆'}
-        </button>
+        <span class="video-leader-name">${esc(leader.name)}</span>
       </div>
-      <div class="video-title">${v.title}</div>
-      <div class="video-meta">${new Date(v.published).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})}</div>
+      <div class="video-title">${esc(v.title)}</div>
+      <div class="video-meta">
+        <span>${esc(v.source || 'YouTube')} · ${new Date(v.published).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})}</span>
+        <button class="video-save" title="Save" onclick="event.stopPropagation(); toggleSave('${v.videoId}', this)">${isSaved ? '★' : '☆'}</button>
+      </div>
     </div>
   </div>`;
 }
 
+function grid(list) { return `<div class="video-grid">${list.map(videoCard).join('')}</div>`; }
+
 function render() {
   renderSidebar();
+  updateNewCount();
   const content = document.getElementById('main-content');
 
-  let filteredLeaders = currentLeader ? leaders.filter(l => l.id === currentLeader) : leaders;
+  if (!digest.generatedAt && videos.length === 0) {
+    content.innerHTML = `<div class="empty-state">
+      <div class="icon">📡</div>
+      <h3>Awaiting the first scrape</h3>
+      <p>No digest has been generated yet. Open the <strong>Actions</strong> tab in this repository and run the <strong>Daily Digest</strong> workflow (or wait for the scheduled run). It pulls each leader's latest videos and fills this page.</p>
+    </div>`;
+    return;
+  }
+
+  let pool = currentLeader ? videos.filter(v => v.leaderId === currentLeader) : videos;
 
   if (currentView === 'saved') {
-    const savedVids = [];
-    for (const l of leaders) {
-      for (const v of (videos[l.id] || [])) {
-        if (saved.includes(v.id)) savedVids.push({ v, l });
-      }
-    }
-    content.innerHTML = `
-      <div class="section-head"><h2>Saved Videos</h2><span class="count">${savedVids.length} videos</span></div>
-      ${savedVids.length === 0 ? `<div class="empty-state"><div class="icon">★</div><h3>No saved videos</h3><p>Click the ☆ on any video to save it for later.</p></div>` :
-        `<div class="video-grid">${savedVids.map(({v,l}) => renderVideoCard(v,l)).join('')}</div>`}`;
-    updateNewCount();
+    const list = videos.filter(v => saved.includes(v.videoId));
+    content.innerHTML = `<div class="section-head"><h2>Saved</h2><span class="count">${list.length} videos</span></div>` +
+      (list.length ? grid(list)
+        : `<div class="empty-state"><div class="icon">★</div><h3>No saved videos</h3><p>Tap the ☆ on any video to keep it here.</p></div>`);
     return;
   }
 
   if (currentView === 'all') {
-    const allVids = [];
-    for (const l of filteredLeaders) {
-      for (const v of (videos[l.id] || [])) allVids.push({ v, l });
-    }
-    allVids.sort((a,b) => new Date(b.v.published) - new Date(a.v.published));
-    content.innerHTML = `
-      <div class="section-head"><h2>All Videos</h2><span class="count">${allVids.length} videos</span></div>
-      ${allVids.length === 0 ? `<div class="empty-state"><div class="icon">📺</div><h3>No videos yet</h3><p>Add leaders and refresh to load their latest content.</p></div>` :
-        `<div class="video-grid">${allVids.map(({v,l}) => renderVideoCard(v,l)).join('')}</div>`}`;
-    updateNewCount();
+    const types = [...new Set(videos.map(v => v.type).filter(Boolean))];
+    let list = currentType ? pool.filter(v => v.type === currentType) : pool;
+    list = [...list].sort((a, b) => new Date(b.published) - new Date(a.published));
+    const chips = `<div class="chips">
+      <button class="chip ${!currentType ? 'active' : ''}" onclick="filterType(null)">All</button>
+      ${types.map(t => `<button class="chip ${currentType === t ? 'active' : ''}" onclick="filterType('${t}')">${esc(t)}</button>`).join('')}
+    </div>`;
+    content.innerHTML = `<div class="section-head"><h2>All Videos</h2><span class="count">${list.length} videos${currentLeader ? ' · ' + esc(leaderById(currentLeader).name) : ''}</span></div>`
+      + chips
+      + (list.length ? grid(list) : `<div class="empty-state"><div class="icon">📺</div><h3>Nothing here</h3><p>No videos match this filter.</p></div>`);
     return;
   }
 
-  // DIGEST view
-  const todayVids = [], weekVids = [], olderVids = [];
-  for (const l of filteredLeaders) {
-    for (const v of (videos[l.id] || [])) {
-      if (isToday(v.published)) todayVids.push({v,l});
-      else if (isThisWeek(v.published)) weekVids.push({v,l});
-      else olderVids.push({v,l});
-    }
+  // DIGEST view — grouped by recency
+  const today = [], week = [], earlier = [];
+  for (const v of pool) {
+    if (isToday(v.published)) today.push(v);
+    else if (isThisWeek(v.published)) week.push(v);
+    else earlier.push(v);
   }
-  todayVids.sort((a,b) => new Date(b.v.published) - new Date(a.v.published));
-  weekVids.sort((a,b) => new Date(b.v.published) - new Date(a.v.published));
+  const byDate = (a, b) => new Date(b.published) - new Date(a.published);
+  today.sort(byDate); week.sort(byDate); earlier.sort(byDate);
 
   let html = '';
+  if (today.length) html += `<div class="section-head"><h2><span class="signal-dot"></span>Today</h2><span class="count">${today.length} new</span></div>${grid(today)}`;
+  if (week.length) html += `<div class="section-head" style="margin-top:1.5rem"><h2>This Week</h2><span class="count">${week.length} videos</span></div>${grid(week)}`;
+  if (earlier.length && currentLeader) html += `<div class="section-head" style="margin-top:1.5rem"><h2>Earlier</h2><span class="count">${earlier.length} videos</span></div>${grid(earlier)}`;
 
-  if (todayVids.length > 0) {
-    html += `<div class="section-head"><h2><span class="signal-dot"></span>Today</h2><span class="count">${todayVids.length} new</span></div>
-    <div class="video-grid">${todayVids.map(({v,l})=>renderVideoCard(v,l)).join('')}</div>`;
-  }
-
-  if (weekVids.length > 0) {
-    html += `<div class="section-head" style="margin-top:1.5rem"><h2>This Week</h2><span class="count">${weekVids.length} videos</span></div>
-    <div class="video-grid">${weekVids.map(({v,l})=>renderVideoCard(v,l)).join('')}</div>`;
-  }
-
-  if (olderVids.length > 0 && currentLeader) {
-    html += `<div class="section-head" style="margin-top:1.5rem"><h2>Earlier</h2><span class="count">${olderVids.length} videos</span></div>
-    <div class="video-grid">${olderVids.map(({v,l})=>renderVideoCard(v,l)).join('')}</div>`;
-  }
-
-  if (html === '') {
+  if (!html) {
     html = `<div class="empty-state">
       <div class="icon">📡</div>
-      <h3>Your digest is ready</h3>
-      <p>No new videos from tracked leaders today. Check back tomorrow, or click <strong>All Videos</strong> to browse their full archive.</p>
+      <h3>No new talks today</h3>
+      <p>${currentLeader ? esc(leaderById(currentLeader).name) + ' has' : 'Your tracked leaders have'} nothing new in the digest window. Browse <strong>All Videos</strong> for their recent archive.</p>
     </div>`;
   }
-
   content.innerHTML = html;
-  updateNewCount();
 }
 
 function updateNewCount() {
-  const all = [];
-  for (const l of leaders) {
-    for (const v of (videos[l.id] || [])) {
-      if (isToday(v.published)) all.push(v);
-    }
-  }
-  const bar = document.getElementById('new-count-bar');
-  bar.innerHTML = all.length > 0 ? `<strong>${all.length} new video${all.length>1?'s':''} today</strong>` : '';
+  const n = videos.filter(v => isToday(v.published)).length;
+  document.getElementById('new-count-bar').innerHTML = n ? `<strong>${n} new today</strong>` : '';
 }
 
-// ─── ACTIONS ─────────────────────────────────────────────────────────────────
+// ─── ACTIONS ────────────────────────────────────────────────────────────────
 
 function setView(v) {
   currentView = v;
-  document.querySelectorAll('nav button').forEach((b,i) => {
-    b.classList.toggle('active', ['digest','all','saved'][i] === v);
-  });
+  currentType = null;
+  document.querySelectorAll('nav button').forEach(b => b.classList.toggle('active', b.dataset.view === v));
   render();
 }
-
-function filterLeader(id) {
-  currentLeader = currentLeader === id ? null : id;
-  render();
-}
-
-function toggleAddPanel() {
-  document.getElementById('add-panel').classList.toggle('open');
-}
-
-function addLeader() {
-  const name = document.getElementById('new-name').value.trim();
-  const title = document.getElementById('new-title').value.trim();
-  const channel = document.getElementById('new-channel').value.trim();
-  if (!name || !channel) { alert('Name and Channel ID are required.'); return; }
-  const colors = ['#1a3a5c','#4a1a6e','#1a5c3a','#5c1a1a','#5c4a1a','#1a4a5c'];
-  const id = name.toLowerCase().replace(/\s+/g,'_') + '_' + Date.now();
-  const leader = { id, name, title: title || 'Industry Leader', channel, color: colors[leaders.length % colors.length] };
-  leaders.push(leader);
-  persist();
-  document.getElementById('add-panel').classList.remove('open');
-  document.getElementById('new-name').value = '';
-  document.getElementById('new-title').value = '';
-  document.getElementById('new-channel').value = '';
-  fetchLeaderVideos(leader).then(() => render());
-}
+function filterLeader(id) { currentLeader = currentLeader === id ? null : id; render(); }
+function filterType(t) { currentType = t; render(); }
+function toggleAddPanel() { document.getElementById('add-panel').classList.toggle('open'); }
 
 function toggleSave(videoId, btn) {
-  if (saved.includes(videoId)) {
-    saved = saved.filter(id => id !== videoId);
-    btn.textContent = '☆';
-  } else {
-    saved.push(videoId);
-    btn.textContent = '★';
-  }
-  persist();
+  if (saved.includes(videoId)) { saved = saved.filter(id => id !== videoId); btn.textContent = '☆'; }
+  else { saved.push(videoId); btn.textContent = '★'; }
+  localStorage.setItem('signal_saved', JSON.stringify(saved));
+  if (currentView === 'saved') render();
 }
 
-function openVideo(videoId, leaderId, title) {
-  const leader = leaderById(leaderId);
-  const vids = videos[leaderId] || [];
-  const v = vids.find(x => x.id === videoId);
-  document.getElementById('modal-leader').textContent = leader?.name || '';
-  document.getElementById('modal-title').textContent = title;
+function openVideo(videoId) {
+  const v = videos.find(x => x.videoId === videoId);
+  if (!v) return;
+  const leader = leaderById(v.leaderId) || { name: v.leaderName };
+  document.getElementById('modal-leader').textContent = leader.name;
+  document.getElementById('modal-title').textContent = v.title;
   document.getElementById('modal-iframe').src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
-  document.getElementById('modal-date').textContent = v ? new Date(v.published).toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'}) : '';
-  document.getElementById('modal-yt-link').href = `https://www.youtube.com/watch?v=${videoId}`;
+  document.getElementById('modal-date').textContent =
+    new Date(v.published).toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+  document.getElementById('modal-yt-link').href = v.url || `https://www.youtube.com/watch?v=${videoId}`;
   document.getElementById('modal').classList.add('open');
 }
-
-function closeModal(e) {
-  if (e.target === document.getElementById('modal')) closeModalDirect();
-}
+function closeModal(e) { if (e.target === document.getElementById('modal')) closeModalDirect(); }
 function closeModalDirect() {
   document.getElementById('modal').classList.remove('open');
   document.getElementById('modal-iframe').src = '';
 }
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModalDirect(); });
 
-// ─── INIT ─────────────────────────────────────────────────────────────────────
+// ─── INIT ───────────────────────────────────────────────────────────────────
 
-function init() {
-  // Dateline
-  const now = new Date();
-  document.getElementById('dateline').innerHTML =
-    `${now.toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'})}<br>Industry Intelligence Dashboard`;
-
-  // Seed demo data, then try real RSS
-  seedDemoVideos();
-  render();
-
-  if (lastRefresh) document.getElementById('last-refresh').textContent = lastRefresh;
-
-  // Attempt live refresh in background
-  refreshAll();
-}
-
-init();
+document.getElementById('dateline').innerHTML =
+  `${new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}<br>Industry Intelligence Dashboard`;
+loadDigest();
 </script>
 </body>
 </html>

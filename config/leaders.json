@@ -1,0 +1,78 @@
+{
+  "lookbackDays": 45,
+  "maxPerChannel": 15,
+  "_comment": "Add a leader by giving their name and the YouTube channel handle(s) they post on (or that publish their talks). Handles are resolved to channel IDs automatically. 'channels' = their own / company channels (every recent video is included). 'watchChannels' below are third-party channels (conferences, podcasts) that are scanned for ANY tracked leader by alias match.",
+  "leaders": [
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "title": "CEO — Tesla, SpaceX, xAI",
+      "color": "#1a3a5c",
+      "aliases": ["Elon Musk", "Musk"],
+      "channels": ["@Tesla", "@SpaceX"]
+    },
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "title": "Founder & CEO — NVIDIA",
+      "color": "#4a1a6e",
+      "aliases": ["Jensen Huang", "Jensen"],
+      "channels": ["@NVIDIA"]
+    },
+    {
+      "id": "sam-altman",
+      "name": "Sam Altman",
+      "title": "CEO — OpenAI",
+      "color": "#1a5c3a",
+      "aliases": ["Sam Altman", "Altman"],
+      "channels": ["@OpenAI"]
+    },
+    {
+      "id": "satya-nadella",
+      "name": "Satya Nadella",
+      "title": "Chairman & CEO — Microsoft",
+      "color": "#5c1a1a",
+      "aliases": ["Satya Nadella", "Nadella"],
+      "channels": ["@Microsoft"]
+    },
+    {
+      "id": "tim-cook",
+      "name": "Tim Cook",
+      "title": "CEO — Apple",
+      "color": "#2b2b2b",
+      "aliases": ["Tim Cook"],
+      "channels": ["@Apple"]
+    },
+    {
+      "id": "sundar-pichai",
+      "name": "Sundar Pichai",
+      "title": "CEO — Google / Alphabet",
+      "color": "#1a4a5c",
+      "aliases": ["Sundar Pichai", "Pichai"],
+      "channels": ["@Google"]
+    },
+    {
+      "id": "mark-zuckerberg",
+      "name": "Mark Zuckerberg",
+      "title": "CEO — Meta",
+      "color": "#1a3a7c",
+      "aliases": ["Mark Zuckerberg", "Zuckerberg"],
+      "channels": ["@Meta"]
+    }
+  ],
+  "watchChannels": [
+    { "name": "TED", "handle": "@TED" },
+    { "name": "World Economic Forum", "handle": "@worldeconomicforum" },
+    { "name": "Y Combinator", "handle": "@ycombinator" },
+    { "name": "a16z", "handle": "@a16z" },
+    { "name": "Stanford GSB", "handle": "@stanfordgsb" },
+    { "name": "Lex Fridman", "handle": "@lexfridman" },
+    { "name": "Bloomberg Technology", "handle": "@bloombergtechnology" }
+  ],
+  "classify": {
+    "Press": ["press", "press release", "announces", "announcement", "unveils", "reveals", "introducing", "launch"],
+    "Keynote": ["keynote", "gtc", "wwdc", "build 20", "google i/o", " i/o ", "event", "special event", "summit", "conference"],
+    "Speech": ["speech", "address", "commencement", "testimony", "senate", "hearing", "remarks", "davos"],
+    "Interview": ["interview", "fireside", "in conversation", "conversation with", "sits down", "podcast", "q&a", "fireside chat"]
+  }
+}

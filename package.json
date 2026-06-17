@@ -1,0 +1,16 @@
+{
+  "name": "signal-industry-leader-video-feed",
+  "version": "1.0.0",
+  "description": "A daily digest of speeches, keynotes and press releases from industry leaders, scraped from YouTube and served as a static site on GitHub Pages.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs",
+    "test": "node scripts/scrape.mjs --self-test",
+    "serve": "node --version >/dev/null && python3 -m http.server 8000"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
