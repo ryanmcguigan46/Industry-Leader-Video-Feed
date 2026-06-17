@@ -1,0 +1,15 @@
+{
+  "generatedAt": null,
+  "lookbackDays": 45,
+  "leaders": [
+    { "id": "elon-musk", "name": "Elon Musk", "title": "CEO — Tesla, SpaceX, xAI", "color": "#1a3a5c" },
+    { "id": "jensen-huang", "name": "Jensen Huang", "title": "Founder & CEO — NVIDIA", "color": "#4a1a6e" },
+    { "id": "sam-altman", "name": "Sam Altman", "title": "CEO — OpenAI", "color": "#1a5c3a" },
+    { "id": "satya-nadella", "name": "Satya Nadella", "title": "Chairman & CEO — Microsoft", "color": "#5c1a1a" },
+    { "id": "tim-cook", "name": "Tim Cook", "title": "CEO — Apple", "color": "#2b2b2b" },
+    { "id": "sundar-pichai", "name": "Sundar Pichai", "title": "CEO — Google / Alphabet", "color": "#1a4a5c" },
+    { "id": "mark-zuckerberg", "name": "Mark Zuckerberg", "title": "CEO — Meta", "color": "#1a3a7c" }
+  ],
+  "videos": [],
+  "warnings": []
+}
