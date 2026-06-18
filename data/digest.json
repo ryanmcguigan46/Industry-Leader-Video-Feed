@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T14:27:16.005Z",
+  "generatedAt": "2026-06-18T14:12:02.282Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "07tnPL6yorU",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Their turf. Their time. This is @ussoccer  🦅 #GooglePartner",
+      "published": "2026-06-17T23:53:46+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/07tnPL6yorU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=07tnPL6yorU"
+    },
+    {
+      "videoId": "803IKt7Y-2c",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Challenges for Radio Communication in Space",
+      "published": "2026-06-17T18:22:14+00:00",
+      "source": "Bloomberg Technology",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/803IKt7Y-2c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=803IKt7Y-2c"
+    },
+    {
+      "videoId": "rOLKQJMLBHI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Build and test iOS apps without leaving Codex!",
+      "published": "2026-06-17T18:01:46+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/rOLKQJMLBHI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rOLKQJMLBHI"
+    },
     {
       "videoId": "QFncbBQl6RM",
       "leaderId": "satya-nadella",
@@ -221,39 +254,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/roPQOCVsyPQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=roPQOCVsyPQ"
-    },
-    {
-      "videoId": "ZVD1VVWJuWo",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Inside SpaceX and Elon Musk’s $75 billion IPO",
-      "published": "2026-06-15T13:40:56+00:00",
-      "source": "Bloomberg Technology",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/ZVD1VVWJuWo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZVD1VVWJuWo"
-    },
-    {
-      "videoId": "eGYW6myyZeU",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "SpaceX's Wall Street Debut Breaks Records",
-      "published": "2026-06-15T13:15:58+00:00",
-      "source": "Bloomberg Technology",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/eGYW6myyZeU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=eGYW6myyZeU"
-    },
-    {
-      "videoId": "Q5QYlMee3Tc",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Musk Becomes the World's First Trillionaire",
-      "published": "2026-06-15T13:13:33+00:00",
-      "source": "Bloomberg Technology",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/Q5QYlMee3Tc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Q5QYlMee3Tc"
     },
     {
       "videoId": "_jNbM8pV9oI",
@@ -465,17 +465,6 @@
       "url": "https://www.youtube.com/watch?v=wDgH0FECdJs"
     },
     {
-      "videoId": "ACue0bPkrPs",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Training to cycle across Antarctica | with ChatGPT",
-      "published": "2026-06-11T15:59:45+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ACue0bPkrPs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ACue0bPkrPs"
-    },
-    {
       "videoId": "gPx12V4yiIk",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -628,17 +617,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/KsgpLXVFdqE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=KsgpLXVFdqE"
-    },
-    {
-      "videoId": "5XHeFuKbw5M",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Our latest screenless wearable, Google Fitbit Air¹, available now.",
-      "published": "2026-06-08T22:27:12+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/5XHeFuKbw5M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5XHeFuKbw5M"
     },
     {
       "videoId": "kc65YW3FCa4",
