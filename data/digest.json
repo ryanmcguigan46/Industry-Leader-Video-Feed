@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T14:13:48.903Z",
+  "generatedAt": "2026-06-20T12:27:23.260Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,50 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "0JIbgZ544wU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "What Codex Unlocks for NTT Data",
+      "published": "2026-06-19T22:57:58+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/0JIbgZ544wU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0JIbgZ544wU"
+    },
+    {
+      "videoId": "YPNOjXTDP9c",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Plan with ChatGPT",
+      "published": "2026-06-19T21:22:26+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/YPNOjXTDP9c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YPNOjXTDP9c"
+    },
+    {
+      "videoId": "5sDfhQq_g8A",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Score with ChatGPT",
+      "published": "2026-06-19T21:20:04+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/5sDfhQq_g8A/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5sDfhQq_g8A"
+    },
+    {
+      "videoId": "d3jlow2FCH4",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Honoring Juneteenth #GoogleDoodle",
+      "published": "2026-06-19T15:23:16+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/d3jlow2FCH4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=d3jlow2FCH4"
+    },
     {
       "videoId": "ECquAokER_8",
       "leaderId": "sundar-pichai",
@@ -421,39 +465,6 @@
       "url": "https://www.youtube.com/watch?v=bhgYFRZLyKI"
     },
     {
-      "videoId": "K6wxZOqD-HY",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Codex for Creatives: Riff, Design, Ship",
-      "published": "2026-06-11T21:28:51+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/K6wxZOqD-HY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=K6wxZOqD-HY"
-    },
-    {
-      "videoId": "6QoMzZ8FdTA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Life Near OpenAI's Stargate Project",
-      "published": "2026-06-11T20:58:53+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/6QoMzZ8FdTA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6QoMzZ8FdTA"
-    },
-    {
-      "videoId": "UNJSk90Lz1c",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Customer Ignite Talk: Antonio Bravo Acin (Global Head of AI Transformation, BBVA) & OpenAI",
-      "published": "2026-06-11T19:51:04+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/UNJSk90Lz1c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UNJSk90Lz1c"
-    },
-    {
       "videoId": "U-jd4DdZyXw",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -551,17 +562,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/GZABwnUHypA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=GZABwnUHypA"
-    },
-    {
-      "videoId": "7l9kV1ndFS8",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "This is what every hoops fan dreams of",
-      "published": "2026-06-10T17:07:41+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/7l9kV1ndFS8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=7l9kV1ndFS8"
     },
     {
       "videoId": "JaTJpwlOPfI",
