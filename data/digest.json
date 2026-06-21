@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T12:27:23.260Z",
+  "generatedAt": "2026-06-21T13:07:47.897Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "iGOmDRYctOw",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Behind the Doodle: Father’s Day #GoogleDoodle",
+      "published": "2026-06-21T12:58:50+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/iGOmDRYctOw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iGOmDRYctOw"
+    },
+    {
+      "videoId": "SJlhYV-cRnQ",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "How'd @LamineYamal get so good at dribbling?",
+      "published": "2026-06-20T12:59:34+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/SJlhYV-cRnQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SJlhYV-cRnQ"
+    },
     {
       "videoId": "0JIbgZ544wU",
       "leaderId": "sam-altman",
@@ -518,28 +540,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/IM1KKI_E3Yo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=IM1KKI_E3Yo"
-    },
-    {
-      "videoId": "jR4jcH1KD-M",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Let the games begin ⚽ #GoogleDoodle",
-      "published": "2026-06-11T14:00:01+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/jR4jcH1KD-M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jR4jcH1KD-M"
-    },
-    {
-      "videoId": "jfUjk_FcST8",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "See 3 interactive and stunning visual apps made with @GoogleGemini in Google AI Studio.",
-      "published": "2026-06-10T21:02:15+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/jfUjk_FcST8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jfUjk_FcST8"
     },
     {
       "videoId": "0B62mzkASs8",
