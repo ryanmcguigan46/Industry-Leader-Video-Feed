@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T13:07:47.897Z",
+  "generatedAt": "2026-06-22T15:53:50.323Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "sl1R37FopZc",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Top Searched Soccer Debates | Landon vs. Howard",
+      "published": "2026-06-21T20:15:22+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/sl1R37FopZc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sl1R37FopZc"
+    },
+    {
+      "videoId": "jSgWjoIWcQU",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "AirPods Pro 3 starring Vini Jr. (Music Edit) with the world’s best in-ear Active Noise Cancellation",
+      "published": "2026-06-21T16:11:01+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/jSgWjoIWcQU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jSgWjoIWcQU"
+    },
     {
       "videoId": "iGOmDRYctOw",
       "leaderId": "sundar-pichai",
@@ -518,17 +540,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/wDgH0FECdJs/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=wDgH0FECdJs"
-    },
-    {
-      "videoId": "gPx12V4yiIk",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "The Most Searched Sport",
-      "published": "2026-06-11T15:59:37+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/gPx12V4yiIk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gPx12V4yiIk"
     },
     {
       "videoId": "IM1KKI_E3Yo",
@@ -1079,17 +1090,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/jOUqLqlw39E/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=jOUqLqlw39E"
-    },
-    {
-      "videoId": "op8HMCB5JnQ",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Watch Ellie Dixon make her debut album in her bedroom",
-      "published": "2026-05-12T22:21:34+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/op8HMCB5JnQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=op8HMCB5JnQ"
     }
   ],
   "warnings": [
