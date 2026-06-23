@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T15:53:50.323Z",
+  "generatedAt": "2026-06-23T13:44:04.670Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,83 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "qU5-komJ-GE",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Omio is building the future of conversational travel",
+      "published": "2026-06-23T11:30:20+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/qU5-komJ-GE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qU5-komJ-GE"
+    },
+    {
+      "videoId": "GhCP2eDrKHk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Meet the ChatGPT Futures, Class of 2026",
+      "published": "2026-06-22T21:06:32+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/GhCP2eDrKHk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GhCP2eDrKHk"
+    },
+    {
+      "videoId": "Vb-OqxUWPDE",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "How Tesla Vision Helps Deploy Airbags Earlier",
+      "published": "2026-06-22T20:18:20+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Vb-OqxUWPDE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Vb-OqxUWPDE"
+    },
+    {
+      "videoId": "mx0xFpVjxHE",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Google AI Studio Tutorial: Shipping Apps",
+      "published": "2026-06-22T19:30:18+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/mx0xFpVjxHE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mx0xFpVjxHE"
+    },
+    {
+      "videoId": "e0WOqG959x8",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta UFC Rankings",
+      "published": "2026-06-22T19:02:27+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/e0WOqG959x8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=e0WOqG959x8"
+    },
+    {
+      "videoId": "27-GjDIWGo0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Zendesk CEO Tom Eggemeier goes from Idea to Action",
+      "published": "2026-06-22T17:45:36+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/27-GjDIWGo0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=27-GjDIWGo0"
+    },
+    {
+      "videoId": "ZXK6M8ldMJM",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "The World Is Searching | Les Bleus",
+      "published": "2026-06-22T16:39:46+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ZXK6M8ldMJM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZXK6M8ldMJM"
+    },
     {
       "videoId": "sl1R37FopZc",
       "leaderId": "sundar-pichai",
@@ -267,17 +344,6 @@
       "url": "https://www.youtube.com/watch?v=CFqjjKp9Y-Q"
     },
     {
-      "videoId": "PVL75edUkZE",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "I Will Hold My SpaceX Shares Forever, Says Sequoia's Maguire",
-      "published": "2026-06-16T16:38:22+00:00",
-      "source": "Bloomberg Technology",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/PVL75edUkZE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PVL75edUkZE"
-    },
-    {
       "videoId": "oh-l_DlN0bc",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -421,28 +487,6 @@
       "url": "https://www.youtube.com/watch?v=BwqhoWERQIo"
     },
     {
-      "videoId": "J2oAw1td51Q",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "The ultimate office tour for a sports fan",
-      "published": "2026-06-13T14:14:36+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/J2oAw1td51Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=J2oAw1td51Q"
-    },
-    {
-      "videoId": "bDiULGfJ5cs",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Search explains the soccer positions ⚽️",
-      "published": "2026-06-12T22:06:49+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/bDiULGfJ5cs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=bDiULGfJ5cs"
-    },
-    {
       "videoId": "Rlju1Z9e110",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -452,17 +496,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Rlju1Z9e110/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Rlju1Z9e110"
-    },
-    {
-      "videoId": "sU9-u5p-jA0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "published": "2026-06-12T16:24:47+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/sU9-u5p-jA0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sU9-u5p-jA0"
     },
     {
       "videoId": "n_v17NiIXgk",
@@ -485,28 +518,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/gatpk6BhN5w/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gatpk6BhN5w"
-    },
-    {
-      "videoId": "-Jm-Bf3g9r8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "published": "2026-06-12T09:53:26+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/-Jm-Bf3g9r8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-Jm-Bf3g9r8"
-    },
-    {
-      "videoId": "bhgYFRZLyKI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Debug web apps with browser use in Codex",
-      "published": "2026-06-12T00:15:38+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/bhgYFRZLyKI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=bhgYFRZLyKI"
     },
     {
       "videoId": "U-jd4DdZyXw",
@@ -1046,17 +1057,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/B3SmsSCvoss/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=B3SmsSCvoss"
-    },
-    {
-      "videoId": "pUbyqNTt2AY",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Flower or Weed",
-      "published": "2026-05-16T16:00:30+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/pUbyqNTt2AY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pUbyqNTt2AY"
     },
     {
       "videoId": "jQK-S-HyHgc",
