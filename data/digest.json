@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T13:44:04.670Z",
+  "generatedAt": "2026-06-24T13:23:50.229Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,94 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "W6l7J7Bpl7U",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "The World Is Searching | La Roja",
+      "published": "2026-06-23T21:17:03+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/W6l7J7Bpl7U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=W6l7J7Bpl7U"
+    },
+    {
+      "videoId": "mVpCDzoNtxA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT Futures, Class of 2026: The Next Generation of AI Leaders",
+      "published": "2026-06-23T18:45:29+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/mVpCDzoNtxA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mVpCDzoNtxA"
+    },
+    {
+      "videoId": "-liNEDhNkzE",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "The World Is Searching | Weston McKennie",
+      "published": "2026-06-23T18:08:44+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/-liNEDhNkzE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-liNEDhNkzE"
+    },
+    {
+      "videoId": "8aGMLbS3NAo",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Tesla Home: Home Energy Management, Powered by AI",
+      "published": "2026-06-23T17:40:05+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/8aGMLbS3NAo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8aGMLbS3NAo"
+    },
+    {
+      "videoId": "ZCSwtUCUIvc",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "SpaceX Wavers Near $2 Trillion Market Cap After 3-Day Rout | Bloomberg Tech 6/23/2026",
+      "published": "2026-06-23T16:54:12+00:00",
+      "source": "Bloomberg Technology",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/ZCSwtUCUIvc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZCSwtUCUIvc"
+    },
+    {
+      "videoId": "Il4dhCv0Li0",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Advancing Scientific Discovery in the Agentic AI Era",
+      "published": "2026-06-23T16:45:33+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Il4dhCv0Li0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Il4dhCv0Li0"
+    },
+    {
+      "videoId": "4Aci0c6-_fg",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "World Surf League x Apple: How Apple Watch Changed Pro Surfing",
+      "published": "2026-06-23T16:01:05+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/4Aci0c6-_fg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4Aci0c6-_fg"
+    },
+    {
+      "videoId": "czO4oZOlMvo",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Share audio with friends with two sets of AirPods. Tip from Garryn at the Apple Store.",
+      "published": "2026-06-23T16:00:18+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/czO4oZOlMvo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=czO4oZOlMvo"
+    },
     {
       "videoId": "qU5-komJ-GE",
       "leaderId": "sam-altman",
@@ -278,17 +366,6 @@
       "url": "https://www.youtube.com/watch?v=07tnPL6yorU"
     },
     {
-      "videoId": "803IKt7Y-2c",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Challenges for Radio Communication in Space",
-      "published": "2026-06-17T18:22:14+00:00",
-      "source": "Bloomberg Technology",
-      "type": "Speech",
-      "thumb": "https://i.ytimg.com/vi/803IKt7Y-2c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=803IKt7Y-2c"
-    },
-    {
       "videoId": "rOLKQJMLBHI",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -421,17 +498,6 @@
       "url": "https://www.youtube.com/watch?v=VN1lRt5lsv4"
     },
     {
-      "videoId": "TMQkISHKH6g",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Search explains the offside rule 🚩",
-      "published": "2026-06-15T18:54:13+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/TMQkISHKH6g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TMQkISHKH6g"
-    },
-    {
       "videoId": "TDM2Dz_MuPk",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -474,28 +540,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/NxAxwsu6_Zs/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=NxAxwsu6_Zs"
-    },
-    {
-      "videoId": "BwqhoWERQIo",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "The Most Searched Sport | Bicycle kick breakdown",
-      "published": "2026-06-13T16:02:54+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/BwqhoWERQIo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=BwqhoWERQIo"
-    },
-    {
-      "videoId": "Rlju1Z9e110",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Analyze earnings and update your investment thesis with Codex",
-      "published": "2026-06-12T20:36:47+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Rlju1Z9e110/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Rlju1Z9e110"
     },
     {
       "videoId": "n_v17NiIXgk",
@@ -916,17 +960,6 @@
       "url": "https://www.youtube.com/watch?v=JLE5LI2lbWY"
     },
     {
-      "videoId": "q7Hj3J9SOXw",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Introducing NVIDIA Cosmos 3: The Open Model That Thinks, Generates, and Acts",
-      "published": "2026-06-02T16:17:47+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/q7Hj3J9SOXw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=q7Hj3J9SOXw"
-    },
-    {
       "videoId": "Y087rRmUMJI",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1068,28 +1101,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/jQK-S-HyHgc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=jQK-S-HyHgc"
-    },
-    {
-      "videoId": "-jripWHy4sw",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Watch Molly Baz turn her new recipe into a video",
-      "published": "2026-05-13T22:58:10+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/-jripWHy4sw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-jripWHy4sw"
-    },
-    {
-      "videoId": "jOUqLqlw39E",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Watch Samba Films make poetry in motion",
-      "published": "2026-05-13T00:59:40+00:00",
-      "source": "Apple",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/jOUqLqlw39E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jOUqLqlw39E"
     }
   ],
   "warnings": [
