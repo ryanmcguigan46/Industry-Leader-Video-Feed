@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T13:23:50.229Z",
+  "generatedAt": "2026-06-25T13:20:54.782Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,105 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "Ywgx2AqcdM8",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA cuPhoton: The Tech Fast-Tracking Space Discovery",
+      "published": "2026-06-25T03:51:55+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Ywgx2AqcdM8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ywgx2AqcdM8"
+    },
+    {
+      "videoId": "GsqW5MPFajw",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA & Coherent: Reindustrializing America, Manufacturing for the AI Era",
+      "published": "2026-06-25T03:51:12+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/GsqW5MPFajw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GsqW5MPFajw"
+    },
+    {
+      "videoId": "tqN19lJ9Bsc",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA's Kimberly Powell at BIO International Convention",
+      "published": "2026-06-25T03:49:27+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/tqN19lJ9Bsc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tqN19lJ9Bsc"
+    },
+    {
+      "videoId": "gKboAPejVM8",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Against all odds. Congratulations Elon Musk and SpaceX.",
+      "published": "2026-06-24T20:03:43+00:00",
+      "source": "a16z",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/gKboAPejVM8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gKboAPejVM8"
+    },
+    {
+      "videoId": "4mrfqPuXYA4",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+      "published": "2026-06-24T18:48:39+00:00",
+      "source": "NVIDIA",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/4mrfqPuXYA4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4mrfqPuXYA4"
+    },
+    {
+      "videoId": "Oez_q1lF86o",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "SpaceX Has Path to AI in Space, Says Early Investor David George",
+      "published": "2026-06-24T17:19:04+00:00",
+      "source": "Bloomberg Technology",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/Oez_q1lF86o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Oez_q1lF86o"
+    },
+    {
+      "videoId": "TjOeI2dFz5o",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "An Early Preview of Creator Workflows on NVIDIA RTX Spark Laptops",
+      "published": "2026-06-24T17:00:10+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/TjOeI2dFz5o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TjOeI2dFz5o"
+    },
+    {
+      "videoId": "Alz-bhXqyXM",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
+      "published": "2026-06-24T16:05:22+00:00",
+      "source": "NVIDIA",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/Alz-bhXqyXM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Alz-bhXqyXM"
+    },
+    {
+      "videoId": "JJTdXTf12oQ",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "How to use Agent in Google Flow | Find Your Flow",
+      "published": "2026-06-24T16:04:04+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/JJTdXTf12oQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JJTdXTf12oQ"
+    },
     {
       "videoId": "W6l7J7Bpl7U",
       "leaderId": "sundar-pichai",
@@ -487,17 +586,6 @@
       "url": "https://www.youtube.com/watch?v=oy8_DGRTinQ"
     },
     {
-      "videoId": "VN1lRt5lsv4",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Bend it, dip it, or knuckle it with a kick simulator in Search 👟⚽️",
-      "published": "2026-06-15T21:15:34+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/VN1lRt5lsv4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VN1lRt5lsv4"
-    },
-    {
       "videoId": "TDM2Dz_MuPk",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -740,17 +828,6 @@
       "url": "https://www.youtube.com/watch?v=a7e_3ThX4nY"
     },
     {
-      "videoId": "_BE4NSst6yA",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Dell Technologies World 2026 Keynote | May 18–21 | Las Vegas",
-      "published": "2026-06-05T21:01:29+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/_BE4NSst6yA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_BE4NSst6yA"
-    },
-    {
       "videoId": "fEji4sDsC24",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -793,28 +870,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/3nGPxJ0kJ7k/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3nGPxJ0kJ7k"
-    },
-    {
-      "videoId": "11Y3B33oCLE",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Announcing NVIDIA RTX Spark | GTC Taipei 2026 Keynote by CEO Jensen Huang",
-      "published": "2026-06-04T16:00:33+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/11Y3B33oCLE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=11Y3B33oCLE"
-    },
-    {
-      "videoId": "MEgWbFDVy8k",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Introducing NVIDIA Nemotron 3 Ultra",
-      "published": "2026-06-04T13:17:40+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/MEgWbFDVy8k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MEgWbFDVy8k"
     },
     {
       "videoId": "LE90Yc5TuCs",
@@ -894,17 +949,6 @@
       "url": "https://www.youtube.com/watch?v=gSNFJbgoaHI"
     },
     {
-      "videoId": "MO8Yh_8VsmE",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The Taipei 101 Tribute to NVIDIA GTC",
-      "published": "2026-06-03T04:03:09+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/MO8Yh_8VsmE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MO8Yh_8VsmE"
-    },
-    {
       "videoId": "ZhZqeo7SD0Y",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -914,17 +958,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/ZhZqeo7SD0Y/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZhZqeo7SD0Y"
-    },
-    {
-      "videoId": "HyicRmHu17w",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Jensen Huang and Satya Nadella's Conversation at Microsoft Build",
-      "published": "2026-06-03T01:01:09+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/HyicRmHu17w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=HyicRmHu17w"
     },
     {
       "videoId": "rASAk00B3JU",
@@ -947,17 +980,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/BQsLSmGLh_c/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=BQsLSmGLh_c"
-    },
-    {
-      "videoId": "JLE5LI2lbWY",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Peritas AI Showcase",
-      "published": "2026-06-02T22:30:10+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/JLE5LI2lbWY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JLE5LI2lbWY"
     },
     {
       "videoId": "Y087rRmUMJI",
