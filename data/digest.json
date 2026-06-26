@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T13:20:54.782Z",
+  "generatedAt": "2026-06-26T13:13:26.277Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "mFwWax5pLTs",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Verso, l'entreprise qui ne dort jamais",
+      "published": "2026-06-26T11:00:22+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/mFwWax5pLTs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mFwWax5pLTs"
+    },
+    {
+      "videoId": "vUQ4rmTX2YY",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Gemma 4 Hits 200M+ Downloads: 3 Amazing Local Builds",
+      "published": "2026-06-25T19:26:02+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vUQ4rmTX2YY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vUQ4rmTX2YY"
+    },
+    {
+      "videoId": "q_diWy3xdrw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "What if plants could talk?",
+      "published": "2026-06-25T17:19:53+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/q_diWy3xdrw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q_diWy3xdrw"
+    },
+    {
+      "videoId": "Vy4cAPglzZo",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "An Early Look At The Microsoft Surface Laptop Ultra Powered by NVIDIA RTX Spark",
+      "published": "2026-06-25T17:00:14+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Vy4cAPglzZo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Vy4cAPglzZo"
+    },
+    {
+      "videoId": "mnd-SxN-SFk",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "BIO Conference with Kimberly Powell",
+      "published": "2026-06-25T16:45:32+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/mnd-SxN-SFk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mnd-SxN-SFk"
+    },
+    {
+      "videoId": "0BGflErfumM",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Hey Meta x Coco Schiffer",
+      "published": "2026-06-25T16:00:34+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/0BGflErfumM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0BGflErfumM"
+    },
     {
       "videoId": "Ywgx2AqcdM8",
       "leaderId": "jensen-huang",
@@ -575,17 +641,6 @@
       "url": "https://www.youtube.com/watch?v=u9zLlcsCDiQ"
     },
     {
-      "videoId": "oy8_DGRTinQ",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Build your custom soccer schedule with Search 📅",
-      "published": "2026-06-15T22:59:58+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/oy8_DGRTinQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=oy8_DGRTinQ"
-    },
-    {
       "videoId": "TDM2Dz_MuPk",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -606,28 +661,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/roPQOCVsyPQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=roPQOCVsyPQ"
-    },
-    {
-      "videoId": "_jNbM8pV9oI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Codex as a Solutions Engineering Partner",
-      "published": "2026-06-15T13:03:41+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/_jNbM8pV9oI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_jNbM8pV9oI"
-    },
-    {
-      "videoId": "NxAxwsu6_Zs",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Payward Ships Faster with Codex",
-      "published": "2026-06-14T22:44:45+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/NxAxwsu6_Zs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NxAxwsu6_Zs"
     },
     {
       "videoId": "n_v17NiIXgk",
@@ -760,28 +793,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Pkh0dqLCsrs/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Pkh0dqLCsrs"
-    },
-    {
-      "videoId": "KsgpLXVFdqE",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "AI Grid 101: Top 5 Things You Need to Know",
-      "published": "2026-06-09T17:51:16+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/KsgpLXVFdqE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KsgpLXVFdqE"
-    },
-    {
-      "videoId": "kc65YW3FCa4",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA GTC Taipei 2026 Moments: Agents, AI PCs, and Physical AI",
-      "published": "2026-06-08T21:12:12+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/kc65YW3FCa4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kc65YW3FCa4"
     },
     {
       "videoId": "W9GkxLR0geE",
@@ -1046,17 +1057,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/48wpTp2QB-Q/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=48wpTp2QB-Q"
-    },
-    {
-      "videoId": "DY5Qw6qKmXA",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Hey, Meta: Montreal",
-      "published": "2026-05-24T16:00:00+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/DY5Qw6qKmXA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DY5Qw6qKmXA"
     },
     {
       "videoId": "tj7Sd7fs6JQ",
