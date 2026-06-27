@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T13:13:26.277Z",
+  "generatedAt": "2026-06-27T12:09:51.925Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "5_mJD7Mt0MM",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Mel Robbins: \"Half the world is stuck… here’s how to move ahead\" | Cannes Lions 2026",
+      "published": "2026-06-26T23:00:38+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/5_mJD7Mt0MM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5_mJD7Mt0MM"
+    },
+    {
+      "videoId": "msyJmnDejNg",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Connecting the unconnected | Secretary-General of the ITU Doreen Bogdan-Martin",
+      "published": "2026-06-26T21:35:04+00:00",
+      "source": "Microsoft",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/msyJmnDejNg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=msyJmnDejNg"
+    },
+    {
+      "videoId": "SPC_yCe1cUw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Builders Unscripted: Ep. 4 - Pietro Schirano",
+      "published": "2026-06-26T19:40:00+00:00",
+      "source": "OpenAI",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/SPC_yCe1cUw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SPC_yCe1cUw"
+    },
     {
       "videoId": "mFwWax5pLTs",
       "leaderId": "sam-altman",
@@ -254,17 +287,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/8aGMLbS3NAo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=8aGMLbS3NAo"
-    },
-    {
-      "videoId": "ZCSwtUCUIvc",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "SpaceX Wavers Near $2 Trillion Market Cap After 3-Day Rout | Bloomberg Tech 6/23/2026",
-      "published": "2026-06-23T16:54:12+00:00",
-      "source": "Bloomberg Technology",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/ZCSwtUCUIvc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZCSwtUCUIvc"
     },
     {
       "videoId": "Il4dhCv0Li0",
@@ -641,17 +663,6 @@
       "url": "https://www.youtube.com/watch?v=u9zLlcsCDiQ"
     },
     {
-      "videoId": "TDM2Dz_MuPk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Wayfair Uses GPT-5.5 to Power Catalog Enrichment Across 40M Products",
-      "published": "2026-06-15T18:02:23+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/TDM2Dz_MuPk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TDM2Dz_MuPk"
-    },
-    {
       "videoId": "roPQOCVsyPQ",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -969,28 +980,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/ZhZqeo7SD0Y/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZhZqeo7SD0Y"
-    },
-    {
-      "videoId": "rASAk00B3JU",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Jensen Huang & Satya Nadella on unmetered intelligence | Microsoft Build 2026",
-      "published": "2026-06-03T00:54:23+00:00",
-      "source": "Microsoft",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/rASAk00B3JU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rASAk00B3JU"
-    },
-    {
-      "videoId": "BQsLSmGLh_c",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Introducing 7 new Microsoft AI models",
-      "published": "2026-06-02T23:00:03+00:00",
-      "source": "Microsoft",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/BQsLSmGLh_c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=BQsLSmGLh_c"
     },
     {
       "videoId": "Y087rRmUMJI",
