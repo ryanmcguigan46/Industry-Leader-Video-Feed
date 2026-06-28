@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T12:09:51.925Z",
+  "generatedAt": "2026-06-28T12:17:20.632Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "LcCirFk-FaU",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Let’s go #GoogleDoodle",
+      "published": "2026-06-27T12:38:37+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/LcCirFk-FaU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LcCirFk-FaU"
+    },
     {
       "videoId": "5_mJD7Mt0MM",
       "leaderId": "satya-nadella",
@@ -617,17 +628,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/oh-l_DlN0bc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=oh-l_DlN0bc"
-    },
-    {
-      "videoId": "ag_g-ksGBdg",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Where did the word soccer actually come from? 🧐",
-      "published": "2026-06-16T16:07:02+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ag_g-ksGBdg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ag_g-ksGBdg"
     },
     {
       "videoId": "czm4Y7VXvn8",
