@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T12:17:20.632Z",
+  "generatedAt": "2026-06-29T14:48:10.557Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "f-HiB82Tl94",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Advent Accelerates Deals with ChatGPT + Codex",
+      "published": "2026-06-29T14:30:09+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/f-HiB82Tl94/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=f-HiB82Tl94"
+    },
+    {
+      "videoId": "zDuZmccxjlA",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How NPS and NVIDIA Are Training the Next AI Leaders",
+      "published": "2026-06-29T14:00:17+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/zDuZmccxjlA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zDuZmccxjlA"
+    },
+    {
+      "videoId": "hA0S7_jr1F0",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How NPS and NVIDIA Are Training the Next AI Leaders",
+      "published": "2026-06-29T14:00:06+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/hA0S7_jr1F0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hA0S7_jr1F0"
+    },
     {
       "videoId": "LcCirFk-FaU",
       "leaderId": "sundar-pichai",
@@ -210,17 +243,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/4mrfqPuXYA4/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=4mrfqPuXYA4"
-    },
-    {
-      "videoId": "Oez_q1lF86o",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "SpaceX Has Path to AI in Space, Says Early Investor David George",
-      "published": "2026-06-24T17:19:04+00:00",
-      "source": "Bloomberg Technology",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/Oez_q1lF86o/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Oez_q1lF86o"
     },
     {
       "videoId": "TjOeI2dFz5o",
@@ -652,17 +674,6 @@
       "url": "https://www.youtube.com/watch?v=UwZgysCP1_o"
     },
     {
-      "videoId": "u9zLlcsCDiQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build and test iOS apps without leaving Codex",
-      "published": "2026-06-15T23:20:32+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/u9zLlcsCDiQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=u9zLlcsCDiQ"
-    },
-    {
       "videoId": "roPQOCVsyPQ",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -782,28 +793,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/mYQR-xfqOPY/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=mYQR-xfqOPY"
-    },
-    {
-      "videoId": "TCOU1imv09U",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA GTC 2026: Healthcare Special Address",
-      "published": "2026-06-09T23:00:05+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/TCOU1imv09U/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TCOU1imv09U"
-    },
-    {
-      "videoId": "Pkh0dqLCsrs",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The Infrastructure Behind AI Explained | AI Factory Insider Ep. 1",
-      "published": "2026-06-09T21:46:41+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Pkh0dqLCsrs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Pkh0dqLCsrs"
     },
     {
       "videoId": "W9GkxLR0geE",
@@ -1101,17 +1090,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/B3SmsSCvoss/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=B3SmsSCvoss"
-    },
-    {
-      "videoId": "jQK-S-HyHgc",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Watch Annie Choi turn her sketch into a fashion film",
-      "published": "2026-05-14T23:00:07+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/jQK-S-HyHgc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jQK-S-HyHgc"
     }
   ],
   "warnings": [
