@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T14:48:10.557Z",
+  "generatedAt": "2026-06-30T13:10:04.030Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,61 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "orWeWjmoZ1E",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Topicals, Forvr Mood & Phe Phe on building brands that last | Cannes Lions 2026",
+      "published": "2026-06-29T23:00:04+00:00",
+      "source": "Microsoft",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/orWeWjmoZ1E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=orWeWjmoZ1E"
+    },
+    {
+      "videoId": "ZeIYVHxHnQ0",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "An Early Preview of AI Agent Workflows on NVIDIA RTX Spark Laptops",
+      "published": "2026-06-29T22:23:07+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ZeIYVHxHnQ0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZeIYVHxHnQ0"
+    },
+    {
+      "videoId": "MfDYRK1pAvA",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "The Most Searched Sport | Kick it",
+      "published": "2026-06-29T19:03:59+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/MfDYRK1pAvA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MfDYRK1pAvA"
+    },
+    {
+      "videoId": "BfalOym4HHo",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Why the most curious people win",
+      "published": "2026-06-29T19:00:25+00:00",
+      "source": "Microsoft",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/BfalOym4HHo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BfalOym4HHo"
+    },
+    {
+      "videoId": "ROz8bhtAVzc",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Job titles don't matter in 2026 (here's what does)",
+      "published": "2026-06-29T16:30:15+00:00",
+      "source": "Microsoft",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/ROz8bhtAVzc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ROz8bhtAVzc"
+    },
     {
       "videoId": "f-HiB82Tl94",
       "leaderId": "sam-altman",
@@ -608,17 +663,6 @@
       "url": "https://www.youtube.com/watch?v=QFncbBQl6RM"
     },
     {
-      "videoId": "Tgubu3HhreY",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "At least we have the memories…",
-      "published": "2026-06-16T19:17:55+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Tgubu3HhreY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Tgubu3HhreY"
-    },
-    {
       "videoId": "sh7XqNoeUAw",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -784,17 +828,6 @@
       "url": "https://www.youtube.com/watch?v=JaTJpwlOPfI"
     },
     {
-      "videoId": "mYQR-xfqOPY",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
-      "published": "2026-06-10T15:57:32+00:00",
-      "source": "NVIDIA",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/mYQR-xfqOPY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mYQR-xfqOPY"
-    },
-    {
       "videoId": "W9GkxLR0geE",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -916,28 +949,6 @@
       "url": "https://www.youtube.com/watch?v=Spb-ka7xrR8"
     },
     {
-      "videoId": "4v9AAw9J-FA",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Introducing MAI-Image-2.5 | Microsoft AI Models",
-      "published": "2026-06-03T23:07:43+00:00",
-      "source": "Microsoft",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/4v9AAw9J-FA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4v9AAw9J-FA"
-    },
-    {
-      "videoId": "OvLIae4HCeM",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Microsoft AI CEO unveils 7 new AI models | Mustafa Suleyman at Microsoft Build 2026",
-      "published": "2026-06-03T16:30:56+00:00",
-      "source": "Microsoft",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/OvLIae4HCeM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OvLIae4HCeM"
-    },
-    {
       "videoId": "v6pIvepHYgc",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -958,17 +969,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/gSNFJbgoaHI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gSNFJbgoaHI"
-    },
-    {
-      "videoId": "ZhZqeo7SD0Y",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Highlights from Satya Nadella's Opening Keynote | Microsoft Build 2026",
-      "published": "2026-06-03T04:00:44+00:00",
-      "source": "Microsoft",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/ZhZqeo7SD0Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZhZqeo7SD0Y"
     },
     {
       "videoId": "Y087rRmUMJI",
