@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T13:10:04.030Z",
+  "generatedAt": "2026-07-01T13:35:06.377Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,94 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "TglEnUdBb3o",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "What is Nano Banana?",
+      "published": "2026-06-30T23:12:08+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/TglEnUdBb3o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TglEnUdBb3o"
+    },
+    {
+      "videoId": "2Ih8YuoqyH0",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Creator authenticity is the real growth strategy | Cannes Lions 2026",
+      "published": "2026-06-30T21:00:34+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/2Ih8YuoqyH0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2Ih8YuoqyH0"
+    },
+    {
+      "videoId": "jLhgnZj2iI8",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Search explains soccer’s most intense moment 😰",
+      "published": "2026-06-30T20:00:23+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/jLhgnZj2iI8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jLhgnZj2iI8"
+    },
+    {
+      "videoId": "NcjBCtqRgtE",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Redefining Financial Services With Next-Generation Compute and Agentic AI",
+      "published": "2026-06-30T19:31:51+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/NcjBCtqRgtE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NcjBCtqRgtE"
+    },
+    {
+      "videoId": "10Kb3IB0d70",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How Together AI Uses NVIDIA's Full Stack to Deliver AI Responses in Under 100ms",
+      "published": "2026-06-30T16:20:15+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/10Kb3IB0d70/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=10Kb3IB0d70"
+    },
+    {
+      "videoId": "tH2DnBbYm2U",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Behind the Tech: Maxine and Molly",
+      "published": "2026-06-30T16:12:33+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/tH2DnBbYm2U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tH2DnBbYm2U"
+    },
+    {
+      "videoId": "Zd-IzRXoNhk",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Help protect your hearing with AirPods Pro. Tip from Indiana at the Apple Store.",
+      "published": "2026-06-30T16:01:33+00:00",
+      "source": "Apple",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/Zd-IzRXoNhk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Zd-IzRXoNhk"
+    },
+    {
+      "videoId": "usOHLZrBdCE",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "SpaceX set to raise $25 billion of bonds in debut bond offer",
+      "published": "2026-06-30T13:06:39+00:00",
+      "source": "Bloomberg Technology",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/usOHLZrBdCE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=usOHLZrBdCE"
+    },
     {
       "videoId": "orWeWjmoZ1E",
       "leaderId": "satya-nadella",
@@ -608,17 +696,6 @@
       "url": "https://www.youtube.com/watch?v=ZK3JhU73W18"
     },
     {
-      "videoId": "lafbmfUxN2k",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Organize your vision with a notebook in Gemini",
-      "published": "2026-06-18T16:49:33+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/lafbmfUxN2k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=lafbmfUxN2k"
-    },
-    {
       "videoId": "I-ej54mJHJk",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -628,17 +705,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/I-ej54mJHJk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=I-ej54mJHJk"
-    },
-    {
-      "videoId": "07tnPL6yorU",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Their turf. Their time. This is @ussoccer  🦅 #GooglePartner",
-      "published": "2026-06-17T23:53:46+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/07tnPL6yorU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=07tnPL6yorU"
     },
     {
       "videoId": "rOLKQJMLBHI",
@@ -795,28 +861,6 @@
       "url": "https://www.youtube.com/watch?v=IM1KKI_E3Yo"
     },
     {
-      "videoId": "0B62mzkASs8",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
-      "published": "2026-06-10T20:54:33+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/0B62mzkASs8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0B62mzkASs8"
-    },
-    {
-      "videoId": "GZABwnUHypA",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
-      "published": "2026-06-10T18:08:41+00:00",
-      "source": "NVIDIA",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/GZABwnUHypA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=GZABwnUHypA"
-    },
-    {
       "videoId": "JaTJpwlOPfI",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -927,17 +971,6 @@
       "url": "https://www.youtube.com/watch?v=LE90Yc5TuCs"
     },
     {
-      "videoId": "hbnhMKckxTE",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "A new vision for agent-first computing: Project Solara | Steven Bathiche at Microsoft Build 2026",
-      "published": "2026-06-04T00:40:20+00:00",
-      "source": "Microsoft",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/hbnhMKckxTE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hbnhMKckxTE"
-    },
-    {
       "videoId": "Spb-ka7xrR8",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -1024,17 +1057,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/KOFz3EqRnbI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=KOFz3EqRnbI"
-    },
-    {
-      "videoId": "48wpTp2QB-Q",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Impact Stories: @cravings4candles",
-      "published": "2026-05-25T16:00:25+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/48wpTp2QB-Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=48wpTp2QB-Q"
     },
     {
       "videoId": "tj7Sd7fs6JQ",
