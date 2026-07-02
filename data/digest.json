@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T13:35:06.377Z",
+  "generatedAt": "2026-07-02T13:01:18.139Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,83 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "SfUH9ENJCko",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "America's recipe for innovation is enshrined in the Constitution",
+      "published": "2026-07-02T12:01:53+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/SfUH9ENJCko/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SfUH9ENJCko"
+    },
+    {
+      "videoId": "v6iTuuXZYbY",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "It’s 1698 again… but different",
+      "published": "2026-07-01T21:00:25+00:00",
+      "source": "Microsoft",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/v6iTuuXZYbY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=v6iTuuXZYbY"
+    },
+    {
+      "videoId": "08hgAtg-P_8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Codex for Solutions Engineers: Making AI Tangible for Customers",
+      "published": "2026-07-01T18:31:25+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/08hgAtg-P_8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=08hgAtg-P_8"
+    },
+    {
+      "videoId": "CXCE4QyvMrU",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Just how good was Landon Donovan? Let’s Search it.",
+      "published": "2026-07-01T17:48:30+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/CXCE4QyvMrU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CXCE4QyvMrU"
+    },
+    {
+      "videoId": "sUdEcG824YQ",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA Data Center Partners Recap | GTC Taipei 2026 Recap",
+      "published": "2026-07-01T15:37:52+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/sUdEcG824YQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sUdEcG824YQ"
+    },
+    {
+      "videoId": "IUGEvzfvUWU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Setup with ChatGPT",
+      "published": "2026-07-01T14:30:32+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/IUGEvzfvUWU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IUGEvzfvUWU"
+    },
+    {
+      "videoId": "N3Hzsf2PuHA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Grow With ChatGPT",
+      "published": "2026-07-01T14:28:59+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/N3Hzsf2PuHA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N3Hzsf2PuHA"
+    },
     {
       "videoId": "TglEnUdBb3o",
       "leaderId": "sundar-pichai",
@@ -663,17 +740,6 @@
       "url": "https://www.youtube.com/watch?v=d3jlow2FCH4"
     },
     {
-      "videoId": "ECquAokER_8",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "How to use Tools in Google Flow | Find Your Flow",
-      "published": "2026-06-18T19:18:00+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ECquAokER_8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ECquAokER_8"
-    },
-    {
       "videoId": "UxY8zJKRrHU",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -685,17 +751,6 @@
       "url": "https://www.youtube.com/watch?v=UxY8zJKRrHU"
     },
     {
-      "videoId": "ZK3JhU73W18",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Record & Replay in Codex",
-      "published": "2026-06-18T18:57:34+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ZK3JhU73W18/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZK3JhU73W18"
-    },
-    {
       "videoId": "I-ej54mJHJk",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -705,17 +760,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/I-ej54mJHJk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=I-ej54mJHJk"
-    },
-    {
-      "videoId": "rOLKQJMLBHI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build and test iOS apps without leaving Codex!",
-      "published": "2026-06-17T18:01:46+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/rOLKQJMLBHI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rOLKQJMLBHI"
     },
     {
       "videoId": "QFncbBQl6RM",
@@ -738,17 +782,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/sh7XqNoeUAw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=sh7XqNoeUAw"
-    },
-    {
-      "videoId": "CFqjjKp9Y-Q",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Why Tejal Patwardhan stopped underestimating the models - Episode 21",
-      "published": "2026-06-16T17:00:02+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/CFqjjKp9Y-Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CFqjjKp9Y-Q"
     },
     {
       "videoId": "oh-l_DlN0bc",
@@ -815,17 +848,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/gatpk6BhN5w/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gatpk6BhN5w"
-    },
-    {
-      "videoId": "U-jd4DdZyXw",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA Certification: Real Talk from AI Professionals Who Got Certified at GTC",
-      "published": "2026-06-11T16:11:06+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/U-jd4DdZyXw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=U-jd4DdZyXw"
     },
     {
       "videoId": "QabLb9HpIyQ",
@@ -947,28 +969,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/DOm7VDEPcI0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=DOm7VDEPcI0"
-    },
-    {
-      "videoId": "3nGPxJ0kJ7k",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Voice Coding Demo: MAI-Code-1-Flash | Microsoft AI Models",
-      "published": "2026-06-04T17:00:11+00:00",
-      "source": "Microsoft",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/3nGPxJ0kJ7k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3nGPxJ0kJ7k"
-    },
-    {
-      "videoId": "LE90Yc5TuCs",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Build 2026 Podcast: Satya Nadella, Sarah Guo and Elad Gil from No Priors, and Swyx from Latent Space",
-      "published": "2026-06-04T11:00:03+00:00",
-      "source": "Microsoft",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/LE90Yc5TuCs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=LE90Yc5TuCs"
     },
     {
       "videoId": "Spb-ka7xrR8",
