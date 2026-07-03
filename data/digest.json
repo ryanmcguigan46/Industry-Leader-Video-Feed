@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T13:01:18.139Z",
+  "generatedAt": "2026-07-03T12:57:00.882Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,83 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "aeZTTnfo8Ok",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "How to style your team colors for any event ✨",
+      "published": "2026-07-03T10:57:59+00:00",
+      "source": "Google",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/aeZTTnfo8Ok/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aeZTTnfo8Ok"
+    },
+    {
+      "videoId": "RNY0p5wL4AA",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "BIO26 Healthcare Special Address",
+      "published": "2026-07-02T20:50:56+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/RNY0p5wL4AA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RNY0p5wL4AA"
+    },
+    {
+      "videoId": "HAiBGTrdOwI",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "BioNeMo Agent Toolkit",
+      "published": "2026-07-02T18:20:12+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/HAiBGTrdOwI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HAiBGTrdOwI"
+    },
+    {
+      "videoId": "wHv_vYL4bqI",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "An Early Look At The ASUS ProArt P16 & P14 Laptops Powered by NVIDIA RTX Spark",
+      "published": "2026-07-02T17:00:05+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/wHv_vYL4bqI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wHv_vYL4bqI"
+    },
+    {
+      "videoId": "GmxYBxQedDw",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Got pro reflexes? Find out on Search 👐",
+      "published": "2026-07-02T16:00:54+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/GmxYBxQedDw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GmxYBxQedDw"
+    },
+    {
+      "videoId": "gl2R3QivRMY",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Reel of the Week: @rosevlexa",
+      "published": "2026-07-02T16:00:04+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/gl2R3QivRMY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gl2R3QivRMY"
+    },
+    {
+      "videoId": "bOTy3Q5_trw",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Boz To The Future #27: The Future According to Shyam Sankar",
+      "published": "2026-07-02T13:44:02+00:00",
+      "source": "Meta",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/bOTy3Q5_trw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bOTy3Q5_trw"
+    },
     {
       "videoId": "SfUH9ENJCko",
       "leaderId": "satya-nadella",
@@ -465,28 +542,6 @@
       "url": "https://www.youtube.com/watch?v=4mrfqPuXYA4"
     },
     {
-      "videoId": "TjOeI2dFz5o",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "An Early Preview of Creator Workflows on NVIDIA RTX Spark Laptops",
-      "published": "2026-06-24T17:00:10+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/TjOeI2dFz5o/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TjOeI2dFz5o"
-    },
-    {
-      "videoId": "Alz-bhXqyXM",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
-      "published": "2026-06-24T16:05:22+00:00",
-      "source": "NVIDIA",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/Alz-bhXqyXM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Alz-bhXqyXM"
-    },
-    {
       "videoId": "JJTdXTf12oQ",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -540,17 +595,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/8aGMLbS3NAo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=8aGMLbS3NAo"
-    },
-    {
-      "videoId": "Il4dhCv0Li0",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Advancing Scientific Discovery in the Agentic AI Era",
-      "published": "2026-06-23T16:45:33+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Il4dhCv0Li0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Il4dhCv0Li0"
     },
     {
       "videoId": "4Aci0c6-_fg",
@@ -685,17 +729,6 @@
       "url": "https://www.youtube.com/watch?v=iGOmDRYctOw"
     },
     {
-      "videoId": "SJlhYV-cRnQ",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "How'd @LamineYamal get so good at dribbling?",
-      "published": "2026-06-20T12:59:34+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/SJlhYV-cRnQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SJlhYV-cRnQ"
-    },
-    {
       "videoId": "0JIbgZ544wU",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -727,17 +760,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/5sDfhQq_g8A/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=5sDfhQq_g8A"
-    },
-    {
-      "videoId": "d3jlow2FCH4",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Honoring Juneteenth #GoogleDoodle",
-      "published": "2026-06-19T15:23:16+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/d3jlow2FCH4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=d3jlow2FCH4"
     },
     {
       "videoId": "UxY8zJKRrHU",
@@ -1026,17 +1048,6 @@
       "url": "https://www.youtube.com/watch?v=4s1_DKMYQVo"
     },
     {
-      "videoId": "BEsL9qR-78w",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Vibe of the Week: @Toysbypolina",
-      "published": "2026-05-27T16:00:05+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/BEsL9qR-78w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=BEsL9qR-78w"
-    },
-    {
       "videoId": "hmeqs8mCHjI",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -1046,17 +1057,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/hmeqs8mCHjI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hmeqs8mCHjI"
-    },
-    {
-      "videoId": "KOFz3EqRnbI",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Impact Stories: Hike & Sew Club (@AngelGentle)",
-      "published": "2026-05-26T16:00:18+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/KOFz3EqRnbI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KOFz3EqRnbI"
     },
     {
       "videoId": "tj7Sd7fs6JQ",
