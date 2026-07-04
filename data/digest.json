@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T12:57:00.882Z",
+  "generatedAt": "2026-07-04T12:07:39.537Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "B0gTeYq0Emg",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "An Early Preview of Gaming on NVIDIA RTX Spark Laptops",
+      "published": "2026-07-03T16:00:01+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/B0gTeYq0Emg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=B0gTeYq0Emg"
+    },
     {
       "videoId": "aeZTTnfo8Ok",
       "leaderId": "sundar-pichai",
@@ -529,17 +540,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/gKboAPejVM8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gKboAPejVM8"
-    },
-    {
-      "videoId": "4mrfqPuXYA4",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
-      "published": "2026-06-24T18:48:39+00:00",
-      "source": "NVIDIA",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/4mrfqPuXYA4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4mrfqPuXYA4"
     },
     {
       "videoId": "JJTdXTf12oQ",
@@ -1079,39 +1079,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/1yTXr5bX2wQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=1yTXr5bX2wQ"
-    },
-    {
-      "videoId": "fAQKuSXA4Dk",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Use Live Captions to follow along. Tip from Roxie at the Apple Store.",
-      "published": "2026-05-19T20:33:57+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/fAQKuSXA4Dk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=fAQKuSXA4Dk"
-    },
-    {
-      "videoId": "TTb_cjCo7Nc",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Designing the Hikawa Grip & Stand for iPhone: an accessible accessory",
-      "published": "2026-05-19T16:24:34+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/TTb_cjCo7Nc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TTb_cjCo7Nc"
-    },
-    {
-      "videoId": "B3SmsSCvoss",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Accessibility: VoiceOver powered by Apple Intelligence",
-      "published": "2026-05-19T13:35:57+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/B3SmsSCvoss/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=B3SmsSCvoss"
     }
   ],
   "warnings": [
