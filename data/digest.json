@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T12:07:39.537Z",
+  "generatedAt": "2026-07-05T12:17:28.969Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "iDz4GqHQL6Q",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "How we created the Fourth of July Doodle | Behind the Doodle",
+      "published": "2026-07-04T16:01:51+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/iDz4GqHQL6Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iDz4GqHQL6Q"
+    },
     {
       "videoId": "B0gTeYq0Emg",
       "leaderId": "jensen-huang",
@@ -718,17 +729,6 @@
       "url": "https://www.youtube.com/watch?v=jSgWjoIWcQU"
     },
     {
-      "videoId": "iGOmDRYctOw",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Behind the Doodle: Father’s Day #GoogleDoodle",
-      "published": "2026-06-21T12:58:50+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/iGOmDRYctOw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=iGOmDRYctOw"
-    },
-    {
       "videoId": "0JIbgZ544wU",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -1057,28 +1057,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/hmeqs8mCHjI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hmeqs8mCHjI"
-    },
-    {
-      "videoId": "tj7Sd7fs6JQ",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Model S & X Signature Delivery Event",
-      "published": "2026-05-21T05:25:32+00:00",
-      "source": "Tesla",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/tj7Sd7fs6JQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tj7Sd7fs6JQ"
-    },
-    {
-      "videoId": "1yTXr5bX2wQ",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Apple Vision Pro: Official Trailer for Real Madrid: The Weight of Greatness",
-      "published": "2026-05-20T13:01:10+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/1yTXr5bX2wQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1yTXr5bX2wQ"
     }
   ],
   "warnings": [
