@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T12:17:28.969Z",
+  "generatedAt": "2026-07-06T14:26:59.465Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "i55knpDqWbQ",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Hey Meta\" with George Russell",
+      "published": "2026-07-05T16:00:19+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/i55knpDqWbQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=i55knpDqWbQ"
+    },
     {
       "videoId": "iDz4GqHQL6Q",
       "leaderId": "sundar-pichai",
@@ -1035,17 +1046,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Y087rRmUMJI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Y087rRmUMJI"
-    },
-    {
-      "videoId": "4s1_DKMYQVo",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Boz To The Future #26: The Future According to Ed Catmull",
-      "published": "2026-05-28T15:03:21+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4s1_DKMYQVo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4s1_DKMYQVo"
     },
     {
       "videoId": "hmeqs8mCHjI",
