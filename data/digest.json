@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T14:26:59.465Z",
+  "generatedAt": "2026-07-07T13:21:59.127Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "sLYXRA5Ay9g",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Réinventer l'expérience beauté grâce à l'IA",
+      "published": "2026-07-07T09:01:40+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/sLYXRA5Ay9g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sLYXRA5Ay9g"
+    },
+    {
+      "videoId": "0x4KRxmRGz4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "What does an AI-native future look like for one of the world's largest automotive marketplaces?",
+      "published": "2026-07-07T08:23:39+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/0x4KRxmRGz4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0x4KRxmRGz4"
+    },
+    {
+      "videoId": "IJ3ABUE27Gc",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Visual learners, this one's for you 🙋‍♂️📚",
+      "published": "2026-07-06T21:09:40+00:00",
+      "source": "Google",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/IJ3ABUE27Gc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IJ3ABUE27Gc"
+    },
+    {
+      "videoId": "4sexN3yE8xg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Builders Unscripted: Ep. 5 - Derya Unutmaz",
+      "published": "2026-07-06T20:03:49+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4sexN3yE8xg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4sexN3yE8xg"
+    },
+    {
+      "videoId": "NxALjKM0XRg",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Impact Stories: Yianni (@yohnmav)",
+      "published": "2026-07-06T15:00:30+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/NxALjKM0XRg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NxALjKM0XRg"
+    },
+    {
+      "videoId": "sha3EL1ngN8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Thomson Reuters CEO Steve Hasker swears by this AI Routine",
+      "published": "2026-07-06T14:39:55+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/sha3EL1ngN8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sha3EL1ngN8"
+    },
     {
       "videoId": "i55knpDqWbQ",
       "leaderId": "mark-zuckerberg",
@@ -311,21 +377,10 @@
       "url": "https://www.youtube.com/watch?v=Zd-IzRXoNhk"
     },
     {
-      "videoId": "usOHLZrBdCE",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "SpaceX set to raise $25 billion of bonds in debut bond offer",
-      "published": "2026-06-30T13:06:39+00:00",
-      "source": "Bloomberg Technology",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/usOHLZrBdCE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=usOHLZrBdCE"
-    },
-    {
       "videoId": "orWeWjmoZ1E",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
-      "title": "Topicals, Forvr Mood & Phe Phe on building brands that last | Cannes Lions 2026",
+      "title": "Nobody talks about this in the creator economy | Cannes Lions 2026",
       "published": "2026-06-29T23:00:04+00:00",
       "source": "Microsoft",
       "type": "Press",
@@ -718,17 +773,6 @@
       "url": "https://www.youtube.com/watch?v=ZXK6M8ldMJM"
     },
     {
-      "videoId": "sl1R37FopZc",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Top Searched Soccer Debates | Landon vs. Howard",
-      "published": "2026-06-21T20:15:22+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/sl1R37FopZc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sl1R37FopZc"
-    },
-    {
       "videoId": "jSgWjoIWcQU",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -738,50 +782,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/jSgWjoIWcQU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=jSgWjoIWcQU"
-    },
-    {
-      "videoId": "0JIbgZ544wU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "What Codex Unlocks for NTT Data",
-      "published": "2026-06-19T22:57:58+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/0JIbgZ544wU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0JIbgZ544wU"
-    },
-    {
-      "videoId": "YPNOjXTDP9c",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Plan with ChatGPT",
-      "published": "2026-06-19T21:22:26+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/YPNOjXTDP9c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YPNOjXTDP9c"
-    },
-    {
-      "videoId": "5sDfhQq_g8A",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Score with ChatGPT",
-      "published": "2026-06-19T21:20:04+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/5sDfhQq_g8A/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5sDfhQq_g8A"
-    },
-    {
-      "videoId": "UxY8zJKRrHU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Improving health intelligence in ChatGPT",
-      "published": "2026-06-18T19:10:18+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/UxY8zJKRrHU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UxY8zJKRrHU"
     },
     {
       "videoId": "I-ej54mJHJk",
@@ -1035,17 +1035,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/gSNFJbgoaHI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gSNFJbgoaHI"
-    },
-    {
-      "videoId": "Y087rRmUMJI",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Best AI Tip in 4 Folds",
-      "published": "2026-06-02T14:30:15+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Y087rRmUMJI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Y087rRmUMJI"
     },
     {
       "videoId": "hmeqs8mCHjI",
