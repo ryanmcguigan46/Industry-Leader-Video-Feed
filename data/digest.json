@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T13:21:59.127Z",
+  "generatedAt": "2026-07-08T12:21:49.636Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,94 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "pE1ljLVY1Rg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "published": "2026-07-08T00:02:05+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/pE1ljLVY1Rg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pE1ljLVY1Rg"
+    },
+    {
+      "videoId": "NqQnHWa-Vxs",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Autobidder | Tesla Megapack",
+      "published": "2026-07-07T19:32:10+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/NqQnHWa-Vxs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NqQnHWa-Vxs"
+    },
+    {
+      "videoId": "psqiOxQ61pI",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "An Early Look At The Dell XPS 16 Laptop Powered by NVIDIA RTX Spark",
+      "published": "2026-07-07T18:49:04+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/psqiOxQ61pI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=psqiOxQ61pI"
+    },
+    {
+      "videoId": "kUBfd1-M4hw",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "AI Chip Selloff Spreads Across Global Markets | Bloomberg Tech 7/07/2026",
+      "published": "2026-07-07T18:32:04+00:00",
+      "source": "Bloomberg Technology",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/kUBfd1-M4hw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kUBfd1-M4hw"
+    },
+    {
+      "videoId": "tMZcqHl1NQY",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta AI",
+      "published": "2026-07-07T18:18:17+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/tMZcqHl1NQY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tMZcqHl1NQY"
+    },
+    {
+      "videoId": "mC8nKdQbbO4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How TPG Is Accelerating Investment Research with ChatGPT",
+      "published": "2026-07-07T17:33:50+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/mC8nKdQbbO4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mC8nKdQbbO4"
+    },
+    {
+      "videoId": "SRXJevuTnNI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How TPG Is Accelerating Investment Research with ChatGPT",
+      "published": "2026-07-07T17:15:23+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/SRXJevuTnNI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SRXJevuTnNI"
+    },
+    {
+      "videoId": "qN2yR8ZpEMk",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Animate your Live Stickers. Tip from Claudia at the Apple Store.",
+      "published": "2026-07-07T16:02:02+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/qN2yR8ZpEMk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qN2yR8ZpEMk"
+    },
     {
       "videoId": "sLYXRA5Ay9g",
       "leaderId": "sam-altman",
@@ -597,17 +685,6 @@
       "url": "https://www.youtube.com/watch?v=GsqW5MPFajw"
     },
     {
-      "videoId": "tqN19lJ9Bsc",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA's Kimberly Powell at BIO International Convention",
-      "published": "2026-06-25T03:49:27+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/tqN19lJ9Bsc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tqN19lJ9Bsc"
-    },
-    {
       "videoId": "gKboAPejVM8",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -696,28 +773,6 @@
       "url": "https://www.youtube.com/watch?v=czO4oZOlMvo"
     },
     {
-      "videoId": "qU5-komJ-GE",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Omio is building the future of conversational travel",
-      "published": "2026-06-23T11:30:20+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/qU5-komJ-GE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qU5-komJ-GE"
-    },
-    {
-      "videoId": "GhCP2eDrKHk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Meet the ChatGPT Futures, Class of 2026",
-      "published": "2026-06-22T21:06:32+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/GhCP2eDrKHk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=GhCP2eDrKHk"
-    },
-    {
       "videoId": "Vb-OqxUWPDE",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -749,17 +804,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/e0WOqG959x8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=e0WOqG959x8"
-    },
-    {
-      "videoId": "27-GjDIWGo0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Zendesk CEO Tom Eggemeier goes from Idea to Action",
-      "published": "2026-06-22T17:45:36+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/27-GjDIWGo0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=27-GjDIWGo0"
     },
     {
       "videoId": "ZXK6M8ldMJM",
@@ -1013,17 +1057,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/Spb-ka7xrR8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Spb-ka7xrR8"
-    },
-    {
-      "videoId": "v6pIvepHYgc",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Reel of The Week: @lilygbakes",
-      "published": "2026-06-03T16:00:08+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/v6pIvepHYgc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=v6pIvepHYgc"
     },
     {
       "videoId": "gSNFJbgoaHI",
