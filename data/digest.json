@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T12:21:49.636Z",
+  "generatedAt": "2026-07-09T13:50:44.474Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,215 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "hnLxZYDb4z0",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Ode Poetry Experience | Powered by MAI models",
+      "published": "2026-07-09T07:45:24+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/hnLxZYDb4z0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hnLxZYDb4z0"
+    },
+    {
+      "videoId": "8xqQzrLf0co",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Bain Capital Is Scaling AI with ChatGPT",
+      "published": "2026-07-08T22:51:23+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/8xqQzrLf0co/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8xqQzrLf0co"
+    },
+    {
+      "videoId": "9f-Ew_lDtxc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "The next generation of ChatGPT Voice",
+      "published": "2026-07-08T21:13:26+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/9f-Ew_lDtxc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9f-Ew_lDtxc"
+    },
+    {
+      "videoId": "p2PcFL2FTA8",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA and LangChain",
+      "published": "2026-07-08T21:00:19+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/p2PcFL2FTA8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=p2PcFL2FTA8"
+    },
+    {
+      "videoId": "UCadV1KCElk",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Media and AI Back in the Sun Valley Spotlight",
+      "published": "2026-07-08T18:35:23+00:00",
+      "source": "Bloomberg Technology",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/UCadV1KCElk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UCadV1KCElk"
+    },
+    {
+      "videoId": "tjGVnjsvi-k",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "The Network at the Heart of AI Factories With NVIDIA Spectrum- X Ethernet​",
+      "published": "2026-07-08T17:39:39+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/tjGVnjsvi-k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tjGVnjsvi-k"
+    },
+    {
+      "videoId": "KS4X-BPjxN8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Image interaction with GPT-Live",
+      "published": "2026-07-08T17:37:19+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/KS4X-BPjxN8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KS4X-BPjxN8"
+    },
+    {
+      "videoId": "QUOwyLwoykU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Discoverability widgets with GPT-Live",
+      "published": "2026-07-08T17:36:34+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/QUOwyLwoykU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QUOwyLwoykU"
+    },
+    {
+      "videoId": "3bL6IpdgddQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Natural Conversations with GPT-Live",
+      "published": "2026-07-08T17:33:32+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/3bL6IpdgddQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3bL6IpdgddQ"
+    },
+    {
+      "videoId": "8vvWTz6N7Qg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Temporal awareness with GPT-Live",
+      "published": "2026-07-08T17:33:31+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/8vvWTz6N7Qg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8vvWTz6N7Qg"
+    },
+    {
+      "videoId": "K-fYBO8t3-A",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Listening & Speaking with GPT-Live",
+      "published": "2026-07-08T17:33:31+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/K-fYBO8t3-A/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=K-fYBO8t3-A"
+    },
+    {
+      "videoId": "EAN5Cj347PY",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "This is the new ChatGPT Voice, powered by GPT-Live",
+      "published": "2026-07-08T17:23:27+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/EAN5Cj347PY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EAN5Cj347PY"
+    },
+    {
+      "videoId": "BXWlJAM4U9Y",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Find your next favorite food with Lens 📸",
+      "published": "2026-07-08T16:56:46+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/BXWlJAM4U9Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BXWlJAM4U9Y"
+    },
+    {
+      "videoId": "94cXnSu6kUQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "OpenAI Academy: Parent-Coaches with the San Antonio Spurs",
+      "published": "2026-07-08T15:25:08+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/94cXnSu6kUQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=94cXnSu6kUQ"
+    },
+    {
+      "videoId": "J2ZNjSplGd8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "OpenAI Academy x Veterans Forge | Building with ChatGPT: Practical AI Skills for Veterans",
+      "published": "2026-07-08T15:25:04+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/J2ZNjSplGd8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=J2ZNjSplGd8"
+    },
+    {
+      "videoId": "gjYqxEd0VPU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "OpenAI Academy: Small Business Jam 2025",
+      "published": "2026-07-08T15:25:01+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/gjYqxEd0VPU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gjYqxEd0VPU"
+    },
+    {
+      "videoId": "ihnqxynwtYk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "OpenAI Academy Abilene: Teaching AI literacy in the home of the first Stargate data center",
+      "published": "2026-07-08T15:24:58+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ihnqxynwtYk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ihnqxynwtYk"
+    },
+    {
+      "videoId": "Mz-hQsE3OWQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How East Bay Nonprofits Are Putting AI to Work | OpenAI Academy",
+      "published": "2026-07-08T15:24:54+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Mz-hQsE3OWQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Mz-hQsE3OWQ"
+    },
+    {
+      "videoId": "FGftt6llon0",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Freedom is built on the protection of privacy | Episode 2",
+      "published": "2026-07-08T15:00:31+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/FGftt6llon0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FGftt6llon0"
+    },
     {
       "videoId": "pE1ljLVY1Rg",
       "leaderId": "sam-altman",
@@ -113,17 +322,6 @@
       "url": "https://www.youtube.com/watch?v=mC8nKdQbbO4"
     },
     {
-      "videoId": "SRXJevuTnNI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How TPG Is Accelerating Investment Research with ChatGPT",
-      "published": "2026-07-07T17:15:23+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/SRXJevuTnNI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SRXJevuTnNI"
-    },
-    {
       "videoId": "qN2yR8ZpEMk",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -133,28 +331,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/qN2yR8ZpEMk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qN2yR8ZpEMk"
-    },
-    {
-      "videoId": "sLYXRA5Ay9g",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Réinventer l'expérience beauté grâce à l'IA",
-      "published": "2026-07-07T09:01:40+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/sLYXRA5Ay9g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sLYXRA5Ay9g"
-    },
-    {
-      "videoId": "0x4KRxmRGz4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "What does an AI-native future look like for one of the world's largest automotive marketplaces?",
-      "published": "2026-07-07T08:23:39+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/0x4KRxmRGz4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0x4KRxmRGz4"
     },
     {
       "videoId": "IJ3ABUE27Gc",
@@ -168,17 +344,6 @@
       "url": "https://www.youtube.com/watch?v=IJ3ABUE27Gc"
     },
     {
-      "videoId": "4sexN3yE8xg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Builders Unscripted: Ep. 5 - Derya Unutmaz",
-      "published": "2026-07-06T20:03:49+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4sexN3yE8xg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4sexN3yE8xg"
-    },
-    {
       "videoId": "NxALjKM0XRg",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -188,17 +353,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/NxALjKM0XRg/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=NxALjKM0XRg"
-    },
-    {
-      "videoId": "sha3EL1ngN8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Thomson Reuters CEO Steve Hasker swears by this AI Routine",
-      "published": "2026-07-06T14:39:55+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/sha3EL1ngN8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sha3EL1ngN8"
     },
     {
       "videoId": "i55knpDqWbQ",
@@ -333,17 +487,6 @@
       "url": "https://www.youtube.com/watch?v=v6iTuuXZYbY"
     },
     {
-      "videoId": "08hgAtg-P_8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Codex for Solutions Engineers: Making AI Tangible for Customers",
-      "published": "2026-07-01T18:31:25+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/08hgAtg-P_8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=08hgAtg-P_8"
-    },
-    {
       "videoId": "CXCE4QyvMrU",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -364,28 +507,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/sUdEcG824YQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=sUdEcG824YQ"
-    },
-    {
-      "videoId": "IUGEvzfvUWU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Setup with ChatGPT",
-      "published": "2026-07-01T14:30:32+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/IUGEvzfvUWU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IUGEvzfvUWU"
-    },
-    {
-      "videoId": "N3Hzsf2PuHA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Grow With ChatGPT",
-      "published": "2026-07-01T14:28:59+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/N3Hzsf2PuHA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=N3Hzsf2PuHA"
     },
     {
       "videoId": "TglEnUdBb3o",
@@ -520,17 +641,6 @@
       "url": "https://www.youtube.com/watch?v=ROz8bhtAVzc"
     },
     {
-      "videoId": "f-HiB82Tl94",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Advent Accelerates Deals with ChatGPT + Codex",
-      "published": "2026-06-29T14:30:09+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/f-HiB82Tl94/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=f-HiB82Tl94"
-    },
-    {
       "videoId": "zDuZmccxjlA",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -586,28 +696,6 @@
       "url": "https://www.youtube.com/watch?v=msyJmnDejNg"
     },
     {
-      "videoId": "SPC_yCe1cUw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Builders Unscripted: Ep. 4 - Pietro Schirano",
-      "published": "2026-06-26T19:40:00+00:00",
-      "source": "OpenAI",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/SPC_yCe1cUw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SPC_yCe1cUw"
-    },
-    {
-      "videoId": "mFwWax5pLTs",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Verso, l'entreprise qui ne dort jamais",
-      "published": "2026-06-26T11:00:22+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/mFwWax5pLTs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mFwWax5pLTs"
-    },
-    {
       "videoId": "vUQ4rmTX2YY",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -617,17 +705,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/vUQ4rmTX2YY/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vUQ4rmTX2YY"
-    },
-    {
-      "videoId": "q_diWy3xdrw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "What if plants could talk?",
-      "published": "2026-06-25T17:19:53+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/q_diWy3xdrw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=q_diWy3xdrw"
     },
     {
       "videoId": "Vy4cAPglzZo",
@@ -663,28 +740,6 @@
       "url": "https://www.youtube.com/watch?v=0BGflErfumM"
     },
     {
-      "videoId": "Ywgx2AqcdM8",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA cuPhoton: The Tech Fast-Tracking Space Discovery",
-      "published": "2026-06-25T03:51:55+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Ywgx2AqcdM8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Ywgx2AqcdM8"
-    },
-    {
-      "videoId": "GsqW5MPFajw",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA & Coherent: Reindustrializing America, Manufacturing for the AI Era",
-      "published": "2026-06-25T03:51:12+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/GsqW5MPFajw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=GsqW5MPFajw"
-    },
-    {
       "videoId": "gKboAPejVM8",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -716,17 +771,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/W6l7J7Bpl7U/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=W6l7J7Bpl7U"
-    },
-    {
-      "videoId": "mVpCDzoNtxA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Futures, Class of 2026: The Next Generation of AI Leaders",
-      "published": "2026-06-23T18:45:29+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/mVpCDzoNtxA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mVpCDzoNtxA"
     },
     {
       "videoId": "-liNEDhNkzE",
@@ -804,17 +848,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/e0WOqG959x8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=e0WOqG959x8"
-    },
-    {
-      "videoId": "ZXK6M8ldMJM",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "The World Is Searching | Les Bleus",
-      "published": "2026-06-22T16:39:46+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ZXK6M8ldMJM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZXK6M8ldMJM"
     },
     {
       "videoId": "jSgWjoIWcQU",
@@ -1015,17 +1048,6 @@
       "url": "https://www.youtube.com/watch?v=a7e_3ThX4nY"
     },
     {
-      "videoId": "fEji4sDsC24",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Alix Earle's Microsoft Campus Tour",
-      "published": "2026-06-05T16:45:16+00:00",
-      "source": "Microsoft",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/fEji4sDsC24/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=fEji4sDsC24"
-    },
-    {
       "videoId": "Zj315BdfDfE",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1037,17 +1059,6 @@
       "url": "https://www.youtube.com/watch?v=Zj315BdfDfE"
     },
     {
-      "videoId": "DOm7VDEPcI0",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Introducing MAI-Voice-2 | Microsoft AI Models",
-      "published": "2026-06-04T23:00:24+00:00",
-      "source": "Microsoft",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/DOm7VDEPcI0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DOm7VDEPcI0"
-    },
-    {
       "videoId": "Spb-ka7xrR8",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -1057,17 +1068,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/Spb-ka7xrR8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Spb-ka7xrR8"
-    },
-    {
-      "videoId": "gSNFJbgoaHI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to Build an AI-Native Services Company",
-      "published": "2026-06-03T14:00:38+00:00",
-      "source": "Y Combinator",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/gSNFJbgoaHI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gSNFJbgoaHI"
     },
     {
       "videoId": "hmeqs8mCHjI",
