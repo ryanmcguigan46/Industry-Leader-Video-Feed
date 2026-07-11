@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T13:12:50.132Z",
+  "generatedAt": "2026-07-11T11:53:19.060Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,83 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "MdTqoR-7oHg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "RingCentral Scales Customer Programs with ChatGPT Work",
+      "published": "2026-07-10T21:21:13+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/MdTqoR-7oHg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MdTqoR-7oHg"
+    },
+    {
+      "videoId": "eD5lc1mZDZk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Stampli scales product marketing with ChatGPT Work",
+      "published": "2026-07-10T21:17:12+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/eD5lc1mZDZk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eD5lc1mZDZk"
+    },
+    {
+      "videoId": "yATno77Uo6A",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Stampli scales product marketing with ChatGPT Work",
+      "published": "2026-07-10T21:11:41+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/yATno77Uo6A/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yATno77Uo6A"
+    },
+    {
+      "videoId": "IYYTI73J7Rg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT Computer Use: Now faster with Live Picture-in-Picture",
+      "published": "2026-07-10T19:45:02+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/IYYTI73J7Rg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IYYTI73J7Rg"
+    },
+    {
+      "videoId": "LvbUFwNtyPI",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "COMPUTEX 2026 | NVIDIA Keynote | Extreme Co-Design: Building the AI Factory",
+      "published": "2026-07-10T16:16:00+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/LvbUFwNtyPI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LvbUFwNtyPI"
+    },
+    {
+      "videoId": "nep5byxmr_M",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "RingCentral Scales Customer Programs with ChatGPT Work",
+      "published": "2026-07-10T16:02:41+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/nep5byxmr_M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nep5byxmr_M"
+    },
+    {
+      "videoId": "3zmSrRWDpKk",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "The public decides how technology is used | Episode 3",
+      "published": "2026-07-10T15:02:11+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/3zmSrRWDpKk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3zmSrRWDpKk"
+    },
     {
       "videoId": "Mfv_cRfj4x8",
       "leaderId": "mark-zuckerberg",
@@ -179,61 +256,6 @@
       "url": "https://www.youtube.com/watch?v=8sUXGKDUEzI"
     },
     {
-      "videoId": "Ga792ftrBu4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Codex for Engineering teams",
-      "published": "2026-07-09T18:30:19+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Ga792ftrBu4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Ga792ftrBu4"
-    },
-    {
-      "videoId": "jEtR3PLaWos",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work for Sales Teams",
-      "published": "2026-07-09T18:30:18+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/jEtR3PLaWos/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jEtR3PLaWos"
-    },
-    {
-      "videoId": "M3yEJEDFaEg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work for Business Operations Teams",
-      "published": "2026-07-09T18:30:17+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/M3yEJEDFaEg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=M3yEJEDFaEg"
-    },
-    {
-      "videoId": "RlS2dDeAfDw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work for Finance Teams",
-      "published": "2026-07-09T18:30:12+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/RlS2dDeAfDw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=RlS2dDeAfDw"
-    },
-    {
-      "videoId": "l-YPBP5jTVs",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work for Data Analytics Teams",
-      "published": "2026-07-09T18:30:05+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/l-YPBP5jTVs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=l-YPBP5jTVs"
-    },
-    {
       "videoId": "40BJbVPJUVU",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -287,17 +309,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/p2PcFL2FTA8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=p2PcFL2FTA8"
-    },
-    {
-      "videoId": "UCadV1KCElk",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Tim Cook, Jeff Bezos Head to Sun Valley for Annual Retreat",
-      "published": "2026-07-08T18:35:23+00:00",
-      "source": "Bloomberg Technology",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/UCadV1KCElk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UCadV1KCElk"
     },
     {
       "videoId": "tjGVnjsvi-k",
@@ -751,17 +762,6 @@
       "url": "https://www.youtube.com/watch?v=vUQ4rmTX2YY"
     },
     {
-      "videoId": "Vy4cAPglzZo",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "An Early Look At The Microsoft Surface Laptop Ultra Powered by NVIDIA RTX Spark",
-      "published": "2026-06-25T17:00:14+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Vy4cAPglzZo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Vy4cAPglzZo"
-    },
-    {
       "videoId": "0BGflErfumM",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1059,17 +1059,6 @@
       "url": "https://www.youtube.com/watch?v=hF8swzNR1-o"
     },
     {
-      "videoId": "a7e_3ThX4nY",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Introducing MAI-Transcribe-1.5 | Microsoft AI Models",
-      "published": "2026-06-08T17:00:32+00:00",
-      "source": "Microsoft",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/a7e_3ThX4nY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=a7e_3ThX4nY"
-    },
-    {
       "videoId": "Zj315BdfDfE",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1090,17 +1079,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/Spb-ka7xrR8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Spb-ka7xrR8"
-    },
-    {
-      "videoId": "hmeqs8mCHjI",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Never miss a notification with Flash for Alerts. Tip from Sibele at the Apple Store. #Shorts",
-      "published": "2026-05-26T18:14:48+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/hmeqs8mCHjI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hmeqs8mCHjI"
     }
   ],
   "warnings": [
