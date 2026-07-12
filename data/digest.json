@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T11:53:19.060Z",
+  "generatedAt": "2026-07-12T12:02:47.303Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "pUuQWUZiEJw",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Reel of the Week: @_sweetzori",
+      "published": "2026-07-11T16:00:39+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/pUuQWUZiEJw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pUuQWUZiEJw"
+    },
     {
       "videoId": "MdTqoR-7oHg",
       "leaderId": "sam-altman",
@@ -1057,17 +1068,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/hF8swzNR1-o/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hF8swzNR1-o"
-    },
-    {
-      "videoId": "Zj315BdfDfE",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "If We Make All Three With @AIatMeta",
-      "published": "2026-06-05T16:00:08+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Zj315BdfDfE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Zj315BdfDfE"
     },
     {
       "videoId": "Spb-ka7xrR8",
