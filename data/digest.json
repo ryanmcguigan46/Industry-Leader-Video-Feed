@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T12:02:47.303Z",
+  "generatedAt": "2026-07-13T13:24:48.079Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "5qTTLTzyY9Y",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Portugal's leading the mini cup... for now 👀",
+      "published": "2026-07-12T15:00:43+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/5qTTLTzyY9Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5qTTLTzyY9Y"
+    },
     {
       "videoId": "pUuQWUZiEJw",
       "leaderId": "mark-zuckerberg",
@@ -815,17 +826,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/W6l7J7Bpl7U/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=W6l7J7Bpl7U"
-    },
-    {
-      "videoId": "-liNEDhNkzE",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "The World Is Searching | Weston McKennie",
-      "published": "2026-06-23T18:08:44+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/-liNEDhNkzE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-liNEDhNkzE"
     },
     {
       "videoId": "8aGMLbS3NAo",
