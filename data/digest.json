@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T13:24:48.079Z",
+  "generatedAt": "2026-07-14T12:14:19.454Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,6 +47,72 @@
   ],
   "videos": [
     {
+      "videoId": "-J5KoSMfPLk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Learning with AI at Any Stage of Life | Fast Campus x OpenAI",
+      "published": "2026-07-13T23:07:18+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/-J5KoSMfPLk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-J5KoSMfPLk"
+    },
+    {
+      "videoId": "KNPXPewypDU",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "The real reason AI efforts fail",
+      "published": "2026-07-13T20:22:13+00:00",
+      "source": "Microsoft",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/KNPXPewypDU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KNPXPewypDU"
+    },
+    {
+      "videoId": "-a0ecQMq-rM",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Starship - Critical Path",
+      "published": "2026-07-13T20:13:37+00:00",
+      "source": "SpaceX",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/-a0ecQMq-rM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-a0ecQMq-rM"
+    },
+    {
+      "videoId": "c-lTrKAxViY",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "It’s that epic.",
+      "published": "2026-07-13T18:57:49+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/c-lTrKAxViY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=c-lTrKAxViY"
+    },
+    {
+      "videoId": "sJAXZDcpU3o",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "GTC Berlin Early Bird",
+      "published": "2026-07-13T15:30:02+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/sJAXZDcpU3o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sJAXZDcpU3o"
+    },
+    {
+      "videoId": "mlXbfJf80k8",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Why AI adoption fails (and how to fix it)",
+      "published": "2026-07-13T15:30:02+00:00",
+      "source": "Microsoft",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/mlXbfJf80k8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mlXbfJf80k8"
+    },
+    {
       "videoId": "5qTTLTzyY9Y",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -67,6 +133,17 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/pUuQWUZiEJw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=pUuQWUZiEJw"
+    },
+    {
+      "videoId": "q571PxpsdoA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Meet the family running a cereal business from their dining room with GPT-5.6",
+      "published": "2026-07-11T00:44:29+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/q571PxpsdoA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q571PxpsdoA"
     },
     {
       "videoId": "MdTqoR-7oHg",
@@ -256,28 +333,6 @@
       "url": "https://www.youtube.com/watch?v=hWhfrR9WJ_c"
     },
     {
-      "videoId": "A5VgJ0KZgKs",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Meet a family running a cereal business from their dining room with GPT-5.6.",
-      "published": "2026-07-09T20:00:18+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/A5VgJ0KZgKs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=A5VgJ0KZgKs"
-    },
-    {
-      "videoId": "8sUXGKDUEzI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work for Marketing Teams",
-      "published": "2026-07-09T18:30:29+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/8sUXGKDUEzI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8sUXGKDUEzI"
-    },
-    {
       "videoId": "40BJbVPJUVU",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -446,7 +501,7 @@
       "videoId": "iDz4GqHQL6Q",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
-      "title": "How we created the Fourth of July Doodle | Behind the Doodle",
+      "title": "How the Fourth of July Doodle was made | Behind the Doodle",
       "published": "2026-07-04T16:01:51+00:00",
       "source": "Google",
       "type": "Talk",
@@ -729,17 +784,6 @@
       "url": "https://www.youtube.com/watch?v=zDuZmccxjlA"
     },
     {
-      "videoId": "hA0S7_jr1F0",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How NPS and NVIDIA Are Training the Next AI Leaders",
-      "published": "2026-06-29T14:00:06+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/hA0S7_jr1F0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hA0S7_jr1F0"
-    },
-    {
       "videoId": "LcCirFk-FaU",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -815,17 +859,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/JJTdXTf12oQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=JJTdXTf12oQ"
-    },
-    {
-      "videoId": "W6l7J7Bpl7U",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "The World Is Searching | La Roja",
-      "published": "2026-06-23T21:17:03+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/W6l7J7Bpl7U/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=W6l7J7Bpl7U"
     },
     {
       "videoId": "8aGMLbS3NAo",
@@ -938,17 +971,6 @@
       "url": "https://www.youtube.com/watch?v=oh-l_DlN0bc"
     },
     {
-      "videoId": "czm4Y7VXvn8",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "How Technology Supports a New Generation of Farmers",
-      "published": "2026-06-16T16:05:29+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/czm4Y7VXvn8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=czm4Y7VXvn8"
-    },
-    {
       "videoId": "UwZgysCP1_o",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -991,17 +1013,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/gatpk6BhN5w/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gatpk6BhN5w"
-    },
-    {
-      "videoId": "QabLb9HpIyQ",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Microsoft’s LGBTQIA+ community shares stories of living openly and authentically",
-      "published": "2026-06-11T16:03:30+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/QabLb9HpIyQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=QabLb9HpIyQ"
     },
     {
       "videoId": "wDgH0FECdJs",
