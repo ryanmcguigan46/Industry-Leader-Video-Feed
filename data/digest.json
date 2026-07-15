@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T12:14:19.454Z",
+  "generatedAt": "2026-07-15T12:16:25.945Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,94 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "eiQgljOrkWU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Codex just got better for developers",
+      "published": "2026-07-14T23:30:19+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/eiQgljOrkWU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eiQgljOrkWU"
+    },
+    {
+      "videoId": "matzTxfrhJU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Background Robustness with GPT-Live",
+      "published": "2026-07-14T22:35:03+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/matzTxfrhJU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=matzTxfrhJU"
+    },
+    {
+      "videoId": "avpZWh6sm9M",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Improved Intelligence with GPT-Live",
+      "published": "2026-07-14T20:22:11+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/avpZWh6sm9M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=avpZWh6sm9M"
+    },
+    {
+      "videoId": "8zH_O74hZBw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Build and publish web apps directly in ChatGPT",
+      "published": "2026-07-14T19:19:36+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/8zH_O74hZBw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8zH_O74hZBw"
+    },
+    {
+      "videoId": "hsjVxuYEKKo",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Get sorted for college with Claudia from the Apple Store.",
+      "published": "2026-07-14T16:40:07+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/hsjVxuYEKKo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hsjVxuYEKKo"
+    },
+    {
+      "videoId": "bT0xCr1zNOc",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "An Early Look At The HP OmniBook Ultra 16 & X 14 Powered by NVIDIA RTX Spark",
+      "published": "2026-07-14T16:00:14+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/bT0xCr1zNOc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bT0xCr1zNOc"
+    },
+    {
+      "videoId": "29qGCi8FxGM",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Post Box Love Letter",
+      "published": "2026-07-14T16:00:13+00:00",
+      "source": "Meta",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/29qGCi8FxGM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=29qGCi8FxGM"
+    },
+    {
+      "videoId": "CvB_VBSF-mk",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Nonprofits empower a nation of problem solvers | Episode 4",
+      "published": "2026-07-14T15:01:08+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/CvB_VBSF-mk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CvB_VBSF-mk"
+    },
     {
       "videoId": "-J5KoSMfPLk",
       "leaderId": "sam-altman",
@@ -287,61 +375,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/md5t5Nu44A4/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=md5t5Nu44A4"
-    },
-    {
-      "videoId": "sqXsMDOxP0Y",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work | Zapier: Seven Figures in Monthly Pipeline",
-      "published": "2026-07-09T21:19:10+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/sqXsMDOxP0Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sqXsMDOxP0Y"
-    },
-    {
-      "videoId": "GphgJjaKKhw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Get started with ChatGPT Work",
-      "published": "2026-07-09T21:00:03+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/GphgJjaKKhw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=GphgJjaKKhw"
-    },
-    {
-      "videoId": "5X5CALvYvp0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Meet a mathematician solving previously unsolvable math problems with GPT-5.6",
-      "published": "2026-07-09T20:00:35+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/5X5CALvYvp0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5X5CALvYvp0"
-    },
-    {
-      "videoId": "hWhfrR9WJ_c",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Meet the broccoli farmer running his farm with GPT-5.6.",
-      "published": "2026-07-09T20:00:24+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/hWhfrR9WJ_c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hWhfrR9WJ_c"
-    },
-    {
-      "videoId": "40BJbVPJUVU",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "The Bull Case for SpaceX",
-      "published": "2026-07-09T18:15:51+00:00",
-      "source": "Bloomberg Technology",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/40BJbVPJUVU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=40BJbVPJUVU"
     },
     {
       "videoId": "RS9c40UDuIs",
@@ -644,7 +677,7 @@
       "videoId": "TglEnUdBb3o",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
-      "title": "What is Nano Banana?",
+      "title": "What is Nano Banana? | Google",
       "published": "2026-06-30T23:12:08+00:00",
       "source": "Google",
       "type": "Talk",
@@ -743,7 +776,7 @@
       "videoId": "MfDYRK1pAvA",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
-      "title": "The Most Searched Sport | Kick it",
+      "title": "How many ways can you kick a ball? | Google",
       "published": "2026-06-29T19:03:59+00:00",
       "source": "Google",
       "type": "Talk",
@@ -771,17 +804,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/ROz8bhtAVzc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ROz8bhtAVzc"
-    },
-    {
-      "videoId": "zDuZmccxjlA",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How NPS and NVIDIA Are Training the Next AI Leaders",
-      "published": "2026-06-29T14:00:17+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/zDuZmccxjlA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=zDuZmccxjlA"
     },
     {
       "videoId": "LcCirFk-FaU",
@@ -938,17 +960,6 @@
       "url": "https://www.youtube.com/watch?v=I-ej54mJHJk"
     },
     {
-      "videoId": "QFncbBQl6RM",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Meet the People Behind Microsoft AI‌",
-      "published": "2026-06-16T19:28:57+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/QFncbBQl6RM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=QFncbBQl6RM"
-    },
-    {
       "videoId": "sh7XqNoeUAw",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -1035,17 +1046,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/IM1KKI_E3Yo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=IM1KKI_E3Yo"
-    },
-    {
-      "videoId": "JaTJpwlOPfI",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "When You Try Not To Make Eye Contact With The Office AI Evangelist",
-      "published": "2026-06-10T16:00:32+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/JaTJpwlOPfI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JaTJpwlOPfI"
     },
     {
       "videoId": "W9GkxLR0geE",
