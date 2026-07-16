@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T12:16:25.945Z",
+  "generatedAt": "2026-07-16T12:20:35.721Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,83 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "vXWs3Xq-ke0",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA and Japan: Building the Next Industrial Revolution",
+      "published": "2026-07-16T09:00:05+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vXWs3Xq-ke0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vXWs3Xq-ke0"
+    },
+    {
+      "videoId": "Vk4lnMMOvIY",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "SEGA Arcade Visit",
+      "published": "2026-07-16T00:16:27+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Vk4lnMMOvIY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Vk4lnMMOvIY"
+    },
+    {
+      "videoId": "CToxp125mhc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Schedule tasks with ChatGPT",
+      "published": "2026-07-15T22:50:17+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/CToxp125mhc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CToxp125mhc"
+    },
+    {
+      "videoId": "CCNmGkT-M9M",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "AI can't fix broken workflows",
+      "published": "2026-07-15T20:00:24+00:00",
+      "source": "Microsoft",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/CCNmGkT-M9M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CCNmGkT-M9M"
+    },
+    {
+      "videoId": "m8uUUUsMD3Y",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Introducing the Codex Micro",
+      "published": "2026-07-15T19:42:38+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/m8uUUUsMD3Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=m8uUUUsMD3Y"
+    },
+    {
+      "videoId": "XLzWrfx36uE",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Give Yourself a Red Card with Codex",
+      "published": "2026-07-15T17:10:14+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/XLzWrfx36uE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XLzWrfx36uE"
+    },
+    {
+      "videoId": "2jBT5mlomoE",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "How We Use AI for Your Health | Made by Google Podcast S9E6",
+      "published": "2026-07-15T16:52:50+00:00",
+      "source": "Google",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/2jBT5mlomoE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2jBT5mlomoE"
+    },
     {
       "videoId": "eiQgljOrkWU",
       "leaderId": "sam-altman",
@@ -342,39 +419,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/SvGLxXHYCd8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=SvGLxXHYCd8"
-    },
-    {
-      "videoId": "xYVfknDQHU4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work | How NVIDIA Scales GTM with AI",
-      "published": "2026-07-09T22:30:40+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/xYVfknDQHU4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xYVfknDQHU4"
-    },
-    {
-      "videoId": "Cb0N8Pnja30",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work | NVIDIA’s GTM Team Uses AI to Scale Faster",
-      "published": "2026-07-09T22:30:35+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Cb0N8Pnja30/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Cb0N8Pnja30"
-    },
-    {
-      "videoId": "md5t5Nu44A4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work | Zapier: Seven Figures in Monthly Pipeline",
-      "published": "2026-07-09T21:26:20+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/md5t5Nu44A4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=md5t5Nu44A4"
     },
     {
       "videoId": "RS9c40UDuIs",
@@ -677,7 +721,7 @@
       "videoId": "TglEnUdBb3o",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
-      "title": "What is Nano Banana? | Google",
+      "title": "What is Nano Banana?",
       "published": "2026-06-30T23:12:08+00:00",
       "source": "Google",
       "type": "Talk",
@@ -718,17 +762,6 @@
       "url": "https://www.youtube.com/watch?v=NcjBCtqRgtE"
     },
     {
-      "videoId": "10Kb3IB0d70",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How Together AI Uses NVIDIA's Full Stack to Deliver AI Responses in Under 100ms",
-      "published": "2026-06-30T16:20:15+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/10Kb3IB0d70/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=10Kb3IB0d70"
-    },
-    {
       "videoId": "tH2DnBbYm2U",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -762,21 +795,10 @@
       "url": "https://www.youtube.com/watch?v=orWeWjmoZ1E"
     },
     {
-      "videoId": "ZeIYVHxHnQ0",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "An Early Preview of AI Agent Workflows on NVIDIA RTX Spark Laptops",
-      "published": "2026-06-29T22:23:07+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ZeIYVHxHnQ0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZeIYVHxHnQ0"
-    },
-    {
       "videoId": "MfDYRK1pAvA",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
-      "title": "How many ways can you kick a ball? | Google",
+      "title": "How many ways can you kick a ball?",
       "published": "2026-06-29T19:03:59+00:00",
       "source": "Google",
       "type": "Talk",
@@ -872,17 +894,6 @@
       "url": "https://www.youtube.com/watch?v=gKboAPejVM8"
     },
     {
-      "videoId": "JJTdXTf12oQ",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "How to use Agent in Google Flow | Find Your Flow",
-      "published": "2026-06-24T16:04:04+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/JJTdXTf12oQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JJTdXTf12oQ"
-    },
-    {
       "videoId": "8aGMLbS3NAo",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -947,17 +958,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/jSgWjoIWcQU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=jSgWjoIWcQU"
-    },
-    {
-      "videoId": "I-ej54mJHJk",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Introducing Frontier Tuning | Microsoft AI Models",
-      "published": "2026-06-18T16:00:13+00:00",
-      "source": "Microsoft",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/I-ej54mJHJk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=I-ej54mJHJk"
     },
     {
       "videoId": "sh7XqNoeUAw",
