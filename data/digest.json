@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T12:20:35.721Z",
+  "generatedAt": "2026-07-17T12:10:12.224Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,160 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "fnPMkEe6Nik",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Shopify Uses ChatGPT Work to Build Faster with AI Agents",
+      "published": "2026-07-16T22:19:27+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/fnPMkEe6Nik/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fnPMkEe6Nik"
+    },
+    {
+      "videoId": "OHVu3Y4B3RI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Shopify Uses ChatGPT Work to Build Faster with AI Agents",
+      "published": "2026-07-16T22:15:11+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/OHVu3Y4B3RI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OHVu3Y4B3RI"
+    },
+    {
+      "videoId": "uJ5b9SlZRys",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Celebrate on any pitch with a knee slide simulator in Search 🏆",
+      "published": "2026-07-16T18:54:36+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/uJ5b9SlZRys/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uJ5b9SlZRys"
+    },
+    {
+      "videoId": "dB6pOolO7io",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT can now complete tasks on your computer",
+      "published": "2026-07-16T18:00:16+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/dB6pOolO7io/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dB6pOolO7io"
+    },
+    {
+      "videoId": "KNPjRpNtQ7s",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "What racing reveals about working with AI — the OpenAI Podcast Ep. 22",
+      "published": "2026-07-16T17:00:16+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/KNPjRpNtQ7s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KNPjRpNtQ7s"
+    },
+    {
+      "videoId": "LZkP56CQ3lo",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Let @phoebesandersbanjo and puppets make your day",
+      "published": "2026-07-16T16:04:44+00:00",
+      "source": "Meta",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/LZkP56CQ3lo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LZkP56CQ3lo"
+    },
+    {
+      "videoId": "Xk-X1TI2pQ4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "The AI Era Needs a Different Kind of Talent | Peter Steinberger | OpenAI France",
+      "published": "2026-07-16T15:37:36+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Xk-X1TI2pQ4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Xk-X1TI2pQ4"
+    },
+    {
+      "videoId": "Fu3WWi-pAv4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Think AI-First: Emmanuel Marill on Building AI-Native Companies | OpenAI France",
+      "published": "2026-07-16T15:37:30+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Fu3WWi-pAv4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Fu3WWi-pAv4"
+    },
+    {
+      "videoId": "1fL_lwsdMd4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Stop Prompting. Start Giving AI Goals. | Katia Gil Guzman | OpenAI France",
+      "published": "2026-07-16T15:37:20+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/1fL_lwsdMd4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1fL_lwsdMd4"
+    },
+    {
+      "videoId": "W0mU8zgop60",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "From AI Pilots to Production | François Weider on Enterprise Adoption | OpenAI France",
+      "published": "2026-07-16T15:37:16+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/W0mU8zgop60/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=W0mU8zgop60"
+    },
+    {
+      "videoId": "K9_G-v8AE_s",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "What Great AI Founders Do Differently | Laura Modiano | OpenAI France",
+      "published": "2026-07-16T15:37:12+00:00",
+      "source": "OpenAI",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/K9_G-v8AE_s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=K9_G-v8AE_s"
+    },
+    {
+      "videoId": "jaYDbeQTUR0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Have a Crazy Idea? Build It with Codex | Romain Huet | OpenAI France",
+      "published": "2026-07-16T15:37:08+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/jaYDbeQTUR0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jaYDbeQTUR0"
+    },
+    {
+      "videoId": "2MjbwnXArD0",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Nations rise on what gets built | Episode 5",
+      "published": "2026-07-16T15:18:52+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/2MjbwnXArD0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2MjbwnXArD0"
+    },
+    {
+      "videoId": "Jpsq_-1kJTo",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How NVIDIA Runs Its Own AI Factory | AI Factory Insider Ep. 2",
+      "published": "2026-07-16T14:36:20+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Jpsq_-1kJTo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Jpsq_-1kJTo"
+    },
     {
       "videoId": "vXWs3Xq-ke0",
       "leaderId": "jensen-huang",
@@ -146,28 +300,6 @@
       "url": "https://www.youtube.com/watch?v=matzTxfrhJU"
     },
     {
-      "videoId": "avpZWh6sm9M",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Improved Intelligence with GPT-Live",
-      "published": "2026-07-14T20:22:11+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/avpZWh6sm9M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=avpZWh6sm9M"
-    },
-    {
-      "videoId": "8zH_O74hZBw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build and publish web apps directly in ChatGPT",
-      "published": "2026-07-14T19:19:36+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/8zH_O74hZBw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8zH_O74hZBw"
-    },
-    {
       "videoId": "hsjVxuYEKKo",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -210,17 +342,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/CvB_VBSF-mk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=CvB_VBSF-mk"
-    },
-    {
-      "videoId": "-J5KoSMfPLk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Learning with AI at Any Stage of Life | Fast Campus x OpenAI",
-      "published": "2026-07-13T23:07:18+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/-J5KoSMfPLk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-J5KoSMfPLk"
     },
     {
       "videoId": "KNPXPewypDU",
@@ -300,61 +421,6 @@
       "url": "https://www.youtube.com/watch?v=pUuQWUZiEJw"
     },
     {
-      "videoId": "q571PxpsdoA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Meet the family running a cereal business from their dining room with GPT-5.6",
-      "published": "2026-07-11T00:44:29+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/q571PxpsdoA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=q571PxpsdoA"
-    },
-    {
-      "videoId": "MdTqoR-7oHg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "RingCentral Scales Customer Programs with ChatGPT Work",
-      "published": "2026-07-10T21:21:13+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/MdTqoR-7oHg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MdTqoR-7oHg"
-    },
-    {
-      "videoId": "eD5lc1mZDZk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Stampli scales product marketing with ChatGPT Work",
-      "published": "2026-07-10T21:17:12+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/eD5lc1mZDZk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=eD5lc1mZDZk"
-    },
-    {
-      "videoId": "yATno77Uo6A",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Stampli scales product marketing with ChatGPT Work",
-      "published": "2026-07-10T21:11:41+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/yATno77Uo6A/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=yATno77Uo6A"
-    },
-    {
-      "videoId": "IYYTI73J7Rg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Computer Use: Now faster with Live Picture-in-Picture",
-      "published": "2026-07-10T19:45:02+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/IYYTI73J7Rg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IYYTI73J7Rg"
-    },
-    {
       "videoId": "LvbUFwNtyPI",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -366,17 +432,6 @@
       "url": "https://www.youtube.com/watch?v=LvbUFwNtyPI"
     },
     {
-      "videoId": "nep5byxmr_M",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "RingCentral Scales Customer Programs with ChatGPT Work",
-      "published": "2026-07-10T16:02:41+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/nep5byxmr_M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=nep5byxmr_M"
-    },
-    {
       "videoId": "3zmSrRWDpKk",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -386,39 +441,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/3zmSrRWDpKk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3zmSrRWDpKk"
-    },
-    {
-      "videoId": "Mfv_cRfj4x8",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Exclusive: Zuckerberg on Meta's AI Push",
-      "published": "2026-07-10T11:53:10+00:00",
-      "source": "Bloomberg Technology",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/Mfv_cRfj4x8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Mfv_cRfj4x8"
-    },
-    {
-      "videoId": "EvkXrEYV28c",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Europe's Space Race | Bloomberg Tech: Europe 7/10/2026",
-      "published": "2026-07-10T09:20:56+00:00",
-      "source": "Bloomberg Technology",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/EvkXrEYV28c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=EvkXrEYV28c"
-    },
-    {
-      "videoId": "SvGLxXHYCd8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "published": "2026-07-10T09:19:42+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/SvGLxXHYCd8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SvGLxXHYCd8"
     },
     {
       "videoId": "RS9c40UDuIs",
@@ -751,17 +773,6 @@
       "url": "https://www.youtube.com/watch?v=jLhgnZj2iI8"
     },
     {
-      "videoId": "NcjBCtqRgtE",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Redefining Financial Services With Next-Generation Compute and Agentic AI",
-      "published": "2026-06-30T19:31:51+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/NcjBCtqRgtE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NcjBCtqRgtE"
-    },
-    {
       "videoId": "tH2DnBbYm2U",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -848,28 +859,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/5_mJD7Mt0MM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=5_mJD7Mt0MM"
-    },
-    {
-      "videoId": "msyJmnDejNg",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Connecting the unconnected | Secretary-General of the ITU Doreen Bogdan-Martin",
-      "published": "2026-06-26T21:35:04+00:00",
-      "source": "Microsoft",
-      "type": "Speech",
-      "thumb": "https://i.ytimg.com/vi/msyJmnDejNg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=msyJmnDejNg"
-    },
-    {
-      "videoId": "vUQ4rmTX2YY",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Gemma 4 Hits 200M+ Downloads: 3 Amazing Local Builds",
-      "published": "2026-06-25T19:26:02+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/vUQ4rmTX2YY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vUQ4rmTX2YY"
     },
     {
       "videoId": "0BGflErfumM",
@@ -1035,17 +1024,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/wDgH0FECdJs/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=wDgH0FECdJs"
-    },
-    {
-      "videoId": "IM1KKI_E3Yo",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Impact Stories: NHL x Kevin (@kevinleonel)",
-      "published": "2026-06-11T14:30:22+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/IM1KKI_E3Yo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IM1KKI_E3Yo"
     },
     {
       "videoId": "W9GkxLR0geE",
