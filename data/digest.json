@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T12:10:12.224Z",
+  "generatedAt": "2026-07-18T11:53:21.134Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "MJu_-hiK_qk",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Doris Kearns Goodwin meets Teddy Roosevelt",
+      "published": "2026-07-17T20:02:15+00:00",
+      "source": "Microsoft",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/MJu_-hiK_qk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MJu_-hiK_qk"
+    },
+    {
+      "videoId": "BD7gbl2lBsM",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Send this to the group chat ⚽️📱",
+      "published": "2026-07-17T15:51:00+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/BD7gbl2lBsM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BD7gbl2lBsM"
+    },
     {
       "videoId": "fnPMkEe6Nik",
       "leaderId": "sam-altman",
@@ -837,28 +859,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/ROz8bhtAVzc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ROz8bhtAVzc"
-    },
-    {
-      "videoId": "LcCirFk-FaU",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Let’s go #GoogleDoodle",
-      "published": "2026-06-27T12:38:37+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/LcCirFk-FaU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=LcCirFk-FaU"
-    },
-    {
-      "videoId": "5_mJD7Mt0MM",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Mel Robbins: \"Half the world is stuck… here’s how to move ahead\" | Cannes Lions 2026",
-      "published": "2026-06-26T23:00:38+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/5_mJD7Mt0MM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5_mJD7Mt0MM"
     },
     {
       "videoId": "0BGflErfumM",
