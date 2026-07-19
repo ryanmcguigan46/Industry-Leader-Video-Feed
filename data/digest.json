@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T11:53:21.134Z",
+  "generatedAt": "2026-07-19T11:59:33.792Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "8TkIQMLWXlg",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "World Cup #GoogleDoodle",
+      "published": "2026-07-18T15:12:23+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/8TkIQMLWXlg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8TkIQMLWXlg"
+    },
     {
       "videoId": "MJu_-hiK_qk",
       "leaderId": "satya-nadella",
@@ -828,17 +839,6 @@
       "url": "https://www.youtube.com/watch?v=orWeWjmoZ1E"
     },
     {
-      "videoId": "MfDYRK1pAvA",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "How many ways can you kick a ball?",
-      "published": "2026-06-29T19:03:59+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/MfDYRK1pAvA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MfDYRK1pAvA"
-    },
-    {
       "videoId": "BfalOym4HHo",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -1057,17 +1057,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/hF8swzNR1-o/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hF8swzNR1-o"
-    },
-    {
-      "videoId": "Spb-ka7xrR8",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Privacy on iPhone: Safari helps block data trackers",
-      "published": "2026-06-04T00:08:55+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/Spb-ka7xrR8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Spb-ka7xrR8"
     }
   ],
   "warnings": [
