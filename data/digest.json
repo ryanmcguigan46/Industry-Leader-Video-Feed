@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T11:59:33.792Z",
+  "generatedAt": "2026-07-20T13:07:45.149Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "AopewjYV1Ho",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Celebrating 2 million with you!",
+      "published": "2026-07-19T18:46:37+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/AopewjYV1Ho/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AopewjYV1Ho"
+    },
     {
       "videoId": "8TkIQMLWXlg",
       "leaderId": "sundar-pichai",
@@ -289,6 +300,17 @@
       "url": "https://www.youtube.com/watch?v=m8uUUUsMD3Y"
     },
     {
+      "videoId": "vXDetI2TUWw",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA Keynote Live at SIGGRAPH 2026",
+      "published": "2026-07-15T17:40:31+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/vXDetI2TUWw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vXDetI2TUWw"
+    },
+    {
       "videoId": "XLzWrfx36uE",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -320,17 +342,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/eiQgljOrkWU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=eiQgljOrkWU"
-    },
-    {
-      "videoId": "matzTxfrhJU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Background Robustness with GPT-Live",
-      "published": "2026-07-14T22:35:03+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/matzTxfrhJU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=matzTxfrhJU"
     },
     {
       "videoId": "hsjVxuYEKKo",
@@ -760,17 +771,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/CXCE4QyvMrU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=CXCE4QyvMrU"
-    },
-    {
-      "videoId": "sUdEcG824YQ",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA Data Center Partners Recap | GTC Taipei 2026 Recap",
-      "published": "2026-07-01T15:37:52+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/sUdEcG824YQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sUdEcG824YQ"
     },
     {
       "videoId": "TglEnUdBb3o",
