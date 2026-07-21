@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T13:07:45.149Z",
+  "generatedAt": "2026-07-21T12:24:09.396Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,83 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "vXDetI2TUWw",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA Keynote Live at SIGGRAPH 2026",
+      "published": "2026-07-20T23:51:15+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/vXDetI2TUWw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vXDetI2TUWw"
+    },
+    {
+      "videoId": "ey8ai_3FwJI",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Try on that new hairstyle before heading to the salon ✂️",
+      "published": "2026-07-20T16:54:03+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ey8ai_3FwJI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ey8ai_3FwJI"
+    },
+    {
+      "videoId": "_TvRJjQamqI",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "An Instagram Scavenger Hunt",
+      "published": "2026-07-20T16:38:58+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/_TvRJjQamqI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_TvRJjQamqI"
+    },
+    {
+      "videoId": "WwxZeU4WH14",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Virgin Atlantic Uses ChatGPT Work to Turn Weeks of Work Into Hours",
+      "published": "2026-07-20T16:24:11+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/WwxZeU4WH14/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WwxZeU4WH14"
+    },
+    {
+      "videoId": "1QPh70Es_oU",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Turning Compute Into Data for Physical AI With NVIDIA Cosmos",
+      "published": "2026-07-20T15:01:49+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/1QPh70Es_oU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1QPh70Es_oU"
+    },
+    {
+      "videoId": "XdtQbMXHDjQ",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Bringing Agent-Ready Simulation Into Blender",
+      "published": "2026-07-20T15:01:18+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/XdtQbMXHDjQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XdtQbMXHDjQ"
+    },
+    {
+      "videoId": "MmYCdNhrhfA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How BNY CEO Robin Vince Turns AI Optimism Into Action",
+      "published": "2026-07-20T13:42:57+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/MmYCdNhrhfA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MmYCdNhrhfA"
+    },
     {
       "videoId": "AopewjYV1Ho",
       "leaderId": "sam-altman",
@@ -300,28 +377,6 @@
       "url": "https://www.youtube.com/watch?v=m8uUUUsMD3Y"
     },
     {
-      "videoId": "vXDetI2TUWw",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA Keynote Live at SIGGRAPH 2026",
-      "published": "2026-07-15T17:40:31+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/vXDetI2TUWw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vXDetI2TUWw"
-    },
-    {
-      "videoId": "XLzWrfx36uE",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Give Yourself a Red Card with Codex",
-      "published": "2026-07-15T17:10:14+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/XLzWrfx36uE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XLzWrfx36uE"
-    },
-    {
       "videoId": "2jBT5mlomoE",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -331,17 +386,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/2jBT5mlomoE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2jBT5mlomoE"
-    },
-    {
-      "videoId": "eiQgljOrkWU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Codex just got better for developers",
-      "published": "2026-07-14T23:30:19+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/eiQgljOrkWU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=eiQgljOrkWU"
     },
     {
       "videoId": "hsjVxuYEKKo",
@@ -685,28 +729,6 @@
       "url": "https://www.youtube.com/watch?v=RNY0p5wL4AA"
     },
     {
-      "videoId": "HAiBGTrdOwI",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "BioNeMo Agent Toolkit",
-      "published": "2026-07-02T18:20:12+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/HAiBGTrdOwI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=HAiBGTrdOwI"
-    },
-    {
-      "videoId": "wHv_vYL4bqI",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "An Early Look At The ASUS ProArt P16 & P14 Laptops Powered by NVIDIA RTX Spark",
-      "published": "2026-07-02T17:00:05+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/wHv_vYL4bqI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wHv_vYL4bqI"
-    },
-    {
       "videoId": "GmxYBxQedDw",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -793,17 +815,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/2Ih8YuoqyH0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2Ih8YuoqyH0"
-    },
-    {
-      "videoId": "jLhgnZj2iI8",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Search explains soccer’s most intense moment 😰",
-      "published": "2026-06-30T20:00:23+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/jLhgnZj2iI8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jLhgnZj2iI8"
     },
     {
       "videoId": "tH2DnBbYm2U",
@@ -1002,17 +1013,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/n_v17NiIXgk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=n_v17NiIXgk"
-    },
-    {
-      "videoId": "gatpk6BhN5w",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America",
-      "published": "2026-06-12T13:01:51+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/gatpk6BhN5w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gatpk6BhN5w"
     },
     {
       "videoId": "wDgH0FECdJs",
