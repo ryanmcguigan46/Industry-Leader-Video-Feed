@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:24:09.396Z",
+  "generatedAt": "2026-07-22T12:25:38.912Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,204 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "wG_LaKvlcqM",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 1 Don Cristóbal’s inheritance",
+      "published": "2026-07-22T01:02:15+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/wG_LaKvlcqM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wG_LaKvlcqM"
+    },
+    {
+      "videoId": "kxBnxxb3NaM",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 2 The tragic dessert",
+      "published": "2026-07-22T01:02:09+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/kxBnxxb3NaM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kxBnxxb3NaM"
+    },
+    {
+      "videoId": "AzoMY6JZu8g",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 3 The allergic heir",
+      "published": "2026-07-22T01:02:03+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/AzoMY6JZu8g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AzoMY6JZu8g"
+    },
+    {
+      "videoId": "cMIAaW-sxzk",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 4 Explosive rumors",
+      "published": "2026-07-22T01:01:51+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/cMIAaW-sxzk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cMIAaW-sxzk"
+    },
+    {
+      "videoId": "sisxbo347C8",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 5 The threatened firstborn",
+      "published": "2026-07-22T01:01:46+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/sisxbo347C8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sisxbo347C8"
+    },
+    {
+      "videoId": "mPpkDAmHUvE",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 6 Villainess in action",
+      "published": "2026-07-22T01:01:42+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/mPpkDAmHUvE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mPpkDAmHUvE"
+    },
+    {
+      "videoId": "Sy610XzAbRQ",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 7 The framed driver",
+      "published": "2026-07-22T01:01:37+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Sy610XzAbRQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Sy610XzAbRQ"
+    },
+    {
+      "videoId": "xYUJUVzIE1s",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 8 A clash of villainesses",
+      "published": "2026-07-22T01:01:33+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/xYUJUVzIE1s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xYUJUVzIE1s"
+    },
+    {
+      "videoId": "Z6G7ucUyJ_w",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 9 A timely accident",
+      "published": "2026-07-22T01:01:28+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Z6G7ucUyJ_w/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Z6G7ucUyJ_w"
+    },
+    {
+      "videoId": "1VpJ167ABGE",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 10 The widow problem",
+      "published": "2026-07-22T01:01:23+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/1VpJ167ABGE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1VpJ167ABGE"
+    },
+    {
+      "videoId": "yIqObrLf5ok",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 11 The lady’s reckoning",
+      "published": "2026-07-22T01:01:16+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/yIqObrLf5ok/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yIqObrLf5ok"
+    },
+    {
+      "videoId": "dvhyFI7qbyc",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 12 The one pulling the strings",
+      "published": "2026-07-22T01:01:09+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/dvhyFI7qbyc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dvhyFI7qbyc"
+    },
+    {
+      "videoId": "xZKbotC_Jh0",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 13 The three scorpions",
+      "published": "2026-07-22T01:01:03+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/xZKbotC_Jh0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xZKbotC_Jh0"
+    },
+    {
+      "videoId": "qf-Dx8h3UNs",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Nido de Villanas: Ep. 14 A villainess among villainesses",
+      "published": "2026-07-22T01:00:55+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/qf-Dx8h3UNs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qf-Dx8h3UNs"
+    },
+    {
+      "videoId": "AoAnAmdIgMo",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Shot on iPhone 17 Pro: First look at Nido de Villanas",
+      "published": "2026-07-22T01:00:11+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/AoAnAmdIgMo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AoAnAmdIgMo"
+    },
+    {
+      "videoId": "pKwRNdDtai0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Plugins in ChatGPT",
+      "published": "2026-07-21T18:00:39+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/pKwRNdDtai0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pKwRNdDtai0"
+    },
+    {
+      "videoId": "GI8qKCGxN6I",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Sensitive Seats | Model Y L",
+      "published": "2026-07-21T16:49:47+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/GI8qKCGxN6I/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GI8qKCGxN6I"
+    },
+    {
+      "videoId": "d4KZVhwkWEs",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Reel of the Week | the beachiest bouquet via @stacy.creates_ on IG",
+      "published": "2026-07-21T16:00:12+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/d4KZVhwkWEs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=d4KZVhwkWEs"
+    },
     {
       "videoId": "vXDetI2TUWw",
       "leaderId": "jensen-huang",
@@ -366,17 +564,6 @@
       "url": "https://www.youtube.com/watch?v=CCNmGkT-M9M"
     },
     {
-      "videoId": "m8uUUUsMD3Y",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Introducing the Codex Micro",
-      "published": "2026-07-15T19:42:38+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/m8uUUUsMD3Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=m8uUUUsMD3Y"
-    },
-    {
       "videoId": "2jBT5mlomoE",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -386,17 +573,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/2jBT5mlomoE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2jBT5mlomoE"
-    },
-    {
-      "videoId": "hsjVxuYEKKo",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Get sorted for college with Claudia from the Apple Store.",
-      "published": "2026-07-14T16:40:07+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/hsjVxuYEKKo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hsjVxuYEKKo"
     },
     {
       "videoId": "bT0xCr1zNOc",
@@ -641,17 +817,6 @@
       "url": "https://www.youtube.com/watch?v=tMZcqHl1NQY"
     },
     {
-      "videoId": "qN2yR8ZpEMk",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Animate your Live Stickers. Tip from Claudia at the Apple Store.",
-      "published": "2026-07-07T16:02:02+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/qN2yR8ZpEMk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qN2yR8ZpEMk"
-    },
-    {
       "videoId": "IJ3ABUE27Gc",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -828,17 +993,6 @@
       "url": "https://www.youtube.com/watch?v=tH2DnBbYm2U"
     },
     {
-      "videoId": "Zd-IzRXoNhk",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Help protect your hearing with AirPods Pro. Tip from Indiana at the Apple Store.",
-      "published": "2026-06-30T16:01:33+00:00",
-      "source": "Apple",
-      "type": "Speech",
-      "thumb": "https://i.ytimg.com/vi/Zd-IzRXoNhk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Zd-IzRXoNhk"
-    },
-    {
       "videoId": "orWeWjmoZ1E",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -905,28 +1059,6 @@
       "url": "https://www.youtube.com/watch?v=8aGMLbS3NAo"
     },
     {
-      "videoId": "4Aci0c6-_fg",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "World Surf League x Apple: How Apple Watch Changed Pro Surfing",
-      "published": "2026-06-23T16:01:05+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/4Aci0c6-_fg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4Aci0c6-_fg"
-    },
-    {
-      "videoId": "czO4oZOlMvo",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Share audio with friends with two sets of AirPods. Tip from Garryn at the Apple Store.",
-      "published": "2026-06-23T16:00:18+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/czO4oZOlMvo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=czO4oZOlMvo"
-    },
-    {
       "videoId": "Vb-OqxUWPDE",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -949,17 +1081,6 @@
       "url": "https://www.youtube.com/watch?v=e0WOqG959x8"
     },
     {
-      "videoId": "jSgWjoIWcQU",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "AirPods Pro 3 starring Vini Jr. (Music Edit) with the world’s best in-ear Active Noise Cancellation",
-      "published": "2026-06-21T16:11:01+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/jSgWjoIWcQU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jSgWjoIWcQU"
-    },
-    {
       "videoId": "sh7XqNoeUAw",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -969,17 +1090,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/sh7XqNoeUAw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=sh7XqNoeUAw"
-    },
-    {
-      "videoId": "oh-l_DlN0bc",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Automatically sort your grocery list in Reminders. Tip from Nathan at the Apple Store.",
-      "published": "2026-06-16T16:10:51+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/oh-l_DlN0bc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=oh-l_DlN0bc"
     },
     {
       "videoId": "UwZgysCP1_o",
@@ -1002,61 +1112,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/roPQOCVsyPQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=roPQOCVsyPQ"
-    },
-    {
-      "videoId": "n_v17NiIXgk",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Hey Meta: Carmen",
-      "published": "2026-06-12T16:00:10+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/n_v17NiIXgk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=n_v17NiIXgk"
-    },
-    {
-      "videoId": "wDgH0FECdJs",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "AirPods Pro 3 starring Vini Jr. with the world’s best in-ear Active Noise Cancellation",
-      "published": "2026-06-11T16:02:43+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/wDgH0FECdJs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wDgH0FECdJs"
-    },
-    {
-      "videoId": "W9GkxLR0geE",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Apple’s next big step for Siri and iPhone",
-      "published": "2026-06-08T18:38:14+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/W9GkxLR0geE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=W9GkxLR0geE"
-    },
-    {
-      "videoId": "2PW5y3zAvPE",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Announcing Apple’s next big step for Siri and iPhone",
-      "published": "2026-06-08T18:27:15+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/2PW5y3zAvPE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2PW5y3zAvPE"
-    },
-    {
-      "videoId": "hF8swzNR1-o",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Apple WWDC 2026 June 8: Introducing Siri AI and more",
-      "published": "2026-06-08T18:23:18+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/hF8swzNR1-o/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hF8swzNR1-o"
     }
   ],
   "warnings": [
