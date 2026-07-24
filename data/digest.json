@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T12:24:33.980Z",
+  "generatedAt": "2026-07-24T12:19:49.752Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,127 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "PB7DBemxl3E",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Building at the pace of AI innovation | Grant Lee, Gamma",
+      "published": "2026-07-24T09:12:21+00:00",
+      "source": "OpenAI",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/PB7DBemxl3E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PB7DBemxl3E"
+    },
+    {
+      "videoId": "-_p2a6uWfjk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "What is AI Slop?",
+      "published": "2026-07-23T20:51:09+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/-_p2a6uWfjk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-_p2a6uWfjk"
+    },
+    {
+      "videoId": "t8Ej9aeW388",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How IT Admins can manage ChatGPT Work at scale | OpenAI",
+      "published": "2026-07-23T20:50:48+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/t8Ej9aeW388/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=t8Ej9aeW388"
+    },
+    {
+      "videoId": "zq88iLsSfMA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Enterprise Teams Use ChatGPT Work | Zapier, Shopify & Virgin Atlantic",
+      "published": "2026-07-23T20:23:01+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/zq88iLsSfMA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zq88iLsSfMA"
+    },
+    {
+      "videoId": "E0ZMOschrTU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Building with ChatGPT Voice | OpenAI",
+      "published": "2026-07-23T19:40:16+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/E0ZMOschrTU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=E0ZMOschrTU"
+    },
+    {
+      "videoId": "oikd-FocWrI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Now it won’t take you 10 years to get tickets",
+      "published": "2026-07-23T18:58:16+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/oikd-FocWrI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oikd-FocWrI"
+    },
+    {
+      "videoId": "TY2EilHUR1c",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Powering Agentic AI with AI-Ready Data Platforms That Turn Data Into Intelligence",
+      "published": "2026-07-23T18:43:29+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/TY2EilHUR1c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TY2EilHUR1c"
+    },
+    {
+      "videoId": "lR58Dge8jE8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Health in ChatGPT is coming to U.S. users",
+      "published": "2026-07-23T17:03:29+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/lR58Dge8jE8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lR58Dge8jE8"
+    },
+    {
+      "videoId": "Sm7OTow3mcY",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "How to know if an image is AI generated or not",
+      "published": "2026-07-23T16:44:08+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Sm7OTow3mcY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Sm7OTow3mcY"
+    },
+    {
+      "videoId": "4ADWW93ebjo",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "An Early Look At The MSI Prestige N16 Flip AI+ & EdgeMesa N AI+ Powered by NVIDIA RTX Spark",
+      "published": "2026-07-23T16:00:39+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4ADWW93ebjo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4ADWW93ebjo"
+    },
+    {
+      "videoId": "E3dDr_QtBuo",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Work with docs, sheets, and slides in ChatGPT",
+      "published": "2026-07-23T14:17:31+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/E3dDr_QtBuo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=E3dDr_QtBuo"
+    },
     {
       "videoId": "JlRgRmAqoAc",
       "leaderId": "mark-zuckerberg",
@@ -454,28 +575,6 @@
       "url": "https://www.youtube.com/watch?v=BD7gbl2lBsM"
     },
     {
-      "videoId": "fnPMkEe6Nik",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Shopify Uses ChatGPT Work to Build Faster with AI Agents",
-      "published": "2026-07-16T22:19:27+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/fnPMkEe6Nik/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=fnPMkEe6Nik"
-    },
-    {
-      "videoId": "OHVu3Y4B3RI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Shopify Uses ChatGPT Work to Build Faster with AI Agents",
-      "published": "2026-07-16T22:15:11+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/OHVu3Y4B3RI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OHVu3Y4B3RI"
-    },
-    {
       "videoId": "uJ5b9SlZRys",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -487,28 +586,6 @@
       "url": "https://www.youtube.com/watch?v=uJ5b9SlZRys"
     },
     {
-      "videoId": "dB6pOolO7io",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT can now complete tasks on your computer",
-      "published": "2026-07-16T18:00:16+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/dB6pOolO7io/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=dB6pOolO7io"
-    },
-    {
-      "videoId": "KNPjRpNtQ7s",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "What racing reveals about working with AI — the OpenAI Podcast Ep. 22",
-      "published": "2026-07-16T17:00:16+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/KNPjRpNtQ7s/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KNPjRpNtQ7s"
-    },
-    {
       "videoId": "LZkP56CQ3lo",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -518,50 +595,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/LZkP56CQ3lo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=LZkP56CQ3lo"
-    },
-    {
-      "videoId": "Xk-X1TI2pQ4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "The AI Era Needs a Different Kind of Talent | Peter Steinberger | OpenAI France",
-      "published": "2026-07-16T15:37:36+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Xk-X1TI2pQ4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Xk-X1TI2pQ4"
-    },
-    {
-      "videoId": "Fu3WWi-pAv4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Think AI-First: Emmanuel Marill on Building AI-Native Companies | OpenAI France",
-      "published": "2026-07-16T15:37:30+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Fu3WWi-pAv4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Fu3WWi-pAv4"
-    },
-    {
-      "videoId": "1fL_lwsdMd4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Stop Prompting. Start Giving AI Goals. | Katia Gil Guzman | OpenAI France",
-      "published": "2026-07-16T15:37:20+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/1fL_lwsdMd4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1fL_lwsdMd4"
-    },
-    {
-      "videoId": "W0mU8zgop60",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "From AI Pilots to Production | François Weider on Enterprise Adoption | OpenAI France",
-      "published": "2026-07-16T15:37:16+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/W0mU8zgop60/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=W0mU8zgop60"
     },
     {
       "videoId": "2MjbwnXArD0",
@@ -850,17 +883,6 @@
       "url": "https://www.youtube.com/watch?v=NqQnHWa-Vxs"
     },
     {
-      "videoId": "psqiOxQ61pI",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "An Early Look At The Dell XPS 16 Laptop Powered by NVIDIA RTX Spark",
-      "published": "2026-07-07T18:49:04+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/psqiOxQ61pI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=psqiOxQ61pI"
-    },
-    {
       "videoId": "tMZcqHl1NQY",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -916,17 +938,6 @@
       "url": "https://www.youtube.com/watch?v=iDz4GqHQL6Q"
     },
     {
-      "videoId": "B0gTeYq0Emg",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "An Early Preview of Gaming on NVIDIA RTX Spark Laptops",
-      "published": "2026-07-03T16:00:01+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/B0gTeYq0Emg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=B0gTeYq0Emg"
-    },
-    {
       "videoId": "aeZTTnfo8Ok",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -936,17 +947,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/aeZTTnfo8Ok/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=aeZTTnfo8Ok"
-    },
-    {
-      "videoId": "GmxYBxQedDw",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Got pro reflexes? Find out on Search 👐",
-      "published": "2026-07-02T16:00:54+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/GmxYBxQedDw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=GmxYBxQedDw"
     },
     {
       "videoId": "gl2R3QivRMY",
@@ -1126,6 +1126,7 @@
     }
   ],
   "warnings": [
-    "watch · World Economic Forum: HTTP 404"
+    "watch · World Economic Forum: HTTP 404",
+    "watch · Bloomberg Technology: HTTP 404"
   ]
 }
