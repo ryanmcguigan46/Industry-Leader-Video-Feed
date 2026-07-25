@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T12:19:49.752Z",
+  "generatedAt": "2026-07-25T12:03:07.155Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "FVsgX0AdDTo",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "What Big Tech Missed And How Startups Can Still Win",
+      "published": "2026-07-25T06:00:15+00:00",
+      "source": "Y Combinator",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/FVsgX0AdDTo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FVsgX0AdDTo"
+    },
+    {
+      "videoId": "UGLV3ufFZEw",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "President Lee Jae Myung met with our CEO Jensen Huang ahead of the San Francisco AI Summit",
+      "published": "2026-07-24T23:32:33+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/UGLV3ufFZEw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UGLV3ufFZEw"
+    },
+    {
+      "videoId": "NsOlCHYn99k",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "That’s a wrap on #SIGGRAPH2026 🎬",
+      "published": "2026-07-24T22:30:34+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/NsOlCHYn99k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NsOlCHYn99k"
+    },
+    {
+      "videoId": "jyuyY86GJnA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Build Hour: Valuemaxxing with GPT-5.6",
+      "published": "2026-07-24T19:47:16+00:00",
+      "source": "OpenAI",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/jyuyY86GJnA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jyuyY86GJnA"
+    },
+    {
+      "videoId": "z1b8DRFwWgo",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "GTC SJ 2026: Next Generation Intelligent Surgical Robots",
+      "published": "2026-07-24T17:41:04+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/z1b8DRFwWgo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=z1b8DRFwWgo"
+    },
+    {
+      "videoId": "y6L37mXkTw0",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "See the potential in your yard with Search ✨",
+      "published": "2026-07-24T17:34:38+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/y6L37mXkTw0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=y6L37mXkTw0"
+    },
     {
       "videoId": "PB7DBemxl3E",
       "leaderId": "sam-altman",
@@ -531,17 +597,6 @@
       "url": "https://www.youtube.com/watch?v=MmYCdNhrhfA"
     },
     {
-      "videoId": "AopewjYV1Ho",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Celebrating 2 million with you!",
-      "published": "2026-07-19T18:46:37+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/AopewjYV1Ho/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=AopewjYV1Ho"
-    },
-    {
       "videoId": "8TkIQMLWXlg",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -795,17 +850,6 @@
       "url": "https://www.youtube.com/watch?v=3zmSrRWDpKk"
     },
     {
-      "videoId": "RS9c40UDuIs",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Shaping the Next Industrial Era: Meet the NVIDIA Inception Spotlight Startups at GTC Taipei 2026",
-      "published": "2026-07-09T17:16:52+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/RS9c40UDuIs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=RS9c40UDuIs"
-    },
-    {
       "videoId": "qIPjorYya3U",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -826,28 +870,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/hnLxZYDb4z0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hnLxZYDb4z0"
-    },
-    {
-      "videoId": "p2PcFL2FTA8",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA and LangChain",
-      "published": "2026-07-08T21:00:19+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/p2PcFL2FTA8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=p2PcFL2FTA8"
-    },
-    {
-      "videoId": "tjGVnjsvi-k",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The Network at the Heart of AI Factories With NVIDIA Spectrum- X Ethernet​",
-      "published": "2026-07-08T17:39:39+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/tjGVnjsvi-k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tjGVnjsvi-k"
     },
     {
       "videoId": "BXWlJAM4U9Y",
@@ -936,17 +958,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/iDz4GqHQL6Q/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=iDz4GqHQL6Q"
-    },
-    {
-      "videoId": "aeZTTnfo8Ok",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "How to style your team colors for any event ✨",
-      "published": "2026-07-03T10:57:59+00:00",
-      "source": "Google",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/aeZTTnfo8Ok/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=aeZTTnfo8Ok"
     },
     {
       "videoId": "gl2R3QivRMY",
