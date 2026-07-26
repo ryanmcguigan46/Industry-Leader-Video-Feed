@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T12:03:07.155Z",
+  "generatedAt": "2026-07-26T12:04:05.430Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "pPvt-vtyOvo",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Mark Zuckerberg on the only mistake that actually matters - giving up!",
+      "published": "2026-07-25T16:15:39+00:00",
+      "source": "a16z",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/pPvt-vtyOvo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pPvt-vtyOvo"
+    },
+    {
+      "videoId": "1SCIc_tH038",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Hey Meta x All-Star Weekend",
+      "published": "2026-07-25T16:00:17+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/1SCIc_tH038/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1SCIc_tH038"
+    },
     {
       "videoId": "FVsgX0AdDTo",
       "leaderId": "mark-zuckerberg",
@@ -1123,17 +1145,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/sh7XqNoeUAw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=sh7XqNoeUAw"
-    },
-    {
-      "videoId": "UwZgysCP1_o",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Building a Coffee Community with Instagram",
-      "published": "2026-06-16T15:30:17+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/UwZgysCP1_o/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UwZgysCP1_o"
     }
   ],
   "warnings": [
