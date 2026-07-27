@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T12:04:05.430Z",
+  "generatedAt": "2026-07-27T13:39:41.747Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "oXu6JGxW_YM",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Navigating AI Transformation in the Legal Industry | Jonathan Williams, Head of France, Legora",
+      "published": "2026-07-27T12:37:15+00:00",
+      "source": "OpenAI",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/oXu6JGxW_YM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oXu6JGxW_YM"
+    },
+    {
+      "videoId": "P3VzeHtat70",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How Autonomous AI Is Transforming Chip and System Design",
+      "published": "2026-07-27T00:45:00+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/P3VzeHtat70/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=P3VzeHtat70"
+    },
+    {
+      "videoId": "I4B37S1dyQQ",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Jensen Huang: The Mindset That Built NVIDIA",
+      "published": "2026-07-26T20:32:05+00:00",
+      "source": "Y Combinator",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/I4B37S1dyQQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=I4B37S1dyQQ"
+    },
     {
       "videoId": "pPvt-vtyOvo",
       "leaderId": "mark-zuckerberg",
@@ -608,17 +641,6 @@
       "url": "https://www.youtube.com/watch?v=XdtQbMXHDjQ"
     },
     {
-      "videoId": "MmYCdNhrhfA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How BNY CEO Robin Vince Turns AI Optimism Into Action",
-      "published": "2026-07-20T13:42:57+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/MmYCdNhrhfA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MmYCdNhrhfA"
-    },
-    {
       "videoId": "8TkIQMLWXlg",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -848,17 +870,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/pUuQWUZiEJw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=pUuQWUZiEJw"
-    },
-    {
-      "videoId": "LvbUFwNtyPI",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "COMPUTEX 2026 | NVIDIA Keynote | Extreme Co-Design: Building the AI Factory",
-      "published": "2026-07-10T16:16:00+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/LvbUFwNtyPI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=LvbUFwNtyPI"
     },
     {
       "videoId": "3zmSrRWDpKk",
