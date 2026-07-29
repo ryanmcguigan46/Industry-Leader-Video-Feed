@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T12:55:11.320Z",
+  "generatedAt": "2026-07-29T13:01:51.025Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,105 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "xSj6rVtQrpc",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Look Up | Model Y L Glass Roof",
+      "published": "2026-07-29T00:58:45+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/xSj6rVtQrpc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xSj6rVtQrpc"
+    },
+    {
+      "videoId": "WeP9VUf1OoE",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Introducing gpt-transcribe and gpt-live-transcribe",
+      "published": "2026-07-28T21:49:18+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/WeP9VUf1OoE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WeP9VUf1OoE"
+    },
+    {
+      "videoId": "Fmc5YLKyNLY",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "The sound of survival",
+      "published": "2026-07-28T21:01:22+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Fmc5YLKyNLY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Fmc5YLKyNLY"
+    },
+    {
+      "videoId": "iWsKSxyfRIA",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "GTC SJ 2026: The AI Native Digital Health Stack A Developer's Guide to 2026",
+      "published": "2026-07-28T21:00:23+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/iWsKSxyfRIA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iWsKSxyfRIA"
+    },
+    {
+      "videoId": "P5GxUjU4uBI",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Get sorted for college with Roxie from the Apple Store.",
+      "published": "2026-07-28T16:00:55+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/P5GxUjU4uBI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=P5GxUjU4uBI"
+    },
+    {
+      "videoId": "g-g6E-qtCjA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT Work for Sales: Revenue Intelligence for Sales Leaders",
+      "published": "2026-07-28T14:25:26+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/g-g6E-qtCjA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=g-g6E-qtCjA"
+    },
+    {
+      "videoId": "5DbZAMGZ5oM",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT Work for Sales: Account Research and Customer Outreach",
+      "published": "2026-07-28T14:23:31+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/5DbZAMGZ5oM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5DbZAMGZ5oM"
+    },
+    {
+      "videoId": "hjXi7b01s2c",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT Work for Sales: Account Planning and Meeting Prep",
+      "published": "2026-07-28T14:20:18+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/hjXi7b01s2c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hjXi7b01s2c"
+    },
+    {
+      "videoId": "q9TPE7pKkIo",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT Work for Sales: Pipeline and Forecast Intelligence",
+      "published": "2026-07-28T14:16:53+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/q9TPE7pKkIo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q9TPE7pKkIo"
+    },
     {
       "videoId": "rpQPBCDv5Pc",
       "leaderId": "jensen-huang",
@@ -366,17 +465,6 @@
       "url": "https://www.youtube.com/watch?v=JlRgRmAqoAc"
     },
     {
-      "videoId": "MX95QbxSc9Q",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How AI Agents Will Redesign Enterprise Work | Barak Kaufman, Wonderful",
-      "published": "2026-07-23T09:33:40+00:00",
-      "source": "OpenAI",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/MX95QbxSc9Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MX95QbxSc9Q"
-    },
-    {
       "videoId": "9H5y9Uag8AA",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -386,28 +474,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/9H5y9Uag8AA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=9H5y9Uag8AA"
-    },
-    {
-      "videoId": "4Nv--b12hxQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How European Small Businesses Are Using ChatGPT and Codex | OpenAI Academy",
-      "published": "2026-07-22T20:43:58+00:00",
-      "source": "OpenAI",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/4Nv--b12hxQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4Nv--b12hxQ"
-    },
-    {
-      "videoId": "cFyFF3Ad2aM",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How California Small Businesses Are Using ChatGPT | OpenAI Academy",
-      "published": "2026-07-22T20:37:36+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/cFyFF3Ad2aM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cFyFF3Ad2aM"
     },
     {
       "videoId": "ZAVVfZ_mwnw",
@@ -597,28 +663,6 @@
       "url": "https://www.youtube.com/watch?v=qf-Dx8h3UNs"
     },
     {
-      "videoId": "AoAnAmdIgMo",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Shot on iPhone 17 Pro: First look at Nido de Villanas",
-      "published": "2026-07-22T01:00:11+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/AoAnAmdIgMo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=AoAnAmdIgMo"
-    },
-    {
-      "videoId": "pKwRNdDtai0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Plugins in ChatGPT",
-      "published": "2026-07-21T18:00:39+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/pKwRNdDtai0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pKwRNdDtai0"
-    },
-    {
       "videoId": "GI8qKCGxN6I",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -672,17 +716,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/_TvRJjQamqI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_TvRJjQamqI"
-    },
-    {
-      "videoId": "WwxZeU4WH14",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Virgin Atlantic Uses ChatGPT Work to Turn Weeks of Work Into Hours",
-      "published": "2026-07-20T16:24:11+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/WwxZeU4WH14/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=WwxZeU4WH14"
     },
     {
       "videoId": "1QPh70Es_oU",
@@ -826,17 +859,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/2jBT5mlomoE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2jBT5mlomoE"
-    },
-    {
-      "videoId": "bT0xCr1zNOc",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "An Early Look At The HP OmniBook Ultra 16 & X 14 Powered by NVIDIA RTX Spark",
-      "published": "2026-07-14T16:00:14+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/bT0xCr1zNOc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=bT0xCr1zNOc"
     },
     {
       "videoId": "29qGCi8FxGM",
@@ -1101,17 +1123,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/tH2DnBbYm2U/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=tH2DnBbYm2U"
-    },
-    {
-      "videoId": "orWeWjmoZ1E",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Nobody talks about this in the creator economy | Cannes Lions 2026",
-      "published": "2026-06-29T23:00:04+00:00",
-      "source": "Microsoft",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/orWeWjmoZ1E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=orWeWjmoZ1E"
     },
     {
       "videoId": "0BGflErfumM",
