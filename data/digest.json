@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T13:01:51.025Z",
+  "generatedAt": "2026-07-30T12:45:12.191Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,50 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "_Gd9yzAc-WI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Using Voice in ChatGPT Work",
+      "published": "2026-07-29T22:37:43+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/_Gd9yzAc-WI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_Gd9yzAc-WI"
+    },
+    {
+      "videoId": "isfJqgyGRFE",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Y like my sootcase",
+      "published": "2026-07-29T22:24:24+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/isfJqgyGRFE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=isfJqgyGRFE"
+    },
+    {
+      "videoId": "Z0wqxv-oo48",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "The AI question every team should ask",
+      "published": "2026-07-29T20:00:13+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Z0wqxv-oo48/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Z0wqxv-oo48"
+    },
+    {
+      "videoId": "MLehRytu9Zo",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "We're giving 100,000 academic researchers free access to our frontier models",
+      "published": "2026-07-29T17:23:02+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/MLehRytu9Zo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MLehRytu9Zo"
+    },
     {
       "videoId": "xSj6rVtQrpc",
       "leaderId": "elon-musk",
@@ -410,17 +454,6 @@
       "url": "https://www.youtube.com/watch?v=TY2EilHUR1c"
     },
     {
-      "videoId": "lR58Dge8jE8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Health in ChatGPT is coming to U.S. users",
-      "published": "2026-07-23T17:03:29+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/lR58Dge8jE8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=lR58Dge8jE8"
-    },
-    {
       "videoId": "Sm7OTow3mcY",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -441,17 +474,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/4ADWW93ebjo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=4ADWW93ebjo"
-    },
-    {
-      "videoId": "E3dDr_QtBuo",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Work with docs, sheets, and slides in ChatGPT",
-      "published": "2026-07-23T14:17:31+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/E3dDr_QtBuo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=E3dDr_QtBuo"
     },
     {
       "videoId": "JlRgRmAqoAc",
@@ -1101,17 +1123,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/v6iTuuXZYbY/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=v6iTuuXZYbY"
-    },
-    {
-      "videoId": "2Ih8YuoqyH0",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Creator authenticity is the real growth strategy | Cannes Lions 2026",
-      "published": "2026-06-30T21:00:34+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/2Ih8YuoqyH0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2Ih8YuoqyH0"
     },
     {
       "videoId": "tH2DnBbYm2U",
