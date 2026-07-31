@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T12:45:12.191Z",
+  "generatedAt": "2026-07-31T12:57:02.033Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "TrYsSM_d3TE",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution.",
+      "published": "2026-07-30T21:02:00+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/TrYsSM_d3TE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TrYsSM_d3TE"
+    },
+    {
+      "videoId": "JUlcgfqCgN4",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Our spidey senses are telling us you should search “peter parker” in AI Mode 🧐",
+      "published": "2026-07-30T15:59:03+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/JUlcgfqCgN4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JUlcgfqCgN4"
+    },
     {
       "videoId": "_Gd9yzAc-WI",
       "leaderId": "sam-altman",
@@ -850,17 +872,6 @@
       "url": "https://www.youtube.com/watch?v=vXWs3Xq-ke0"
     },
     {
-      "videoId": "Vk4lnMMOvIY",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "SEGA Arcade Visit",
-      "published": "2026-07-16T00:16:27+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Vk4lnMMOvIY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Vk4lnMMOvIY"
-    },
-    {
       "videoId": "CCNmGkT-M9M",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -1046,17 +1057,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/tMZcqHl1NQY/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=tMZcqHl1NQY"
-    },
-    {
-      "videoId": "IJ3ABUE27Gc",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Visual learners, this one's for you 🙋‍♂️📚",
-      "published": "2026-07-06T21:09:40+00:00",
-      "source": "Google",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/IJ3ABUE27Gc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IJ3ABUE27Gc"
     },
     {
       "videoId": "NxALjKM0XRg",
