@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T12:57:02.033Z",
+  "generatedAt": "2026-08-01T12:02:57.528Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "8gvyWy-hCM8",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "When it rains, it summons",
+      "published": "2026-07-31T16:31:57+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/8gvyWy-hCM8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8gvyWy-hCM8"
+    },
+    {
+      "videoId": "jETkJOosLPI",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Reel of the Week | Creating Underwater Art",
+      "published": "2026-07-31T16:03:50+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/jETkJOosLPI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jETkJOosLPI"
+    },
     {
       "videoId": "TrYsSM_d3TE",
       "leaderId": "jensen-huang",
@@ -1136,17 +1158,6 @@
       "url": "https://www.youtube.com/watch?v=tH2DnBbYm2U"
     },
     {
-      "videoId": "0BGflErfumM",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Hey Meta x Coco Schiffer",
-      "published": "2026-06-25T16:00:34+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/0BGflErfumM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0BGflErfumM"
-    },
-    {
       "videoId": "gKboAPejVM8",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -1178,17 +1189,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Vb-OqxUWPDE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Vb-OqxUWPDE"
-    },
-    {
-      "videoId": "sh7XqNoeUAw",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Let there be Light Bar",
-      "published": "2026-06-16T18:06:04+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/sh7XqNoeUAw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sh7XqNoeUAw"
     }
   ],
   "warnings": [
