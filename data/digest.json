@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T13:41:25.206Z",
+  "generatedAt": "2026-08-04T13:03:12.518Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "3sDEcfO2cQU",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Real-Time Neurological Insights: Scaling NeuroDX AI with NVIDIA Inception",
+      "published": "2026-08-03T22:01:49+00:00",
+      "source": "NVIDIA",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/3sDEcfO2cQU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3sDEcfO2cQU"
+    },
+    {
+      "videoId": "8TQYkjViaBQ",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Securely Deploy Autonomous Agents in Your AI Factory | AI Factory Insider Ep. 3",
+      "published": "2026-08-03T21:10:37+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/8TQYkjViaBQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8TQYkjViaBQ"
+    },
+    {
+      "videoId": "nizOUNTyt58",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Upgrade your summer style with Search ☀️",
+      "published": "2026-08-03T16:01:20+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/nizOUNTyt58/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nizOUNTyt58"
+    },
     {
       "videoId": "8gvyWy-hCM8",
       "leaderId": "elon-musk",
@@ -872,28 +905,6 @@
       "url": "https://www.youtube.com/watch?v=2MjbwnXArD0"
     },
     {
-      "videoId": "Jpsq_-1kJTo",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How NVIDIA Runs Its Own AI Factory | AI Factory Insider Ep. 2",
-      "published": "2026-07-16T14:36:20+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Jpsq_-1kJTo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Jpsq_-1kJTo"
-    },
-    {
-      "videoId": "vXWs3Xq-ke0",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA and Japan: Building the Next Industrial Revolution",
-      "published": "2026-07-16T09:00:05+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/vXWs3Xq-ke0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vXWs3Xq-ke0"
-    },
-    {
       "videoId": "CCNmGkT-M9M",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -1035,17 +1046,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/hnLxZYDb4z0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hnLxZYDb4z0"
-    },
-    {
-      "videoId": "BXWlJAM4U9Y",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Find your next favorite food with Lens 📸",
-      "published": "2026-07-08T16:56:46+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/BXWlJAM4U9Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=BXWlJAM4U9Y"
     },
     {
       "videoId": "FGftt6llon0",
