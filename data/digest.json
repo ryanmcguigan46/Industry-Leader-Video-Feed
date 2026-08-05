@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T13:03:12.518Z",
+  "generatedAt": "2026-08-05T12:53:25.994Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,94 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "gdL8cZsrZE4",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How Agentic AI is Powering Autonomous Networks",
+      "published": "2026-08-04T23:36:44+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/gdL8cZsrZE4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gdL8cZsrZE4"
+    },
+    {
+      "videoId": "bSp-foRDH5M",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "How to Build Apps and Automate Tasks with Google Antigravity 2.0",
+      "published": "2026-08-04T20:46:03+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/bSp-foRDH5M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bSp-foRDH5M"
+    },
+    {
+      "videoId": "SJJBPwlPpww",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How AI Helps Solve Medical Mysteries at Boston Children’s Hospital | OpenAI Forum",
+      "published": "2026-08-04T20:29:24+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/SJJBPwlPpww/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SJJBPwlPpww"
+    },
+    {
+      "videoId": "Np0afRWtdp8",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Why AI Agents Need More Than One Model",
+      "published": "2026-08-04T19:00:10+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Np0afRWtdp8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Np0afRWtdp8"
+    },
+    {
+      "videoId": "r64krUavXJU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Meet Birding Pal",
+      "published": "2026-08-04T17:43:45+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/r64krUavXJU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=r64krUavXJU"
+    },
+    {
+      "videoId": "BTyWlJJUX2I",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Show off your work with Desk View. Tip from Kylie at the Apple Store.",
+      "published": "2026-08-04T16:00:58+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/BTyWlJJUX2I/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BTyWlJJUX2I"
+    },
+    {
+      "videoId": "nHX8cIZTJp0",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Meet Alpamayo 2 Super",
+      "published": "2026-08-04T15:39:25+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/nHX8cIZTJp0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nHX8cIZTJp0"
+    },
+    {
+      "videoId": "xySgVPLYnsc",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA Alpamayo 2 Super: The Frontier Open Model for Robotaxis and Autonomous Vehicle",
+      "published": "2026-08-04T14:50:26+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/xySgVPLYnsc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xySgVPLYnsc"
+    },
     {
       "videoId": "3sDEcfO2cQU",
       "leaderId": "jensen-huang",
@@ -498,28 +586,6 @@
       "url": "https://www.youtube.com/watch?v=zq88iLsSfMA"
     },
     {
-      "videoId": "E0ZMOschrTU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Building with ChatGPT Voice | OpenAI",
-      "published": "2026-07-23T19:40:16+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/E0ZMOschrTU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=E0ZMOschrTU"
-    },
-    {
-      "videoId": "oikd-FocWrI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Now it won’t take you 10 years to get tickets",
-      "published": "2026-07-23T18:58:16+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/oikd-FocWrI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=oikd-FocWrI"
-    },
-    {
       "videoId": "TY2EilHUR1c",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -573,17 +639,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/9H5y9Uag8AA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=9H5y9Uag8AA"
-    },
-    {
-      "videoId": "ZAVVfZ_mwnw",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA & Wistron: Reindustrializing America With Advanced Manufacturing",
-      "published": "2026-07-22T20:03:52+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ZAVVfZ_mwnw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZAVVfZ_mwnw"
     },
     {
       "videoId": "YSKzyVOQmuA",
@@ -751,17 +806,6 @@
       "url": "https://www.youtube.com/watch?v=xZKbotC_Jh0"
     },
     {
-      "videoId": "qf-Dx8h3UNs",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 14 A villainess among villainesses",
-      "published": "2026-07-22T01:00:55+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/qf-Dx8h3UNs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qf-Dx8h3UNs"
-    },
-    {
       "videoId": "GI8qKCGxN6I",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -784,17 +828,6 @@
       "url": "https://www.youtube.com/watch?v=d4KZVhwkWEs"
     },
     {
-      "videoId": "vXDetI2TUWw",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA Keynote Live at SIGGRAPH 2026",
-      "published": "2026-07-20T23:51:15+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/vXDetI2TUWw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vXDetI2TUWw"
-    },
-    {
       "videoId": "ey8ai_3FwJI",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -815,28 +848,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/_TvRJjQamqI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_TvRJjQamqI"
-    },
-    {
-      "videoId": "1QPh70Es_oU",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Turning Compute Into Data for Physical AI With NVIDIA Cosmos",
-      "published": "2026-07-20T15:01:49+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/1QPh70Es_oU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1QPh70Es_oU"
-    },
-    {
-      "videoId": "XdtQbMXHDjQ",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Bringing Agent-Ready Simulation Into Blender",
-      "published": "2026-07-20T15:01:18+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/XdtQbMXHDjQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XdtQbMXHDjQ"
     },
     {
       "videoId": "8TkIQMLWXlg",
@@ -1024,17 +1035,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/3zmSrRWDpKk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3zmSrRWDpKk"
-    },
-    {
-      "videoId": "qIPjorYya3U",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Stay stylish while repping your team with Search 🇫🇷⚽️",
-      "published": "2026-07-09T16:35:02+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/qIPjorYya3U/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qIPjorYya3U"
     },
     {
       "videoId": "hnLxZYDb4z0",
