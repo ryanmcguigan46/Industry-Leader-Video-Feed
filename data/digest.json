@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T12:53:25.994Z",
+  "generatedAt": "2026-08-06T12:57:47.898Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,15 +47,37 @@
   ],
   "videos": [
     {
-      "videoId": "gdL8cZsrZE4",
+      "videoId": "zyrWGQ8zl-4",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How do you explain world models to your sibling? 🤖",
+      "published": "2026-08-05T20:53:46+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/zyrWGQ8zl-4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zyrWGQ8zl-4"
+    },
+    {
+      "videoId": "eeoIADqwxpY",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "What is RTX Spark?",
+      "published": "2026-08-05T18:00:01+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/eeoIADqwxpY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eeoIADqwxpY"
+    },
+    {
+      "videoId": "AWrBir1CJg0",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
       "title": "How Agentic AI is Powering Autonomous Networks",
-      "published": "2026-08-04T23:36:44+00:00",
+      "published": "2026-08-05T16:54:11+00:00",
       "source": "NVIDIA",
       "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/gdL8cZsrZE4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gdL8cZsrZE4"
+      "thumb": "https://i.ytimg.com/vi/AWrBir1CJg0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AWrBir1CJg0"
     },
     {
       "videoId": "bSp-foRDH5M",
@@ -586,17 +608,6 @@
       "url": "https://www.youtube.com/watch?v=zq88iLsSfMA"
     },
     {
-      "videoId": "TY2EilHUR1c",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Powering Agentic AI with AI-Ready Data Platforms That Turn Data Into Intelligence",
-      "published": "2026-07-23T18:43:29+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/TY2EilHUR1c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TY2EilHUR1c"
-    },
-    {
       "videoId": "Sm7OTow3mcY",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -606,17 +617,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Sm7OTow3mcY/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Sm7OTow3mcY"
-    },
-    {
-      "videoId": "4ADWW93ebjo",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "An Early Look At The MSI Prestige N16 Flip AI+ & EdgeMesa N AI+ Powered by NVIDIA RTX Spark",
-      "published": "2026-07-23T16:00:39+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4ADWW93ebjo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4ADWW93ebjo"
     },
     {
       "videoId": "JlRgRmAqoAc",
