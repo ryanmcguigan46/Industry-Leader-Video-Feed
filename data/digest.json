@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T12:57:47.898Z",
+  "generatedAt": "2026-08-07T11:46:17.367Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,6 +47,61 @@
   ],
   "videos": [
     {
+      "videoId": "p_slDAvPjv0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How to Schedule a Weekly Metrics Report With ChatGPT Work",
+      "published": "2026-08-06T22:29:28+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/p_slDAvPjv0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=p_slDAvPjv0"
+    },
+    {
+      "videoId": "TryfaGZwvIE",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How to Turn a Forecast Spreadsheet Into an Interactive Planning Tool With ChatGPT Work",
+      "published": "2026-08-06T22:29:01+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/TryfaGZwvIE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TryfaGZwvIE"
+    },
+    {
+      "videoId": "sC9hayyt5aw",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "AI built with a company’s data should remain under its control.",
+      "published": "2026-08-06T19:03:16+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/sC9hayyt5aw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sC9hayyt5aw"
+    },
+    {
+      "videoId": "UaeWJK_vv-Y",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Introducing Agent Plugins",
+      "published": "2026-08-06T16:13:08+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/UaeWJK_vv-Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UaeWJK_vv-Y"
+    },
+    {
+      "videoId": "xWAmryteQc4",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "design a logo with Meta AI",
+      "published": "2026-08-06T16:01:04+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/xWAmryteQc4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xWAmryteQc4"
+    },
+    {
       "videoId": "zyrWGQ8zl-4",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -83,7 +138,7 @@
       "videoId": "bSp-foRDH5M",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
-      "title": "How to Build Apps and Automate Tasks with Google Antigravity 2.0",
+      "title": "How to build apps and automate tasks with Google Antigravity 2.0",
       "published": "2026-08-04T20:46:03+00:00",
       "source": "Google",
       "type": "Talk",
@@ -498,17 +553,6 @@
       "url": "https://www.youtube.com/watch?v=1SCIc_tH038"
     },
     {
-      "videoId": "FVsgX0AdDTo",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "What Big Tech Missed And How Startups Can Still Win",
-      "published": "2026-07-25T06:00:15+00:00",
-      "source": "Y Combinator",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/FVsgX0AdDTo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=FVsgX0AdDTo"
-    },
-    {
       "videoId": "UGLV3ufFZEw",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -542,17 +586,6 @@
       "url": "https://www.youtube.com/watch?v=jyuyY86GJnA"
     },
     {
-      "videoId": "z1b8DRFwWgo",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "GTC SJ 2026: Next Generation Intelligent Surgical Robots",
-      "published": "2026-07-24T17:41:04+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/z1b8DRFwWgo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=z1b8DRFwWgo"
-    },
-    {
       "videoId": "y6L37mXkTw0",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -573,39 +606,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/PB7DBemxl3E/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=PB7DBemxl3E"
-    },
-    {
-      "videoId": "-_p2a6uWfjk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "What is AI Slop?",
-      "published": "2026-07-23T20:51:09+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/-_p2a6uWfjk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-_p2a6uWfjk"
-    },
-    {
-      "videoId": "t8Ej9aeW388",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How IT Admins can manage ChatGPT Work at scale | OpenAI",
-      "published": "2026-07-23T20:50:48+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/t8Ej9aeW388/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=t8Ej9aeW388"
-    },
-    {
-      "videoId": "zq88iLsSfMA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Enterprise Teams Use ChatGPT Work | Zapier, Shopify & Virgin Atlantic",
-      "published": "2026-07-23T20:23:01+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/zq88iLsSfMA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=zq88iLsSfMA"
     },
     {
       "videoId": "Sm7OTow3mcY",
@@ -1147,28 +1147,6 @@
       "url": "https://www.youtube.com/watch?v=v6iTuuXZYbY"
     },
     {
-      "videoId": "tH2DnBbYm2U",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Behind the Tech: Maxine and Molly",
-      "published": "2026-06-30T16:12:33+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/tH2DnBbYm2U/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tH2DnBbYm2U"
-    },
-    {
-      "videoId": "gKboAPejVM8",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Against all odds. Congratulations Elon Musk and SpaceX.",
-      "published": "2026-06-24T20:03:43+00:00",
-      "source": "a16z",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/gKboAPejVM8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gKboAPejVM8"
-    },
-    {
       "videoId": "8aGMLbS3NAo",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -1178,17 +1156,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/8aGMLbS3NAo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=8aGMLbS3NAo"
-    },
-    {
-      "videoId": "Vb-OqxUWPDE",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "How Tesla Vision Helps Deploy Airbags Earlier",
-      "published": "2026-06-22T20:18:20+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Vb-OqxUWPDE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Vb-OqxUWPDE"
     }
   ],
   "warnings": [
