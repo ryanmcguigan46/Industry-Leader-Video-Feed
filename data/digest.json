@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T11:46:17.367Z",
+  "generatedAt": "2026-08-08T11:29:57.916Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,50 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "xcTRTotS9-A",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "published": "2026-08-08T09:44:27+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/xcTRTotS9-A/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xcTRTotS9-A"
+    },
+    {
+      "videoId": "SZ7rf5waBTY",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Open models give enterprises transparency and flexibility.",
+      "published": "2026-08-07T19:00:31+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/SZ7rf5waBTY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SZ7rf5waBTY"
+    },
+    {
+      "videoId": "02BE2cVZdxI",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Introducing Madden NFL 27 Apple Arcade Edition",
+      "published": "2026-08-07T16:00:26+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/02BE2cVZdxI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=02BE2cVZdxI"
+    },
+    {
+      "videoId": "eV1Z2xQZGvA",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Next-Gen Enterprise AI: Powered by Infosys & NVIDIA",
+      "published": "2026-08-07T15:37:58+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/eV1Z2xQZGvA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eV1Z2xQZGvA"
+    },
     {
       "videoId": "p_slDAvPjv0",
       "leaderId": "sam-altman",
@@ -509,17 +553,6 @@
       "url": "https://www.youtube.com/watch?v=oXu6JGxW_YM"
     },
     {
-      "videoId": "P3VzeHtat70",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How Autonomous AI Is Transforming Chip and System Design",
-      "published": "2026-07-27T00:45:00+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/P3VzeHtat70/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=P3VzeHtat70"
-    },
-    {
       "videoId": "I4B37S1dyQQ",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -551,28 +584,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/1SCIc_tH038/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=1SCIc_tH038"
-    },
-    {
-      "videoId": "UGLV3ufFZEw",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "President Lee Jae Myung met with our CEO Jensen Huang ahead of the San Francisco AI Summit",
-      "published": "2026-07-24T23:32:33+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/UGLV3ufFZEw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UGLV3ufFZEw"
-    },
-    {
-      "videoId": "NsOlCHYn99k",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "That’s a wrap on #SIGGRAPH2026 🎬",
-      "published": "2026-07-24T22:30:34+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/NsOlCHYn99k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NsOlCHYn99k"
     },
     {
       "videoId": "jyuyY86GJnA",
@@ -793,17 +804,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/dvhyFI7qbyc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=dvhyFI7qbyc"
-    },
-    {
-      "videoId": "xZKbotC_Jh0",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 13 The three scorpions",
-      "published": "2026-07-22T01:01:03+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/xZKbotC_Jh0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xZKbotC_Jh0"
     },
     {
       "videoId": "GI8qKCGxN6I",
@@ -1145,17 +1145,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/v6iTuuXZYbY/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=v6iTuuXZYbY"
-    },
-    {
-      "videoId": "8aGMLbS3NAo",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Tesla Home: Home Energy Management, Powered by AI",
-      "published": "2026-06-23T17:40:05+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/8aGMLbS3NAo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8aGMLbS3NAo"
     }
   ],
   "warnings": [
