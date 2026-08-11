@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T11:47:43.398Z",
+  "generatedAt": "2026-08-11T11:43:57.829Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,61 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "rRkucx0KwcI",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "GTC SJ 2026: Physical AI for Healthcare Robotics - Simulation-First Design & Accelerated Development",
+      "published": "2026-08-10T21:00:15+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/rRkucx0KwcI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rRkucx0KwcI"
+    },
+    {
+      "videoId": "qH1qnCBPw8g",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "What actually makes someone succeed in the age of AI?",
+      "published": "2026-08-10T19:03:24+00:00",
+      "source": "Microsoft",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/qH1qnCBPw8g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qH1qnCBPw8g"
+    },
+    {
+      "videoId": "PyTJmPkfmpc",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Vibe coding a custom e-ink picture frame powered by Gemini 3.6 Flash and Nano Banana",
+      "published": "2026-08-10T18:15:35+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/PyTJmPkfmpc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PyTJmPkfmpc"
+    },
+    {
+      "videoId": "cazd1z4Eseo",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "The AI shift most companies didn't see coming",
+      "published": "2026-08-10T17:02:00+00:00",
+      "source": "Microsoft",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/cazd1z4Eseo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cazd1z4Eseo"
+    },
+    {
+      "videoId": "OEkxKdhtQng",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Model ML Uses GPT-5.6 Sol to Get Finance Work Done More Efficiently",
+      "published": "2026-08-10T13:33:42+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/OEkxKdhtQng/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OEkxKdhtQng"
+    },
     {
       "videoId": "xcTRTotS9-A",
       "leaderId": "jensen-huang",
@@ -476,17 +531,6 @@
       "url": "https://www.youtube.com/watch?v=q9TPE7pKkIo"
     },
     {
-      "videoId": "rpQPBCDv5Pc",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How BharatGen is building India AI with NVIDIA Nemotron",
-      "published": "2026-07-28T05:24:51+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/rpQPBCDv5Pc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rpQPBCDv5Pc"
-    },
-    {
       "videoId": "ZIaOBAjvc38",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -606,17 +650,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/y6L37mXkTw0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=y6L37mXkTw0"
-    },
-    {
-      "videoId": "PB7DBemxl3E",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Building at the pace of AI innovation | Grant Lee, Gamma",
-      "published": "2026-07-24T09:12:21+00:00",
-      "source": "OpenAI",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/PB7DBemxl3E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PB7DBemxl3E"
     },
     {
       "videoId": "Sm7OTow3mcY",
@@ -1004,17 +1037,6 @@
       "url": "https://www.youtube.com/watch?v=mlXbfJf80k8"
     },
     {
-      "videoId": "5qTTLTzyY9Y",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Portugal's leading the mini cup... for now 👀",
-      "published": "2026-07-12T15:00:43+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/5qTTLTzyY9Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5qTTLTzyY9Y"
-    },
-    {
       "videoId": "pUuQWUZiEJw",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1123,28 +1145,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/bOTy3Q5_trw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=bOTy3Q5_trw"
-    },
-    {
-      "videoId": "SfUH9ENJCko",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "America's recipe for innovation is enshrined in the Constitution",
-      "published": "2026-07-02T12:01:53+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/SfUH9ENJCko/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SfUH9ENJCko"
-    },
-    {
-      "videoId": "v6iTuuXZYbY",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "It’s 1698 again… but different",
-      "published": "2026-07-01T21:00:25+00:00",
-      "source": "Microsoft",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/v6iTuuXZYbY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=v6iTuuXZYbY"
     }
   ],
   "warnings": [
