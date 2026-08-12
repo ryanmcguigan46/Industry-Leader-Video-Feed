@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T11:43:57.829Z",
+  "generatedAt": "2026-08-12T11:47:03.335Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "64hq3vDifcY",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Never forget an assignment with Reminders. Tip from Sam at the Apple Store.",
+      "published": "2026-08-11T16:02:49+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/64hq3vDifcY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=64hq3vDifcY"
+    },
+    {
+      "videoId": "pmiN5Nj1-K8",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "GTC SJ 2026: Healthcare Reimagined - Bridging Digital Intelligence and Physical Autonomy",
+      "published": "2026-08-11T13:00:34+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/pmiN5Nj1-K8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pmiN5Nj1-K8"
+    },
     {
       "videoId": "rRkucx0KwcI",
       "leaderId": "jensen-huang",
@@ -465,17 +487,6 @@
       "url": "https://www.youtube.com/watch?v=Fmc5YLKyNLY"
     },
     {
-      "videoId": "iWsKSxyfRIA",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "GTC SJ 2026: The AI Native Digital Health Stack A Developer's Guide to 2026",
-      "published": "2026-07-28T21:00:23+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/iWsKSxyfRIA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=iWsKSxyfRIA"
-    },
-    {
       "videoId": "P5GxUjU4uBI",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -595,17 +606,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/oXu6JGxW_YM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=oXu6JGxW_YM"
-    },
-    {
-      "videoId": "I4B37S1dyQQ",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Jensen Huang: The Mindset That Built NVIDIA",
-      "published": "2026-07-26T20:32:05+00:00",
-      "source": "Y Combinator",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/I4B37S1dyQQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=I4B37S1dyQQ"
     },
     {
       "videoId": "pPvt-vtyOvo",
@@ -826,17 +826,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/yIqObrLf5ok/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=yIqObrLf5ok"
-    },
-    {
-      "videoId": "dvhyFI7qbyc",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 12 The one pulling the strings",
-      "published": "2026-07-22T01:01:09+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/dvhyFI7qbyc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=dvhyFI7qbyc"
     },
     {
       "videoId": "GI8qKCGxN6I",
