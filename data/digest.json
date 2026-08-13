@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T11:47:03.335Z",
+  "generatedAt": "2026-08-13T11:47:46.355Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,94 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "6VwIXjFj6YQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "You can just launch Sites | ChatGPT Work",
+      "published": "2026-08-13T08:12:53+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/6VwIXjFj6YQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6VwIXjFj6YQ"
+    },
+    {
+      "videoId": "-vvGAKtV_Ek",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "You can just finish the work | ChatGPT Work",
+      "published": "2026-08-13T08:09:08+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/-vvGAKtV_Ek/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-vvGAKtV_Ek"
+    },
+    {
+      "videoId": "KHpAIj-mTzE",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Agentic AI needs more than one model.",
+      "published": "2026-08-13T00:11:44+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/KHpAIj-mTzE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KHpAIj-mTzE"
+    },
+    {
+      "videoId": "CNM6Mmqrfeg",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA Spectrum-X Ethernet Photonics | Now in Full Production",
+      "published": "2026-08-12T18:07:23+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/CNM6Mmqrfeg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CNM6Mmqrfeg"
+    },
+    {
+      "videoId": "1fs84Lyp1s0",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Introducing Pixel Tag, our first-ever finder tag.",
+      "published": "2026-08-12T15:58:39+00:00",
+      "source": "Google",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/1fs84Lyp1s0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1fs84Lyp1s0"
+    },
+    {
+      "videoId": "6yysYeHiPDQ",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Here’s your first peek at Pixel Watch 5.",
+      "published": "2026-08-12T15:04:25+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/6yysYeHiPDQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6yysYeHiPDQ"
+    },
+    {
+      "videoId": "Iq3gwdriirU",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "This is just the beginning. Join us at GTC Berlin, October 20–22",
+      "published": "2026-08-12T14:16:12+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/Iq3gwdriirU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Iq3gwdriirU"
+    },
+    {
+      "videoId": "-eckuctHcoc",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Get your first look at the #Pixel11 family.",
+      "published": "2026-08-12T14:08:15+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/-eckuctHcoc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-eckuctHcoc"
+    },
     {
       "videoId": "64hq3vDifcY",
       "leaderId": "tim-cook",
@@ -333,28 +421,6 @@
       "url": "https://www.youtube.com/watch?v=xySgVPLYnsc"
     },
     {
-      "videoId": "3sDEcfO2cQU",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Real-Time Neurological Insights: Scaling NeuroDX AI with NVIDIA Inception",
-      "published": "2026-08-03T22:01:49+00:00",
-      "source": "NVIDIA",
-      "type": "Speech",
-      "thumb": "https://i.ytimg.com/vi/3sDEcfO2cQU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3sDEcfO2cQU"
-    },
-    {
-      "videoId": "8TQYkjViaBQ",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Securely Deploy Autonomous Agents in Your AI Factory | AI Factory Insider Ep. 3",
-      "published": "2026-08-03T21:10:37+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/8TQYkjViaBQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8TQYkjViaBQ"
-    },
-    {
       "videoId": "nizOUNTyt58",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -386,17 +452,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/jETkJOosLPI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=jETkJOosLPI"
-    },
-    {
-      "videoId": "TrYsSM_d3TE",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution.",
-      "published": "2026-07-30T21:02:00+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/TrYsSM_d3TE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TrYsSM_d3TE"
     },
     {
       "videoId": "JUlcgfqCgN4",
@@ -597,17 +652,6 @@
       "url": "https://www.youtube.com/watch?v=r4qZz66GlNQ"
     },
     {
-      "videoId": "oXu6JGxW_YM",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Navigating AI Transformation in the Legal Industry | Jonathan Williams, Head of France, Legora",
-      "published": "2026-07-27T12:37:15+00:00",
-      "source": "OpenAI",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/oXu6JGxW_YM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=oXu6JGxW_YM"
-    },
-    {
       "videoId": "pPvt-vtyOvo",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -628,17 +672,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/1SCIc_tH038/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=1SCIc_tH038"
-    },
-    {
-      "videoId": "jyuyY86GJnA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build Hour: Valuemaxxing with GPT-5.6",
-      "published": "2026-07-24T19:47:16+00:00",
-      "source": "OpenAI",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/jyuyY86GJnA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jyuyY86GJnA"
     },
     {
       "videoId": "y6L37mXkTw0",
@@ -905,17 +938,6 @@
       "url": "https://www.youtube.com/watch?v=BD7gbl2lBsM"
     },
     {
-      "videoId": "uJ5b9SlZRys",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Celebrate on any pitch with a knee slide simulator in Search 🏆",
-      "published": "2026-07-16T18:54:36+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/uJ5b9SlZRys/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=uJ5b9SlZRys"
-    },
-    {
       "videoId": "LZkP56CQ3lo",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -947,17 +969,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/CCNmGkT-M9M/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=CCNmGkT-M9M"
-    },
-    {
-      "videoId": "2jBT5mlomoE",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "How We Use AI for Your Health | Made by Google Podcast S9E6",
-      "published": "2026-07-15T16:52:50+00:00",
-      "source": "Google",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/2jBT5mlomoE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2jBT5mlomoE"
     },
     {
       "videoId": "29qGCi8FxGM",
@@ -1002,17 +1013,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/-a0ecQMq-rM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=-a0ecQMq-rM"
-    },
-    {
-      "videoId": "c-lTrKAxViY",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "It’s that epic.",
-      "published": "2026-07-13T18:57:49+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/c-lTrKAxViY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=c-lTrKAxViY"
     },
     {
       "videoId": "mlXbfJf80k8",
