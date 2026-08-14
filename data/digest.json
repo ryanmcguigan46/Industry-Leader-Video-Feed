@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T11:47:46.355Z",
+  "generatedAt": "2026-08-14T11:43:52.247Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,105 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "0XPk_MAwCW4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Inside Cricket’s Smartest Backroom | Rajasthan Royals | ChatGPT @rajasthanroyals",
+      "published": "2026-08-14T06:30:28+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/0XPk_MAwCW4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0XPk_MAwCW4"
+    },
+    {
+      "videoId": "XGCTh8BNibY",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Jaguar Type 01 Visits NVIDIA HQ",
+      "published": "2026-08-14T00:30:03+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/XGCTh8BNibY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XGCTh8BNibY"
+    },
+    {
+      "videoId": "W-HhMUe9hOg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Computer History in ChatGPT",
+      "published": "2026-08-13T20:34:04+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/W-HhMUe9hOg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=W-HhMUe9hOg"
+    },
+    {
+      "videoId": "WCwT4gWpHmI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+      "published": "2026-08-13T17:12:37+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/WCwT4gWpHmI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WCwT4gWpHmI"
+    },
+    {
+      "videoId": "bl2eGejkbaU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Get a daily CFO briefing with ChatGPT Work",
+      "published": "2026-08-13T13:06:22+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/bl2eGejkbaU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bl2eGejkbaU"
+    },
+    {
+      "videoId": "94Td-y5z5rk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Build custom financial forecasting apps with ChatGPT Work",
+      "published": "2026-08-13T13:05:30+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/94Td-y5z5rk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=94Td-y5z5rk"
+    },
+    {
+      "videoId": "Ljm3nHQQiSk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Reconcile quarter-end financials with ChatGPT Work",
+      "published": "2026-08-13T13:04:31+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Ljm3nHQQiSk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ljm3nHQQiSk"
+    },
+    {
+      "videoId": "_HCks5jkPLw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to deliver board-ready reporting",
+      "published": "2026-08-13T11:31:36+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/_HCks5jkPLw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_HCks5jkPLw"
+    },
+    {
+      "videoId": "mOAHWk24D28",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to build custom forecasting apps",
+      "published": "2026-08-13T11:27:26+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/mOAHWk24D28/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mOAHWk24D28"
+    },
     {
       "videoId": "6VwIXjFj6YQ",
       "leaderId": "sam-altman",
@@ -171,7 +270,7 @@
       "videoId": "qH1qnCBPw8g",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
-      "title": "What actually makes someone succeed in the age of AI?",
+      "title": "3 skills you need in the age of AI",
       "published": "2026-08-10T19:03:24+00:00",
       "source": "Microsoft",
       "type": "Interview",
@@ -377,17 +476,6 @@
       "url": "https://www.youtube.com/watch?v=Np0afRWtdp8"
     },
     {
-      "videoId": "r64krUavXJU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Meet Birding Pal",
-      "published": "2026-08-04T17:43:45+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/r64krUavXJU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=r64krUavXJU"
-    },
-    {
       "videoId": "BTyWlJJUX2I",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -408,17 +496,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/nHX8cIZTJp0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=nHX8cIZTJp0"
-    },
-    {
-      "videoId": "xySgVPLYnsc",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA Alpamayo 2 Super: The Frontier Open Model for Robotaxis and Autonomous Vehicle",
-      "published": "2026-08-04T14:50:26+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/xySgVPLYnsc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xySgVPLYnsc"
     },
     {
       "videoId": "nizOUNTyt58",
@@ -465,17 +542,6 @@
       "url": "https://www.youtube.com/watch?v=JUlcgfqCgN4"
     },
     {
-      "videoId": "_Gd9yzAc-WI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Using Voice in ChatGPT Work",
-      "published": "2026-07-29T22:37:43+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/_Gd9yzAc-WI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_Gd9yzAc-WI"
-    },
-    {
       "videoId": "isfJqgyGRFE",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -498,17 +564,6 @@
       "url": "https://www.youtube.com/watch?v=Z0wqxv-oo48"
     },
     {
-      "videoId": "MLehRytu9Zo",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "We're giving 100,000 academic researchers free access to our frontier models",
-      "published": "2026-07-29T17:23:02+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/MLehRytu9Zo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MLehRytu9Zo"
-    },
-    {
       "videoId": "xSj6rVtQrpc",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -518,17 +573,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/xSj6rVtQrpc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=xSj6rVtQrpc"
-    },
-    {
-      "videoId": "WeP9VUf1OoE",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Introducing gpt-transcribe and gpt-live-transcribe",
-      "published": "2026-07-28T21:49:18+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/WeP9VUf1OoE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=WeP9VUf1OoE"
     },
     {
       "videoId": "Fmc5YLKyNLY",
@@ -551,50 +595,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/P5GxUjU4uBI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=P5GxUjU4uBI"
-    },
-    {
-      "videoId": "g-g6E-qtCjA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work for Sales: Revenue Intelligence for Sales Leaders",
-      "published": "2026-07-28T14:25:26+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/g-g6E-qtCjA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=g-g6E-qtCjA"
-    },
-    {
-      "videoId": "5DbZAMGZ5oM",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work for Sales: Account Research and Customer Outreach",
-      "published": "2026-07-28T14:23:31+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/5DbZAMGZ5oM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5DbZAMGZ5oM"
-    },
-    {
-      "videoId": "hjXi7b01s2c",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work for Sales: Account Planning and Meeting Prep",
-      "published": "2026-07-28T14:20:18+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/hjXi7b01s2c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hjXi7b01s2c"
-    },
-    {
-      "videoId": "q9TPE7pKkIo",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work for Sales: Pipeline and Forecast Intelligence",
-      "published": "2026-07-28T14:16:53+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/q9TPE7pKkIo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=q9TPE7pKkIo"
     },
     {
       "videoId": "ZIaOBAjvc38",
