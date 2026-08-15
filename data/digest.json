@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T11:43:52.247Z",
+  "generatedAt": "2026-08-15T11:21:04.168Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,6 +47,61 @@
   ],
   "videos": [
     {
+      "videoId": "4lC38dyszj0",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Apple Creator Studio: Watch Jungle make 11 music videos in 4 days",
+      "published": "2026-08-15T00:02:41+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4lC38dyszj0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4lC38dyszj0"
+    },
+    {
+      "videoId": "qU9BgAMQ1k4",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "The biggest AI mistake?",
+      "published": "2026-08-14T20:42:42+00:00",
+      "source": "Microsoft",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/qU9BgAMQ1k4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qU9BgAMQ1k4"
+    },
+    {
+      "videoId": "EWlD1dy5lck",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA interns brought their energy to teams across the company this summer",
+      "published": "2026-08-14T19:27:50+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/EWlD1dy5lck/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EWlD1dy5lck"
+    },
+    {
+      "videoId": "EDWbX_-RYws",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+      "published": "2026-08-14T17:19:17+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/EDWbX_-RYws/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EDWbX_-RYws"
+    },
+    {
+      "videoId": "ieJo-_TgO-E",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Ray-Ban Meta Glasses Donation to Vision Ireland",
+      "published": "2026-08-14T14:03:51+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ieJo-_TgO-E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ieJo-_TgO-E"
+    },
+    {
       "videoId": "0XPk_MAwCW4",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -78,17 +133,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/W-HhMUe9hOg/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=W-HhMUe9hOg"
-    },
-    {
-      "videoId": "WCwT4gWpHmI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-      "published": "2026-08-13T17:12:37+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/WCwT4gWpHmI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=WCwT4gWpHmI"
     },
     {
       "videoId": "bl2eGejkbaU",
@@ -487,17 +531,6 @@
       "url": "https://www.youtube.com/watch?v=BTyWlJJUX2I"
     },
     {
-      "videoId": "nHX8cIZTJp0",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Meet Alpamayo 2 Super",
-      "published": "2026-08-04T15:39:25+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/nHX8cIZTJp0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=nHX8cIZTJp0"
-    },
-    {
       "videoId": "nizOUNTyt58",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -595,17 +628,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/P5GxUjU4uBI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=P5GxUjU4uBI"
-    },
-    {
-      "videoId": "ZIaOBAjvc38",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Sam Altman: \"Never a Better Time to Do a Startup\"",
-      "published": "2026-07-28T00:48:16+00:00",
-      "source": "Y Combinator",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/ZIaOBAjvc38/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZIaOBAjvc38"
     },
     {
       "videoId": "oPGtv7cOB8g",
@@ -850,17 +872,6 @@
       "url": "https://www.youtube.com/watch?v=1VpJ167ABGE"
     },
     {
-      "videoId": "yIqObrLf5ok",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 11 The lady’s reckoning",
-      "published": "2026-07-22T01:01:16+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/yIqObrLf5ok/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=yIqObrLf5ok"
-    },
-    {
       "videoId": "GI8qKCGxN6I",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -1059,17 +1070,6 @@
       "url": "https://www.youtube.com/watch?v=hnLxZYDb4z0"
     },
     {
-      "videoId": "FGftt6llon0",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Freedom is built on the protection of privacy | Episode 2",
-      "published": "2026-07-08T15:00:31+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/FGftt6llon0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=FGftt6llon0"
-    },
-    {
       "videoId": "NqQnHWa-Vxs",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -1123,17 +1123,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/gl2R3QivRMY/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gl2R3QivRMY"
-    },
-    {
-      "videoId": "bOTy3Q5_trw",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Boz To The Future #27: The Future According to Shyam Sankar",
-      "published": "2026-07-02T13:44:02+00:00",
-      "source": "Meta",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/bOTy3Q5_trw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=bOTy3Q5_trw"
     }
   ],
   "warnings": [
