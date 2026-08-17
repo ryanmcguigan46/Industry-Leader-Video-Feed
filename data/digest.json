@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T11:20:28.988Z",
+  "generatedAt": "2026-08-17T11:26:54.205Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -1112,17 +1112,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/i55knpDqWbQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=i55knpDqWbQ"
-    },
-    {
-      "videoId": "gl2R3QivRMY",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Reel of the Week: @rosevlexa",
-      "published": "2026-07-02T16:00:04+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/gl2R3QivRMY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gl2R3QivRMY"
     }
   ],
   "warnings": [
