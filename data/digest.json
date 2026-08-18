@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T11:26:54.205Z",
+  "generatedAt": "2026-08-18T11:25:45.565Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "wIf9yMGalPU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "You can just keep the work moving",
+      "published": "2026-08-17T18:25:48+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/wIf9yMGalPU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wIf9yMGalPU"
+    },
+    {
+      "videoId": "Cxp2aZQqkYM",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Base44 Uses GPT-5.6 to Build Apps With 20% Fewer Tokens",
+      "published": "2026-08-17T15:22:51+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Cxp2aZQqkYM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Cxp2aZQqkYM"
+    },
     {
       "videoId": "4lC38dyszj0",
       "leaderId": "tim-cook",
@@ -432,17 +454,6 @@
       "url": "https://www.youtube.com/watch?v=sC9hayyt5aw"
     },
     {
-      "videoId": "UaeWJK_vv-Y",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Introducing Agent Plugins",
-      "published": "2026-08-06T16:13:08+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/UaeWJK_vv-Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UaeWJK_vv-Y"
-    },
-    {
       "videoId": "xWAmryteQc4",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -496,17 +507,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/bSp-foRDH5M/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=bSp-foRDH5M"
-    },
-    {
-      "videoId": "SJJBPwlPpww",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How AI Helps Solve Medical Mysteries at Boston Children’s Hospital | OpenAI Forum",
-      "published": "2026-08-04T20:29:24+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/SJJBPwlPpww/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SJJBPwlPpww"
     },
     {
       "videoId": "Np0afRWtdp8",
