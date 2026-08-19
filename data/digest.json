@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T11:25:45.565Z",
+  "generatedAt": "2026-08-19T11:26:04.144Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,61 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "vPnkarnJnVs",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "What CEOs are quietly admitting about AI",
+      "published": "2026-08-18T20:00:37+00:00",
+      "source": "Microsoft",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/vPnkarnJnVs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vPnkarnJnVs"
+    },
+    {
+      "videoId": "V3GGQXPUIsE",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "RTX Spark",
+      "published": "2026-08-18T20:00:11+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/V3GGQXPUIsE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=V3GGQXPUIsE"
+    },
+    {
+      "videoId": "XjSJ6ybS9I8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How to Turn a Business Question Into a Strategy Deck With ChatGPT Work | Tutorial",
+      "published": "2026-08-18T19:05:08+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/XjSJ6ybS9I8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XjSJ6ybS9I8"
+    },
+    {
+      "videoId": "0j9yDUDMrBs",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How to Create a Solid Blog Draft With ChatGPT Work | Tutorial",
+      "published": "2026-08-18T19:02:05+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/0j9yDUDMrBs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0j9yDUDMrBs"
+    },
+    {
+      "videoId": "yQZgOSHHxjk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How to Prepare for Customer Meetings With ChatGPT Work | Tutorial",
+      "published": "2026-08-18T18:58:56+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/yQZgOSHHxjk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yQZgOSHHxjk"
+    },
     {
       "videoId": "wIf9yMGalPU",
       "leaderId": "sam-altman",
@@ -366,17 +421,6 @@
       "url": "https://www.youtube.com/watch?v=cazd1z4Eseo"
     },
     {
-      "videoId": "OEkxKdhtQng",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Model ML Uses GPT-5.6 Sol to Get Finance Work Done More Efficiently",
-      "published": "2026-08-10T13:33:42+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/OEkxKdhtQng/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OEkxKdhtQng"
-    },
-    {
       "videoId": "xcTRTotS9-A",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -419,28 +463,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/eV1Z2xQZGvA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=eV1Z2xQZGvA"
-    },
-    {
-      "videoId": "p_slDAvPjv0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to Schedule a Weekly Metrics Report With ChatGPT Work",
-      "published": "2026-08-06T22:29:28+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/p_slDAvPjv0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=p_slDAvPjv0"
-    },
-    {
-      "videoId": "TryfaGZwvIE",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to Turn a Forecast Spreadsheet Into an Interactive Planning Tool With ChatGPT Work",
-      "published": "2026-08-06T22:29:01+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/TryfaGZwvIE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TryfaGZwvIE"
     },
     {
       "videoId": "sC9hayyt5aw",
@@ -507,17 +529,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/bSp-foRDH5M/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=bSp-foRDH5M"
-    },
-    {
-      "videoId": "Np0afRWtdp8",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Why AI Agents Need More Than One Model",
-      "published": "2026-08-04T19:00:10+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Np0afRWtdp8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Np0afRWtdp8"
     },
     {
       "videoId": "BTyWlJJUX2I",
@@ -1057,17 +1068,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/3zmSrRWDpKk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3zmSrRWDpKk"
-    },
-    {
-      "videoId": "hnLxZYDb4z0",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Ode Poetry Experience | Powered by MAI models",
-      "published": "2026-07-09T07:45:24+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/hnLxZYDb4z0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hnLxZYDb4z0"
     },
     {
       "videoId": "NqQnHWa-Vxs",
