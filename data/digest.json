@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T11:26:04.144Z",
+  "generatedAt": "2026-08-20T11:26:46.050Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "VihWpoINpgE",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "More Tokens per Second per Megawatt: The Economics of NVIDIA Vera Rubin",
+      "published": "2026-08-19T20:39:25+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/VihWpoINpgE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VihWpoINpgE"
+    },
+    {
+      "videoId": "H3ggdqhncuU",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Vintage TVs turned to into unique cat beds",
+      "published": "2026-08-19T16:04:26+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/H3ggdqhncuU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=H3ggdqhncuU"
+    },
     {
       "videoId": "vPnkarnJnVs",
       "leaderId": "satya-nadella",
@@ -507,17 +529,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/eeoIADqwxpY/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=eeoIADqwxpY"
-    },
-    {
-      "videoId": "AWrBir1CJg0",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How Agentic AI is Powering Autonomous Networks",
-      "published": "2026-08-05T16:54:11+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/AWrBir1CJg0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=AWrBir1CJg0"
     },
     {
       "videoId": "bSp-foRDH5M",
@@ -1101,17 +1112,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/NxALjKM0XRg/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=NxALjKM0XRg"
-    },
-    {
-      "videoId": "i55knpDqWbQ",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Hey Meta\" with George Russell",
-      "published": "2026-07-05T16:00:19+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/i55knpDqWbQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=i55knpDqWbQ"
     }
   ],
   "warnings": [
