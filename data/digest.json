@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T11:26:46.050Z",
+  "generatedAt": "2026-08-21T11:26:44.548Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,149 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "TNhX1uR2vO8",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "iPhone 17 Pro: The most powerful iPhone ever",
+      "published": "2026-08-20T23:47:07+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/TNhX1uR2vO8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TNhX1uR2vO8"
+    },
+    {
+      "videoId": "nXSd_TKW7_c",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "iPhone 17: Built to last, and comes in five gorgeous colors",
+      "published": "2026-08-20T23:46:51+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/nXSd_TKW7_c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nXSd_TKW7_c"
+    },
+    {
+      "videoId": "9PbBCc16w_c",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "iPhone 17e:  Everything you love about iPhone at a wallet-friendly price",
+      "published": "2026-08-20T20:03:02+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/9PbBCc16w_c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9PbBCc16w_c"
+    },
+    {
+      "videoId": "sKJ0_NNcJzI",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "iPhone Air: Incredibly light and thin with pro-level performance",
+      "published": "2026-08-20T20:02:43+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/sKJ0_NNcJzI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sKJ0_NNcJzI"
+    },
+    {
+      "videoId": "exxIynPuCpA",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "iPad Air: Serious performance with the M4 chip, in a thin and light design",
+      "published": "2026-08-20T19:46:35+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/exxIynPuCpA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=exxIynPuCpA"
+    },
+    {
+      "videoId": "4Y9ITR44W5s",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "MacBook Air: A laptop that's thin, fast, powerful, and portable",
+      "published": "2026-08-20T19:46:16+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/4Y9ITR44W5s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4Y9ITR44W5s"
+    },
+    {
+      "videoId": "XvbIACyf_Fc",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "MacBook Neo: Everything you love about a Mac laptop at a surprising price",
+      "published": "2026-08-20T19:46:00+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/XvbIACyf_Fc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XvbIACyf_Fc"
+    },
+    {
+      "videoId": "JlS6RmAJKnE",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "MacBook Pro: The most advanced Mac laptop for demanding tasks",
+      "published": "2026-08-20T19:45:46+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/JlS6RmAJKnE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JlS6RmAJKnE"
+    },
+    {
+      "videoId": "WCRNR1Ve9s0",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Debugging with a Local Agent While You Get Coffee, Powered by NVIDIA RTX Spark",
+      "published": "2026-08-20T18:44:59+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/WCRNR1Ve9s0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WCRNR1Ve9s0"
+    },
+    {
+      "videoId": "O_Ndcx1LArU",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "BAMF",
+      "published": "2026-08-20T18:43:27+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/O_Ndcx1LArU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=O_Ndcx1LArU"
+    },
+    {
+      "videoId": "dWH8n-FkprM",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Go behind closed doors at the Artemis II test facility | Searching For",
+      "published": "2026-08-20T17:14:18+00:00",
+      "source": "Google",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/dWH8n-FkprM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dWH8n-FkprM"
+    },
+    {
+      "videoId": "Ykn0qWsjMS0",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Reel of the Week | BTS with Greyson the drummer",
+      "published": "2026-08-20T15:58:19+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Ykn0qWsjMS0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ykn0qWsjMS0"
+    },
+    {
+      "videoId": "mHTFRasvCR8",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Apple Watch ECG: Connor’s True Apple Watch Story",
+      "published": "2026-08-20T15:22:26+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/mHTFRasvCR8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mHTFRasvCR8"
+    },
     {
       "videoId": "VihWpoINpgE",
       "leaderId": "jensen-huang",
@@ -520,17 +663,6 @@
       "url": "https://www.youtube.com/watch?v=zyrWGQ8zl-4"
     },
     {
-      "videoId": "eeoIADqwxpY",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "What is RTX Spark?",
-      "published": "2026-08-05T18:00:01+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/eeoIADqwxpY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=eeoIADqwxpY"
-    },
-    {
       "videoId": "bSp-foRDH5M",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -696,17 +828,6 @@
       "url": "https://www.youtube.com/watch?v=r4qZz66GlNQ"
     },
     {
-      "videoId": "pPvt-vtyOvo",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Mark Zuckerberg on the only mistake that actually matters - giving up!",
-      "published": "2026-07-25T16:15:39+00:00",
-      "source": "a16z",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/pPvt-vtyOvo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pPvt-vtyOvo"
-    },
-    {
       "videoId": "1SCIc_tH038",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -795,105 +916,6 @@
       "url": "https://www.youtube.com/watch?v=wG_LaKvlcqM"
     },
     {
-      "videoId": "kxBnxxb3NaM",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 2 The tragic dessert",
-      "published": "2026-07-22T01:02:09+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/kxBnxxb3NaM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kxBnxxb3NaM"
-    },
-    {
-      "videoId": "AzoMY6JZu8g",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 3 The allergic heir",
-      "published": "2026-07-22T01:02:03+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/AzoMY6JZu8g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=AzoMY6JZu8g"
-    },
-    {
-      "videoId": "cMIAaW-sxzk",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 4 Explosive rumors",
-      "published": "2026-07-22T01:01:51+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/cMIAaW-sxzk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cMIAaW-sxzk"
-    },
-    {
-      "videoId": "sisxbo347C8",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 5 The threatened firstborn",
-      "published": "2026-07-22T01:01:46+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/sisxbo347C8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sisxbo347C8"
-    },
-    {
-      "videoId": "mPpkDAmHUvE",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 6 Villainess in action",
-      "published": "2026-07-22T01:01:42+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/mPpkDAmHUvE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mPpkDAmHUvE"
-    },
-    {
-      "videoId": "Sy610XzAbRQ",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 7 The framed driver",
-      "published": "2026-07-22T01:01:37+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Sy610XzAbRQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Sy610XzAbRQ"
-    },
-    {
-      "videoId": "xYUJUVzIE1s",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 8 A clash of villainesses",
-      "published": "2026-07-22T01:01:33+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/xYUJUVzIE1s/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xYUJUVzIE1s"
-    },
-    {
-      "videoId": "Z6G7ucUyJ_w",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 9 A timely accident",
-      "published": "2026-07-22T01:01:28+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Z6G7ucUyJ_w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Z6G7ucUyJ_w"
-    },
-    {
-      "videoId": "1VpJ167ABGE",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 10 The widow problem",
-      "published": "2026-07-22T01:01:23+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/1VpJ167ABGE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1VpJ167ABGE"
-    },
-    {
       "videoId": "GI8qKCGxN6I",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -958,17 +980,6 @@
       "type": "Speech",
       "thumb": "https://i.ytimg.com/vi/MJu_-hiK_qk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=MJu_-hiK_qk"
-    },
-    {
-      "videoId": "BD7gbl2lBsM",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Send this to the group chat ⚽️📱",
-      "published": "2026-07-17T15:51:00+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/BD7gbl2lBsM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=BD7gbl2lBsM"
     },
     {
       "videoId": "LZkP56CQ3lo",
@@ -1101,17 +1112,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/tMZcqHl1NQY/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=tMZcqHl1NQY"
-    },
-    {
-      "videoId": "NxALjKM0XRg",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Impact Stories: Yianni (@yohnmav)",
-      "published": "2026-07-06T15:00:30+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/NxALjKM0XRg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NxALjKM0XRg"
     }
   ],
   "warnings": [
