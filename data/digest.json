@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T11:26:44.548Z",
+  "generatedAt": "2026-08-22T11:21:02.122Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "RrfJVP-6Quw",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "AirPods Max 2: The ultimate over-ear listening experience",
+      "published": "2026-08-22T00:25:49+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/RrfJVP-6Quw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RrfJVP-6Quw"
+    },
+    {
+      "videoId": "tMhp4-ylrdE",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Tesla Cathode Factory",
+      "published": "2026-08-21T20:40:28+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/tMhp4-ylrdE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tMhp4-ylrdE"
+    },
+    {
+      "videoId": "gVFOOnecU5k",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Apple Watch Series 11: The ultimate way to watch your health",
+      "published": "2026-08-21T19:12:36+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/gVFOOnecU5k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gVFOOnecU5k"
+    },
     {
       "videoId": "TNhX1uR2vO8",
       "leaderId": "tim-cook",
@@ -773,17 +806,6 @@
       "url": "https://www.youtube.com/watch?v=Fmc5YLKyNLY"
     },
     {
-      "videoId": "P5GxUjU4uBI",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Get sorted for college with Roxie from the Apple Store.",
-      "published": "2026-07-28T16:00:55+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/P5GxUjU4uBI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=P5GxUjU4uBI"
-    },
-    {
       "videoId": "oPGtv7cOB8g",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -903,17 +925,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/9OmdZgTSp4A/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=9OmdZgTSp4A"
-    },
-    {
-      "videoId": "wG_LaKvlcqM",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Nido de Villanas: Ep. 1 Don Cristóbal’s inheritance",
-      "published": "2026-07-22T01:02:15+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/wG_LaKvlcqM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wG_LaKvlcqM"
     },
     {
       "videoId": "GI8qKCGxN6I",
@@ -1090,28 +1101,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/3zmSrRWDpKk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3zmSrRWDpKk"
-    },
-    {
-      "videoId": "NqQnHWa-Vxs",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Autobidder | Tesla Megapack",
-      "published": "2026-07-07T19:32:10+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/NqQnHWa-Vxs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NqQnHWa-Vxs"
-    },
-    {
-      "videoId": "tMZcqHl1NQY",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meta AI",
-      "published": "2026-07-07T18:18:17+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/tMZcqHl1NQY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tMZcqHl1NQY"
     }
   ],
   "warnings": [
