@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T11:21:02.122Z",
+  "generatedAt": "2026-08-23T11:21:28.682Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "Nm5e9ok8dIg",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "The world’s top nature searches answered in one epic national park | Searching For",
+      "published": "2026-08-22T18:00:20+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Nm5e9ok8dIg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Nm5e9ok8dIg"
+    },
     {
       "videoId": "RrfJVP-6Quw",
       "leaderId": "tim-cook",
@@ -969,17 +980,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/_TvRJjQamqI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_TvRJjQamqI"
-    },
-    {
-      "videoId": "8TkIQMLWXlg",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "World Cup #GoogleDoodle",
-      "published": "2026-07-18T15:12:23+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/8TkIQMLWXlg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8TkIQMLWXlg"
     },
     {
       "videoId": "MJu_-hiK_qk",
