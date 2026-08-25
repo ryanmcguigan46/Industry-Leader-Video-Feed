@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T11:29:27.329Z",
+  "generatedAt": "2026-08-25T11:28:25.943Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,15 +47,48 @@
   ],
   "videos": [
     {
-      "videoId": "VDI4MiD6eh4",
+      "videoId": "jzmNh8lbSp8",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
-      "title": "What Codex Unlocks for NTT Data",
-      "published": "2026-08-24T01:27:29+00:00",
+      "title": "Make information visual with ChatGPT",
+      "published": "2026-08-24T23:09:56+00:00",
       "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/VDI4MiD6eh4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VDI4MiD6eh4"
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/jzmNh8lbSp8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jzmNh8lbSp8"
+    },
+    {
+      "videoId": "3zrMcVRZKFA",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "The AI skill everyone should have",
+      "published": "2026-08-24T20:00:10+00:00",
+      "source": "Microsoft",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/3zrMcVRZKFA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3zrMcVRZKFA"
+    },
+    {
+      "videoId": "3_sQZRkwU2g",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "This company has more AI agents than employees",
+      "published": "2026-08-24T16:00:12+00:00",
+      "source": "Microsoft",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/3_sQZRkwU2g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3_sQZRkwU2g"
+    },
+    {
+      "videoId": "ceBruD6v5Bk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "You can just use your voice | ChatGPT Work",
+      "published": "2026-08-24T13:55:45+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ceBruD6v5Bk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ceBruD6v5Bk"
     },
     {
       "videoId": "Nm5e9ok8dIg",
@@ -325,7 +358,7 @@
       "videoId": "wIf9yMGalPU",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
-      "title": "You can just keep the work moving",
+      "title": "You can just keep the work moving | ChatGPT Work",
       "published": "2026-08-17T18:25:48+00:00",
       "source": "OpenAI",
       "type": "Talk",
@@ -485,17 +518,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/mOAHWk24D28/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=mOAHWk24D28"
-    },
-    {
-      "videoId": "6VwIXjFj6YQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "You can just launch Sites | ChatGPT Work",
-      "published": "2026-08-13T08:12:53+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/6VwIXjFj6YQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6VwIXjFj6YQ"
     },
     {
       "videoId": "KHpAIj-mTzE",
@@ -1070,17 +1092,6 @@
       "url": "https://www.youtube.com/watch?v=-a0ecQMq-rM"
     },
     {
-      "videoId": "mlXbfJf80k8",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Why AI adoption fails (and how to fix it)",
-      "published": "2026-07-13T15:30:02+00:00",
-      "source": "Microsoft",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/mlXbfJf80k8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mlXbfJf80k8"
-    },
-    {
       "videoId": "pUuQWUZiEJw",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1090,17 +1101,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/pUuQWUZiEJw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=pUuQWUZiEJw"
-    },
-    {
-      "videoId": "3zmSrRWDpKk",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "The public decides how technology is used | Episode 3",
-      "published": "2026-07-10T15:02:11+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/3zmSrRWDpKk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3zmSrRWDpKk"
     }
   ],
   "warnings": [
