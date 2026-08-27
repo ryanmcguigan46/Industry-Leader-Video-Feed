@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:30:40.304Z",
+  "generatedAt": "2026-08-27T20:55:13.472Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,171 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "9D1FnEJ4_HU",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Pet Mode keeps your dog chillin’",
+      "published": "2026-08-27T20:39:28+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/9D1FnEJ4_HU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9D1FnEJ4_HU"
+    },
+    {
+      "videoId": "Z1FkzCwJevE",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Hey Meta x Taylor Townsend",
+      "published": "2026-08-27T19:02:47+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Z1FkzCwJevE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Z1FkzCwJevE"
+    },
+    {
+      "videoId": "t64oZKCdG8Q",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How to Build a Personalized Meal Planner with ChatGPT Work",
+      "published": "2026-08-27T16:16:32+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/t64oZKCdG8Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=t64oZKCdG8Q"
+    },
+    {
+      "videoId": "rh4BtN2NxmE",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Retirement",
+      "published": "2026-08-27T15:43:46+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/rh4BtN2NxmE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rh4BtN2NxmE"
+    },
+    {
+      "videoId": "piNZDb8XLZo",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Lost Cat",
+      "published": "2026-08-27T15:43:42+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/piNZDb8XLZo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=piNZDb8XLZo"
+    },
+    {
+      "videoId": "w1dcfvUCZYw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Soccer",
+      "published": "2026-08-27T15:43:38+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/w1dcfvUCZYw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=w1dcfvUCZYw"
+    },
+    {
+      "videoId": "lPgm4LByPRw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Mochi",
+      "published": "2026-08-27T15:43:35+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/lPgm4LByPRw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lPgm4LByPRw"
+    },
+    {
+      "videoId": "huct2N_J5mc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Tennis",
+      "published": "2026-08-27T15:43:32+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/huct2N_J5mc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=huct2N_J5mc"
+    },
+    {
+      "videoId": "ppVPLmfKSfo",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Science Class",
+      "published": "2026-08-27T15:43:29+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ppVPLmfKSfo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ppVPLmfKSfo"
+    },
+    {
+      "videoId": "UPcy4gkhoGc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Magic Manga Girl",
+      "published": "2026-08-27T15:43:25+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/UPcy4gkhoGc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UPcy4gkhoGc"
+    },
+    {
+      "videoId": "Gw6LRsCeh6Y",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Vera Arrives",
+      "published": "2026-08-27T13:02:43+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Gw6LRsCeh6Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Gw6LRsCeh6Y"
+    },
+    {
+      "videoId": "J-3FSw6Upqs",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Tech, labor, and token costs: the new AI math",
+      "published": "2026-08-26T20:00:32+00:00",
+      "source": "Microsoft",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/J-3FSw6Upqs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=J-3FSw6Upqs"
+    },
+    {
+      "videoId": "QOE798Nd5vw",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Unboxing the brand new Pixel 11 Pro 📦 #MadeByGoogle",
+      "published": "2026-08-26T19:00:10+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/QOE798Nd5vw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QOE798Nd5vw"
+    },
+    {
+      "videoId": "LnSdkakqEVY",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Come with us to Olympic National Park 🎒",
+      "published": "2026-08-26T16:12:07+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/LnSdkakqEVY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LnSdkakqEVY"
+    },
+    {
+      "videoId": "39BalPDuTo0",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Apple Event — September 9",
+      "published": "2026-08-26T16:11:44+00:00",
+      "source": "Apple",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/39BalPDuTo0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=39BalPDuTo0"
+    },
     {
       "videoId": "o38xYi2mtgc",
       "leaderId": "sam-altman",
@@ -443,61 +608,6 @@
       "url": "https://www.youtube.com/watch?v=V3GGQXPUIsE"
     },
     {
-      "videoId": "XjSJ6ybS9I8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to Turn a Business Question Into a Strategy Deck With ChatGPT Work | Tutorial",
-      "published": "2026-08-18T19:05:08+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/XjSJ6ybS9I8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XjSJ6ybS9I8"
-    },
-    {
-      "videoId": "0j9yDUDMrBs",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to Create a Solid Blog Draft With ChatGPT Work | Tutorial",
-      "published": "2026-08-18T19:02:05+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/0j9yDUDMrBs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0j9yDUDMrBs"
-    },
-    {
-      "videoId": "yQZgOSHHxjk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to Prepare for Customer Meetings With ChatGPT Work | Tutorial",
-      "published": "2026-08-18T18:58:56+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/yQZgOSHHxjk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=yQZgOSHHxjk"
-    },
-    {
-      "videoId": "wIf9yMGalPU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "You can just keep the work moving | ChatGPT Work",
-      "published": "2026-08-17T18:25:48+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/wIf9yMGalPU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wIf9yMGalPU"
-    },
-    {
-      "videoId": "Cxp2aZQqkYM",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Base44 Uses GPT-5.6 to Build Apps With 20% Fewer Tokens",
-      "published": "2026-08-17T15:22:51+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Cxp2aZQqkYM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Cxp2aZQqkYM"
-    },
-    {
       "videoId": "4lC38dyszj0",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -531,17 +641,6 @@
       "url": "https://www.youtube.com/watch?v=EWlD1dy5lck"
     },
     {
-      "videoId": "EDWbX_-RYws",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
-      "published": "2026-08-14T17:19:17+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/EDWbX_-RYws/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=EDWbX_-RYws"
-    },
-    {
       "videoId": "ieJo-_TgO-E",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -553,17 +652,6 @@
       "url": "https://www.youtube.com/watch?v=ieJo-_TgO-E"
     },
     {
-      "videoId": "0XPk_MAwCW4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Inside Cricket’s Smartest Backroom | Rajasthan Royals | ChatGPT @rajasthanroyals",
-      "published": "2026-08-14T06:30:28+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/0XPk_MAwCW4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0XPk_MAwCW4"
-    },
-    {
       "videoId": "XGCTh8BNibY",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -573,17 +661,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/XGCTh8BNibY/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=XGCTh8BNibY"
-    },
-    {
-      "videoId": "W-HhMUe9hOg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Computer History in ChatGPT",
-      "published": "2026-08-13T20:34:04+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/W-HhMUe9hOg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=W-HhMUe9hOg"
     },
     {
       "videoId": "KHpAIj-mTzE",
@@ -650,17 +727,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/-eckuctHcoc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=-eckuctHcoc"
-    },
-    {
-      "videoId": "64hq3vDifcY",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Never forget an assignment with Reminders. Tip from Sam at the Apple Store.",
-      "published": "2026-08-11T16:02:49+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/64hq3vDifcY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=64hq3vDifcY"
     },
     {
       "videoId": "pmiN5Nj1-K8",
@@ -749,17 +815,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/eV1Z2xQZGvA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=eV1Z2xQZGvA"
-    },
-    {
-      "videoId": "sC9hayyt5aw",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "AI built with a company’s data should remain under its control.",
-      "published": "2026-08-06T19:03:16+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/sC9hayyt5aw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sC9hayyt5aw"
     },
     {
       "videoId": "xWAmryteQc4",
@@ -971,28 +1026,6 @@
       "url": "https://www.youtube.com/watch?v=9H5y9Uag8AA"
     },
     {
-      "videoId": "YSKzyVOQmuA",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "How Gemini 3.6 Flash helped this dairy farmer run his business",
-      "published": "2026-07-22T18:36:59+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/YSKzyVOQmuA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YSKzyVOQmuA"
-    },
-    {
-      "videoId": "9OmdZgTSp4A",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Scurry over to Google Search and type in “jimothy the raccoon” 🦝",
-      "published": "2026-07-22T15:56:13+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/9OmdZgTSp4A/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9OmdZgTSp4A"
-    },
-    {
       "videoId": "GI8qKCGxN6I",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -1090,28 +1123,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/CvB_VBSF-mk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=CvB_VBSF-mk"
-    },
-    {
-      "videoId": "KNPXPewypDU",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "The real reason AI efforts fail",
-      "published": "2026-07-13T20:22:13+00:00",
-      "source": "Microsoft",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/KNPXPewypDU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KNPXPewypDU"
-    },
-    {
-      "videoId": "-a0ecQMq-rM",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Starship - Critical Path",
-      "published": "2026-07-13T20:13:37+00:00",
-      "source": "SpaceX",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/-a0ecQMq-rM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-a0ecQMq-rM"
     }
   ],
   "warnings": [
