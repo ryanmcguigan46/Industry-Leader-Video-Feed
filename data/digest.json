@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T20:55:13.472Z",
+  "generatedAt": "2026-08-28T21:19:50.367Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,127 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "981SivztzOc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use Your Computer and Browser",
+      "published": "2026-08-28T20:51:46+00:00",
+      "source": "OpenAI",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/981SivztzOc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=981SivztzOc"
+    },
+    {
+      "videoId": "DLcQSp_CIIc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Talk to ChatGPT Work",
+      "published": "2026-08-28T20:51:46+00:00",
+      "source": "OpenAI",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/DLcQSp_CIIc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DLcQSp_CIIc"
+    },
+    {
+      "videoId": "syML5KT-HzI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Create Slides, Docs, and Templates",
+      "published": "2026-08-28T20:51:46+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/syML5KT-HzI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=syML5KT-HzI"
+    },
+    {
+      "videoId": "yfnh8SuMbNw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work on Your Phone",
+      "published": "2026-08-28T20:51:46+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/yfnh8SuMbNw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yfnh8SuMbNw"
+    },
+    {
+      "videoId": "0qK3KqvtRrg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Build a Shareable Site",
+      "published": "2026-08-28T20:51:45+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/0qK3KqvtRrg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0qK3KqvtRrg"
+    },
+    {
+      "videoId": "5QPBVrAAdBk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Plugins & Skills",
+      "published": "2026-08-28T20:51:45+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/5QPBVrAAdBk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5QPBVrAAdBk"
+    },
+    {
+      "videoId": "urXc4xxixVU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Scheduled Tasks",
+      "published": "2026-08-28T20:51:45+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/urXc4xxixVU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=urXc4xxixVU"
+    },
+    {
+      "videoId": "Rk4VyQxDq5s",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Getting Started with ChatGPT Work",
+      "published": "2026-08-28T20:51:11+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Rk4VyQxDq5s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Rk4VyQxDq5s"
+    },
+    {
+      "videoId": "qAQTJKZrEeM",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "2,000 people. One team. | Microsoft x Mercedes-AMG PETRONAS F1 Team",
+      "published": "2026-08-28T20:01:17+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/qAQTJKZrEeM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qAQTJKZrEeM"
+    },
+    {
+      "videoId": "sPEQrWH_GDA",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Check out AI Glasses",
+      "published": "2026-08-28T16:08:03+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/sPEQrWH_GDA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sPEQrWH_GDA"
+    },
+    {
+      "videoId": "Lj03DNImB3s",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Delivering more meals to more moms with ChatGPT",
+      "published": "2026-08-27T21:30:15+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Lj03DNImB3s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Lj03DNImB3s"
+    },
     {
       "videoId": "9D1FnEJ4_HU",
       "leaderId": "elon-musk",
@@ -135,28 +256,6 @@
       "url": "https://www.youtube.com/watch?v=huct2N_J5mc"
     },
     {
-      "videoId": "ppVPLmfKSfo",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Science Class",
-      "published": "2026-08-27T15:43:29+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ppVPLmfKSfo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ppVPLmfKSfo"
-    },
-    {
-      "videoId": "UPcy4gkhoGc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Magic Manga Girl",
-      "published": "2026-08-27T15:43:25+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/UPcy4gkhoGc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UPcy4gkhoGc"
-    },
-    {
       "videoId": "Gw6LRsCeh6Y",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -212,39 +311,6 @@
       "url": "https://www.youtube.com/watch?v=39BalPDuTo0"
     },
     {
-      "videoId": "o38xYi2mtgc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "What Codex Unlocks for loveholidays",
-      "published": "2026-08-26T09:06:31+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/o38xYi2mtgc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=o38xYi2mtgc"
-    },
-    {
-      "videoId": "29SyCndnMZs",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to Manage Your Workspace With ChatGPT Work",
-      "published": "2026-08-25T20:17:22+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/29SyCndnMZs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=29SyCndnMZs"
-    },
-    {
-      "videoId": "Is2NHa7awWY",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build agent-ready sites with WebMCP",
-      "published": "2026-08-25T20:15:30+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Is2NHa7awWY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Is2NHa7awWY"
-    },
-    {
       "videoId": "NqPsQCI0yzs",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -265,28 +331,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/XXhq0IYvR24/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=XXhq0IYvR24"
-    },
-    {
-      "videoId": "2f9bBlGOuX4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Codex, but make it weird. Hahahacks.",
-      "published": "2026-08-25T18:26:41+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/2f9bBlGOuX4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2f9bBlGOuX4"
-    },
-    {
-      "videoId": "9MIkJHcMtVA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "No Limits on Text Chats with ChatGPT",
-      "published": "2026-08-25T17:21:58+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/9MIkJHcMtVA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9MIkJHcMtVA"
     },
     {
       "videoId": "32C0_8_296k",
@@ -333,17 +377,6 @@
       "url": "https://www.youtube.com/watch?v=3WpzNmY35S4"
     },
     {
-      "videoId": "jzmNh8lbSp8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Make information visual with ChatGPT",
-      "published": "2026-08-24T23:09:56+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/jzmNh8lbSp8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jzmNh8lbSp8"
-    },
-    {
       "videoId": "3zrMcVRZKFA",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -364,17 +397,6 @@
       "type": "Speech",
       "thumb": "https://i.ytimg.com/vi/3_sQZRkwU2g/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3_sQZRkwU2g"
-    },
-    {
-      "videoId": "ceBruD6v5Bk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "You can just use your voice | ChatGPT Work",
-      "published": "2026-08-24T13:55:45+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ceBruD6v5Bk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ceBruD6v5Bk"
     },
     {
       "videoId": "Nm5e9ok8dIg",
@@ -1101,28 +1123,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/CCNmGkT-M9M/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=CCNmGkT-M9M"
-    },
-    {
-      "videoId": "29qGCi8FxGM",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Post Box Love Letter",
-      "published": "2026-07-14T16:00:13+00:00",
-      "source": "Meta",
-      "type": "Speech",
-      "thumb": "https://i.ytimg.com/vi/29qGCi8FxGM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=29qGCi8FxGM"
-    },
-    {
-      "videoId": "CvB_VBSF-mk",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Nonprofits empower a nation of problem solvers | Episode 4",
-      "published": "2026-07-14T15:01:08+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/CvB_VBSF-mk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CvB_VBSF-mk"
     }
   ],
   "warnings": [
