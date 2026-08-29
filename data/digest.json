@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T21:19:50.367Z",
+  "generatedAt": "2026-08-29T15:31:32.225Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "S6TIVzqTmu8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Magic Manga Girl (:30)",
+      "published": "2026-08-29T05:22:53+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/S6TIVzqTmu8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=S6TIVzqTmu8"
+    },
+    {
+      "videoId": "IEpTT48oW5Y",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Tennis (:30)",
+      "published": "2026-08-29T05:22:32+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/IEpTT48oW5Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IEpTT48oW5Y"
+    },
     {
       "videoId": "981SivztzOc",
       "leaderId": "sam-altman",
@@ -135,17 +157,6 @@
       "url": "https://www.youtube.com/watch?v=Rk4VyQxDq5s"
     },
     {
-      "videoId": "qAQTJKZrEeM",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "2,000 people. One team. | Microsoft x Mercedes-AMG PETRONAS F1 Team",
-      "published": "2026-08-28T20:01:17+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/qAQTJKZrEeM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qAQTJKZrEeM"
-    },
-    {
       "videoId": "sPEQrWH_GDA",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -232,28 +243,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/w1dcfvUCZYw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=w1dcfvUCZYw"
-    },
-    {
-      "videoId": "lPgm4LByPRw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Mochi",
-      "published": "2026-08-27T15:43:35+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/lPgm4LByPRw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=lPgm4LByPRw"
-    },
-    {
-      "videoId": "huct2N_J5mc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Tennis",
-      "published": "2026-08-27T15:43:32+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/huct2N_J5mc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=huct2N_J5mc"
     },
     {
       "videoId": "Gw6LRsCeh6Y",
