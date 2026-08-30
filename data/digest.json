@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T15:31:32.225Z",
+  "generatedAt": "2026-08-30T15:11:23.514Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -1101,17 +1101,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/2MjbwnXArD0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2MjbwnXArD0"
-    },
-    {
-      "videoId": "CCNmGkT-M9M",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "AI can't fix broken workflows",
-      "published": "2026-07-15T20:00:24+00:00",
-      "source": "Microsoft",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/CCNmGkT-M9M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CCNmGkT-M9M"
     }
   ],
   "warnings": [
