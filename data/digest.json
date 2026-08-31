@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T15:11:23.514Z",
+  "generatedAt": "2026-08-31T17:55:59.032Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "FGC4ofTcg2k",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Why AI Demand Is Outrunning Compute Supply",
+      "published": "2026-08-31T14:01:07+00:00",
+      "source": "a16z",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/FGC4ofTcg2k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FGC4ofTcg2k"
+    },
     {
       "videoId": "S6TIVzqTmu8",
       "leaderId": "sam-altman",
@@ -155,6 +166,17 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Rk4VyQxDq5s/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Rk4VyQxDq5s"
+    },
+    {
+      "videoId": "qAQTJKZrEeM",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "2,000 people. One team. | Microsoft x Mercedes-AMG PETRONAS F1 Team",
+      "published": "2026-08-28T20:01:17+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/qAQTJKZrEeM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qAQTJKZrEeM"
     },
     {
       "videoId": "sPEQrWH_GDA",
@@ -1079,28 +1101,6 @@
       "type": "Speech",
       "thumb": "https://i.ytimg.com/vi/MJu_-hiK_qk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=MJu_-hiK_qk"
-    },
-    {
-      "videoId": "LZkP56CQ3lo",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Let @phoebesandersbanjo and puppets make your day",
-      "published": "2026-07-16T16:04:44+00:00",
-      "source": "Meta",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/LZkP56CQ3lo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=LZkP56CQ3lo"
-    },
-    {
-      "videoId": "2MjbwnXArD0",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Nations rise on what gets built | Episode 5",
-      "published": "2026-07-16T15:18:52+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/2MjbwnXArD0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2MjbwnXArD0"
     }
   ],
   "warnings": [
