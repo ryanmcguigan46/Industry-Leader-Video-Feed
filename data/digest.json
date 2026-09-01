@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T17:55:59.032Z",
+  "generatedAt": "2026-09-01T15:24:05.861Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "4wmAMrZprsg",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Reel of the Week | Norwegian landscape painter creats glowing scenes",
+      "published": "2026-08-31T19:26:08+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4wmAMrZprsg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4wmAMrZprsg"
+    },
     {
       "videoId": "FGC4ofTcg2k",
       "leaderId": "jensen-huang",
@@ -171,7 +182,7 @@
       "videoId": "qAQTJKZrEeM",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
-      "title": "2,000 people. One team. | Microsoft x Mercedes-AMG PETRONAS F1 Team",
+      "title": "2,000 people. One team. | Microsoft x Mercedes-AMG PETRONAS F1",
       "published": "2026-08-28T20:01:17+00:00",
       "source": "Microsoft",
       "type": "Talk",
@@ -1090,17 +1101,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/_TvRJjQamqI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_TvRJjQamqI"
-    },
-    {
-      "videoId": "MJu_-hiK_qk",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Doris Kearns Goodwin meets Teddy Roosevelt",
-      "published": "2026-07-17T20:02:15+00:00",
-      "source": "Microsoft",
-      "type": "Speech",
-      "thumb": "https://i.ytimg.com/vi/MJu_-hiK_qk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MJu_-hiK_qk"
     }
   ],
   "warnings": [
