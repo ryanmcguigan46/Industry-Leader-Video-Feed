@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T15:24:05.861Z",
+  "generatedAt": "2026-09-02T14:59:44.898Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "MkbepPfaeMU",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Tokenomics 101: What Are Tokens & Why They Matter | AI Factory Insider Ep. 4",
+      "published": "2026-09-01T22:56:50+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/MkbepPfaeMU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MkbepPfaeMU"
+    },
+    {
+      "videoId": "MKNMReFVcp4",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA and CrowdStrike are advancing agentic cyber defense with SafeMind",
+      "published": "2026-09-01T22:16:56+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/MKNMReFVcp4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MKNMReFVcp4"
+    },
     {
       "videoId": "4wmAMrZprsg",
       "leaderId": "mark-zuckerberg",
@@ -837,28 +859,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/xcTRTotS9-A/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=xcTRTotS9-A"
-    },
-    {
-      "videoId": "SZ7rf5waBTY",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Open models give enterprises transparency and flexibility.",
-      "published": "2026-08-07T19:00:31+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/SZ7rf5waBTY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SZ7rf5waBTY"
-    },
-    {
-      "videoId": "eV1Z2xQZGvA",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Next-Gen Enterprise AI: Powered by Infosys & NVIDIA",
-      "published": "2026-08-07T15:37:58+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/eV1Z2xQZGvA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=eV1Z2xQZGvA"
     },
     {
       "videoId": "xWAmryteQc4",
