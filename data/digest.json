@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T14:59:44.898Z",
+  "generatedAt": "2026-09-03T14:53:47.098Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,6 +47,39 @@
   ],
   "videos": [
     {
+      "videoId": "3eNtVFTEys4",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "The Industrialization of Intelligence",
+      "published": "2026-09-02T22:11:08+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/3eNtVFTEys4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3eNtVFTEys4"
+    },
+    {
+      "videoId": "TVpTonS1QVw",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Apple Watch Heart Rate: Amanda’s True Apple Watch Story",
+      "published": "2026-09-02T16:57:43+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/TVpTonS1QVw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TVpTonS1QVw"
+    },
+    {
+      "videoId": "MzJZuaJkX_0",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Pixel Watch 5, fresh out of the box. #MadeByGoogle",
+      "published": "2026-09-02T15:59:14+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/MzJZuaJkX_0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MzJZuaJkX_0"
+    },
+    {
       "videoId": "MkbepPfaeMU",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -89,28 +122,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/FGC4ofTcg2k/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=FGC4ofTcg2k"
-    },
-    {
-      "videoId": "S6TIVzqTmu8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Magic Manga Girl (:30)",
-      "published": "2026-08-29T05:22:53+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/S6TIVzqTmu8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=S6TIVzqTmu8"
-    },
-    {
-      "videoId": "IEpTT48oW5Y",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Tennis (:30)",
-      "published": "2026-08-29T05:22:32+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/IEpTT48oW5Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IEpTT48oW5Y"
     },
     {
       "videoId": "981SivztzOc",
@@ -267,39 +278,6 @@
       "url": "https://www.youtube.com/watch?v=t64oZKCdG8Q"
     },
     {
-      "videoId": "rh4BtN2NxmE",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Retirement",
-      "published": "2026-08-27T15:43:46+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/rh4BtN2NxmE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rh4BtN2NxmE"
-    },
-    {
-      "videoId": "piNZDb8XLZo",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Lost Cat",
-      "published": "2026-08-27T15:43:42+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/piNZDb8XLZo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=piNZDb8XLZo"
-    },
-    {
-      "videoId": "w1dcfvUCZYw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Soccer",
-      "published": "2026-08-27T15:43:38+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/w1dcfvUCZYw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=w1dcfvUCZYw"
-    },
-    {
       "videoId": "Gw6LRsCeh6Y",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -355,6 +333,39 @@
       "url": "https://www.youtube.com/watch?v=39BalPDuTo0"
     },
     {
+      "videoId": "o38xYi2mtgc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "What Codex Unlocks for loveholidays",
+      "published": "2026-08-26T09:06:31+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/o38xYi2mtgc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=o38xYi2mtgc"
+    },
+    {
+      "videoId": "29SyCndnMZs",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How to Manage Your Workspace With ChatGPT Work",
+      "published": "2026-08-25T20:17:22+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/29SyCndnMZs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=29SyCndnMZs"
+    },
+    {
+      "videoId": "Is2NHa7awWY",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Build agent-ready sites with WebMCP",
+      "published": "2026-08-25T20:15:30+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Is2NHa7awWY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Is2NHa7awWY"
+    },
+    {
       "videoId": "NqPsQCI0yzs",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -375,6 +386,28 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/XXhq0IYvR24/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=XXhq0IYvR24"
+    },
+    {
+      "videoId": "2f9bBlGOuX4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Codex, but make it weird. Hahahacks.",
+      "published": "2026-08-25T18:26:41+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/2f9bBlGOuX4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2f9bBlGOuX4"
+    },
+    {
+      "videoId": "9MIkJHcMtVA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "No Limits on Text Chats with ChatGPT",
+      "published": "2026-08-25T17:21:58+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/9MIkJHcMtVA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9MIkJHcMtVA"
     },
     {
       "videoId": "32C0_8_296k",
@@ -674,17 +707,6 @@
       "url": "https://www.youtube.com/watch?v=V3GGQXPUIsE"
     },
     {
-      "videoId": "4lC38dyszj0",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Apple Creator Studio: Watch Jungle make 11 music videos in 4 days",
-      "published": "2026-08-15T00:02:41+00:00",
-      "source": "Apple",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4lC38dyszj0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4lC38dyszj0"
-    },
-    {
       "videoId": "qU9BgAMQ1k4",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -848,17 +870,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/cazd1z4Eseo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=cazd1z4Eseo"
-    },
-    {
-      "videoId": "xcTRTotS9-A",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
-      "published": "2026-08-08T09:44:27+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/xcTRTotS9-A/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xcTRTotS9-A"
     },
     {
       "videoId": "xWAmryteQc4",
@@ -1035,17 +1046,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/y6L37mXkTw0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=y6L37mXkTw0"
-    },
-    {
-      "videoId": "Sm7OTow3mcY",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "How to know if an image is AI generated or not",
-      "published": "2026-07-23T16:44:08+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Sm7OTow3mcY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Sm7OTow3mcY"
     },
     {
       "videoId": "JlRgRmAqoAc",
