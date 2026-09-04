@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T14:53:47.098Z",
+  "generatedAt": "2026-09-04T14:50:50.532Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,138 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "5iu0nY9lIy8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to analyze ad performance and refine creative",
+      "published": "2026-09-04T12:29:12+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/5iu0nY9lIy8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5iu0nY9lIy8"
+    },
+    {
+      "videoId": "D-QteDHdHes",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to build custom creative tools",
+      "published": "2026-09-04T12:27:16+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/D-QteDHdHes/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=D-QteDHdHes"
+    },
+    {
+      "videoId": "Ez-anO32D_s",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Images to explore campaign concepts",
+      "published": "2026-09-04T12:25:30+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Ez-anO32D_s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ez-anO32D_s"
+    },
+    {
+      "videoId": "N-MJ1W8Vj9E",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to create campaign emails",
+      "published": "2026-09-04T12:23:37+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/N-MJ1W8Vj9E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N-MJ1W8Vj9E"
+    },
+    {
+      "videoId": "HHt8CPJRviA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to pressure-test marketing campaign briefs",
+      "published": "2026-09-04T12:21:56+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/HHt8CPJRviA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HHt8CPJRviA"
+    },
+    {
+      "videoId": "NSqlZ1L81nQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to turn marketing ideas into finished work",
+      "published": "2026-09-04T12:20:19+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/NSqlZ1L81nQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NSqlZ1L81nQ"
+    },
+    {
+      "videoId": "grdt05okn3Q",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "The Future Has Arrived | Cybercab",
+      "published": "2026-09-04T00:35:04+00:00",
+      "source": "Tesla",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/grdt05okn3Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=grdt05okn3Q"
+    },
+    {
+      "videoId": "-TTyyY3VWh8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "First impressions of GPT-6 Astra from developers",
+      "published": "2026-09-03T21:20:49+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/-TTyyY3VWh8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-TTyyY3VWh8"
+    },
+    {
+      "videoId": "1QNsdr-Qx_I",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Introducing GPT-6 Astra: the most intelligent and aligned model in the world.",
+      "published": "2026-09-03T19:40:03+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/1QNsdr-Qx_I/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1QNsdr-Qx_I"
+    },
+    {
+      "videoId": "TaqNUvMCRBs",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "The Easiest Way to Run Hermes Locally | @Nousresearch",
+      "published": "2026-09-03T19:31:53+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/TaqNUvMCRBs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TaqNUvMCRBs"
+    },
+    {
+      "videoId": "7k1sXY-ZCkI",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "On your marks. Get set. Search “cars 20th”! 🏁",
+      "published": "2026-09-03T16:29:33+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/7k1sXY-ZCkI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7k1sXY-ZCkI"
+    },
+    {
+      "videoId": "tsA0C_cbxZY",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Get the full story behind the light",
+      "published": "2026-09-03T16:16:09+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/tsA0C_cbxZY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tsA0C_cbxZY"
+    },
     {
       "videoId": "3eNtVFTEys4",
       "leaderId": "jensen-huang",
@@ -201,17 +333,6 @@
       "url": "https://www.youtube.com/watch?v=urXc4xxixVU"
     },
     {
-      "videoId": "Rk4VyQxDq5s",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Getting Started with ChatGPT Work",
-      "published": "2026-08-28T20:51:11+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Rk4VyQxDq5s/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Rk4VyQxDq5s"
-    },
-    {
       "videoId": "qAQTJKZrEeM",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -234,17 +355,6 @@
       "url": "https://www.youtube.com/watch?v=sPEQrWH_GDA"
     },
     {
-      "videoId": "Lj03DNImB3s",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Delivering more meals to more moms with ChatGPT",
-      "published": "2026-08-27T21:30:15+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Lj03DNImB3s/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Lj03DNImB3s"
-    },
-    {
       "videoId": "9D1FnEJ4_HU",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -265,17 +375,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Z1FkzCwJevE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Z1FkzCwJevE"
-    },
-    {
-      "videoId": "t64oZKCdG8Q",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to Build a Personalized Meal Planner with ChatGPT Work",
-      "published": "2026-08-27T16:16:32+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/t64oZKCdG8Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=t64oZKCdG8Q"
     },
     {
       "videoId": "Gw6LRsCeh6Y",
@@ -333,39 +432,6 @@
       "url": "https://www.youtube.com/watch?v=39BalPDuTo0"
     },
     {
-      "videoId": "o38xYi2mtgc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "What Codex Unlocks for loveholidays",
-      "published": "2026-08-26T09:06:31+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/o38xYi2mtgc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=o38xYi2mtgc"
-    },
-    {
-      "videoId": "29SyCndnMZs",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to Manage Your Workspace With ChatGPT Work",
-      "published": "2026-08-25T20:17:22+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/29SyCndnMZs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=29SyCndnMZs"
-    },
-    {
-      "videoId": "Is2NHa7awWY",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build agent-ready sites with WebMCP",
-      "published": "2026-08-25T20:15:30+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Is2NHa7awWY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Is2NHa7awWY"
-    },
-    {
       "videoId": "NqPsQCI0yzs",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -386,28 +452,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/XXhq0IYvR24/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=XXhq0IYvR24"
-    },
-    {
-      "videoId": "2f9bBlGOuX4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Codex, but make it weird. Hahahacks.",
-      "published": "2026-08-25T18:26:41+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/2f9bBlGOuX4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2f9bBlGOuX4"
-    },
-    {
-      "videoId": "9MIkJHcMtVA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "No Limits on Text Chats with ChatGPT",
-      "published": "2026-08-25T17:21:58+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/9MIkJHcMtVA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9MIkJHcMtVA"
     },
     {
       "videoId": "32C0_8_296k",
@@ -828,17 +872,6 @@
       "url": "https://www.youtube.com/watch?v=pmiN5Nj1-K8"
     },
     {
-      "videoId": "rRkucx0KwcI",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "GTC SJ 2026: Physical AI for Healthcare Robotics - Simulation-First Design & Accelerated Development",
-      "published": "2026-08-10T21:00:15+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/rRkucx0KwcI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rRkucx0KwcI"
-    },
-    {
       "videoId": "qH1qnCBPw8g",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -1037,17 +1070,6 @@
       "url": "https://www.youtube.com/watch?v=1SCIc_tH038"
     },
     {
-      "videoId": "y6L37mXkTw0",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "See the potential in your yard with Search ✨",
-      "published": "2026-07-24T17:34:38+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/y6L37mXkTw0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=y6L37mXkTw0"
-    },
-    {
       "videoId": "JlRgRmAqoAc",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1090,17 +1112,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/d4KZVhwkWEs/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=d4KZVhwkWEs"
-    },
-    {
-      "videoId": "_TvRJjQamqI",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "An Instagram Scavenger Hunt",
-      "published": "2026-07-20T16:38:58+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/_TvRJjQamqI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_TvRJjQamqI"
     }
   ],
   "warnings": [
