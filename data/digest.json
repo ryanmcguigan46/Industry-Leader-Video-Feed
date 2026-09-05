@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T14:50:50.532Z",
+  "generatedAt": "2026-09-05T13:42:02.312Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,50 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "B-jjnydci50",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-6 Astra with Ben Davis",
+      "published": "2026-09-05T00:11:56+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/B-jjnydci50/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=B-jjnydci50"
+    },
+    {
+      "videoId": "bOC3DisEOfg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Introducing GPT-6 Astra for developers",
+      "published": "2026-09-04T20:22:31+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/bOC3DisEOfg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bOC3DisEOfg"
+    },
+    {
+      "videoId": "x5oPLU4Wi0E",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Work super hard.",
+      "published": "2026-09-04T19:13:16+00:00",
+      "source": "a16z",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/x5oPLU4Wi0E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=x5oPLU4Wi0E"
+    },
+    {
+      "videoId": "rPq7ITrWFvY",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "The latest updates to Google Translate",
+      "published": "2026-09-04T16:30:43+00:00",
+      "source": "Google",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/rPq7ITrWFvY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rPq7ITrWFvY"
+    },
     {
       "videoId": "5iu0nY9lIy8",
       "leaderId": "sam-altman",
@@ -309,28 +353,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/0qK3KqvtRrg/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=0qK3KqvtRrg"
-    },
-    {
-      "videoId": "5QPBVrAAdBk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Plugins & Skills",
-      "published": "2026-08-28T20:51:45+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/5QPBVrAAdBk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5QPBVrAAdBk"
-    },
-    {
-      "videoId": "urXc4xxixVU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Scheduled Tasks",
-      "published": "2026-08-28T20:51:45+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/urXc4xxixVU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=urXc4xxixVU"
     },
     {
       "videoId": "qAQTJKZrEeM",
@@ -1026,17 +1048,6 @@
       "url": "https://www.youtube.com/watch?v=oPGtv7cOB8g"
     },
     {
-      "videoId": "nlz0UmQdhqk",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Just your friendly neighborhood web-slinger reminding you to search “spider-man brand new day” 🕸️",
-      "published": "2026-07-27T19:35:51+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/nlz0UmQdhqk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=nlz0UmQdhqk"
-    },
-    {
       "videoId": "W7bOQMEyjQU",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1090,28 +1101,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/9H5y9Uag8AA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=9H5y9Uag8AA"
-    },
-    {
-      "videoId": "GI8qKCGxN6I",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Sensitive Seats | Model Y L",
-      "published": "2026-07-21T16:49:47+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/GI8qKCGxN6I/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=GI8qKCGxN6I"
-    },
-    {
-      "videoId": "d4KZVhwkWEs",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Reel of the Week | the beachiest bouquet via @stacy.creates_ on IG",
-      "published": "2026-07-21T16:00:12+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/d4KZVhwkWEs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=d4KZVhwkWEs"
     }
   ],
   "warnings": [
