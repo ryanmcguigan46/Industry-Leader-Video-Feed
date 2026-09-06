@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:42:02.312Z",
+  "generatedAt": "2026-09-06T13:59:09.384Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -1079,28 +1079,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/1SCIc_tH038/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=1SCIc_tH038"
-    },
-    {
-      "videoId": "JlRgRmAqoAc",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "The future is for everyone.",
-      "published": "2026-07-23T09:59:24+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/JlRgRmAqoAc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JlRgRmAqoAc"
-    },
-    {
-      "videoId": "9H5y9Uag8AA",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Tesla Q2 2026 Financial Results and Q&A Webcast",
-      "published": "2026-07-22T22:39:10+00:00",
-      "source": "Tesla",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/9H5y9Uag8AA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9H5y9Uag8AA"
     }
   ],
   "warnings": [
