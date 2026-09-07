@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T13:59:09.384Z",
+  "generatedAt": "2026-09-07T16:18:30.181Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "J2nV3d_A1f0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-6 Astra cracked a DEF CON puzzle",
+      "published": "2026-09-06T20:44:02+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/J2nV3d_A1f0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=J2nV3d_A1f0"
+    },
+    {
+      "videoId": "bpPJbRjIpxg",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "POV Hailing a Cybercab",
+      "published": "2026-09-06T18:52:43+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/bpPJbRjIpxg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bpPJbRjIpxg"
+    },
+    {
+      "videoId": "A4BUbpKdenc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-6 Astra with Peter Gostev",
+      "published": "2026-09-06T17:53:59+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/A4BUbpKdenc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=A4BUbpKdenc"
+    },
     {
       "videoId": "B-jjnydci50",
       "leaderId": "sam-altman",
@@ -331,28 +364,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/syML5KT-HzI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=syML5KT-HzI"
-    },
-    {
-      "videoId": "yfnh8SuMbNw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Use ChatGPT Work on Your Phone",
-      "published": "2026-08-28T20:51:46+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/yfnh8SuMbNw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=yfnh8SuMbNw"
-    },
-    {
-      "videoId": "0qK3KqvtRrg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build a Shareable Site",
-      "published": "2026-08-28T20:51:45+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/0qK3KqvtRrg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0qK3KqvtRrg"
     },
     {
       "videoId": "qAQTJKZrEeM",
