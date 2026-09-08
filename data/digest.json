@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T16:18:30.181Z",
+  "generatedAt": "2026-09-08T14:56:56.056Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "4GY-x4WAafc",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Building Europe's AI Stack — Inside the Barcelona Supercomputing Center",
+      "published": "2026-09-08T10:40:51+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/4GY-x4WAafc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4GY-x4WAafc"
+    },
+    {
+      "videoId": "QDLlQ5IL2Bk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-6 Astra with Tom Krcha",
+      "published": "2026-09-07T17:15:32+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/QDLlQ5IL2Bk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QDLlQ5IL2Bk"
+    },
     {
       "videoId": "J2nV3d_A1f0",
       "leaderId": "sam-altman",
@@ -353,17 +375,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/DLcQSp_CIIc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=DLcQSp_CIIc"
-    },
-    {
-      "videoId": "syML5KT-HzI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Create Slides, Docs, and Templates",
-      "published": "2026-08-28T20:51:46+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/syML5KT-HzI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=syML5KT-HzI"
     },
     {
       "videoId": "qAQTJKZrEeM",
@@ -892,17 +903,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/-eckuctHcoc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=-eckuctHcoc"
-    },
-    {
-      "videoId": "pmiN5Nj1-K8",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "GTC SJ 2026: Healthcare Reimagined - Bridging Digital Intelligence and Physical Autonomy",
-      "published": "2026-08-11T13:00:34+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/pmiN5Nj1-K8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pmiN5Nj1-K8"
     },
     {
       "videoId": "qH1qnCBPw8g",
