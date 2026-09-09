@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T14:56:56.056Z",
+  "generatedAt": "2026-09-09T15:01:46.271Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "a6qM4YHSKRQ",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA GTC Europe: Advancing AI Together",
+      "published": "2026-09-09T13:14:11+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/a6qM4YHSKRQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=a6qM4YHSKRQ"
+    },
+    {
+      "videoId": "V0Hx37EqcMI",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Editing Faster in Adobe Premiere with NVIDIA RTX Spark",
+      "published": "2026-09-08T19:30:36+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/V0Hx37EqcMI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=V0Hx37EqcMI"
+    },
+    {
+      "videoId": "A7MSwdXj86k",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Introducing GPT-Image-2.5 in the API",
+      "published": "2026-09-08T19:11:55+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/A7MSwdXj86k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=A7MSwdXj86k"
+    },
+    {
+      "videoId": "-VukmrOT1eE",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Templates with ChatGPT Images 2.5",
+      "published": "2026-09-08T18:48:03+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/-VukmrOT1eE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-VukmrOT1eE"
+    },
+    {
+      "videoId": "imPtIEAEHSU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Sketch with ChatGPT Images 2.5",
+      "published": "2026-09-08T18:46:42+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/imPtIEAEHSU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=imPtIEAEHSU"
+    },
+    {
+      "videoId": "6l7ble9P74o",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Introducing ChatGPT Images 2.5",
+      "published": "2026-09-08T18:44:08+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/6l7ble9P74o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6l7ble9P74o"
+    },
     {
       "videoId": "4GY-x4WAafc",
       "leaderId": "jensen-huang",
@@ -223,28 +289,6 @@
       "url": "https://www.youtube.com/watch?v=grdt05okn3Q"
     },
     {
-      "videoId": "-TTyyY3VWh8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "First impressions of GPT-6 Astra from developers",
-      "published": "2026-09-03T21:20:49+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/-TTyyY3VWh8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-TTyyY3VWh8"
-    },
-    {
-      "videoId": "1QNsdr-Qx_I",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Introducing GPT-6 Astra: the most intelligent and aligned model in the world.",
-      "published": "2026-09-03T19:40:03+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/1QNsdr-Qx_I/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1QNsdr-Qx_I"
-    },
-    {
       "videoId": "TaqNUvMCRBs",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -353,28 +397,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/FGC4ofTcg2k/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=FGC4ofTcg2k"
-    },
-    {
-      "videoId": "981SivztzOc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Use Your Computer and Browser",
-      "published": "2026-08-28T20:51:46+00:00",
-      "source": "OpenAI",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/981SivztzOc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=981SivztzOc"
-    },
-    {
-      "videoId": "DLcQSp_CIIc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Talk to ChatGPT Work",
-      "published": "2026-08-28T20:51:46+00:00",
-      "source": "OpenAI",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/DLcQSp_CIIc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DLcQSp_CIIc"
     },
     {
       "videoId": "qAQTJKZrEeM",
@@ -850,17 +872,6 @@
       "url": "https://www.youtube.com/watch?v=KHpAIj-mTzE"
     },
     {
-      "videoId": "CNM6Mmqrfeg",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA Spectrum-X Ethernet Photonics | Now in Full Production",
-      "published": "2026-08-12T18:07:23+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/CNM6Mmqrfeg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CNM6Mmqrfeg"
-    },
-    {
       "videoId": "1fs84Lyp1s0",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -881,17 +892,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/6yysYeHiPDQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=6yysYeHiPDQ"
-    },
-    {
-      "videoId": "Iq3gwdriirU",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "This is just the beginning. Join us at GTC Berlin, October 20–22",
-      "published": "2026-08-12T14:16:12+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/Iq3gwdriirU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Iq3gwdriirU"
     },
     {
       "videoId": "-eckuctHcoc",
@@ -1079,17 +1079,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/r4qZz66GlNQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=r4qZz66GlNQ"
-    },
-    {
-      "videoId": "1SCIc_tH038",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Hey Meta x All-Star Weekend",
-      "published": "2026-07-25T16:00:17+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/1SCIc_tH038/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1SCIc_tH038"
     }
   ],
   "warnings": [
