@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:01:46.271Z",
+  "generatedAt": "2026-09-10T14:54:05.066Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,193 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "fdq3aYCVIL0",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Inside the Seattle Seahawks' gameday analysis",
+      "published": "2026-09-09T22:06:00+00:00",
+      "source": "Microsoft",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/fdq3aYCVIL0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fdq3aYCVIL0"
+    },
+    {
+      "videoId": "kuGjypoJKwk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT Work, now powered by GPT-6 Astra",
+      "published": "2026-09-09T21:54:53+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/kuGjypoJKwk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kuGjypoJKwk"
+    },
+    {
+      "videoId": "cmN6XVuLEd4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-6 Astra turned London into a game",
+      "published": "2026-09-09T21:39:53+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/cmN6XVuLEd4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cmN6XVuLEd4"
+    },
+    {
+      "videoId": "GC0GI4MgTyg",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "New iPhone 18 Pro: Everything announced about the iPhone with the best camera and battery life ever",
+      "published": "2026-09-09T20:13:28+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/GC0GI4MgTyg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GC0GI4MgTyg"
+    },
+    {
+      "videoId": "ZlMvbjknrIg",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "iPhone Duo: Everything announced about the first foldable iPhone",
+      "published": "2026-09-09T19:48:07+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/ZlMvbjknrIg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZlMvbjknrIg"
+    },
+    {
+      "videoId": "Pe2ugye7Ya4",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "New Apple Watch Series 12 and Ultra 4: Everything announced about the ultimate wearable",
+      "published": "2026-09-09T19:33:36+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/Pe2ugye7Ya4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Pe2ugye7Ya4"
+    },
+    {
+      "videoId": "XSiGaXPssd4",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "New AirPods 5: Everything announced about the best Active Noise Cancellation in an open-ear design",
+      "published": "2026-09-09T19:19:54+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/XSiGaXPssd4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XSiGaXPssd4"
+    },
+    {
+      "videoId": "DDnNc60onT4",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "iPhone 18 Pro: The ultimate performance and camera of any iPhone, with exceptional battery life.",
+      "published": "2026-09-09T19:05:01+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/DDnNc60onT4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DDnNc60onT4"
+    },
+    {
+      "videoId": "bxSGfpoFP30",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "iPhone Duo: The largest display of any iPhone. Foldable. Posable. And durable.",
+      "published": "2026-09-09T19:00:59+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/bxSGfpoFP30/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bxSGfpoFP30"
+    },
+    {
+      "videoId": "n-dqdVMwoas",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-6 Astra First Impressions From Businesses",
+      "published": "2026-09-09T19:00:16+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/n-dqdVMwoas/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=n-dqdVMwoas"
+    },
+    {
+      "videoId": "YUPRm0vJAtA",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "New Apple Watch Series 12: The most accurate heart rate sensing in a wearable",
+      "published": "2026-09-09T18:54:11+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/YUPRm0vJAtA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YUPRm0vJAtA"
+    },
+    {
+      "videoId": "ZldS1ZXpPHE",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "New AirPods 5: Everything announced about the best Active Noise Cancellation in an open-ear design",
+      "published": "2026-09-09T18:52:25+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/ZldS1ZXpPHE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZldS1ZXpPHE"
+    },
+    {
+      "videoId": "MO9HJsUxEEk",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Introducing the new Apple Watch Series 12: the most accurate heart rate sensing in a wearable",
+      "published": "2026-09-09T18:44:45+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/MO9HJsUxEEk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MO9HJsUxEEk"
+    },
+    {
+      "videoId": "3fAHjTPvF1E",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Apple Event September ’26: Recapping announcements of iPhone Duo, iPhone 18 Pro, and more",
+      "published": "2026-09-09T18:42:25+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/3fAHjTPvF1E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3fAHjTPvF1E"
+    },
+    {
+      "videoId": "Q3zwkxqh1t0",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Introducing the new iPhone 18 Pro",
+      "published": "2026-09-09T18:41:02+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/Q3zwkxqh1t0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Q3zwkxqh1t0"
+    },
+    {
+      "videoId": "FUfGcZ092b0",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Introducing the new iPhone Duo",
+      "published": "2026-09-09T18:33:34+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/FUfGcZ092b0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FUfGcZ092b0"
+    },
+    {
+      "videoId": "39BalPDuTo0",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Apple Event September 9 2026: Introducing iPhone Duo and more",
+      "published": "2026-09-09T18:25:05+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/39BalPDuTo0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=39BalPDuTo0"
+    },
     {
       "videoId": "a6qM4YHSKRQ",
       "leaderId": "jensen-huang",
@@ -243,39 +430,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Ez-anO32D_s/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Ez-anO32D_s"
-    },
-    {
-      "videoId": "N-MJ1W8Vj9E",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Use ChatGPT Work to create campaign emails",
-      "published": "2026-09-04T12:23:37+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/N-MJ1W8Vj9E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=N-MJ1W8Vj9E"
-    },
-    {
-      "videoId": "HHt8CPJRviA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Use ChatGPT Work to pressure-test marketing campaign briefs",
-      "published": "2026-09-04T12:21:56+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/HHt8CPJRviA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=HHt8CPJRviA"
-    },
-    {
-      "videoId": "NSqlZ1L81nQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Use ChatGPT Work to turn marketing ideas into finished work",
-      "published": "2026-09-04T12:20:19+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/NSqlZ1L81nQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NSqlZ1L81nQ"
     },
     {
       "videoId": "grdt05okn3Q",
@@ -487,17 +641,6 @@
       "url": "https://www.youtube.com/watch?v=LnSdkakqEVY"
     },
     {
-      "videoId": "39BalPDuTo0",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Apple Event — September 9",
-      "published": "2026-08-26T16:11:44+00:00",
-      "source": "Apple",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/39BalPDuTo0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=39BalPDuTo0"
-    },
-    {
       "videoId": "NqPsQCI0yzs",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -553,17 +696,6 @@
       "url": "https://www.youtube.com/watch?v=3uAIqqg8ZHo"
     },
     {
-      "videoId": "3WpzNmY35S4",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "The new Mac mini with M6",
-      "published": "2026-08-25T13:33:48+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/3WpzNmY35S4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3WpzNmY35S4"
-    },
-    {
       "videoId": "3zrMcVRZKFA",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -597,17 +729,6 @@
       "url": "https://www.youtube.com/watch?v=Nm5e9ok8dIg"
     },
     {
-      "videoId": "RrfJVP-6Quw",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "AirPods Max 2: The ultimate over-ear listening experience",
-      "published": "2026-08-22T00:25:49+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/RrfJVP-6Quw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=RrfJVP-6Quw"
-    },
-    {
       "videoId": "tMhp4-ylrdE",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -617,105 +738,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/tMhp4-ylrdE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=tMhp4-ylrdE"
-    },
-    {
-      "videoId": "gVFOOnecU5k",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Apple Watch Series 11: The ultimate way to watch your health",
-      "published": "2026-08-21T19:12:36+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/gVFOOnecU5k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gVFOOnecU5k"
-    },
-    {
-      "videoId": "TNhX1uR2vO8",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "iPhone 17 Pro: The most powerful iPhone ever",
-      "published": "2026-08-20T23:47:07+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/TNhX1uR2vO8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TNhX1uR2vO8"
-    },
-    {
-      "videoId": "nXSd_TKW7_c",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "iPhone 17: Built to last, and comes in five gorgeous colors",
-      "published": "2026-08-20T23:46:51+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/nXSd_TKW7_c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=nXSd_TKW7_c"
-    },
-    {
-      "videoId": "9PbBCc16w_c",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "iPhone 17e:  Everything you love about iPhone at a wallet-friendly price",
-      "published": "2026-08-20T20:03:02+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/9PbBCc16w_c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9PbBCc16w_c"
-    },
-    {
-      "videoId": "sKJ0_NNcJzI",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "iPhone Air: Incredibly light and thin with pro-level performance",
-      "published": "2026-08-20T20:02:43+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/sKJ0_NNcJzI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sKJ0_NNcJzI"
-    },
-    {
-      "videoId": "exxIynPuCpA",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "iPad Air: Serious performance with the M4 chip, in a thin and light design",
-      "published": "2026-08-20T19:46:35+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/exxIynPuCpA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=exxIynPuCpA"
-    },
-    {
-      "videoId": "4Y9ITR44W5s",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "MacBook Air: A laptop that's thin, fast, powerful, and portable",
-      "published": "2026-08-20T19:46:16+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/4Y9ITR44W5s/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4Y9ITR44W5s"
-    },
-    {
-      "videoId": "XvbIACyf_Fc",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "MacBook Neo: Everything you love about a Mac laptop at a surprising price",
-      "published": "2026-08-20T19:46:00+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/XvbIACyf_Fc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XvbIACyf_Fc"
-    },
-    {
-      "videoId": "JlS6RmAJKnE",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "MacBook Pro: The most advanced Mac laptop for demanding tasks",
-      "published": "2026-08-20T19:45:46+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/JlS6RmAJKnE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JlS6RmAJKnE"
     },
     {
       "videoId": "WCRNR1Ve9s0",
@@ -760,17 +782,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Ykn0qWsjMS0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Ykn0qWsjMS0"
-    },
-    {
-      "videoId": "mHTFRasvCR8",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Apple Watch ECG: Connor’s True Apple Watch Story",
-      "published": "2026-08-20T15:22:26+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/mHTFRasvCR8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mHTFRasvCR8"
     },
     {
       "videoId": "VihWpoINpgE",
