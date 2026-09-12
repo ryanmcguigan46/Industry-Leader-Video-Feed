@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T14:51:30.044Z",
+  "generatedAt": "2026-09-12T13:54:33.703Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "ZlvkQYZo3ZE",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-6 Astra added unexpected details",
+      "published": "2026-09-11T21:00:04+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ZlvkQYZo3ZE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZlvkQYZo3ZE"
+    },
+    {
+      "videoId": "OSaP6bJoU44",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-Live-1 is now in the API",
+      "published": "2026-09-11T17:06:25+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/OSaP6bJoU44/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OSaP6bJoU44"
+    },
+    {
+      "videoId": "4bGb2OjU5tA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-6 Astra handles the editing busywork",
+      "published": "2026-09-11T15:00:24+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4bGb2OjU5tA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4bGb2OjU5tA"
+    },
     {
       "videoId": "0NUm552iB3U",
       "leaderId": "sam-altman",
@@ -138,7 +171,7 @@
       "videoId": "fdq3aYCVIL0",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
-      "title": "Inside the Seattle Seahawks' gameday analysis",
+      "title": "Why Seattle Seahawks coaches rely on this analyst during every game",
       "published": "2026-09-09T22:06:00+00:00",
       "source": "Microsoft",
       "type": "Press",
@@ -366,28 +399,6 @@
       "url": "https://www.youtube.com/watch?v=-VukmrOT1eE"
     },
     {
-      "videoId": "imPtIEAEHSU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Sketch with ChatGPT Images 2.5",
-      "published": "2026-09-08T18:46:42+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/imPtIEAEHSU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=imPtIEAEHSU"
-    },
-    {
-      "videoId": "6l7ble9P74o",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Introducing ChatGPT Images 2.5",
-      "published": "2026-09-08T18:44:08+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/6l7ble9P74o/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6l7ble9P74o"
-    },
-    {
       "videoId": "4GY-x4WAafc",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -397,17 +408,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/4GY-x4WAafc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=4GY-x4WAafc"
-    },
-    {
-      "videoId": "QDLlQ5IL2Bk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "GPT-6 Astra with Tom Krcha",
-      "published": "2026-09-07T17:15:32+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/QDLlQ5IL2Bk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=QDLlQ5IL2Bk"
     },
     {
       "videoId": "bpPJbRjIpxg",
@@ -1035,28 +1035,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Z0wqxv-oo48/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Z0wqxv-oo48"
-    },
-    {
-      "videoId": "xSj6rVtQrpc",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Look Up | Model Y L Glass Roof",
-      "published": "2026-07-29T00:58:45+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/xSj6rVtQrpc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xSj6rVtQrpc"
-    },
-    {
-      "videoId": "Fmc5YLKyNLY",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "The sound of survival",
-      "published": "2026-07-28T21:01:22+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Fmc5YLKyNLY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Fmc5YLKyNLY"
     }
   ],
   "warnings": [
