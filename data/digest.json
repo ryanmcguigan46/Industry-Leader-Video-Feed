@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T13:54:33.703Z",
+  "generatedAt": "2026-09-13T14:49:08.038Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "SiJGdlmdUms",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-6 Astra needs less babysitting",
+      "published": "2026-09-12T15:00:30+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/SiJGdlmdUms/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SiJGdlmdUms"
+    },
     {
       "videoId": "ZlvkQYZo3ZE",
       "leaderId": "sam-altman",
@@ -386,17 +397,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/A7MSwdXj86k/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=A7MSwdXj86k"
-    },
-    {
-      "videoId": "-VukmrOT1eE",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Templates with ChatGPT Images 2.5",
-      "published": "2026-09-08T18:48:03+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/-VukmrOT1eE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-VukmrOT1eE"
     },
     {
       "videoId": "4GY-x4WAafc",
@@ -1013,28 +1013,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/JUlcgfqCgN4/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=JUlcgfqCgN4"
-    },
-    {
-      "videoId": "isfJqgyGRFE",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Y like my sootcase",
-      "published": "2026-07-29T22:24:24+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/isfJqgyGRFE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=isfJqgyGRFE"
-    },
-    {
-      "videoId": "Z0wqxv-oo48",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "The AI question every team should ask",
-      "published": "2026-07-29T20:00:13+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Z0wqxv-oo48/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Z0wqxv-oo48"
     }
   ],
   "warnings": [
