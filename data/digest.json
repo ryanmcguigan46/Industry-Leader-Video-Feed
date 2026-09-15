@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T16:48:36.383Z",
+  "generatedAt": "2026-09-15T15:27:51.885Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "x0692zj9jsI",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "What a NASA astronaut can teach us about discovery and exploration | Christina Koch & James Manyika",
+      "published": "2026-09-14T20:30:48+00:00",
+      "source": "Google",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/x0692zj9jsI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=x0692zj9jsI"
+    },
+    {
+      "videoId": "ORNMTHvC45o",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meet Muse, your personal AI agent",
+      "published": "2026-09-14T17:05:46+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ORNMTHvC45o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ORNMTHvC45o"
+    },
     {
       "videoId": "PSnJBfa183Y",
       "leaderId": "sam-altman",
