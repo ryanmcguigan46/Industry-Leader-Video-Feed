@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T15:27:51.885Z",
+  "generatedAt": "2026-09-16T15:20:30.274Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "OujC4t5leqQ",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Riley's Rebuilds",
+      "published": "2026-09-16T01:15:33+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/OujC4t5leqQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OujC4t5leqQ"
+    },
+    {
+      "videoId": "DhAsqpjliYw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Stay on top of the pack with ChatGPT Work.",
+      "published": "2026-09-15T23:31:15+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/DhAsqpjliYw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DhAsqpjliYw"
+    },
+    {
+      "videoId": "HuGAiGfKqW0",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Why this college professor is embracing AI",
+      "published": "2026-09-15T20:41:12+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/HuGAiGfKqW0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HuGAiGfKqW0"
+    },
+    {
+      "videoId": "CC380G7fyH0",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA CEO Jensen Huang at the All-In Summit",
+      "published": "2026-09-15T18:07:19+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/CC380G7fyH0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CC380G7fyH0"
+    },
+    {
+      "videoId": "4O1Gl4_xk3w",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Building More Energy Efficient AI Factories With NVIDIA DSX",
+      "published": "2026-09-15T16:00:12+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4O1Gl4_xk3w/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4O1Gl4_xk3w"
+    },
+    {
+      "videoId": "Th5WmdddoJw",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Check out Meta One",
+      "published": "2026-09-15T15:36:21+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Th5WmdddoJw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Th5WmdddoJw"
+    },
     {
       "videoId": "x0692zj9jsI",
       "leaderId": "sundar-pichai",
@@ -243,17 +309,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/kuGjypoJKwk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=kuGjypoJKwk"
-    },
-    {
-      "videoId": "cmN6XVuLEd4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "GPT-6 Astra turned London into a game",
-      "published": "2026-09-09T21:39:53+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/cmN6XVuLEd4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cmN6XVuLEd4"
     },
     {
       "videoId": "GC0GI4MgTyg",
@@ -872,17 +927,6 @@
       "url": "https://www.youtube.com/watch?v=qU9BgAMQ1k4"
     },
     {
-      "videoId": "EWlD1dy5lck",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA interns brought their energy to teams across the company this summer",
-      "published": "2026-08-14T19:27:50+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/EWlD1dy5lck/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=EWlD1dy5lck"
-    },
-    {
       "videoId": "ieJo-_TgO-E",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -892,17 +936,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/ieJo-_TgO-E/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ieJo-_TgO-E"
-    },
-    {
-      "videoId": "XGCTh8BNibY",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Jaguar Type 01 Visits NVIDIA HQ",
-      "published": "2026-08-14T00:30:03+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/XGCTh8BNibY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XGCTh8BNibY"
     },
     {
       "videoId": "1fs84Lyp1s0",
@@ -991,17 +1024,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/bSp-foRDH5M/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=bSp-foRDH5M"
-    },
-    {
-      "videoId": "nizOUNTyt58",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Upgrade your summer style with Search ☀️",
-      "published": "2026-08-03T16:01:20+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/nizOUNTyt58/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=nizOUNTyt58"
     }
   ],
   "warnings": [
