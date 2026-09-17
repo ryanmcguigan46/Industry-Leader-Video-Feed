@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T15:20:30.274Z",
+  "generatedAt": "2026-09-17T15:27:08.634Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,160 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "hdTuRiOYKi4",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta Connect Save the Date 2026",
+      "published": "2026-09-17T13:00:58+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/hdTuRiOYKi4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hdTuRiOYKi4"
+    },
+    {
+      "videoId": "Q_MEaNdMpZw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Reimagining IT with ChatGPT",
+      "published": "2026-09-17T02:11:53+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Q_MEaNdMpZw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Q_MEaNdMpZw"
+    },
+    {
+      "videoId": "4UTn7oWvSJc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Meet ChatGPT: Ask Your First Question | OpenAI Academy",
+      "published": "2026-09-16T22:29:47+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4UTn7oWvSJc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4UTn7oWvSJc"
+    },
+    {
+      "videoId": "P-8sCH6syag",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How to Ask ChatGPT Better Questions | OpenAI Academy",
+      "published": "2026-09-16T22:29:43+00:00",
+      "source": "OpenAI",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/P-8sCH6syag/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=P-8sCH6syag"
+    },
+    {
+      "videoId": "gKyEzP_jhZc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT to Organize Everyday Tasks | OpenAI Academy",
+      "published": "2026-09-16T22:29:39+00:00",
+      "source": "OpenAI",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/gKyEzP_jhZc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gKyEzP_jhZc"
+    },
+    {
+      "videoId": "WY_PHjGilVs",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How to Spot Scam Messages with ChatGPT | OpenAI Academy",
+      "published": "2026-09-16T22:29:36+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/WY_PHjGilVs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WY_PHjGilVs"
+    },
+    {
+      "videoId": "dfAZbuAQxi8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT Privacy: What Not to Share and When to Double-Check | OpenAI Academy",
+      "published": "2026-09-16T22:29:31+00:00",
+      "source": "OpenAI",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/dfAZbuAQxi8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dfAZbuAQxi8"
+    },
+    {
+      "videoId": "4gYJxduFN3c",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Create a Coloring Page with ChatGPT | OpenAI Academy",
+      "published": "2026-09-16T22:29:27+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4gYJxduFN3c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4gYJxduFN3c"
+    },
+    {
+      "videoId": "RuXF7ck32b8",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Advancing Infrastructure for the Era of Agentic AI | Ian Buck at AI Infra Summit 2026",
+      "published": "2026-09-16T22:24:54+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/RuXF7ck32b8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RuXF7ck32b8"
+    },
+    {
+      "videoId": "KT89PEe9d7U",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "The Infrastructure of Intelligence: NVIDIA and OpenAI on a Decade of Building Frontier AI",
+      "published": "2026-09-16T22:11:26+00:00",
+      "source": "NVIDIA",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/KT89PEe9d7U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KT89PEe9d7U"
+    },
+    {
+      "videoId": "iZE2r-Vx5b8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Assess Usage and Value of ChatGPT Work",
+      "published": "2026-09-16T19:03:38+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/iZE2r-Vx5b8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iZE2r-Vx5b8"
+    },
+    {
+      "videoId": "XgqKqN_H-4M",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Mark Zuckerberg on what makes great companies",
+      "published": "2026-09-16T18:00:09+00:00",
+      "source": "a16z",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/XgqKqN_H-4M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XgqKqN_H-4M"
+    },
+    {
+      "videoId": "dW_aK5rL1kM",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "smartARM: The AI-Powered Bionic Arm",
+      "published": "2026-09-16T16:15:11+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/dW_aK5rL1kM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dW_aK5rL1kM"
+    },
+    {
+      "videoId": "KcIpGDCRGFU",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "smartARM: The AI-Powered Bionic Arm",
+      "published": "2026-09-16T16:14:31+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/KcIpGDCRGFU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KcIpGDCRGFU"
+    },
     {
       "videoId": "OujC4t5leqQ",
       "leaderId": "mark-zuckerberg",
@@ -201,17 +355,6 @@
       "url": "https://www.youtube.com/watch?v=4bGb2OjU5tA"
     },
     {
-      "videoId": "0NUm552iB3U",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "GPT-6 Astra built a font playground",
-      "published": "2026-09-11T04:08:16+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/0NUm552iB3U/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0NUm552iB3U"
-    },
-    {
       "videoId": "pHQcVJrHveA",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -223,72 +366,6 @@
       "url": "https://www.youtube.com/watch?v=pHQcVJrHveA"
     },
     {
-      "videoId": "2YHa1vhnmK0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Introducing the Agents API",
-      "published": "2026-09-10T19:26:05+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/2YHa1vhnmK0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2YHa1vhnmK0"
-    },
-    {
-      "videoId": "PbfXbDbCthA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "In Harmony",
-      "published": "2026-09-10T17:29:32+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/PbfXbDbCthA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PbfXbDbCthA"
-    },
-    {
-      "videoId": "qg_54P-oPgI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Two blind brothers using ChatGPT to navigate life and run their nonprofit",
-      "published": "2026-09-10T16:00:27+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/qg_54P-oPgI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qg_54P-oPgI"
-    },
-    {
-      "videoId": "mPAmXQnhv2E",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Helping a small business go big with ChatGPT",
-      "published": "2026-09-10T16:00:09+00:00",
-      "source": "OpenAI",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/mPAmXQnhv2E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mPAmXQnhv2E"
-    },
-    {
-      "videoId": "0XLGisanEAs",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Discovering new antibiotics with ChatGPT",
-      "published": "2026-09-10T15:59:55+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/0XLGisanEAs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0XLGisanEAs"
-    },
-    {
-      "videoId": "MSiAd36bGeQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Data agent in ChatGPT Work",
-      "published": "2026-09-10T15:07:22+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/MSiAd36bGeQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MSiAd36bGeQ"
-    },
-    {
       "videoId": "fdq3aYCVIL0",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -298,17 +375,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/fdq3aYCVIL0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=fdq3aYCVIL0"
-    },
-    {
-      "videoId": "kuGjypoJKwk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Work, now powered by GPT-6 Astra",
-      "published": "2026-09-09T21:54:53+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/kuGjypoJKwk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kuGjypoJKwk"
     },
     {
       "videoId": "GC0GI4MgTyg",
@@ -872,17 +938,6 @@
       "url": "https://www.youtube.com/watch?v=Ykn0qWsjMS0"
     },
     {
-      "videoId": "VihWpoINpgE",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "More Tokens per Second per Megawatt: The Economics of NVIDIA Vera Rubin",
-      "published": "2026-08-19T20:39:25+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/VihWpoINpgE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VihWpoINpgE"
-    },
-    {
       "videoId": "H3ggdqhncuU",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -903,17 +958,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/vPnkarnJnVs/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vPnkarnJnVs"
-    },
-    {
-      "videoId": "V3GGQXPUIsE",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "RTX Spark",
-      "published": "2026-08-18T20:00:11+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/V3GGQXPUIsE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=V3GGQXPUIsE"
     },
     {
       "videoId": "qU9BgAMQ1k4",
