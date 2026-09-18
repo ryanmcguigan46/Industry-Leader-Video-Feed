@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T15:27:08.634Z",
+  "generatedAt": "2026-09-18T14:48:38.975Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,138 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "bbNTY8O0GTY",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to ground analysis in your semantic layer",
+      "published": "2026-09-18T13:28:31+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/bbNTY8O0GTY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bbNTY8O0GTY"
+    },
+    {
+      "videoId": "GzCsKuDgr6Q",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to build dashboards from a business question",
+      "published": "2026-09-18T13:27:46+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/GzCsKuDgr6Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GzCsKuDgr6Q"
+    },
+    {
+      "videoId": "Wb8MhkpQpX8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to tailor dashboards for every stakeholder",
+      "published": "2026-09-18T13:27:02+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Wb8MhkpQpX8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Wb8MhkpQpX8"
+    },
+    {
+      "videoId": "euED8JRunBA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to help teams answer their own data questions",
+      "published": "2026-09-18T13:25:54+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/euED8JRunBA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=euED8JRunBA"
+    },
+    {
+      "videoId": "wK0zWeVyLM4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to turn product insights into a team action plan",
+      "published": "2026-09-18T13:25:37+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/wK0zWeVyLM4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wK0zWeVyLM4"
+    },
+    {
+      "videoId": "cXUmFec2PNY",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Use ChatGPT Work to build your data agent",
+      "published": "2026-09-18T13:25:00+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/cXUmFec2PNY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cXUmFec2PNY"
+    },
+    {
+      "videoId": "VMgEQ7ym9WU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Meet the Data Agent in ChatGPT Work",
+      "published": "2026-09-18T13:24:22+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/VMgEQ7ym9WU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VMgEQ7ym9WU"
+    },
+    {
+      "videoId": "YeeGHCixr7o",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Astra for Law: Frontier intelligence built for your practice.",
+      "published": "2026-09-17T20:41:08+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/YeeGHCixr7o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YeeGHCixr7o"
+    },
+    {
+      "videoId": "lxVMdEpe0RQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT for Word is now available",
+      "published": "2026-09-17T19:12:10+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/lxVMdEpe0RQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lxVMdEpe0RQ"
+    },
+    {
+      "videoId": "s495saGYWFg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Jump Trading points GPT-6 Astra to its most ambiguous, difficult tasks",
+      "published": "2026-09-17T18:03:17+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/s495saGYWFg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=s495saGYWFg"
+    },
+    {
+      "videoId": "cr61seCie_c",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Build Custom AI Infrastructure with NVIDIA NVLink Fusion",
+      "published": "2026-09-17T17:51:28+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/cr61seCie_c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cr61seCie_c"
+    },
+    {
+      "videoId": "ehDCT62U-IA",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "AI-RAN: 5 Things to Know",
+      "published": "2026-09-17T16:39:53+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ehDCT62U-IA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ehDCT62U-IA"
+    },
     {
       "videoId": "hdTuRiOYKi4",
       "leaderId": "mark-zuckerberg",
@@ -113,28 +245,6 @@
       "url": "https://www.youtube.com/watch?v=WY_PHjGilVs"
     },
     {
-      "videoId": "dfAZbuAQxi8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Privacy: What Not to Share and When to Double-Check | OpenAI Academy",
-      "published": "2026-09-16T22:29:31+00:00",
-      "source": "OpenAI",
-      "type": "Speech",
-      "thumb": "https://i.ytimg.com/vi/dfAZbuAQxi8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=dfAZbuAQxi8"
-    },
-    {
-      "videoId": "4gYJxduFN3c",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Create a Coloring Page with ChatGPT | OpenAI Academy",
-      "published": "2026-09-16T22:29:27+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4gYJxduFN3c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4gYJxduFN3c"
-    },
-    {
       "videoId": "RuXF7ck32b8",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -155,17 +265,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/KT89PEe9d7U/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=KT89PEe9d7U"
-    },
-    {
-      "videoId": "iZE2r-Vx5b8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Assess Usage and Value of ChatGPT Work",
-      "published": "2026-09-16T19:03:38+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/iZE2r-Vx5b8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=iZE2r-Vx5b8"
     },
     {
       "videoId": "XgqKqN_H-4M",
@@ -210,17 +309,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/OujC4t5leqQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=OujC4t5leqQ"
-    },
-    {
-      "videoId": "DhAsqpjliYw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Stay on top of the pack with ChatGPT Work.",
-      "published": "2026-09-15T23:31:15+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/DhAsqpjliYw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DhAsqpjliYw"
     },
     {
       "videoId": "HuGAiGfKqW0",
@@ -287,72 +375,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/ORNMTHvC45o/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ORNMTHvC45o"
-    },
-    {
-      "videoId": "PSnJBfa183Y",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Detecting wildfires with ChatGPT",
-      "published": "2026-09-14T15:57:33+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/PSnJBfa183Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PSnJBfa183Y"
-    },
-    {
-      "videoId": "uA5PiAXKGis",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "published": "2026-09-14T09:00:55+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/uA5PiAXKGis/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=uA5PiAXKGis"
-    },
-    {
-      "videoId": "SiJGdlmdUms",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "GPT-6 Astra needs less babysitting",
-      "published": "2026-09-12T15:00:30+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/SiJGdlmdUms/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SiJGdlmdUms"
-    },
-    {
-      "videoId": "ZlvkQYZo3ZE",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "GPT-6 Astra added unexpected details",
-      "published": "2026-09-11T21:00:04+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ZlvkQYZo3ZE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZlvkQYZo3ZE"
-    },
-    {
-      "videoId": "OSaP6bJoU44",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "GPT-Live-1 is now in the API",
-      "published": "2026-09-11T17:06:25+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/OSaP6bJoU44/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OSaP6bJoU44"
-    },
-    {
-      "videoId": "4bGb2OjU5tA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "GPT-6 Astra handles the editing busywork",
-      "published": "2026-09-11T15:00:24+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4bGb2OjU5tA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4bGb2OjU5tA"
     },
     {
       "videoId": "pHQcVJrHveA",
@@ -696,17 +718,6 @@
       "url": "https://www.youtube.com/watch?v=4wmAMrZprsg"
     },
     {
-      "videoId": "FGC4ofTcg2k",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Why AI Demand Is Outrunning Compute Supply",
-      "published": "2026-08-31T14:01:07+00:00",
-      "source": "a16z",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/FGC4ofTcg2k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=FGC4ofTcg2k"
-    },
-    {
       "videoId": "qAQTJKZrEeM",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -795,17 +806,6 @@
       "url": "https://www.youtube.com/watch?v=LnSdkakqEVY"
     },
     {
-      "videoId": "NqPsQCI0yzs",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA Vera Rubin NVL72 production racks are here.",
-      "published": "2026-08-25T19:43:48+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/NqPsQCI0yzs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NqPsQCI0yzs"
-    },
-    {
       "videoId": "XXhq0IYvR24",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -892,17 +892,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/tMhp4-ylrdE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=tMhp4-ylrdE"
-    },
-    {
-      "videoId": "WCRNR1Ve9s0",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Debugging with a Local Agent While You Get Coffee, Powered by NVIDIA RTX Spark",
-      "published": "2026-08-20T18:44:59+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/WCRNR1Ve9s0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=WCRNR1Ve9s0"
     },
     {
       "videoId": "O_Ndcx1LArU",
