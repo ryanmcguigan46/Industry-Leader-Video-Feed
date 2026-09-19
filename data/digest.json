@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T14:48:38.975Z",
+  "generatedAt": "2026-09-19T14:12:21.280Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,61 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "EthkNLasUa8",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Starship - The Holy Grail of Rocketry",
+      "published": "2026-09-18T18:10:39+00:00",
+      "source": "SpaceX",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/EthkNLasUa8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=EthkNLasUa8"
+    },
+    {
+      "videoId": "oJ4H5WAkHYw",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Riley's Rebuilds",
+      "published": "2026-09-18T17:45:36+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/oJ4H5WAkHYw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oJ4H5WAkHYw"
+    },
+    {
+      "videoId": "wgd9C8JYZEM",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Why the AI Ecosystem Builds on NVIDIA - Jensen Huang at the All-In Summit",
+      "published": "2026-09-18T16:07:31+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/wgd9C8JYZEM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wgd9C8JYZEM"
+    },
+    {
+      "videoId": "bof56DxMcvo",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Reel of the Week | AR + VR Street Art",
+      "published": "2026-09-18T16:01:07+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/bof56DxMcvo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bof56DxMcvo"
+    },
+    {
+      "videoId": "1WLqGs7c_yA",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Shot on iPhone 18 Pro: \"new trick” by ROSÉ",
+      "published": "2026-09-18T16:01:00+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/1WLqGs7c_yA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1WLqGs7c_yA"
+    },
     {
       "videoId": "bbNTY8O0GTY",
       "leaderId": "sam-altman",
@@ -762,17 +817,6 @@
       "url": "https://www.youtube.com/watch?v=Z1FkzCwJevE"
     },
     {
-      "videoId": "Gw6LRsCeh6Y",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Vera Arrives",
-      "published": "2026-08-27T13:02:43+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Gw6LRsCeh6Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Gw6LRsCeh6Y"
-    },
-    {
       "videoId": "J-3FSw6Upqs",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -837,17 +881,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/T2nlawq852Q/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=T2nlawq852Q"
-    },
-    {
-      "videoId": "3uAIqqg8ZHo",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "The New Mac Studio with M5 Max and M5 Ultra",
-      "published": "2026-08-25T13:47:52+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/3uAIqqg8ZHo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3uAIqqg8ZHo"
     },
     {
       "videoId": "3zrMcVRZKFA",
@@ -960,17 +993,6 @@
       "url": "https://www.youtube.com/watch?v=qU9BgAMQ1k4"
     },
     {
-      "videoId": "ieJo-_TgO-E",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Ray-Ban Meta Glasses Donation to Vision Ireland",
-      "published": "2026-08-14T14:03:51+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ieJo-_TgO-E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ieJo-_TgO-E"
-    },
-    {
       "videoId": "1fs84Lyp1s0",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -1035,28 +1057,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/cazd1z4Eseo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=cazd1z4Eseo"
-    },
-    {
-      "videoId": "xWAmryteQc4",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "design a logo with Meta AI",
-      "published": "2026-08-06T16:01:04+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/xWAmryteQc4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xWAmryteQc4"
-    },
-    {
-      "videoId": "bSp-foRDH5M",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "How to build apps and automate tasks with Google Antigravity 2.0",
-      "published": "2026-08-04T20:46:03+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/bSp-foRDH5M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=bSp-foRDH5M"
     }
   ],
   "warnings": [
