@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T16:49:08.017Z",
+  "generatedAt": "2026-09-22T15:26:24.834Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,50 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "rRm3Vnb7UPY",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Figma Gave GPT-6 Astra a Moonshot. Here's what happened.",
+      "published": "2026-09-21T19:25:46+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/rRm3Vnb7UPY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rRm3Vnb7UPY"
+    },
+    {
+      "videoId": "p7TjXroM4ak",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "One Prompt. A Feature Built and Tested. | Ramp × GPT-6 Astra",
+      "published": "2026-09-21T19:22:03+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/p7TjXroM4ak/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=p7TjXroM4ak"
+    },
+    {
+      "videoId": "dtNlpZI86Dk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "“A Staff Engineer Collaborator” | Notion’s First Look at GPT-6 Astra",
+      "published": "2026-09-21T19:17:35+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/dtNlpZI86Dk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dtNlpZI86Dk"
+    },
+    {
+      "videoId": "4swQ0YknTLs",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "“A Jaw Drop. Literally.” How Cooley Is Reimagining IPOs with OpenAI",
+      "published": "2026-09-21T19:02:38+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4swQ0YknTLs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4swQ0YknTLs"
+    },
     {
       "videoId": "QFxDF30qf_4",
       "leaderId": "sam-altman",
@@ -254,50 +298,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/hdTuRiOYKi4/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hdTuRiOYKi4"
-    },
-    {
-      "videoId": "Q_MEaNdMpZw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Reimagining IT with ChatGPT",
-      "published": "2026-09-17T02:11:53+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Q_MEaNdMpZw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Q_MEaNdMpZw"
-    },
-    {
-      "videoId": "4UTn7oWvSJc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Meet ChatGPT: Ask Your First Question | OpenAI Academy",
-      "published": "2026-09-16T22:29:47+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4UTn7oWvSJc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4UTn7oWvSJc"
-    },
-    {
-      "videoId": "P-8sCH6syag",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to Ask ChatGPT Better Questions | OpenAI Academy",
-      "published": "2026-09-16T22:29:43+00:00",
-      "source": "OpenAI",
-      "type": "Speech",
-      "thumb": "https://i.ytimg.com/vi/P-8sCH6syag/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=P-8sCH6syag"
-    },
-    {
-      "videoId": "gKyEzP_jhZc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Use ChatGPT to Organize Everyday Tasks | OpenAI Academy",
-      "published": "2026-09-16T22:29:39+00:00",
-      "source": "OpenAI",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/gKyEzP_jhZc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gKyEzP_jhZc"
     },
     {
       "videoId": "RuXF7ck32b8",
