@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T15:26:24.834Z",
+  "generatedAt": "2026-09-23T15:20:26.537Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "w9RyNj0ukWo",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta Connect 2026: Opening Keynote",
+      "published": "2026-09-22T19:37:52+00:00",
+      "source": "Meta",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/w9RyNj0ukWo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=w9RyNj0ukWo"
+    },
+    {
+      "videoId": "fZ10JtLAoOc",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How businesses can use AI and keep their data private",
+      "published": "2026-09-22T19:31:08+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/fZ10JtLAoOc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fZ10JtLAoOc"
+    },
+    {
+      "videoId": "P7ICr5WAZUE",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Turn tough topics into interactive visuals with Google Search 🌌",
+      "published": "2026-09-22T16:13:37+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/P7ICr5WAZUE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=P7ICr5WAZUE"
+    },
     {
       "videoId": "rRm3Vnb7UPY",
       "leaderId": "sam-altman",
@@ -751,17 +784,6 @@
       "url": "https://www.youtube.com/watch?v=MkbepPfaeMU"
     },
     {
-      "videoId": "MKNMReFVcp4",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA and CrowdStrike are advancing agentic cyber defense with SafeMind",
-      "published": "2026-09-01T22:16:56+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/MKNMReFVcp4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MKNMReFVcp4"
-    },
-    {
       "videoId": "4wmAMrZprsg",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -958,17 +980,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Ykn0qWsjMS0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Ykn0qWsjMS0"
-    },
-    {
-      "videoId": "H3ggdqhncuU",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Vintage TVs turned to into unique cat beds",
-      "published": "2026-08-19T16:04:26+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/H3ggdqhncuU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=H3ggdqhncuU"
     },
     {
       "videoId": "vPnkarnJnVs",
