@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T15:20:26.537Z",
+  "generatedAt": "2026-09-24T15:43:49.611Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,15 +47,92 @@
   ],
   "videos": [
     {
-      "videoId": "w9RyNj0ukWo",
+      "videoId": "o1JK79jszqo",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Google’s latest moonshot to put machine learning in space",
+      "published": "2026-09-24T13:12:27+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/o1JK79jszqo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=o1JK79jszqo"
+    },
+    {
+      "videoId": "SdKFDIAGF24",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
-      "title": "Meta Connect 2026: Opening Keynote",
-      "published": "2026-09-22T19:37:52+00:00",
+      "title": "Meta Connect Keynote 2026",
+      "published": "2026-09-24T03:02:55+00:00",
       "source": "Meta",
       "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/w9RyNj0ukWo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=w9RyNj0ukWo"
+      "thumb": "https://i.ytimg.com/vi/SdKFDIAGF24/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SdKFDIAGF24"
+    },
+    {
+      "videoId": "WhNT3BeY81Y",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta Connect 2026",
+      "published": "2026-09-24T02:01:07+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/WhNT3BeY81Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WhNT3BeY81Y"
+    },
+    {
+      "videoId": "rmDu2sSBIrw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Today’s forecast? Nothing but 80s, baby.",
+      "published": "2026-09-23T18:48:52+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/rmDu2sSBIrw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rmDu2sSBIrw"
+    },
+    {
+      "videoId": "hirhw-LZL6M",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA CEO Jensen Huang on The Ezra Klein Show",
+      "published": "2026-09-23T18:03:25+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/hirhw-LZL6M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hirhw-LZL6M"
+    },
+    {
+      "videoId": "96ogPwN9ykM",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Get Stuff Done with ChatGPT Voice",
+      "published": "2026-09-23T17:11:13+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/96ogPwN9ykM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=96ogPwN9ykM"
+    },
+    {
+      "videoId": "vFXpC3GOe0E",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "We got @unsloth a DGX Station!",
+      "published": "2026-09-23T16:00:18+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vFXpC3GOe0E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vFXpC3GOe0E"
+    },
+    {
+      "videoId": "c43tABiPIyQ",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Apple Games: Behind the Scenes of Stop-Motion Animation",
+      "published": "2026-09-23T15:50:53+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/c43tABiPIyQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=c43tABiPIyQ"
     },
     {
       "videoId": "fZ10JtLAoOc",
@@ -276,28 +353,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/YeeGHCixr7o/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=YeeGHCixr7o"
-    },
-    {
-      "videoId": "lxVMdEpe0RQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT for Word is now available",
-      "published": "2026-09-17T19:12:10+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/lxVMdEpe0RQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=lxVMdEpe0RQ"
-    },
-    {
-      "videoId": "s495saGYWFg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Jump Trading points GPT-6 Astra to its most ambiguous, difficult tasks",
-      "published": "2026-09-17T18:03:17+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/s495saGYWFg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=s495saGYWFg"
     },
     {
       "videoId": "cr61seCie_c",
@@ -674,17 +729,6 @@
       "url": "https://www.youtube.com/watch?v=bpPJbRjIpxg"
     },
     {
-      "videoId": "x5oPLU4Wi0E",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Work super hard.",
-      "published": "2026-09-04T19:13:16+00:00",
-      "source": "a16z",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/x5oPLU4Wi0E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=x5oPLU4Wi0E"
-    },
-    {
       "videoId": "rPq7ITrWFvY",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -740,28 +784,6 @@
       "url": "https://www.youtube.com/watch?v=tsA0C_cbxZY"
     },
     {
-      "videoId": "3eNtVFTEys4",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The Industrialization of Intelligence",
-      "published": "2026-09-02T22:11:08+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/3eNtVFTEys4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3eNtVFTEys4"
-    },
-    {
-      "videoId": "TVpTonS1QVw",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Apple Watch Heart Rate: Amanda’s True Apple Watch Story",
-      "published": "2026-09-02T16:57:43+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/TVpTonS1QVw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TVpTonS1QVw"
-    },
-    {
       "videoId": "MzJZuaJkX_0",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -771,17 +793,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/MzJZuaJkX_0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=MzJZuaJkX_0"
-    },
-    {
-      "videoId": "MkbepPfaeMU",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Tokenomics 101: What Are Tokens & Why They Matter | AI Factory Insider Ep. 4",
-      "published": "2026-09-01T22:56:50+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/MkbepPfaeMU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MkbepPfaeMU"
     },
     {
       "videoId": "4wmAMrZprsg",
@@ -971,17 +982,6 @@
       "url": "https://www.youtube.com/watch?v=dWH8n-FkprM"
     },
     {
-      "videoId": "Ykn0qWsjMS0",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Reel of the Week | BTS with Greyson the drummer",
-      "published": "2026-08-20T15:58:19+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Ykn0qWsjMS0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Ykn0qWsjMS0"
-    },
-    {
       "videoId": "vPnkarnJnVs",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -1046,17 +1046,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/qH1qnCBPw8g/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qH1qnCBPw8g"
-    },
-    {
-      "videoId": "PyTJmPkfmpc",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Vibe coding a custom e-ink picture frame powered by Gemini 3.6 Flash and Nano Banana",
-      "published": "2026-08-10T18:15:35+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/PyTJmPkfmpc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PyTJmPkfmpc"
     },
     {
       "videoId": "cazd1z4Eseo",
