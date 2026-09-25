@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T15:43:49.611Z",
+  "generatedAt": "2026-09-25T15:44:48.355Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "rOJgyaH23OE",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta Connect Keynote 2026 | ASL",
+      "published": "2026-09-25T00:15:42+00:00",
+      "source": "Meta",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/rOJgyaH23OE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rOJgyaH23OE"
+    },
+    {
+      "videoId": "wL8AWEpK8-c",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "From Sketch to Scale: How Our Teams Built Meta VR Glasses",
+      "published": "2026-09-24T23:40:18+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/wL8AWEpK8-c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wL8AWEpK8-c"
+    },
+    {
+      "videoId": "vsUCLKo206A",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "All the AI glasses we just dropped",
+      "published": "2026-09-24T22:38:27+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vsUCLKo206A/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vsUCLKo206A"
+    },
+    {
+      "videoId": "AIH_9dOpAmU",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "10 Years of NVIDIA DGX",
+      "published": "2026-09-24T17:49:58+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/AIH_9dOpAmU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AIH_9dOpAmU"
+    },
+    {
+      "videoId": "mHXELsEResE",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "New Apple child safety features help parents keep kids safe online",
+      "published": "2026-09-24T16:15:20+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/mHXELsEResE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mHXELsEResE"
+    },
+    {
+      "videoId": "xAgq8ByWK0M",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "10 Years of NVIDIA DGX: From One System to AI Factories",
+      "published": "2026-09-24T16:00:27+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/xAgq8ByWK0M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xAgq8ByWK0M"
+    },
     {
       "videoId": "o1JK79jszqo",
       "leaderId": "sundar-pichai",
@@ -674,17 +740,6 @@
       "url": "https://www.youtube.com/watch?v=FUfGcZ092b0"
     },
     {
-      "videoId": "39BalPDuTo0",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Apple Event September 9 2026: Introducing iPhone Duo and more",
-      "published": "2026-09-09T18:25:05+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/39BalPDuTo0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=39BalPDuTo0"
-    },
-    {
       "videoId": "a6qM4YHSKRQ",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -705,17 +760,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/V0Hx37EqcMI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=V0Hx37EqcMI"
-    },
-    {
-      "videoId": "4GY-x4WAafc",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Building Europe's AI Stack — Inside the Barcelona Supercomputing Center",
-      "published": "2026-09-08T10:40:51+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/4GY-x4WAafc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4GY-x4WAafc"
     },
     {
       "videoId": "bpPJbRjIpxg",
@@ -749,17 +793,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/grdt05okn3Q/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=grdt05okn3Q"
-    },
-    {
-      "videoId": "TaqNUvMCRBs",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The Easiest Way to Run Hermes Locally | @Nousresearch",
-      "published": "2026-09-03T19:31:53+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/TaqNUvMCRBs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TaqNUvMCRBs"
     },
     {
       "videoId": "7k1sXY-ZCkI",
@@ -817,17 +850,6 @@
       "url": "https://www.youtube.com/watch?v=qAQTJKZrEeM"
     },
     {
-      "videoId": "sPEQrWH_GDA",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Check out AI Glasses",
-      "published": "2026-08-28T16:08:03+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/sPEQrWH_GDA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sPEQrWH_GDA"
-    },
-    {
       "videoId": "9D1FnEJ4_HU",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -837,17 +859,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/9D1FnEJ4_HU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=9D1FnEJ4_HU"
-    },
-    {
-      "videoId": "Z1FkzCwJevE",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Hey Meta x Taylor Townsend",
-      "published": "2026-08-27T19:02:47+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Z1FkzCwJevE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Z1FkzCwJevE"
     },
     {
       "videoId": "J-3FSw6Upqs",
@@ -903,17 +914,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/32C0_8_296k/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=32C0_8_296k"
-    },
-    {
-      "videoId": "T2nlawq852Q",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Reel of the Week | Couple revisits wedding with Meta Quest",
-      "published": "2026-08-25T15:59:53+00:00",
-      "source": "Meta",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/T2nlawq852Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=T2nlawq852Q"
     },
     {
       "videoId": "3zrMcVRZKFA",
@@ -1035,28 +1035,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/-eckuctHcoc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=-eckuctHcoc"
-    },
-    {
-      "videoId": "qH1qnCBPw8g",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "3 skills you need in the age of AI",
-      "published": "2026-08-10T19:03:24+00:00",
-      "source": "Microsoft",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/qH1qnCBPw8g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qH1qnCBPw8g"
-    },
-    {
-      "videoId": "cazd1z4Eseo",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "The AI shift most companies didn't see coming",
-      "published": "2026-08-10T17:02:00+00:00",
-      "source": "Microsoft",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/cazd1z4Eseo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cazd1z4Eseo"
     }
   ],
   "warnings": [
