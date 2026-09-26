@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T15:44:48.355Z",
+  "generatedAt": "2026-09-26T14:54:10.278Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,61 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "cdt6BB7VAu8",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Can pigs breathe through their 🍑?",
+      "published": "2026-09-25T22:03:02+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/cdt6BB7VAu8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cdt6BB7VAu8"
+    },
+    {
+      "videoId": "W9usb907BeQ",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Boz to the Future Episode 28: The Future According to Aparna Chennapragada",
+      "published": "2026-09-25T20:28:51+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/W9usb907BeQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=W9usb907BeQ"
+    },
+    {
+      "videoId": "mZXJevMqkBM",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta Connect 2026: A Community Builder's First-Hand POV",
+      "published": "2026-09-25T19:26:25+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/mZXJevMqkBM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mZXJevMqkBM"
+    },
+    {
+      "videoId": "PUvQCFzn8Ns",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Celebrating Hispanic Heritage Month",
+      "published": "2026-09-25T18:59:40+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/PUvQCFzn8Ns/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PUvQCFzn8Ns"
+    },
+    {
+      "videoId": "H_f5c3Qgatw",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta Artist Spotlight: Refik Anadol",
+      "published": "2026-09-25T17:05:44+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/H_f5c3Qgatw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=H_f5c3Qgatw"
+    },
     {
       "videoId": "rOJgyaH23OE",
       "leaderId": "mark-zuckerberg",
@@ -575,17 +630,6 @@
       "url": "https://www.youtube.com/watch?v=x0692zj9jsI"
     },
     {
-      "videoId": "ORNMTHvC45o",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meet Muse, your personal AI agent",
-      "published": "2026-09-14T17:05:46+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ORNMTHvC45o/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ORNMTHvC45o"
-    },
-    {
       "videoId": "pHQcVJrHveA",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -806,17 +850,6 @@
       "url": "https://www.youtube.com/watch?v=7k1sXY-ZCkI"
     },
     {
-      "videoId": "tsA0C_cbxZY",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Get the full story behind the light",
-      "published": "2026-09-03T16:16:09+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/tsA0C_cbxZY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tsA0C_cbxZY"
-    },
-    {
       "videoId": "MzJZuaJkX_0",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -826,17 +859,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/MzJZuaJkX_0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=MzJZuaJkX_0"
-    },
-    {
-      "videoId": "4wmAMrZprsg",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Reel of the Week | Norwegian landscape painter creats glowing scenes",
-      "published": "2026-08-31T19:26:08+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4wmAMrZprsg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4wmAMrZprsg"
     },
     {
       "videoId": "qAQTJKZrEeM",
@@ -1013,28 +1035,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/1fs84Lyp1s0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=1fs84Lyp1s0"
-    },
-    {
-      "videoId": "6yysYeHiPDQ",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Here’s your first peek at Pixel Watch 5.",
-      "published": "2026-08-12T15:04:25+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/6yysYeHiPDQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6yysYeHiPDQ"
-    },
-    {
-      "videoId": "-eckuctHcoc",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Get your first look at the #Pixel11 family.",
-      "published": "2026-08-12T14:08:15+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/-eckuctHcoc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-eckuctHcoc"
     }
   ],
   "warnings": [
