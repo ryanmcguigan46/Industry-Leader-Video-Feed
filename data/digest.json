@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T14:54:10.278Z",
+  "generatedAt": "2026-09-27T15:32:36.814Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,83 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "ioD9bgO3e1M",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "#MetaConnect 2026 in 60 Seconds | Muse, Meta VR Glasses, Ray-Ban Meta Audio & More 🥽",
+      "published": "2026-09-27T15:20:39+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ioD9bgO3e1M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ioD9bgO3e1M"
+    },
+    {
+      "videoId": "bMe04_HLTNU",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta Connect Key Beats",
+      "published": "2026-09-26T19:59:13+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/bMe04_HLTNU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bMe04_HLTNU"
+    },
+    {
+      "videoId": "VD_z4f29xw0",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta Connect Recap — Soundtracked",
+      "published": "2026-09-26T18:42:54+00:00",
+      "source": "Meta",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/VD_z4f29xw0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VD_z4f29xw0"
+    },
+    {
+      "videoId": "s5ztr13K1gg",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Inside the Meta Lab at #MetaConnect 2026 | A Tour with Meta Creative Director Matt Jacobson",
+      "published": "2026-09-26T18:04:13+00:00",
+      "source": "Meta",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/s5ztr13K1gg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=s5ztr13K1gg"
+    },
+    {
+      "videoId": "iI7qazRvzJc",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meet Muse",
+      "published": "2026-09-26T17:17:02+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/iI7qazRvzJc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iI7qazRvzJc"
+    },
+    {
+      "videoId": "wJOrgRepk_U",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "So what’s inside the Lucas Museum? 🖼️👀",
+      "published": "2026-09-26T15:35:19+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/wJOrgRepk_U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wJOrgRepk_U"
+    },
+    {
+      "videoId": "-uu2N53Ig3M",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Lucas Museum: Top searches reveal hidden narratives | Searching For",
+      "published": "2026-09-26T15:00:42+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/-uu2N53Ig3M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-uu2N53Ig3M"
+    },
     {
       "videoId": "cdt6BB7VAu8",
       "leaderId": "sundar-pichai",
@@ -498,17 +575,6 @@
       "url": "https://www.youtube.com/watch?v=ehDCT62U-IA"
     },
     {
-      "videoId": "hdTuRiOYKi4",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meta Connect Save the Date 2026",
-      "published": "2026-09-17T13:00:58+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/hdTuRiOYKi4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hdTuRiOYKi4"
-    },
-    {
       "videoId": "RuXF7ck32b8",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -542,39 +608,6 @@
       "url": "https://www.youtube.com/watch?v=XgqKqN_H-4M"
     },
     {
-      "videoId": "dW_aK5rL1kM",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "smartARM: The AI-Powered Bionic Arm",
-      "published": "2026-09-16T16:15:11+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/dW_aK5rL1kM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=dW_aK5rL1kM"
-    },
-    {
-      "videoId": "KcIpGDCRGFU",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "smartARM: The AI-Powered Bionic Arm",
-      "published": "2026-09-16T16:14:31+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/KcIpGDCRGFU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KcIpGDCRGFU"
-    },
-    {
-      "videoId": "OujC4t5leqQ",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Riley's Rebuilds",
-      "published": "2026-09-16T01:15:33+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/OujC4t5leqQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OujC4t5leqQ"
-    },
-    {
       "videoId": "HuGAiGfKqW0",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -606,17 +639,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/4O1Gl4_xk3w/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=4O1Gl4_xk3w"
-    },
-    {
-      "videoId": "Th5WmdddoJw",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Check out Meta One",
-      "published": "2026-09-15T15:36:21+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Th5WmdddoJw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Th5WmdddoJw"
     },
     {
       "videoId": "x0692zj9jsI",
@@ -993,17 +1015,6 @@
       "url": "https://www.youtube.com/watch?v=O_Ndcx1LArU"
     },
     {
-      "videoId": "dWH8n-FkprM",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Go behind closed doors at the Artemis II test facility | Searching For",
-      "published": "2026-08-20T17:14:18+00:00",
-      "source": "Google",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/dWH8n-FkprM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=dWH8n-FkprM"
-    },
-    {
       "videoId": "vPnkarnJnVs",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -1024,17 +1035,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/qU9BgAMQ1k4/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qU9BgAMQ1k4"
-    },
-    {
-      "videoId": "1fs84Lyp1s0",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Introducing Pixel Tag, our first-ever finder tag.",
-      "published": "2026-08-12T15:58:39+00:00",
-      "source": "Google",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/1fs84Lyp1s0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1fs84Lyp1s0"
     }
   ],
   "warnings": [
