@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T15:32:36.814Z",
+  "generatedAt": "2026-09-28T18:30:53.036Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,15 +47,70 @@
   ],
   "videos": [
     {
-      "videoId": "ioD9bgO3e1M",
+      "videoId": "6wNqpZdHE_s",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-6 Astra in practice: Turning ideas into projects",
+      "published": "2026-09-28T18:05:42+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/6wNqpZdHE_s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6wNqpZdHE_s"
+    },
+    {
+      "videoId": "_fTT7TEOBH8",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Come with us to the Lucas Museum 🎒🏛️🖼️",
+      "published": "2026-09-28T16:31:41+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/_fTT7TEOBH8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_fTT7TEOBH8"
+    },
+    {
+      "videoId": "8NPgswgbTnE",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Testing AI chips to survive in space",
+      "published": "2026-09-28T14:10:18+00:00",
+      "source": "Google",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/8NPgswgbTnE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8NPgswgbTnE"
+    },
+    {
+      "videoId": "3jDhHA9JGUE",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "The Defender's Window: Cyber security keynote",
+      "published": "2026-09-28T13:29:06+00:00",
+      "source": "OpenAI",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/3jDhHA9JGUE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3jDhHA9JGUE"
+    },
+    {
+      "videoId": "MfToE6Umn1w",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
-      "title": "#MetaConnect 2026 in 60 Seconds | Muse, Meta VR Glasses, Ray-Ban Meta Audio & More 🥽",
-      "published": "2026-09-27T15:20:39+00:00",
+      "title": "All the latest on Meta Glasses",
+      "published": "2026-09-28T03:52:30+00:00",
       "source": "Meta",
       "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ioD9bgO3e1M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ioD9bgO3e1M"
+      "thumb": "https://i.ytimg.com/vi/MfToE6Umn1w/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MfToE6Umn1w"
+    },
+    {
+      "videoId": "3_hg2lYDvf0",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "It’s Google’s birthday!",
+      "published": "2026-09-27T16:00:32+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/3_hg2lYDvf0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3_hg2lYDvf0"
     },
     {
       "videoId": "bMe04_HLTNU",
@@ -531,28 +586,6 @@
       "url": "https://www.youtube.com/watch?v=cXUmFec2PNY"
     },
     {
-      "videoId": "VMgEQ7ym9WU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Meet the Data Agent in ChatGPT Work",
-      "published": "2026-09-18T13:24:22+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/VMgEQ7ym9WU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VMgEQ7ym9WU"
-    },
-    {
-      "videoId": "YeeGHCixr7o",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Astra for Law: Frontier intelligence built for your practice.",
-      "published": "2026-09-17T20:41:08+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/YeeGHCixr7o/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YeeGHCixr7o"
-    },
-    {
       "videoId": "cr61seCie_c",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -927,28 +960,6 @@
       "url": "https://www.youtube.com/watch?v=QOE798Nd5vw"
     },
     {
-      "videoId": "LnSdkakqEVY",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Come with us to Olympic National Park 🎒",
-      "published": "2026-08-26T16:12:07+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/LnSdkakqEVY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=LnSdkakqEVY"
-    },
-    {
-      "videoId": "XXhq0IYvR24",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Starfish do WHAT?! ⭐️😳",
-      "published": "2026-08-25T18:57:01+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/XXhq0IYvR24/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XXhq0IYvR24"
-    },
-    {
       "videoId": "32C0_8_296k",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -980,17 +991,6 @@
       "type": "Speech",
       "thumb": "https://i.ytimg.com/vi/3_sQZRkwU2g/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3_sQZRkwU2g"
-    },
-    {
-      "videoId": "Nm5e9ok8dIg",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "The world’s top nature searches answered in one epic national park | Searching For",
-      "published": "2026-08-22T18:00:20+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Nm5e9ok8dIg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Nm5e9ok8dIg"
     },
     {
       "videoId": "tMhp4-ylrdE",
