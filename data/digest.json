@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:30:53.036Z",
+  "generatedAt": "2026-09-29T16:48:44.833Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "KO2bNK9L7WA",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Keeping flying satellites connected with lasers",
+      "published": "2026-09-29T16:12:33+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/KO2bNK9L7WA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KO2bNK9L7WA"
+    },
+    {
+      "videoId": "Mgd07SgjC8c",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "George Russell x Muse",
+      "published": "2026-09-29T13:59:11+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Mgd07SgjC8c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Mgd07SgjC8c"
+    },
+    {
+      "videoId": "aSV48uAywcg",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Time for WNBA Playoffs 🔥",
+      "published": "2026-09-29T13:31:19+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/aSV48uAywcg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aSV48uAywcg"
+    },
+    {
+      "videoId": "a75xDflRooI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "The Defender's Window at enterprise scale with Standard Chartered",
+      "published": "2026-09-29T10:01:43+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/a75xDflRooI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=a75xDflRooI"
+    },
+    {
+      "videoId": "zoohZ1BiHs0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Building the partner ecosystem with Sophos",
+      "published": "2026-09-29T10:00:28+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/zoohZ1BiHs0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zoohZ1BiHs0"
+    },
+    {
+      "videoId": "Xr-EDQ5w-DI",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Everything you missed at Meta Connect 2026",
+      "published": "2026-09-28T21:38:37+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Xr-EDQ5w-DI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Xr-EDQ5w-DI"
+    },
     {
       "videoId": "6wNqpZdHE_s",
       "leaderId": "sam-altman",
@@ -333,6 +399,17 @@
       "url": "https://www.youtube.com/watch?v=WhNT3BeY81Y"
     },
     {
+      "videoId": "Fls_onRviPM",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Live from OpenAI DevDay 2026: Keynote",
+      "published": "2026-09-23T19:40:37+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/Fls_onRviPM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Fls_onRviPM"
+    },
+    {
       "videoId": "rmDu2sSBIrw",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -476,17 +553,6 @@
       "url": "https://www.youtube.com/watch?v=EthkNLasUa8"
     },
     {
-      "videoId": "oJ4H5WAkHYw",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Riley's Rebuilds",
-      "published": "2026-09-18T17:45:36+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/oJ4H5WAkHYw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=oJ4H5WAkHYw"
-    },
-    {
       "videoId": "wgd9C8JYZEM",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -496,17 +562,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/wgd9C8JYZEM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=wgd9C8JYZEM"
-    },
-    {
-      "videoId": "bof56DxMcvo",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Reel of the Week | AR + VR Street Art",
-      "published": "2026-09-18T16:01:07+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/bof56DxMcvo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=bof56DxMcvo"
     },
     {
       "videoId": "1WLqGs7c_yA",
@@ -551,39 +606,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Wb8MhkpQpX8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Wb8MhkpQpX8"
-    },
-    {
-      "videoId": "euED8JRunBA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Use ChatGPT Work to help teams answer their own data questions",
-      "published": "2026-09-18T13:25:54+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/euED8JRunBA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=euED8JRunBA"
-    },
-    {
-      "videoId": "wK0zWeVyLM4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Use ChatGPT Work to turn product insights into a team action plan",
-      "published": "2026-09-18T13:25:37+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/wK0zWeVyLM4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wK0zWeVyLM4"
-    },
-    {
-      "videoId": "cXUmFec2PNY",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Use ChatGPT Work to build your data agent",
-      "published": "2026-09-18T13:25:00+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/cXUmFec2PNY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cXUmFec2PNY"
     },
     {
       "videoId": "cr61seCie_c",
@@ -905,17 +927,6 @@
       "url": "https://www.youtube.com/watch?v=7k1sXY-ZCkI"
     },
     {
-      "videoId": "MzJZuaJkX_0",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Pixel Watch 5, fresh out of the box. #MadeByGoogle",
-      "published": "2026-09-02T15:59:14+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/MzJZuaJkX_0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MzJZuaJkX_0"
-    },
-    {
       "videoId": "qAQTJKZrEeM",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -947,17 +958,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/J-3FSw6Upqs/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=J-3FSw6Upqs"
-    },
-    {
-      "videoId": "QOE798Nd5vw",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Unboxing the brand new Pixel 11 Pro 📦 #MadeByGoogle",
-      "published": "2026-08-26T19:00:10+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/QOE798Nd5vw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=QOE798Nd5vw"
     },
     {
       "videoId": "32C0_8_296k",
@@ -1024,17 +1024,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/vPnkarnJnVs/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vPnkarnJnVs"
-    },
-    {
-      "videoId": "qU9BgAMQ1k4",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "The biggest AI mistake?",
-      "published": "2026-08-14T20:42:42+00:00",
-      "source": "Microsoft",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/qU9BgAMQ1k4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qU9BgAMQ1k4"
     }
   ],
   "warnings": [
