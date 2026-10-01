@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:42:06.557Z",
+  "generatedAt": "2026-10-01T17:17:18.085Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,61 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "DgdCQ38Qitw",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta's CTO shares thoughts on our latest announcements",
+      "published": "2026-10-01T16:01:37+00:00",
+      "source": "Meta",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/DgdCQ38Qitw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DgdCQ38Qitw"
+    },
+    {
+      "videoId": "4VGqc9Xzx0M",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "What does “fungible” mean for AI infrastructure?",
+      "published": "2026-10-01T13:04:11+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4VGqc9Xzx0M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4VGqc9Xzx0M"
+    },
+    {
+      "videoId": "z1t-bp9UC3E",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Meet The Startup: Probabl: by the Creators of Scikit-Learn",
+      "published": "2026-10-01T11:31:39+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/z1t-bp9UC3E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=z1t-bp9UC3E"
+    },
+    {
+      "videoId": "UPmU8AG_548",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Pause to pick your #NVIDIAGTC Berlin gear. 👀",
+      "published": "2026-09-30T19:30:29+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/UPmU8AG_548/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UPmU8AG_548"
+    },
+    {
+      "videoId": "vmAIpEHrCok",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA DOCA Skills vs No Skills: Building RDMA on NVIDIA BlueField-3 with Fewer Commands & Less Code",
+      "published": "2026-09-30T19:09:36+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vmAIpEHrCok/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vmAIpEHrCok"
+    },
     {
       "videoId": "X2duObJWK5k",
       "leaderId": "mark-zuckerberg",
@@ -465,17 +520,6 @@
       "url": "https://www.youtube.com/watch?v=o1JK79jszqo"
     },
     {
-      "videoId": "SdKFDIAGF24",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meta Connect Keynote 2026",
-      "published": "2026-09-24T03:02:55+00:00",
-      "source": "Meta",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/SdKFDIAGF24/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SdKFDIAGF24"
-    },
-    {
       "videoId": "rmDu2sSBIrw",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -696,28 +740,6 @@
       "url": "https://www.youtube.com/watch?v=HuGAiGfKqW0"
     },
     {
-      "videoId": "CC380G7fyH0",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA CEO Jensen Huang at the All-In Summit",
-      "published": "2026-09-15T18:07:19+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/CC380G7fyH0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CC380G7fyH0"
-    },
-    {
-      "videoId": "4O1Gl4_xk3w",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Building More Energy Efficient AI Factories With NVIDIA DSX",
-      "published": "2026-09-15T16:00:12+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4O1Gl4_xk3w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4O1Gl4_xk3w"
-    },
-    {
       "videoId": "x0692zj9jsI",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -727,17 +749,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/x0692zj9jsI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=x0692zj9jsI"
-    },
-    {
-      "videoId": "pHQcVJrHveA",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA Bionemo Inference Runtime",
-      "published": "2026-09-10T21:10:09+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/pHQcVJrHveA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pHQcVJrHveA"
     },
     {
       "videoId": "fdq3aYCVIL0",
@@ -881,17 +892,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/FUfGcZ092b0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=FUfGcZ092b0"
-    },
-    {
-      "videoId": "a6qM4YHSKRQ",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA GTC Europe: Advancing AI Together",
-      "published": "2026-09-09T13:14:11+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/a6qM4YHSKRQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=a6qM4YHSKRQ"
     },
     {
       "videoId": "bpPJbRjIpxg",
