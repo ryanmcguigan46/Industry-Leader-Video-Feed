@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T17:17:18.085Z",
+  "generatedAt": "2026-10-02T16:31:43.572Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "UxOQ2qyY6Qo",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Accelerating No-Code Enterprise AI: Inside Simplismart’s NVIDIA Inception Journey",
+      "published": "2026-10-02T16:00:20+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/UxOQ2qyY6Qo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UxOQ2qyY6Qo"
+    },
+    {
+      "videoId": "3SsXy3Mp_iM",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Halloween is coming",
+      "published": "2026-10-01T22:36:19+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/3SsXy3Mp_iM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3SsXy3Mp_iM"
+    },
+    {
+      "videoId": "fHEIw5CcN5U",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "The dots demo, take two | OpenAI DevDay 2026",
+      "published": "2026-10-01T17:20:52+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/fHEIw5CcN5U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fHEIw5CcN5U"
+    },
     {
       "videoId": "DgdCQ38Qitw",
       "leaderId": "mark-zuckerberg",
@@ -630,17 +663,6 @@
       "url": "https://www.youtube.com/watch?v=dtNlpZI86Dk"
     },
     {
-      "videoId": "4swQ0YknTLs",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "“A Jaw Drop. Literally.” How Cooley Is Reimagining IPOs with OpenAI",
-      "published": "2026-09-21T19:02:38+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4swQ0YknTLs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4swQ0YknTLs"
-    },
-    {
       "videoId": "EthkNLasUa8",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -705,28 +727,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/RuXF7ck32b8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=RuXF7ck32b8"
-    },
-    {
-      "videoId": "KT89PEe9d7U",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The Infrastructure of Intelligence: NVIDIA and OpenAI on a Decade of Building Frontier AI",
-      "published": "2026-09-16T22:11:26+00:00",
-      "source": "NVIDIA",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/KT89PEe9d7U/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KT89PEe9d7U"
-    },
-    {
-      "videoId": "XgqKqN_H-4M",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Mark Zuckerberg on what makes great companies",
-      "published": "2026-09-16T18:00:09+00:00",
-      "source": "a16z",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/XgqKqN_H-4M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XgqKqN_H-4M"
     },
     {
       "videoId": "HuGAiGfKqW0",
