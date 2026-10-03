@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T16:31:43.572Z",
+  "generatedAt": "2026-10-03T15:04:11.193Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -1013,17 +1013,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/O_Ndcx1LArU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=O_Ndcx1LArU"
-    },
-    {
-      "videoId": "vPnkarnJnVs",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "What CEOs are quietly admitting about AI",
-      "published": "2026-08-18T20:00:37+00:00",
-      "source": "Microsoft",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/vPnkarnJnVs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vPnkarnJnVs"
     }
   ],
   "warnings": [
