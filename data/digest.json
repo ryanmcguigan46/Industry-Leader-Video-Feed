@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T15:41:17.233Z",
+  "generatedAt": "2026-10-06T17:03:35.588Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "4mjXPWPkWo8",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "How this data scientist is using AI to help 130,000 AT&T employees",
+      "published": "2026-10-06T16:30:18+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4mjXPWPkWo8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4mjXPWPkWo8"
+    },
+    {
+      "videoId": "DWoO0PowIuk",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "climate scientist breaks down biology in the Everglades",
+      "published": "2026-10-06T16:11:54+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/DWoO0PowIuk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DWoO0PowIuk"
+    },
+    {
+      "videoId": "v0d-7DOxUNU",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "The NVIDIA GTC Berlin keynote is almost here.",
+      "published": "2026-10-06T13:36:55+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/v0d-7DOxUNU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=v0d-7DOxUNU"
+    },
+    {
+      "videoId": "vCiOLi-NDic",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Turn notes into quizzes with Google Search 📝",
+      "published": "2026-10-06T13:14:55+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vCiOLi-NDic/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vCiOLi-NDic"
+    },
+    {
+      "videoId": "q0_JXcrx3jk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Building a custom website to stay on top of business with ChatGPT",
+      "published": "2026-10-06T00:36:28+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/q0_JXcrx3jk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=q0_JXcrx3jk"
+    },
+    {
+      "videoId": "PUBc2G0Tj5E",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Meet the New Codex CLI",
+      "published": "2026-10-05T18:29:08+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/PUBc2G0Tj5E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PUBc2G0Tj5E"
+    },
     {
       "videoId": "UxOQ2qyY6Qo",
       "leaderId": "jensen-huang",
@@ -498,17 +564,6 @@
       "url": "https://www.youtube.com/watch?v=wL8AWEpK8-c"
     },
     {
-      "videoId": "vsUCLKo206A",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "All the AI glasses we just dropped",
-      "published": "2026-09-24T22:38:27+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/vsUCLKo206A/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vsUCLKo206A"
-    },
-    {
       "videoId": "AIH_9dOpAmU",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -641,28 +696,6 @@
       "url": "https://www.youtube.com/watch?v=rRm3Vnb7UPY"
     },
     {
-      "videoId": "p7TjXroM4ak",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "One Prompt. A Feature Built and Tested. | Ramp × GPT-6 Astra",
-      "published": "2026-09-21T19:22:03+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/p7TjXroM4ak/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=p7TjXroM4ak"
-    },
-    {
-      "videoId": "dtNlpZI86Dk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "“A Staff Engineer Collaborator” | Notion’s First Look at GPT-6 Astra",
-      "published": "2026-09-21T19:17:35+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/dtNlpZI86Dk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=dtNlpZI86Dk"
-    },
-    {
       "videoId": "EthkNLasUa8",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -716,17 +749,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/ehDCT62U-IA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ehDCT62U-IA"
-    },
-    {
-      "videoId": "RuXF7ck32b8",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Advancing Infrastructure for the Era of Agentic AI | Ian Buck at AI Infra Summit 2026",
-      "published": "2026-09-16T22:24:54+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/RuXF7ck32b8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=RuXF7ck32b8"
     },
     {
       "videoId": "HuGAiGfKqW0",
@@ -905,17 +927,6 @@
       "url": "https://www.youtube.com/watch?v=bpPJbRjIpxg"
     },
     {
-      "videoId": "rPq7ITrWFvY",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "The latest updates to Google Translate",
-      "published": "2026-09-04T16:30:43+00:00",
-      "source": "Google",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/rPq7ITrWFvY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rPq7ITrWFvY"
-    },
-    {
       "videoId": "grdt05okn3Q",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -991,28 +1002,6 @@
       "type": "Speech",
       "thumb": "https://i.ytimg.com/vi/3_sQZRkwU2g/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3_sQZRkwU2g"
-    },
-    {
-      "videoId": "tMhp4-ylrdE",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Tesla Cathode Factory",
-      "published": "2026-08-21T20:40:28+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/tMhp4-ylrdE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tMhp4-ylrdE"
-    },
-    {
-      "videoId": "O_Ndcx1LArU",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "BAMF",
-      "published": "2026-08-20T18:43:27+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/O_Ndcx1LArU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=O_Ndcx1LArU"
     }
   ],
   "warnings": [
