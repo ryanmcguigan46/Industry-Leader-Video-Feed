@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T17:03:35.588Z",
+  "generatedAt": "2026-10-07T17:41:27.325Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,61 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "DmCaBWv5yG8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Production Monitoring with Codex: Grafana, Kubernetes, & Security",
+      "published": "2026-10-07T14:57:47+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/DmCaBWv5yG8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DmCaBWv5yG8"
+    },
+    {
+      "videoId": "N5kTmoCKbe0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "R&D Part 2",
+      "published": "2026-10-07T13:01:57+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/N5kTmoCKbe0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N5kTmoCKbe0"
+    },
+    {
+      "videoId": "FB6oCmrIj-Y",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Introducing the Decisions API",
+      "published": "2026-10-06T21:33:36+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/FB6oCmrIj-Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FB6oCmrIj-Y"
+    },
+    {
+      "videoId": "cAMjVquiEL0",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "How AI gives her more time to focus on people",
+      "published": "2026-10-06T19:30:30+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/cAMjVquiEL0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cAMjVquiEL0"
+    },
+    {
+      "videoId": "4XZzjY4X13A",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA RTX Spark | Made to Create",
+      "published": "2026-10-06T19:01:19+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4XZzjY4X13A/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4XZzjY4X13A"
+    },
     {
       "videoId": "4mjXPWPkWo8",
       "leaderId": "satya-nadella",
@@ -608,17 +663,6 @@
       "url": "https://www.youtube.com/watch?v=o1JK79jszqo"
     },
     {
-      "videoId": "rmDu2sSBIrw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Today’s forecast? Nothing but 80s, baby.",
-      "published": "2026-09-23T18:48:52+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/rmDu2sSBIrw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rmDu2sSBIrw"
-    },
-    {
       "videoId": "hirhw-LZL6M",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -628,17 +672,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/hirhw-LZL6M/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hirhw-LZL6M"
-    },
-    {
-      "videoId": "96ogPwN9ykM",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Get Stuff Done with ChatGPT Voice",
-      "published": "2026-09-23T17:11:13+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/96ogPwN9ykM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=96ogPwN9ykM"
     },
     {
       "videoId": "vFXpC3GOe0E",
@@ -685,17 +718,6 @@
       "url": "https://www.youtube.com/watch?v=P7ICr5WAZUE"
     },
     {
-      "videoId": "rRm3Vnb7UPY",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Figma Gave GPT-6 Astra a Moonshot. Here's what happened.",
-      "published": "2026-09-21T19:25:46+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/rRm3Vnb7UPY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rRm3Vnb7UPY"
-    },
-    {
       "videoId": "EthkNLasUa8",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -738,17 +760,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/cr61seCie_c/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=cr61seCie_c"
-    },
-    {
-      "videoId": "ehDCT62U-IA",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "AI-RAN: 5 Things to Know",
-      "published": "2026-09-17T16:39:53+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ehDCT62U-IA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ehDCT62U-IA"
     },
     {
       "videoId": "HuGAiGfKqW0",
