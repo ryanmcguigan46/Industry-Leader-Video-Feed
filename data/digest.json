@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T17:41:27.325Z",
+  "generatedAt": "2026-10-08T17:45:48.493Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,15 +47,158 @@
   ],
   "videos": [
     {
-      "videoId": "DmCaBWv5yG8",
+      "videoId": "MSf34rqZxbU",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "How big is space really? 🤔",
+      "published": "2026-10-08T16:22:05+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/MSf34rqZxbU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MSf34rqZxbU"
+    },
+    {
+      "videoId": "IsL4dVezs18",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
-      "title": "Production Monitoring with Codex: Grafana, Kubernetes, & Security",
-      "published": "2026-10-07T14:57:47+00:00",
+      "title": "Introducing GPT-6 in ChatGPT with Intelligent UI",
+      "published": "2026-10-07T21:55:41+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/IsL4dVezs18/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IsL4dVezs18"
+    },
+    {
+      "videoId": "LiNhqbetrbU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Build Plugins for ChatGPT",
+      "published": "2026-10-07T21:34:02+00:00",
       "source": "OpenAI",
       "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/DmCaBWv5yG8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DmCaBWv5yG8"
+      "thumb": "https://i.ytimg.com/vi/LiNhqbetrbU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LiNhqbetrbU"
+    },
+    {
+      "videoId": "_nmlHbSB8kM",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Stop Overpaying for Intelligence | DevDay 2026",
+      "published": "2026-10-07T21:10:51+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/_nmlHbSB8kM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_nmlHbSB8kM"
+    },
+    {
+      "videoId": "3glzJZ-_qB8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Stack Overflow - From Idea to Product | DevDay 2026",
+      "published": "2026-10-07T21:10:48+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/3glzJZ-_qB8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3glzJZ-_qB8"
+    },
+    {
+      "videoId": "8804JYm81cc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Higgsfield - Building Agents That Provision Their Own Compute | DevDay 2026",
+      "published": "2026-10-07T21:10:48+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/8804JYm81cc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8804JYm81cc"
+    },
+    {
+      "videoId": "SXCfs7mitPo",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How OpenAI Puts ChatGPT to Work | DevDay 2026",
+      "published": "2026-10-07T21:10:48+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/SXCfs7mitPo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SXCfs7mitPo"
+    },
+    {
+      "videoId": "XkKdbPhIvbY",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Codex Has Left The Laptop | DevDay 2026",
+      "published": "2026-10-07T21:10:48+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/XkKdbPhIvbY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XkKdbPhIvbY"
+    },
+    {
+      "videoId": "aDTPTwnrRyA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "From Single Player to Multiplayer with Codex | DevDay 2026",
+      "published": "2026-10-07T21:10:48+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/aDTPTwnrRyA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aDTPTwnrRyA"
+    },
+    {
+      "videoId": "bQ3-pXCpCTg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Qodo - The Last Human Code Review | DevDay 2026",
+      "published": "2026-10-07T21:10:48+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/bQ3-pXCpCTg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bQ3-pXCpCTg"
+    },
+    {
+      "videoId": "wZYnJfL4c2Y",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ClawLabs: Building Open Source Together | DevDay 2026",
+      "published": "2026-10-07T21:10:48+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/wZYnJfL4c2Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=wZYnJfL4c2Y"
+    },
+    {
+      "videoId": "ZcDFZzsp3_Y",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Build custom site annotations with ChatGPT",
+      "published": "2026-10-07T19:36:26+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ZcDFZzsp3_Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZcDFZzsp3_Y"
+    },
+    {
+      "videoId": "bZjsD89p5mo",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Halloween Mode | Tesla",
+      "published": "2026-10-07T18:20:16+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/bZjsD89p5mo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bZjsD89p5mo"
+    },
+    {
+      "videoId": "XxHfJRnUG24",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "The new Jaguar Type 01, powered by NVIDIA.",
+      "published": "2026-10-07T17:54:24+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/XxHfJRnUG24/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XxHfJRnUG24"
     },
     {
       "videoId": "N5kTmoCKbe0",
@@ -190,17 +333,6 @@
       "url": "https://www.youtube.com/watch?v=3SsXy3Mp_iM"
     },
     {
-      "videoId": "fHEIw5CcN5U",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "The dots demo, take two | OpenAI DevDay 2026",
-      "published": "2026-10-01T17:20:52+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/fHEIw5CcN5U/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=fHEIw5CcN5U"
-    },
-    {
       "videoId": "DgdCQ38Qitw",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -289,61 +421,6 @@
       "url": "https://www.youtube.com/watch?v=mFv4VRoFj-k"
     },
     {
-      "videoId": "sKltfHvsDQM",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build faster with Ultrafast",
-      "published": "2026-09-29T18:47:34+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/sKltfHvsDQM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sKltfHvsDQM"
-    },
-    {
-      "videoId": "Fls_onRviPM",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "OpenAI DevDay 2026 Keynote (FULL)",
-      "published": "2026-09-29T18:42:29+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/Fls_onRviPM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Fls_onRviPM"
-    },
-    {
-      "videoId": "7Bv68f5szSU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Meet the all new Codex Cloud",
-      "published": "2026-09-29T18:18:13+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/7Bv68f5szSU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=7Bv68f5szSU"
-    },
-    {
-      "videoId": "uXspbC2srEQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Introducing dots, always-on agents built to handle everything.",
-      "published": "2026-09-29T18:04:41+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/uXspbC2srEQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=uXspbC2srEQ"
-    },
-    {
-      "videoId": "m8VkCbkFAKA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Meet the builders of our time - the Codex Originals.",
-      "published": "2026-09-29T17:00:15+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/m8VkCbkFAKA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=m8VkCbkFAKA"
-    },
-    {
       "videoId": "KO2bNK9L7WA",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -377,28 +454,6 @@
       "url": "https://www.youtube.com/watch?v=aSV48uAywcg"
     },
     {
-      "videoId": "a75xDflRooI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "The Defender's Window at enterprise scale with Standard Chartered",
-      "published": "2026-09-29T10:01:43+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/a75xDflRooI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=a75xDflRooI"
-    },
-    {
-      "videoId": "zoohZ1BiHs0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Building the partner ecosystem with Sophos",
-      "published": "2026-09-29T10:00:28+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/zoohZ1BiHs0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=zoohZ1BiHs0"
-    },
-    {
       "videoId": "Xr-EDQ5w-DI",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -408,17 +463,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Xr-EDQ5w-DI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Xr-EDQ5w-DI"
-    },
-    {
-      "videoId": "6wNqpZdHE_s",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "GPT-6 Astra in practice: Turning ideas into projects",
-      "published": "2026-09-28T18:05:42+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/6wNqpZdHE_s/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6wNqpZdHE_s"
     },
     {
       "videoId": "_fTT7TEOBH8",
@@ -441,17 +485,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/8NPgswgbTnE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=8NPgswgbTnE"
-    },
-    {
-      "videoId": "3jDhHA9JGUE",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "The Defender's Window: Cyber security keynote",
-      "published": "2026-09-28T13:29:06+00:00",
-      "source": "OpenAI",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/3jDhHA9JGUE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3jDhHA9JGUE"
     },
     {
       "videoId": "MfToE6Umn1w",
@@ -751,17 +784,6 @@
       "url": "https://www.youtube.com/watch?v=1WLqGs7c_yA"
     },
     {
-      "videoId": "cr61seCie_c",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Build Custom AI Infrastructure with NVIDIA NVLink Fusion",
-      "published": "2026-09-17T17:51:28+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/cr61seCie_c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cr61seCie_c"
-    },
-    {
       "videoId": "HuGAiGfKqW0",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -771,17 +793,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/HuGAiGfKqW0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=HuGAiGfKqW0"
-    },
-    {
-      "videoId": "x0692zj9jsI",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "What a NASA astronaut can teach us about discovery and exploration | Christina Koch & James Manyika",
-      "published": "2026-09-14T20:30:48+00:00",
-      "source": "Google",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/x0692zj9jsI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=x0692zj9jsI"
     },
     {
       "videoId": "fdq3aYCVIL0",
@@ -1002,17 +1013,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/3zrMcVRZKFA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3zrMcVRZKFA"
-    },
-    {
-      "videoId": "3_sQZRkwU2g",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "This company has more AI agents than employees",
-      "published": "2026-08-24T16:00:12+00:00",
-      "source": "Microsoft",
-      "type": "Speech",
-      "thumb": "https://i.ytimg.com/vi/3_sQZRkwU2g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3_sQZRkwU2g"
     }
   ],
   "warnings": [
