@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T17:45:48.493Z",
+  "generatedAt": "2026-10-09T17:21:39.466Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,127 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "enPbh_A5F7E",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Building the Codex community",
+      "published": "2026-10-09T17:00:34+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/enPbh_A5F7E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=enPbh_A5F7E"
+    },
+    {
+      "videoId": "VFiWYLSQNP4",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Guess who’s #1 ... again 🏆",
+      "published": "2026-10-09T15:00:20+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/VFiWYLSQNP4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VFiWYLSQNP4"
+    },
+    {
+      "videoId": "MUHjyljBPHI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Sophos cuts threat response time by 96% with OpenAI Daybreak",
+      "published": "2026-10-09T08:37:55+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/MUHjyljBPHI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MUHjyljBPHI"
+    },
+    {
+      "videoId": "RQfg-zo4R-g",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Production Monitoring with Codex: Grafana, Kubernetes, & Security",
+      "published": "2026-10-08T21:35:18+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/RQfg-zo4R-g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RQfg-zo4R-g"
+    },
+    {
+      "videoId": "lV8uKhScdyM",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "The Challenges of Change at Scale #StanfordGSB #ViewFromtheTop",
+      "published": "2026-10-08T20:17:54+00:00",
+      "source": "Stanford GSB",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/lV8uKhScdyM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lV8uKhScdyM"
+    },
+    {
+      "videoId": "OgjMGn4T6Ok",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "More visual answers from GPT-6 with Intelligent UI",
+      "published": "2026-10-08T17:46:54+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/OgjMGn4T6Ok/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OgjMGn4T6Ok"
+    },
+    {
+      "videoId": "Rs5qLAnkNcI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Oracle Uses ChatGPT Work to Transform Recruitment",
+      "published": "2026-10-08T17:43:05+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Rs5qLAnkNcI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Rs5qLAnkNcI"
+    },
+    {
+      "videoId": "Wv0PRPMzkJg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Get a more visual answer from GPT-6 with Intelligent UI",
+      "published": "2026-10-08T17:41:31+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Wv0PRPMzkJg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Wv0PRPMzkJg"
+    },
+    {
+      "videoId": "BHQF1xl2ScU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Play a game against GPT-6 with Intelligent UI",
+      "published": "2026-10-08T17:40:12+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/BHQF1xl2ScU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BHQF1xl2ScU"
+    },
+    {
+      "videoId": "Mm3EsJL73tM",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Oracle Uses ChatGPT Work to Transform Recruitment",
+      "published": "2026-10-08T17:38:00+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Mm3EsJL73tM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Mm3EsJL73tM"
+    },
+    {
+      "videoId": "qmOOspYLhzg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Make a game using GPT-6 with Intelligent UI",
+      "published": "2026-10-08T17:37:43+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/qmOOspYLhzg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qmOOspYLhzg"
+    },
     {
       "videoId": "MSf34rqZxbU",
       "leaderId": "sundar-pichai",
@@ -124,61 +245,6 @@
       "url": "https://www.youtube.com/watch?v=SXCfs7mitPo"
     },
     {
-      "videoId": "XkKdbPhIvbY",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Codex Has Left The Laptop | DevDay 2026",
-      "published": "2026-10-07T21:10:48+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/XkKdbPhIvbY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XkKdbPhIvbY"
-    },
-    {
-      "videoId": "aDTPTwnrRyA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "From Single Player to Multiplayer with Codex | DevDay 2026",
-      "published": "2026-10-07T21:10:48+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/aDTPTwnrRyA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=aDTPTwnrRyA"
-    },
-    {
-      "videoId": "bQ3-pXCpCTg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Qodo - The Last Human Code Review | DevDay 2026",
-      "published": "2026-10-07T21:10:48+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/bQ3-pXCpCTg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=bQ3-pXCpCTg"
-    },
-    {
-      "videoId": "wZYnJfL4c2Y",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ClawLabs: Building Open Source Together | DevDay 2026",
-      "published": "2026-10-07T21:10:48+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/wZYnJfL4c2Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wZYnJfL4c2Y"
-    },
-    {
-      "videoId": "ZcDFZzsp3_Y",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build custom site annotations with ChatGPT",
-      "published": "2026-10-07T19:36:26+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ZcDFZzsp3_Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZcDFZzsp3_Y"
-    },
-    {
       "videoId": "bZjsD89p5mo",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -199,28 +265,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/XxHfJRnUG24/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=XxHfJRnUG24"
-    },
-    {
-      "videoId": "N5kTmoCKbe0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "R&D Part 2",
-      "published": "2026-10-07T13:01:57+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/N5kTmoCKbe0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=N5kTmoCKbe0"
-    },
-    {
-      "videoId": "FB6oCmrIj-Y",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Introducing the Decisions API",
-      "published": "2026-10-06T21:33:36+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/FB6oCmrIj-Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=FB6oCmrIj-Y"
     },
     {
       "videoId": "cAMjVquiEL0",
@@ -287,28 +331,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/vCiOLi-NDic/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=vCiOLi-NDic"
-    },
-    {
-      "videoId": "q0_JXcrx3jk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Building a custom website to stay on top of business with ChatGPT",
-      "published": "2026-10-06T00:36:28+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/q0_JXcrx3jk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=q0_JXcrx3jk"
-    },
-    {
-      "videoId": "PUBc2G0Tj5E",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Meet the New Codex CLI",
-      "published": "2026-10-05T18:29:08+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/PUBc2G0Tj5E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PUBc2G0Tj5E"
     },
     {
       "videoId": "UxOQ2qyY6Qo",
@@ -784,17 +806,6 @@
       "url": "https://www.youtube.com/watch?v=1WLqGs7c_yA"
     },
     {
-      "videoId": "HuGAiGfKqW0",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Why this college professor is embracing AI",
-      "published": "2026-09-15T20:41:12+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/HuGAiGfKqW0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=HuGAiGfKqW0"
-    },
-    {
       "videoId": "fdq3aYCVIL0",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -991,28 +1002,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/J-3FSw6Upqs/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=J-3FSw6Upqs"
-    },
-    {
-      "videoId": "32C0_8_296k",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Deploying Megapack At Scale",
-      "published": "2026-08-25T17:06:56+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/32C0_8_296k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=32C0_8_296k"
-    },
-    {
-      "videoId": "3zrMcVRZKFA",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "The AI skill everyone should have",
-      "published": "2026-08-24T20:00:10+00:00",
-      "source": "Microsoft",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/3zrMcVRZKFA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3zrMcVRZKFA"
     }
   ],
   "warnings": [
