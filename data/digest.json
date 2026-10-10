@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T17:21:39.466Z",
+  "generatedAt": "2026-10-10T16:07:42.491Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "58MTEgSmLB4",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Supporting Clinicians With AI | Wenyi Zhu, Founder of Kuddo Health",
+      "published": "2026-10-10T15:24:00+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/58MTEgSmLB4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=58MTEgSmLB4"
+    },
+    {
+      "videoId": "p5KxBTUncoE",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Set up your dot in the ChatGPT mobile app",
+      "published": "2026-10-09T19:13:03+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/p5KxBTUncoE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=p5KxBTUncoE"
+    },
     {
       "videoId": "enPbh_A5F7E",
       "leaderId": "sam-altman",
@@ -232,17 +254,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/8804JYm81cc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=8804JYm81cc"
-    },
-    {
-      "videoId": "SXCfs7mitPo",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How OpenAI Puts ChatGPT to Work | DevDay 2026",
-      "published": "2026-10-07T21:10:48+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/SXCfs7mitPo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=SXCfs7mitPo"
     },
     {
       "videoId": "bZjsD89p5mo",
@@ -782,17 +793,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/EthkNLasUa8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=EthkNLasUa8"
-    },
-    {
-      "videoId": "wgd9C8JYZEM",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Why the AI Ecosystem Builds on NVIDIA - Jensen Huang at the All-In Summit",
-      "published": "2026-09-18T16:07:31+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/wgd9C8JYZEM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wgd9C8JYZEM"
     },
     {
       "videoId": "1WLqGs7c_yA",
