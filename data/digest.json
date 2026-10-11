@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T16:07:42.491Z",
+  "generatedAt": "2026-10-11T16:34:29.724Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "nM21x3FFlPE",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Your Spark, Your Story: Allyson Vasquez | NVIDIA RTX Spark",
+      "published": "2026-10-11T16:00:11+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/nM21x3FFlPE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nM21x3FFlPE"
+    },
+    {
+      "videoId": "UGjOg3VRC7s",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Berlin’s TV Tower Glows Green for NVIDIA GTC Berlin",
+      "published": "2026-10-11T13:09:06+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/UGjOg3VRC7s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UGjOg3VRC7s"
+    },
+    {
+      "videoId": "Ju-JyxDgV7g",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
+      "published": "2026-10-10T21:40:25+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Ju-JyxDgV7g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ju-JyxDgV7g"
+    },
     {
       "videoId": "58MTEgSmLB4",
       "leaderId": "jensen-huang",
@@ -243,17 +276,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/3glzJZ-_qB8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3glzJZ-_qB8"
-    },
-    {
-      "videoId": "8804JYm81cc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Higgsfield - Building Agents That Provision Their Own Compute | DevDay 2026",
-      "published": "2026-10-07T21:10:48+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/8804JYm81cc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8804JYm81cc"
     },
     {
       "videoId": "bZjsD89p5mo",
@@ -740,17 +762,6 @@
       "url": "https://www.youtube.com/watch?v=hirhw-LZL6M"
     },
     {
-      "videoId": "vFXpC3GOe0E",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "We got @unsloth a DGX Station!",
-      "published": "2026-09-23T16:00:18+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/vFXpC3GOe0E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vFXpC3GOe0E"
-    },
-    {
       "videoId": "c43tABiPIyQ",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -760,17 +771,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/c43tABiPIyQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=c43tABiPIyQ"
-    },
-    {
-      "videoId": "fZ10JtLAoOc",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How businesses can use AI and keep their data private",
-      "published": "2026-09-22T19:31:08+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/fZ10JtLAoOc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=fZ10JtLAoOc"
     },
     {
       "videoId": "P7ICr5WAZUE",
@@ -991,17 +991,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/9D1FnEJ4_HU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=9D1FnEJ4_HU"
-    },
-    {
-      "videoId": "J-3FSw6Upqs",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Tech, labor, and token costs: the new AI math",
-      "published": "2026-08-26T20:00:32+00:00",
-      "source": "Microsoft",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/J-3FSw6Upqs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=J-3FSw6Upqs"
     }
   ],
   "warnings": [
