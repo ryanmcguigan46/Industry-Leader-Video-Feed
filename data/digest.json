@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T16:34:29.724Z",
+  "generatedAt": "2026-10-12T20:09:31.910Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,61 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "iUr53gDq380",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Safari Helps Keep Distractions Hidden",
+      "published": "2026-10-12T19:25:32+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/iUr53gDq380/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iUr53gDq380"
+    },
+    {
+      "videoId": "a110BjghioM",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Safari Helps Keep Trackers Away",
+      "published": "2026-10-12T19:25:26+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/a110BjghioM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=a110BjghioM"
+    },
+    {
+      "videoId": "7yjzv6Ize4U",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "A new beginning for Windows PCs deserves a global celebration.",
+      "published": "2026-10-12T18:16:02+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/7yjzv6Ize4U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7yjzv6Ize4U"
+    },
+    {
+      "videoId": "S0bSWTBtTD8",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Apple Vision Pro: Remnants Real Life Reactions",
+      "published": "2026-10-12T17:01:49+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/S0bSWTBtTD8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=S0bSWTBtTD8"
+    },
+    {
+      "videoId": "IZXv6a78NDw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Code review shouldn't be the bottleneck",
+      "published": "2026-10-12T16:00:08+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/IZXv6a78NDw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IZXv6a78NDw"
+    },
     {
       "videoId": "nM21x3FFlPE",
       "leaderId": "jensen-huang",
@@ -265,17 +320,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/_nmlHbSB8kM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_nmlHbSB8kM"
-    },
-    {
-      "videoId": "3glzJZ-_qB8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Stack Overflow - From Idea to Product | DevDay 2026",
-      "published": "2026-10-07T21:10:48+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/3glzJZ-_qB8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3glzJZ-_qB8"
     },
     {
       "videoId": "bZjsD89p5mo",
@@ -751,17 +795,6 @@
       "url": "https://www.youtube.com/watch?v=o1JK79jszqo"
     },
     {
-      "videoId": "hirhw-LZL6M",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA CEO Jensen Huang on The Ezra Klein Show",
-      "published": "2026-09-23T18:03:25+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/hirhw-LZL6M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hirhw-LZL6M"
-    },
-    {
       "videoId": "c43tABiPIyQ",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -916,39 +949,6 @@
       "url": "https://www.youtube.com/watch?v=MO9HJsUxEEk"
     },
     {
-      "videoId": "3fAHjTPvF1E",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Apple Event September ’26: Recapping announcements of iPhone Duo, iPhone 18 Pro, and more",
-      "published": "2026-09-09T18:42:25+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/3fAHjTPvF1E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3fAHjTPvF1E"
-    },
-    {
-      "videoId": "Q3zwkxqh1t0",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Introducing the new iPhone 18 Pro",
-      "published": "2026-09-09T18:41:02+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/Q3zwkxqh1t0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Q3zwkxqh1t0"
-    },
-    {
-      "videoId": "FUfGcZ092b0",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Introducing the new iPhone Duo",
-      "published": "2026-09-09T18:33:34+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/FUfGcZ092b0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=FUfGcZ092b0"
-    },
-    {
       "videoId": "bpPJbRjIpxg",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -969,28 +969,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/grdt05okn3Q/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=grdt05okn3Q"
-    },
-    {
-      "videoId": "qAQTJKZrEeM",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "2,000 people. One team. | Microsoft x Mercedes-AMG PETRONAS F1",
-      "published": "2026-08-28T20:01:17+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/qAQTJKZrEeM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qAQTJKZrEeM"
-    },
-    {
-      "videoId": "9D1FnEJ4_HU",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Pet Mode keeps your dog chillin’",
-      "published": "2026-08-27T20:39:28+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/9D1FnEJ4_HU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9D1FnEJ4_HU"
     }
   ],
   "warnings": [
