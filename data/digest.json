@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T20:09:31.910Z",
+  "generatedAt": "2026-10-13T17:59:33.922Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,116 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "To27EtSUGbM",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Jensen Huang speaks to media in Paris about NVIDIA OpenShell.",
+      "published": "2026-10-13T17:43:38+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/To27EtSUGbM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=To27EtSUGbM"
+    },
+    {
+      "videoId": "N1fhLtHmJ1I",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Reel of the Week | Surreal Instagram Illustrator",
+      "published": "2026-10-13T16:04:23+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/N1fhLtHmJ1I/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N1fhLtHmJ1I"
+    },
+    {
+      "videoId": "TD0bImyg_IM",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Ride out this sticker storm in style",
+      "published": "2026-10-13T15:47:28+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/TD0bImyg_IM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=TD0bImyg_IM"
+    },
+    {
+      "videoId": "kWqHXMkfKE0",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "A little something from Jensen Huang ✍️",
+      "published": "2026-10-13T14:58:03+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/kWqHXMkfKE0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kWqHXMkfKE0"
+    },
+    {
+      "videoId": "QeQAXuQpGEA",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "The new Apple HomeView: Keep the whole home connected, entertained, and in the know.",
+      "published": "2026-10-13T13:29:22+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/QeQAXuQpGEA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QeQAXuQpGEA"
+    },
+    {
+      "videoId": "bNdmGYamiWM",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "The new Apple TV 4K: The ultimate cinematic experience.",
+      "published": "2026-10-13T13:23:03+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/bNdmGYamiWM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bNdmGYamiWM"
+    },
+    {
+      "videoId": "xLL4UnrLNWs",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "The new HomePod mini 2: Rich, room-filling sound in a compact design.",
+      "published": "2026-10-13T13:16:22+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/xLL4UnrLNWs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xLL4UnrLNWs"
+    },
+    {
+      "videoId": "hkrYiZ_g9tw",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Welcome Apple HomeView: Designed for life at home.",
+      "published": "2026-10-13T13:12:01+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/hkrYiZ_g9tw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hkrYiZ_g9tw"
+    },
+    {
+      "videoId": "cT8z64yfh3w",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "The Road to GTC Berlin: Build-a-Claw in Barcelona",
+      "published": "2026-10-13T13:11:11+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/cT8z64yfh3w/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cT8z64yfh3w"
+    },
+    {
+      "videoId": "ygMpRRrk6Q8",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "The NVIDIA GTC pregame show is back.",
+      "published": "2026-10-12T20:02:17+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/ygMpRRrk6Q8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ygMpRRrk6Q8"
+    },
     {
       "videoId": "iUr53gDq380",
       "leaderId": "tim-cook",
@@ -94,7 +204,7 @@
       "videoId": "IZXv6a78NDw",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
-      "title": "Code review shouldn't be the bottleneck",
+      "title": "Code review is no longer the bottleneck",
       "published": "2026-10-12T16:00:08+00:00",
       "source": "OpenAI",
       "type": "Talk",
@@ -311,17 +421,6 @@
       "url": "https://www.youtube.com/watch?v=LiNhqbetrbU"
     },
     {
-      "videoId": "_nmlHbSB8kM",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Stop Overpaying for Intelligence | DevDay 2026",
-      "published": "2026-10-07T21:10:51+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/_nmlHbSB8kM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_nmlHbSB8kM"
-    },
-    {
       "videoId": "bZjsD89p5mo",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -476,17 +575,6 @@
       "url": "https://www.youtube.com/watch?v=UPmU8AG_548"
     },
     {
-      "videoId": "vmAIpEHrCok",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA DOCA Skills vs No Skills: Building RDMA on NVIDIA BlueField-3 with Fewer Commands & Less Code",
-      "published": "2026-09-30T19:09:36+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/vmAIpEHrCok/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vmAIpEHrCok"
-    },
-    {
       "videoId": "X2duObJWK5k",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -507,17 +595,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/ktdbUIZKeSE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ktdbUIZKeSE"
-    },
-    {
-      "videoId": "mFv4VRoFj-k",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Vertically Integrated, Horizontally Open | AI Factory Insider Ep 5",
-      "published": "2026-09-29T19:00:28+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/mFv4VRoFj-k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mFv4VRoFj-k"
     },
     {
       "videoId": "KO2bNK9L7WA",
@@ -740,28 +817,6 @@
       "url": "https://www.youtube.com/watch?v=rOJgyaH23OE"
     },
     {
-      "videoId": "wL8AWEpK8-c",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "From Sketch to Scale: How Our Teams Built Meta VR Glasses",
-      "published": "2026-09-24T23:40:18+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/wL8AWEpK8-c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wL8AWEpK8-c"
-    },
-    {
-      "videoId": "AIH_9dOpAmU",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "10 Years of NVIDIA DGX",
-      "published": "2026-09-24T17:49:58+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/AIH_9dOpAmU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=AIH_9dOpAmU"
-    },
-    {
       "videoId": "mHXELsEResE",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -771,17 +826,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/mHXELsEResE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=mHXELsEResE"
-    },
-    {
-      "videoId": "xAgq8ByWK0M",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "10 Years of NVIDIA DGX: From One System to AI Factories",
-      "published": "2026-09-24T16:00:27+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/xAgq8ByWK0M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xAgq8ByWK0M"
     },
     {
       "videoId": "o1JK79jszqo",
@@ -903,50 +947,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/DDnNc60onT4/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=DDnNc60onT4"
-    },
-    {
-      "videoId": "bxSGfpoFP30",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "iPhone Duo: The largest display of any iPhone. Foldable. Posable. And durable.",
-      "published": "2026-09-09T19:00:59+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/bxSGfpoFP30/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=bxSGfpoFP30"
-    },
-    {
-      "videoId": "YUPRm0vJAtA",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "New Apple Watch Series 12: The most accurate heart rate sensing in a wearable",
-      "published": "2026-09-09T18:54:11+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/YUPRm0vJAtA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YUPRm0vJAtA"
-    },
-    {
-      "videoId": "ZldS1ZXpPHE",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "New AirPods 5: Everything announced about the best Active Noise Cancellation in an open-ear design",
-      "published": "2026-09-09T18:52:25+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/ZldS1ZXpPHE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZldS1ZXpPHE"
-    },
-    {
-      "videoId": "MO9HJsUxEEk",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Introducing the new Apple Watch Series 12: the most accurate heart rate sensing in a wearable",
-      "published": "2026-09-09T18:44:45+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/MO9HJsUxEEk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MO9HJsUxEEk"
     },
     {
       "videoId": "bpPJbRjIpxg",
