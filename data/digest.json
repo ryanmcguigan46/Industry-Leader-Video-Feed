@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T17:59:33.922Z",
+  "generatedAt": "2026-10-14T15:43:25.702Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,83 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "roVDIuW_6HI",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Join the RTX Spark Global Launch Celebration",
+      "published": "2026-10-14T14:58:44+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/roVDIuW_6HI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=roVDIuW_6HI"
+    },
+    {
+      "videoId": "DTcK95TAZ-k",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
+      "published": "2026-10-14T09:35:27+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/DTcK95TAZ-k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DTcK95TAZ-k"
+    },
+    {
+      "videoId": "FGCP2F_7rQk",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "published": "2026-10-13T21:26:16+00:00",
+      "source": "Lex Fridman",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk"
+    },
+    {
+      "videoId": "G-9Y2xNiDKQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Work with your team in ChatGPT Space",
+      "published": "2026-10-13T21:01:10+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/G-9Y2xNiDKQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=G-9Y2xNiDKQ"
+    },
+    {
+      "videoId": "_KhlazpW9d8",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "You just have to get started.",
+      "published": "2026-10-13T20:00:33+00:00",
+      "source": "a16z",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/_KhlazpW9d8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_KhlazpW9d8"
+    },
+    {
+      "videoId": "9aDuSpVoB-Y",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Block on Finding and Fixing Security Risks with OpenAI",
+      "published": "2026-10-13T18:02:20+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/9aDuSpVoB-Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9aDuSpVoB-Y"
+    },
+    {
+      "videoId": "N6K_pxaAh0w",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Block on Finding and Fixing Security Risks with OpenAI",
+      "published": "2026-10-13T17:59:33+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/N6K_pxaAh0w/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N6K_pxaAh0w"
+    },
     {
       "videoId": "To27EtSUGbM",
       "leaderId": "jensen-huang",
@@ -366,28 +443,6 @@
       "url": "https://www.youtube.com/watch?v=BHQF1xl2ScU"
     },
     {
-      "videoId": "Mm3EsJL73tM",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Oracle Uses ChatGPT Work to Transform Recruitment",
-      "published": "2026-10-08T17:38:00+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Mm3EsJL73tM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Mm3EsJL73tM"
-    },
-    {
-      "videoId": "qmOOspYLhzg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Make a game using GPT-6 with Intelligent UI",
-      "published": "2026-10-08T17:37:43+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/qmOOspYLhzg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qmOOspYLhzg"
-    },
-    {
       "videoId": "MSf34rqZxbU",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -397,28 +452,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/MSf34rqZxbU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=MSf34rqZxbU"
-    },
-    {
-      "videoId": "IsL4dVezs18",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Introducing GPT-6 in ChatGPT with Intelligent UI",
-      "published": "2026-10-07T21:55:41+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/IsL4dVezs18/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IsL4dVezs18"
-    },
-    {
-      "videoId": "LiNhqbetrbU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build Plugins for ChatGPT",
-      "published": "2026-10-07T21:34:02+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/LiNhqbetrbU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=LiNhqbetrbU"
     },
     {
       "videoId": "bZjsD89p5mo",
@@ -562,17 +595,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/z1t-bp9UC3E/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=z1t-bp9UC3E"
-    },
-    {
-      "videoId": "UPmU8AG_548",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Pause to pick your #NVIDIAGTC Berlin gear. 👀",
-      "published": "2026-09-30T19:30:29+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/UPmU8AG_548/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UPmU8AG_548"
     },
     {
       "videoId": "X2duObJWK5k",
