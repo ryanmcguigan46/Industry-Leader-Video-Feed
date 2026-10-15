@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T15:43:25.702Z",
+  "generatedAt": "2026-10-15T15:30:42.452Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "3IVo-MNwk2I",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
+      "published": "2026-10-15T14:13:38+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/3IVo-MNwk2I/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3IVo-MNwk2I"
+    },
+    {
+      "videoId": "BOTAeAU5ExQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Weeks to Hours: SentinelOne on Cybersecurity Research with OpenAI",
+      "published": "2026-10-15T14:12:09+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/BOTAeAU5ExQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BOTAeAU5ExQ"
+    },
+    {
+      "videoId": "mGQHufCewjc",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Cheers to the UK’s AI builders. 🇬🇧",
+      "published": "2026-10-14T21:50:16+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/mGQHufCewjc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mGQHufCewjc"
+    },
+    {
+      "videoId": "vJvFta7e76E",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "The Road to NVIDIA RTX Spark",
+      "published": "2026-10-14T19:01:02+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vJvFta7e76E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vJvFta7e76E"
+    },
+    {
+      "videoId": "PZxbaIp8PzE",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Cooking up a catering business with ChatGPT",
+      "published": "2026-10-14T17:47:37+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/PZxbaIp8PzE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PZxbaIp8PzE"
+    },
+    {
+      "videoId": "rBN0PDfJWIc",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How NVIDIA AI Is Transforming Chip Design and Manufacturing",
+      "published": "2026-10-14T16:46:00+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/rBN0PDfJWIc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rBN0PDfJWIc"
+    },
     {
       "videoId": "roVDIuW_6HI",
       "leaderId": "jensen-huang",
@@ -410,39 +476,6 @@
       "url": "https://www.youtube.com/watch?v=OgjMGn4T6Ok"
     },
     {
-      "videoId": "Rs5qLAnkNcI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Oracle Uses ChatGPT Work to Transform Recruitment",
-      "published": "2026-10-08T17:43:05+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Rs5qLAnkNcI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Rs5qLAnkNcI"
-    },
-    {
-      "videoId": "Wv0PRPMzkJg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Get a more visual answer from GPT-6 with Intelligent UI",
-      "published": "2026-10-08T17:41:31+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Wv0PRPMzkJg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Wv0PRPMzkJg"
-    },
-    {
-      "videoId": "BHQF1xl2ScU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Play a game against GPT-6 with Intelligent UI",
-      "published": "2026-10-08T17:40:12+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/BHQF1xl2ScU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=BHQF1xl2ScU"
-    },
-    {
       "videoId": "MSf34rqZxbU",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -542,17 +575,6 @@
       "url": "https://www.youtube.com/watch?v=vCiOLi-NDic"
     },
     {
-      "videoId": "UxOQ2qyY6Qo",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Accelerating No-Code Enterprise AI: Inside Simplismart’s NVIDIA Inception Journey",
-      "published": "2026-10-02T16:00:20+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/UxOQ2qyY6Qo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UxOQ2qyY6Qo"
-    },
-    {
       "videoId": "3SsXy3Mp_iM",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -573,28 +595,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/DgdCQ38Qitw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=DgdCQ38Qitw"
-    },
-    {
-      "videoId": "4VGqc9Xzx0M",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "What does “fungible” mean for AI infrastructure?",
-      "published": "2026-10-01T13:04:11+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4VGqc9Xzx0M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4VGqc9Xzx0M"
-    },
-    {
-      "videoId": "z1t-bp9UC3E",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Meet The Startup: Probabl: by the Creators of Scikit-Learn",
-      "published": "2026-10-01T11:31:39+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/z1t-bp9UC3E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=z1t-bp9UC3E"
     },
     {
       "videoId": "X2duObJWK5k",
