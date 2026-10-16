@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T15:30:42.452Z",
+  "generatedAt": "2026-10-16T15:16:16.674Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,138 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "_tsiWjmWEZ8",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA RTX Spark | A New Beginning for Windows PCs",
+      "published": "2026-10-16T11:59:06+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/_tsiWjmWEZ8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_tsiWjmWEZ8"
+    },
+    {
+      "videoId": "Zg9Q56t7bdo",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "The 0-60 | Roadster",
+      "published": "2026-10-16T05:51:07+00:00",
+      "source": "Tesla",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/Zg9Q56t7bdo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Zg9Q56t7bdo"
+    },
+    {
+      "videoId": "Uq_0kEthH3U",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "The Kickflip | Roadster",
+      "published": "2026-10-16T03:14:14+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Uq_0kEthH3U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Uq_0kEthH3U"
+    },
+    {
+      "videoId": "-yRQsurykGw",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "The Ramp | Roadster",
+      "published": "2026-10-16T03:04:38+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/-yRQsurykGw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-yRQsurykGw"
+    },
+    {
+      "videoId": "r5vsHHPVhJg",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "The Kickflip | Roadster",
+      "published": "2026-10-16T02:52:38+00:00",
+      "source": "Tesla",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/r5vsHHPVhJg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=r5vsHHPVhJg"
+    },
+    {
+      "videoId": "7p5LxFdc-Qg",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "The Ramp | Roadster",
+      "published": "2026-10-16T02:23:48+00:00",
+      "source": "Tesla",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/7p5LxFdc-Qg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7p5LxFdc-Qg"
+    },
+    {
+      "videoId": "cvKIR-c1SsU",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Roadster | The Last Best Driver's Car",
+      "published": "2026-10-16T01:34:45+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/cvKIR-c1SsU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cvKIR-c1SsU"
+    },
+    {
+      "videoId": "qt5p-_tE8d0",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Roadster Event",
+      "published": "2026-10-16T01:34:18+00:00",
+      "source": "Tesla",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/qt5p-_tE8d0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qt5p-_tE8d0"
+    },
+    {
+      "videoId": "tWuhYmpPZ0o",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "What are People Saying about NVIDIA RTX Spark?",
+      "published": "2026-10-16T00:17:45+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/tWuhYmpPZ0o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tWuhYmpPZ0o"
+    },
+    {
+      "videoId": "KJ_7KPKlO_Q",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Build more personal sites with Codex",
+      "published": "2026-10-15T20:48:59+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/KJ_7KPKlO_Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KJ_7KPKlO_Q"
+    },
+    {
+      "videoId": "GyO8Ao7yKJc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-Live-1.1 has new voices and better accents.",
+      "published": "2026-10-15T18:24:44+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/GyO8Ao7yKJc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc"
+    },
+    {
+      "videoId": "ca6EzNHSHRg",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Inside the Making of Meta VR Glasses",
+      "published": "2026-10-15T16:01:09+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ca6EzNHSHRg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ca6EzNHSHRg"
+    },
     {
       "videoId": "3IVo-MNwk2I",
       "leaderId": "sam-altman",
@@ -443,17 +575,6 @@
       "url": "https://www.youtube.com/watch?v=MUHjyljBPHI"
     },
     {
-      "videoId": "RQfg-zo4R-g",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Production Monitoring with Codex: Grafana, Kubernetes, & Security",
-      "published": "2026-10-08T21:35:18+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/RQfg-zo4R-g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=RQfg-zo4R-g"
-    },
-    {
       "videoId": "lV8uKhScdyM",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -463,17 +584,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/lV8uKhScdyM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=lV8uKhScdyM"
-    },
-    {
-      "videoId": "OgjMGn4T6Ok",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "More visual answers from GPT-6 with Intelligent UI",
-      "published": "2026-10-08T17:46:54+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/OgjMGn4T6Ok/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OgjMGn4T6Ok"
     },
     {
       "videoId": "MSf34rqZxbU",
@@ -520,17 +630,6 @@
       "url": "https://www.youtube.com/watch?v=cAMjVquiEL0"
     },
     {
-      "videoId": "4XZzjY4X13A",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA RTX Spark | Made to Create",
-      "published": "2026-10-06T19:01:19+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4XZzjY4X13A/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4XZzjY4X13A"
-    },
-    {
       "videoId": "4mjXPWPkWo8",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -551,17 +650,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/DWoO0PowIuk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=DWoO0PowIuk"
-    },
-    {
-      "videoId": "v0d-7DOxUNU",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The NVIDIA GTC Berlin keynote is almost here.",
-      "published": "2026-10-06T13:36:55+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/v0d-7DOxUNU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=v0d-7DOxUNU"
     },
     {
       "videoId": "vCiOLi-NDic",
@@ -826,17 +914,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/H_f5c3Qgatw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=H_f5c3Qgatw"
-    },
-    {
-      "videoId": "rOJgyaH23OE",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meta Connect Keynote 2026 | ASL",
-      "published": "2026-09-25T00:15:42+00:00",
-      "source": "Meta",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/rOJgyaH23OE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rOJgyaH23OE"
     },
     {
       "videoId": "mHXELsEResE",
