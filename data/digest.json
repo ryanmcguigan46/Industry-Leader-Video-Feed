@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T14:19:48.964Z",
+  "generatedAt": "2026-10-19T17:21:12.333Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,6 +47,116 @@
   ],
   "videos": [
     {
+      "videoId": "HZQAbXW_5jU",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "AI factories need to respond when the power grid needs relief.",
+      "published": "2026-10-19T16:47:40+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/HZQAbXW_5jU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HZQAbXW_5jU"
+    },
+    {
+      "videoId": "yI5C7LqBVEM",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Turn messy notes into clean PDFs with Google Search ✨",
+      "published": "2026-10-19T16:01:07+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/yI5C7LqBVEM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yI5C7LqBVEM"
+    },
+    {
+      "videoId": "7lC2N9woZy4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
+      "published": "2026-10-19T15:13:45+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/7lC2N9woZy4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7lC2N9woZy4"
+    },
+    {
+      "videoId": "ExVDpMeaWp0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
+      "published": "2026-10-19T15:07:35+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ExVDpMeaWp0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ExVDpMeaWp0"
+    },
+    {
+      "videoId": "tvejT5fN4jY",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Our CEO Jensen Huang on joining X.",
+      "published": "2026-10-19T12:09:29+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/tvejT5fN4jY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tvejT5fN4jY"
+    },
+    {
+      "videoId": "ALbuCR4uH2E",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Mark Zuckerberg's take on risk.",
+      "published": "2026-10-19T07:00:08+00:00",
+      "source": "a16z",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ALbuCR4uH2E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ALbuCR4uH2E"
+    },
+    {
+      "videoId": "mEulEkuxCnM",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "UK: This is the new ChatGPT Voice, powered by GPT Live",
+      "published": "2026-10-19T05:30:13+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/mEulEkuxCnM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mEulEkuxCnM"
+    },
+    {
+      "videoId": "xIEzjwReF2s",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Germany: This is the new ChatGPT Voice, powered by GPT Live",
+      "published": "2026-10-19T04:30:15+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/xIEzjwReF2s/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xIEzjwReF2s"
+    },
+    {
+      "videoId": "-vpwIHxkDFw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "France: This is the new ChatGPT Voice, powered by GPT Live",
+      "published": "2026-10-19T04:30:12+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/-vpwIHxkDFw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-vpwIHxkDFw"
+    },
+    {
+      "videoId": "RcEmV2BB_XE",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Who could it be? 🧐",
+      "published": "2026-10-18T15:59:32+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/RcEmV2BB_XE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RcEmV2BB_XE"
+    },
+    {
       "videoId": "lns1MoLvttU",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -83,7 +193,7 @@
       "videoId": "OMxEUdIgsQc",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
-      "title": "Put ChatGPT to work on shared team tasks",
+      "title": "How teams can automate recurring tasks with ChatGPT",
       "published": "2026-10-16T18:00:49+00:00",
       "source": "OpenAI",
       "type": "Talk",
@@ -355,17 +465,6 @@
       "url": "https://www.youtube.com/watch?v=9aDuSpVoB-Y"
     },
     {
-      "videoId": "N6K_pxaAh0w",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Block on Finding and Fixing Security Risks with OpenAI",
-      "published": "2026-10-13T17:59:33+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/N6K_pxaAh0w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=N6K_pxaAh0w"
-    },
-    {
       "videoId": "To27EtSUGbM",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -386,17 +485,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/N1fhLtHmJ1I/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=N1fhLtHmJ1I"
-    },
-    {
-      "videoId": "TD0bImyg_IM",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Ride out this sticker storm in style",
-      "published": "2026-10-13T15:47:28+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/TD0bImyg_IM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=TD0bImyg_IM"
     },
     {
       "videoId": "kWqHXMkfKE0",
@@ -520,17 +608,6 @@
       "url": "https://www.youtube.com/watch?v=S0bSWTBtTD8"
     },
     {
-      "videoId": "IZXv6a78NDw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Code review is no longer the bottleneck",
-      "published": "2026-10-12T16:00:08+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/IZXv6a78NDw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IZXv6a78NDw"
-    },
-    {
       "videoId": "nM21x3FFlPE",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -551,39 +628,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/UGjOg3VRC7s/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=UGjOg3VRC7s"
-    },
-    {
-      "videoId": "Ju-JyxDgV7g",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
-      "published": "2026-10-10T21:40:25+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Ju-JyxDgV7g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Ju-JyxDgV7g"
-    },
-    {
-      "videoId": "58MTEgSmLB4",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Supporting Clinicians With AI | Wenyi Zhu, Founder of Kuddo Health",
-      "published": "2026-10-10T15:24:00+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/58MTEgSmLB4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=58MTEgSmLB4"
-    },
-    {
-      "videoId": "p5KxBTUncoE",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Set up your dot in the ChatGPT mobile app",
-      "published": "2026-10-09T19:13:03+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/p5KxBTUncoE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=p5KxBTUncoE"
     },
     {
       "videoId": "VFiWYLSQNP4",
@@ -628,17 +672,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/bZjsD89p5mo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=bZjsD89p5mo"
-    },
-    {
-      "videoId": "XxHfJRnUG24",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The new Jaguar Type 01, powered by NVIDIA.",
-      "published": "2026-10-07T17:54:24+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/XxHfJRnUG24/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XxHfJRnUG24"
     },
     {
       "videoId": "cAMjVquiEL0",
@@ -883,17 +916,6 @@
       "url": "https://www.youtube.com/watch?v=-uu2N53Ig3M"
     },
     {
-      "videoId": "cdt6BB7VAu8",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Can pigs breathe through their 🍑?",
-      "published": "2026-09-25T22:03:02+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/cdt6BB7VAu8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cdt6BB7VAu8"
-    },
-    {
       "videoId": "W9usb907BeQ",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -914,17 +936,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/mZXJevMqkBM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=mZXJevMqkBM"
-    },
-    {
-      "videoId": "PUvQCFzn8Ns",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Celebrating Hispanic Heritage Month",
-      "published": "2026-09-25T18:59:40+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/PUvQCFzn8Ns/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PUvQCFzn8Ns"
     },
     {
       "videoId": "H_f5c3Qgatw",
@@ -1057,17 +1068,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/bpPJbRjIpxg/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=bpPJbRjIpxg"
-    },
-    {
-      "videoId": "grdt05okn3Q",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "The Future Has Arrived | Cybercab",
-      "published": "2026-09-04T00:35:04+00:00",
-      "source": "Tesla",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/grdt05okn3Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=grdt05okn3Q"
     }
   ],
   "warnings": [
