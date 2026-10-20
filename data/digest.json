@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:21:12.333Z",
+  "generatedAt": "2026-10-20T15:34:02.385Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "WMjVP7QQyDI",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Giannis x Google Search: Miami Pickup Hoops",
+      "published": "2026-10-20T14:32:05+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/WMjVP7QQyDI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WMjVP7QQyDI"
+    },
+    {
+      "videoId": "v45XAMqH7pE",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "You need a better headshot.",
+      "published": "2026-10-20T13:00:34+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/v45XAMqH7pE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=v45XAMqH7pE"
+    },
+    {
+      "videoId": "i8IZfeuQypc",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "How agentic discovery can help the construction industry reduce its carbon footprint",
+      "published": "2026-10-20T08:15:20+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/i8IZfeuQypc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=i8IZfeuQypc"
+    },
+    {
+      "videoId": "DQHtmW9ZlIs",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Cooking with Codex: Ep. 1",
+      "published": "2026-10-19T22:55:26+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/DQHtmW9ZlIs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DQHtmW9ZlIs"
+    },
+    {
+      "videoId": "29jCT5zL_O0",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "From Sketch to Scale: How Our Teams Built Meta VR Glasses",
+      "published": "2026-10-19T22:40:22+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/29jCT5zL_O0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=29jCT5zL_O0"
+    },
+    {
+      "videoId": "BII3FrsTBlU",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Zero to sixty faster than you can read this",
+      "published": "2026-10-19T18:40:04+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/BII3FrsTBlU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=BII3FrsTBlU"
+    },
     {
       "videoId": "HZQAbXW_5jU",
       "leaderId": "jensen-huang",
@@ -432,17 +498,6 @@
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk"
     },
     {
-      "videoId": "G-9Y2xNiDKQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Work with your team in ChatGPT Space",
-      "published": "2026-10-13T21:01:10+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/G-9Y2xNiDKQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=G-9Y2xNiDKQ"
-    },
-    {
       "videoId": "_KhlazpW9d8",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -452,17 +507,6 @@
       "type": "Speech",
       "thumb": "https://i.ytimg.com/vi/_KhlazpW9d8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=_KhlazpW9d8"
-    },
-    {
-      "videoId": "9aDuSpVoB-Y",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Block on Finding and Fixing Security Risks with OpenAI",
-      "published": "2026-10-13T18:02:20+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/9aDuSpVoB-Y/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9aDuSpVoB-Y"
     },
     {
       "videoId": "To27EtSUGbM",
@@ -905,17 +949,6 @@
       "url": "https://www.youtube.com/watch?v=wJOrgRepk_U"
     },
     {
-      "videoId": "-uu2N53Ig3M",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Lucas Museum: Top searches reveal hidden narratives | Searching For",
-      "published": "2026-09-26T15:00:42+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/-uu2N53Ig3M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-uu2N53Ig3M"
-    },
-    {
       "videoId": "W9usb907BeQ",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -936,17 +969,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/mZXJevMqkBM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=mZXJevMqkBM"
-    },
-    {
-      "videoId": "H_f5c3Qgatw",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meta Artist Spotlight: Refik Anadol",
-      "published": "2026-09-25T17:05:44+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/H_f5c3Qgatw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=H_f5c3Qgatw"
     },
     {
       "videoId": "mHXELsEResE",
