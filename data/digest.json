@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T15:34:02.385Z",
+  "generatedAt": "2026-10-21T15:51:05.309Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,149 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "Y39uub4n0LA",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How Lila Sciences’ AI and Automated Labs Help Scientists Discover New Medicines Faster",
+      "published": "2026-10-21T14:00:29+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Y39uub4n0LA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Y39uub4n0LA"
+    },
+    {
+      "videoId": "PrA_ayyy22E",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA GTC Berlin 2026 | Live Keynote Pregame",
+      "published": "2026-10-21T13:32:16+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/PrA_ayyy22E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PrA_ayyy22E"
+    },
+    {
+      "videoId": "S2rX2NHzwOs",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "RFD4-Proteina: How IPD Researchers and NVIDIA Design New Proteins with AI",
+      "published": "2026-10-21T11:30:10+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/S2rX2NHzwOs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=S2rX2NHzwOs"
+    },
+    {
+      "videoId": "VvJai6HGfyE",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "From Prompt to Walking Robot With NVIDIA RTX Spark",
+      "published": "2026-10-21T11:22:03+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/VvJai6HGfyE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VvJai6HGfyE"
+    },
+    {
+      "videoId": "JegVE_xMY_w",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA Foundational Technology Montage | GTC Berlin 2026 Edition",
+      "published": "2026-10-21T11:21:20+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/JegVE_xMY_w/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JegVE_xMY_w"
+    },
+    {
+      "videoId": "qdUQJArUk30",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Official Keynote Closing Video | NVIDIA GTC Berlin 2026",
+      "published": "2026-10-21T11:20:58+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/qdUQJArUk30/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qdUQJArUk30"
+    },
+    {
+      "videoId": "xaHdyqGtG1M",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Introducing NVIDIA OpenShell Reference Architecture for Safer AI Agents",
+      "published": "2026-10-21T11:20:19+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/xaHdyqGtG1M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xaHdyqGtG1M"
+    },
+    {
+      "videoId": "IqhDPbRrsh4",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Super AI Agents for Science, Manufacturing and Engineering  | GTC Berlin 2026 Edition",
+      "published": "2026-10-21T11:20:04+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/IqhDPbRrsh4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IqhDPbRrsh4"
+    },
+    {
+      "videoId": "qDF7ARVxbWU",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "AI Factories That Use Less Power and Water, Built in Days | NVIDIA DSX",
+      "published": "2026-10-21T11:19:53+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/qDF7ARVxbWU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qDF7ARVxbWU"
+    },
+    {
+      "videoId": "VsZpy3aFLeY",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Official Keynote Opening Video | NVIDIA GTC Berlin 2026",
+      "published": "2026-10-21T11:19:08+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/VsZpy3aFLeY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=VsZpy3aFLeY"
+    },
+    {
+      "videoId": "PvFjbPYEOZI",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang",
+      "published": "2026-10-21T11:17:38+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/PvFjbPYEOZI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PvFjbPYEOZI"
+    },
+    {
+      "videoId": "8n-SXxRIrm8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Build a Better Shopping Experience with OpenAI | Shopping Agent Demo",
+      "published": "2026-10-20T22:57:52+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/8n-SXxRIrm8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8n-SXxRIrm8"
+    },
+    {
+      "videoId": "rRXdkLTVPGQ",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "The road to NVIDIA GTC Berlin.",
+      "published": "2026-10-20T15:45:31+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/rRXdkLTVPGQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rRXdkLTVPGQ"
+    },
     {
       "videoId": "WMjVP7QQyDI",
       "leaderId": "sundar-pichai",
@@ -355,17 +498,6 @@
       "url": "https://www.youtube.com/watch?v=qt5p-_tE8d0"
     },
     {
-      "videoId": "tWuhYmpPZ0o",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "What are People Saying about NVIDIA RTX Spark?",
-      "published": "2026-10-16T00:17:45+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/tWuhYmpPZ0o/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tWuhYmpPZ0o"
-    },
-    {
       "videoId": "KJ_7KPKlO_Q",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -421,28 +553,6 @@
       "url": "https://www.youtube.com/watch?v=BOTAeAU5ExQ"
     },
     {
-      "videoId": "mGQHufCewjc",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Cheers to the UK’s AI builders. 🇬🇧",
-      "published": "2026-10-14T21:50:16+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/mGQHufCewjc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mGQHufCewjc"
-    },
-    {
-      "videoId": "vJvFta7e76E",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The Road to NVIDIA RTX Spark",
-      "published": "2026-10-14T19:01:02+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/vJvFta7e76E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vJvFta7e76E"
-    },
-    {
       "videoId": "PZxbaIp8PzE",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -452,39 +562,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/PZxbaIp8PzE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=PZxbaIp8PzE"
-    },
-    {
-      "videoId": "rBN0PDfJWIc",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How NVIDIA AI Is Transforming Chip Design and Manufacturing",
-      "published": "2026-10-14T16:46:00+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/rBN0PDfJWIc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rBN0PDfJWIc"
-    },
-    {
-      "videoId": "roVDIuW_6HI",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Join the RTX Spark Global Launch Celebration",
-      "published": "2026-10-14T14:58:44+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/roVDIuW_6HI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=roVDIuW_6HI"
-    },
-    {
-      "videoId": "DTcK95TAZ-k",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Oracle Uses Codex to Help Business Users Get Answers",
-      "published": "2026-10-14T09:35:27+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/DTcK95TAZ-k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DTcK95TAZ-k"
     },
     {
       "videoId": "FGCP2F_7rQk",
@@ -509,17 +586,6 @@
       "url": "https://www.youtube.com/watch?v=_KhlazpW9d8"
     },
     {
-      "videoId": "To27EtSUGbM",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Jensen Huang speaks to media in Paris about NVIDIA OpenShell.",
-      "published": "2026-10-13T17:43:38+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/To27EtSUGbM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=To27EtSUGbM"
-    },
-    {
       "videoId": "N1fhLtHmJ1I",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -529,17 +595,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/N1fhLtHmJ1I/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=N1fhLtHmJ1I"
-    },
-    {
-      "videoId": "kWqHXMkfKE0",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "A little something from Jensen Huang ✍️",
-      "published": "2026-10-13T14:58:03+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/kWqHXMkfKE0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kWqHXMkfKE0"
     },
     {
       "videoId": "QeQAXuQpGEA",
@@ -586,28 +641,6 @@
       "url": "https://www.youtube.com/watch?v=hkrYiZ_g9tw"
     },
     {
-      "videoId": "cT8z64yfh3w",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The Road to GTC Berlin: Build-a-Claw in Barcelona",
-      "published": "2026-10-13T13:11:11+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/cT8z64yfh3w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cT8z64yfh3w"
-    },
-    {
-      "videoId": "ygMpRRrk6Q8",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The NVIDIA GTC pregame show is back.",
-      "published": "2026-10-12T20:02:17+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/ygMpRRrk6Q8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ygMpRRrk6Q8"
-    },
-    {
       "videoId": "iUr53gDq380",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -630,17 +663,6 @@
       "url": "https://www.youtube.com/watch?v=a110BjghioM"
     },
     {
-      "videoId": "7yjzv6Ize4U",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "A new beginning for Windows PCs deserves a global celebration.",
-      "published": "2026-10-12T18:16:02+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/7yjzv6Ize4U/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=7yjzv6Ize4U"
-    },
-    {
       "videoId": "S0bSWTBtTD8",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -650,28 +672,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/S0bSWTBtTD8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=S0bSWTBtTD8"
-    },
-    {
-      "videoId": "nM21x3FFlPE",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Your Spark, Your Story: Allyson Vasquez | NVIDIA RTX Spark",
-      "published": "2026-10-11T16:00:11+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/nM21x3FFlPE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=nM21x3FFlPE"
-    },
-    {
-      "videoId": "UGjOg3VRC7s",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Berlin’s TV Tower Glows Green for NVIDIA GTC Berlin",
-      "published": "2026-10-11T13:09:06+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/UGjOg3VRC7s/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UGjOg3VRC7s"
     },
     {
       "videoId": "VFiWYLSQNP4",
