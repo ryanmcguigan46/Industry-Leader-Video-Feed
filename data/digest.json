@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:51:05.309Z",
+  "generatedAt": "2026-10-22T15:48:07.170Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,94 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "CEEP7RecnFM",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "How TK Elevator technicians use agentic AI to prepare for every job",
+      "published": "2026-10-22T12:02:58+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/CEEP7RecnFM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CEEP7RecnFM"
+    },
+    {
+      "videoId": "qFpRyEg2y5k",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Encore",
+      "published": "2026-10-22T01:05:28+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/qFpRyEg2y5k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qFpRyEg2y5k"
+    },
+    {
+      "videoId": "tFezqXBF-gw",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Tesla Q3 2026 Financial Results and Q&A Webcast",
+      "published": "2026-10-21T22:39:01+00:00",
+      "source": "Tesla",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/tFezqXBF-gw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tFezqXBF-gw"
+    },
+    {
+      "videoId": "20IRGgQwPkc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT‑5.6 Luna",
+      "published": "2026-10-21T22:05:10+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/20IRGgQwPkc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=20IRGgQwPkc"
+    },
+    {
+      "videoId": "anAmTGcewX8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Sam Altman, Co-Founder and CEO of OpenAI: Staying Human While Scaling Superintelligence",
+      "published": "2026-10-21T21:21:00+00:00",
+      "source": "Stanford GSB",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/anAmTGcewX8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=anAmTGcewX8"
+    },
+    {
+      "videoId": "sAYti12cStU",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "How NHS ambulance teams are using Microsoft Copilot to rethink patient pathways",
+      "published": "2026-10-21T20:00:00+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/sAYti12cStU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sAYti12cStU"
+    },
+    {
+      "videoId": "Mw2-d-hV0_M",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Azzi Fudd Basketball Camp Builds Community using Instagram and Facebook",
+      "published": "2026-10-21T16:57:38+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Mw2-d-hV0_M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Mw2-d-hV0_M"
+    },
+    {
+      "videoId": "4idQxzAyPDo",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How AI Enables Better, More Connected Patient Care",
+      "published": "2026-10-21T16:16:52+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4idQxzAyPDo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4idQxzAyPDo"
+    },
     {
       "videoId": "Y39uub4n0LA",
       "leaderId": "jensen-huang",
@@ -410,17 +498,6 @@
       "url": "https://www.youtube.com/watch?v=OMxEUdIgsQc"
     },
     {
-      "videoId": "_tsiWjmWEZ8",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA RTX Spark | A New Beginning for Windows PCs",
-      "published": "2026-10-16T11:59:06+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/_tsiWjmWEZ8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_tsiWjmWEZ8"
-    },
-    {
       "videoId": "Zg9Q56t7bdo",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -551,17 +628,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/BOTAeAU5ExQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=BOTAeAU5ExQ"
-    },
-    {
-      "videoId": "PZxbaIp8PzE",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Cooking up a catering business with ChatGPT",
-      "published": "2026-10-14T17:47:37+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/PZxbaIp8PzE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PZxbaIp8PzE"
     },
     {
       "videoId": "FGCP2F_7rQk",
@@ -960,17 +1026,6 @@
       "url": "https://www.youtube.com/watch?v=W9usb907BeQ"
     },
     {
-      "videoId": "mZXJevMqkBM",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meta Connect 2026: A Community Builder's First-Hand POV",
-      "published": "2026-09-25T19:26:25+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/mZXJevMqkBM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mZXJevMqkBM"
-    },
-    {
       "videoId": "mHXELsEResE",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -1079,17 +1134,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/DDnNc60onT4/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=DDnNc60onT4"
-    },
-    {
-      "videoId": "bpPJbRjIpxg",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "POV Hailing a Cybercab",
-      "published": "2026-09-06T18:52:43+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/bpPJbRjIpxg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=bpPJbRjIpxg"
     }
   ],
   "warnings": [
