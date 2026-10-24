@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:39:03.288Z",
+  "generatedAt": "2026-10-24T14:18:07.380Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,193 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "rySnll4sgu4",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA GTC Berlin 2026 | Live Keynote Pregame",
+      "published": "2026-10-24T10:42:33+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/rySnll4sgu4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rySnll4sgu4"
+    },
+    {
+      "videoId": "a7cnTxoV3v0",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "A New Look for Minecraft: Java Edition with NVIDIA RTX Remix",
+      "published": "2026-10-23T22:26:51+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/a7cnTxoV3v0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=a7cnTxoV3v0"
+    },
+    {
+      "videoId": "6f7ojkd4_Wc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Hunt bugs with your dot",
+      "published": "2026-10-23T22:05:37+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/6f7ojkd4_Wc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6f7ojkd4_Wc"
+    },
+    {
+      "videoId": "c_igmkuu0sI",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA Halos SAFE: Autonomous Vehicle Safety Evaluation From Road Testing to Simulation",
+      "published": "2026-10-23T20:44:58+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/c_igmkuu0sI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=c_igmkuu0sI"
+    },
+    {
+      "videoId": "roUZ7_Rsf5c",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Accelerating Robot Development With AI Agents and NVIDIA Isaac",
+      "published": "2026-10-23T20:44:08+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/roUZ7_Rsf5c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=roUZ7_Rsf5c"
+    },
+    {
+      "videoId": "mZ1IcqsaTwg",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Every Dream Deserves A Shot",
+      "published": "2026-10-23T19:16:39+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/mZ1IcqsaTwg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=mZ1IcqsaTwg"
+    },
+    {
+      "videoId": "WFxgq6HWT0k",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "The Future Is for Everyone: Sensing Art with AI Glasses",
+      "published": "2026-10-23T19:00:10+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/WFxgq6HWT0k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WFxgq6HWT0k"
+    },
+    {
+      "videoId": "7Cs5qyBlYQk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "From notes to AI training with ChatGPT Work | Realpage.",
+      "published": "2026-10-23T18:42:11+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/7Cs5qyBlYQk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7Cs5qyBlYQk"
+    },
+    {
+      "videoId": "hgX1hgyWD4g",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Realpage. builds AI training with ChatGPT Work",
+      "published": "2026-10-23T18:39:14+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/hgX1hgyWD4g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hgX1hgyWD4g"
+    },
+    {
+      "videoId": "2lNUGkCg_qc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "AI agents for everyday IT fixes | Shield and OpenAI",
+      "published": "2026-10-23T18:36:34+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/2lNUGkCg_qc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2lNUGkCg_qc"
+    },
+    {
+      "videoId": "m6MlxaFMmPI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Shield uses OpenAI’s Astra to support IT teams",
+      "published": "2026-10-23T18:34:39+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/m6MlxaFMmPI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=m6MlxaFMmPI"
+    },
+    {
+      "videoId": "V39_L7uh66M",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How AT&T is building AI-powered legal workflows with OpenAI",
+      "published": "2026-10-23T18:32:03+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/V39_L7uh66M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=V39_L7uh66M"
+    },
+    {
+      "videoId": "qyGvwLgqmaU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "From analyst to builder with Codex | Benefit Street Partners",
+      "published": "2026-10-23T18:22:30+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/qyGvwLgqmaU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=qyGvwLgqmaU"
+    },
+    {
+      "videoId": "CTkDi1THc_g",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Benefit Street Partners is building financial analysis tools with Codex",
+      "published": "2026-10-23T18:20:02+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/CTkDi1THc_g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CTkDi1THc_g"
+    },
+    {
+      "videoId": "W3fUEVcaXwg",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How Nokia and NVIDIA Are Accelerating the Future of AI-Native Networks",
+      "published": "2026-10-23T17:00:03+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/W3fUEVcaXwg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=W3fUEVcaXwg"
+    },
+    {
+      "videoId": "l7HGtHMDx38",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Building smarter tools for the way we work",
+      "published": "2026-10-23T16:54:02+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/l7HGtHMDx38/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=l7HGtHMDx38"
+    },
+    {
+      "videoId": "I7Nlw9rSCeo",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Avengers fans assemble ⚡",
+      "published": "2026-10-23T16:03:39+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/I7Nlw9rSCeo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=I7Nlw9rSCeo"
+    },
     {
       "videoId": "3KZbymg-lOw",
       "leaderId": "jensen-huang",
@@ -201,17 +388,6 @@
       "url": "https://www.youtube.com/watch?v=Y39uub4n0LA"
     },
     {
-      "videoId": "PrA_ayyy22E",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA GTC Berlin 2026 | Live Keynote Pregame",
-      "published": "2026-10-21T13:32:16+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/PrA_ayyy22E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PrA_ayyy22E"
-    },
-    {
       "videoId": "S2rX2NHzwOs",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -278,28 +454,6 @@
       "url": "https://www.youtube.com/watch?v=IqhDPbRrsh4"
     },
     {
-      "videoId": "qDF7ARVxbWU",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "AI Factories That Use Less Power and Water, Built in Days | NVIDIA DSX",
-      "published": "2026-10-21T11:19:53+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/qDF7ARVxbWU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qDF7ARVxbWU"
-    },
-    {
-      "videoId": "VsZpy3aFLeY",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Official Keynote Opening Video | NVIDIA GTC Berlin 2026",
-      "published": "2026-10-21T11:19:08+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/VsZpy3aFLeY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VsZpy3aFLeY"
-    },
-    {
       "videoId": "8n-SXxRIrm8",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -309,17 +463,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/8n-SXxRIrm8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=8n-SXxRIrm8"
-    },
-    {
-      "videoId": "rRXdkLTVPGQ",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The road to NVIDIA GTC Berlin.",
-      "published": "2026-10-20T15:45:31+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/rRXdkLTVPGQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rRXdkLTVPGQ"
     },
     {
       "videoId": "WMjVP7QQyDI",
@@ -388,17 +531,6 @@
       "url": "https://www.youtube.com/watch?v=BII3FrsTBlU"
     },
     {
-      "videoId": "HZQAbXW_5jU",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "AI factories need to respond when the power grid needs relief.",
-      "published": "2026-10-19T16:47:40+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/HZQAbXW_5jU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=HZQAbXW_5jU"
-    },
-    {
       "videoId": "yI5C7LqBVEM",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -421,17 +553,6 @@
       "url": "https://www.youtube.com/watch?v=7lC2N9woZy4"
     },
     {
-      "videoId": "ExVDpMeaWp0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
-      "published": "2026-10-19T15:07:35+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ExVDpMeaWp0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ExVDpMeaWp0"
-    },
-    {
       "videoId": "ALbuCR4uH2E",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -441,39 +562,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/ALbuCR4uH2E/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ALbuCR4uH2E"
-    },
-    {
-      "videoId": "mEulEkuxCnM",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "UK: This is the new ChatGPT Voice, powered by GPT Live",
-      "published": "2026-10-19T05:30:13+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/mEulEkuxCnM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mEulEkuxCnM"
-    },
-    {
-      "videoId": "xIEzjwReF2s",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Germany: This is the new ChatGPT Voice, powered by GPT Live",
-      "published": "2026-10-19T04:30:15+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/xIEzjwReF2s/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xIEzjwReF2s"
-    },
-    {
-      "videoId": "-vpwIHxkDFw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "France: This is the new ChatGPT Voice, powered by GPT Live",
-      "published": "2026-10-19T04:30:12+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/-vpwIHxkDFw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-vpwIHxkDFw"
     },
     {
       "videoId": "RcEmV2BB_XE",
@@ -498,17 +586,6 @@
       "url": "https://www.youtube.com/watch?v=lns1MoLvttU"
     },
     {
-      "videoId": "GBOZIRK1ujw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Put your dot on call",
-      "published": "2026-10-16T21:43:48+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/GBOZIRK1ujw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=GBOZIRK1ujw"
-    },
-    {
       "videoId": "eSGqW_VMMXQ",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -518,17 +595,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/eSGqW_VMMXQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=eSGqW_VMMXQ"
-    },
-    {
-      "videoId": "OMxEUdIgsQc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How teams can automate recurring tasks with ChatGPT",
-      "published": "2026-10-16T18:00:49+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/OMxEUdIgsQc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OMxEUdIgsQc"
     },
     {
       "videoId": "Zg9Q56t7bdo",
@@ -606,28 +672,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/qt5p-_tE8d0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=qt5p-_tE8d0"
-    },
-    {
-      "videoId": "KJ_7KPKlO_Q",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build more personal sites with Codex",
-      "published": "2026-10-15T20:48:59+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/KJ_7KPKlO_Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KJ_7KPKlO_Q"
-    },
-    {
-      "videoId": "GyO8Ao7yKJc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "GPT-Live-1.1 has new voices and better accents.",
-      "published": "2026-10-15T18:24:44+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/GyO8Ao7yKJc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=GyO8Ao7yKJc"
     },
     {
       "videoId": "ca6EzNHSHRg",
@@ -980,39 +1024,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/VD_z4f29xw0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=VD_z4f29xw0"
-    },
-    {
-      "videoId": "s5ztr13K1gg",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Inside the Meta Lab at #MetaConnect 2026 | A Tour with Meta Creative Director Matt Jacobson",
-      "published": "2026-09-26T18:04:13+00:00",
-      "source": "Meta",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/s5ztr13K1gg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=s5ztr13K1gg"
-    },
-    {
-      "videoId": "iI7qazRvzJc",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meet Muse",
-      "published": "2026-09-26T17:17:02+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/iI7qazRvzJc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=iI7qazRvzJc"
-    },
-    {
-      "videoId": "wJOrgRepk_U",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "So what’s inside the Lucas Museum? 🖼️👀",
-      "published": "2026-09-26T15:35:19+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/wJOrgRepk_U/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=wJOrgRepk_U"
     },
     {
       "videoId": "mHXELsEResE",
