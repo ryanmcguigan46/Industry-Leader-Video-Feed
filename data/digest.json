@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:18:07.380Z",
+  "generatedAt": "2026-10-25T14:52:38.070Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,28 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "PFVOThWzcAQ",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Tesla App, Big Screens",
+      "published": "2026-10-24T20:20:33+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/PFVOThWzcAQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PFVOThWzcAQ"
+    },
+    {
+      "videoId": "fdFyXTdJPLA",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Roadster Interface",
+      "published": "2026-10-24T19:36:39+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/fdFyXTdJPLA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fdFyXTdJPLA"
+    },
     {
       "videoId": "rySnll4sgu4",
       "leaderId": "jensen-huang",
@@ -1068,72 +1090,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/1WLqGs7c_yA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=1WLqGs7c_yA"
-    },
-    {
-      "videoId": "fdq3aYCVIL0",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Why Seattle Seahawks coaches rely on this analyst every game",
-      "published": "2026-09-09T22:06:00+00:00",
-      "source": "Microsoft",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/fdq3aYCVIL0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=fdq3aYCVIL0"
-    },
-    {
-      "videoId": "GC0GI4MgTyg",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "New iPhone 18 Pro: Everything announced about the iPhone with the best camera and battery life ever",
-      "published": "2026-09-09T20:13:28+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/GC0GI4MgTyg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=GC0GI4MgTyg"
-    },
-    {
-      "videoId": "ZlMvbjknrIg",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "iPhone Duo: Everything announced about the first foldable iPhone",
-      "published": "2026-09-09T19:48:07+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/ZlMvbjknrIg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZlMvbjknrIg"
-    },
-    {
-      "videoId": "Pe2ugye7Ya4",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "New Apple Watch Series 12 and Ultra 4: Everything announced about the ultimate wearable",
-      "published": "2026-09-09T19:33:36+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/Pe2ugye7Ya4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Pe2ugye7Ya4"
-    },
-    {
-      "videoId": "XSiGaXPssd4",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "New AirPods 5: Everything announced about the best Active Noise Cancellation in an open-ear design",
-      "published": "2026-09-09T19:19:54+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/XSiGaXPssd4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XSiGaXPssd4"
-    },
-    {
-      "videoId": "DDnNc60onT4",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "iPhone 18 Pro: The ultimate performance and camera of any iPhone, with exceptional battery life.",
-      "published": "2026-09-09T19:05:01+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/DDnNc60onT4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DDnNc60onT4"
     }
   ],
   "warnings": [
