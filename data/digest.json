@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:52:38.070Z",
+  "generatedAt": "2026-10-26T17:08:49.115Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,105 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "DDjr6gXqtN8",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "What’s New in Google Accessibility | Episode 13 | American Sign Language",
+      "published": "2026-10-26T16:41:42+00:00",
+      "source": "Google",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/DDjr6gXqtN8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=DDjr6gXqtN8"
+    },
+    {
+      "videoId": "lL7L6DiGeLc",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "What’s New in Google Accessibility | Episode 13",
+      "published": "2026-10-26T16:41:35+00:00",
+      "source": "Google",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/lL7L6DiGeLc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lL7L6DiGeLc"
+    },
+    {
+      "videoId": "aCNvcXxTSlE",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "​@Seahawks 🤝 Copilot in Excel",
+      "published": "2026-10-26T16:00:39+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/aCNvcXxTSlE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aCNvcXxTSlE"
+    },
+    {
+      "videoId": "bXNTUB209KE",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Using AI Agents to Teach Robots to Walk in Simulation #NVIDIAGTC #Microducks #Robotics",
+      "published": "2026-10-26T16:00:24+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/bXNTUB209KE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bXNTUB209KE"
+    },
+    {
+      "videoId": "3pQYJ_Um7YI",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "The new iPad mini: Thinner. Lighter. Ultraportable.",
+      "published": "2026-10-26T13:17:04+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/3pQYJ_Um7YI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3pQYJ_Um7YI"
+    },
+    {
+      "videoId": "x5h1JykMcFU",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Introducing the new iPad mini with OLED display",
+      "published": "2026-10-26T13:07:59+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/x5h1JykMcFU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=x5h1JykMcFU"
+    },
+    {
+      "videoId": "MLHcSiNVIto",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Microducks Took Over GTC Berlin #NVIDIAGTC #Robots #Microducks",
+      "published": "2026-10-25T23:00:08+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/MLHcSiNVIto/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MLHcSiNVIto"
+    },
+    {
+      "videoId": "nSjyyZEtYEg",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Favorite Robot at GTC Berlin #nvidiagtc #robots #robotics",
+      "published": "2026-10-25T19:37:57+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/nSjyyZEtYEg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nSjyyZEtYEg"
+    },
+    {
+      "videoId": "rF1EsryCAwc",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Jensen Huang’s Keynote Highlights at NVIDIA GTC Berlin 2026",
+      "published": "2026-10-25T17:10:16+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/rF1EsryCAwc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rF1EsryCAwc"
+    },
     {
       "videoId": "PFVOThWzcAQ",
       "leaderId": "elon-musk",
@@ -432,50 +531,6 @@
       "url": "https://www.youtube.com/watch?v=VvJai6HGfyE"
     },
     {
-      "videoId": "JegVE_xMY_w",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA Foundational Technology Montage | GTC Berlin 2026 Edition",
-      "published": "2026-10-21T11:21:20+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/JegVE_xMY_w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JegVE_xMY_w"
-    },
-    {
-      "videoId": "qdUQJArUk30",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Official Keynote Closing Video | NVIDIA GTC Berlin 2026",
-      "published": "2026-10-21T11:20:58+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/qdUQJArUk30/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qdUQJArUk30"
-    },
-    {
-      "videoId": "xaHdyqGtG1M",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Introducing NVIDIA OpenShell Reference Architecture for Safer AI Agents",
-      "published": "2026-10-21T11:20:19+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/xaHdyqGtG1M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xaHdyqGtG1M"
-    },
-    {
-      "videoId": "IqhDPbRrsh4",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Super AI Agents for Science, Manufacturing and Engineering  | GTC Berlin 2026 Edition",
-      "published": "2026-10-21T11:20:04+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/IqhDPbRrsh4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IqhDPbRrsh4"
-    },
-    {
       "videoId": "8n-SXxRIrm8",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -710,7 +765,7 @@
       "videoId": "FGCP2F_7rQk",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
-      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "title": "The FULL Taiwan Experience w/ Jensen Huang | Lex Fridman",
       "published": "2026-10-13T21:26:16+00:00",
       "source": "Lex Fridman",
       "type": "Keynote",
@@ -993,17 +1048,6 @@
       "url": "https://www.youtube.com/watch?v=_fTT7TEOBH8"
     },
     {
-      "videoId": "8NPgswgbTnE",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Testing AI chips to survive in space",
-      "published": "2026-09-28T14:10:18+00:00",
-      "source": "Google",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/8NPgswgbTnE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8NPgswgbTnE"
-    },
-    {
       "videoId": "MfToE6Umn1w",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1013,17 +1057,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/MfToE6Umn1w/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=MfToE6Umn1w"
-    },
-    {
-      "videoId": "3_hg2lYDvf0",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "It’s Google’s birthday!",
-      "published": "2026-09-27T16:00:32+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/3_hg2lYDvf0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3_hg2lYDvf0"
     },
     {
       "videoId": "bMe04_HLTNU",
