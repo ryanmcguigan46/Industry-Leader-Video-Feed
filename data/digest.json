@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T17:08:49.115Z",
+  "generatedAt": "2026-10-27T16:13:42.252Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,270 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "Yim7JrVzSkk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Lawyers Stay in Control | AT&T + OpenAI",
+      "published": "2026-10-27T15:40:48+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Yim7JrVzSkk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Yim7JrVzSkk"
+    },
+    {
+      "videoId": "lPZQrVFcz3c",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Getting a Head Start with Codex | Mitchell Hashimoto",
+      "published": "2026-10-27T15:04:57+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/lPZQrVFcz3c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=lPZQrVFcz3c"
+    },
+    {
+      "videoId": "cflbzHRvGvg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "From Ideas to Prototypes with Codex | Shopify’s Mikhail Parakhin",
+      "published": "2026-10-27T15:03:41+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/cflbzHRvGvg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cflbzHRvGvg"
+    },
+    {
+      "videoId": "C2vdw5GSTQo",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Sotira Gives Unsold Inventory a Second Life with Codex",
+      "published": "2026-10-27T15:02:46+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/C2vdw5GSTQo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=C2vdw5GSTQo"
+    },
+    {
+      "videoId": "vKMDQJpRSvA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "AI for Detection and Response | Cloudflare’s Mark Anderson",
+      "published": "2026-10-27T14:55:22+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vKMDQJpRSvA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vKMDQJpRSvA"
+    },
+    {
+      "videoId": "ilG7LPrngkI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "AI for Detection and Response | Cloudflare’s Mark Anderson",
+      "published": "2026-10-27T14:54:56+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ilG7LPrngkI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ilG7LPrngkI"
+    },
+    {
+      "videoId": "uhpS6vfhrH8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Better Sources, Better Presentations | Hebbia on Astra",
+      "published": "2026-10-27T14:50:21+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/uhpS6vfhrH8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uhpS6vfhrH8"
+    },
+    {
+      "videoId": "kc9SMiwHw5g",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Taking on Harder Problems with Astra | Jump Trading",
+      "published": "2026-10-27T14:47:57+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/kc9SMiwHw5g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kc9SMiwHw5g"
+    },
+    {
+      "videoId": "XAVYrC9lY7Q",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Moving IPO Work Forward with AI | Cooley + OpenAI",
+      "published": "2026-10-27T14:42:25+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/XAVYrC9lY7Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XAVYrC9lY7Q"
+    },
+    {
+      "videoId": "vT-o5hh1cVc",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "The new MacBook Pro with M6 delivers blazing-fast performance and up to 24 hours of battery life.",
+      "published": "2026-10-27T13:28:16+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/vT-o5hh1cVc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vT-o5hh1cVc"
+    },
+    {
+      "videoId": "xWfNhWn88Bc",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "The new 14” MacBook Pro with M6",
+      "published": "2026-10-27T13:16:16+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/xWfNhWn88Bc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc"
+    },
+    {
+      "videoId": "XWYMvOFMacA",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "AI in the UK: Drug Discovery, Robotics and AI Factories | NVIDIA",
+      "published": "2026-10-27T13:00:19+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/XWYMvOFMacA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XWYMvOFMacA"
+    },
+    {
+      "videoId": "tFmlEKQkZi0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Why Cybersecurity Needs AI | Cisco’s Jeetu Patel",
+      "published": "2026-10-27T12:49:09+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/tFmlEKQkZi0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tFmlEKQkZi0"
+    },
+    {
+      "videoId": "0qb0FQo3M5c",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Why Cybersecurity Needs AI | Cisco’s Jeetu Patel",
+      "published": "2026-10-27T12:45:06+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/0qb0FQo3M5c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0qb0FQo3M5c"
+    },
+    {
+      "videoId": "dmbT2IHpOKU",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "AI in France: From NVIDIA’s First Chip to AI Factories | NVIDIA",
+      "published": "2026-10-26T23:43:23+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/dmbT2IHpOKU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dmbT2IHpOKU"
+    },
+    {
+      "videoId": "Wanw4woz7zc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Sullivan & Cromwell builds legal tools with Codex | OpenAI",
+      "published": "2026-10-26T23:24:00+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Wanw4woz7zc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Wanw4woz7zc"
+    },
+    {
+      "videoId": "zUybw-9ejZ4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "published": "2026-10-26T22:03:54+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/zUybw-9ejZ4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=zUybw-9ejZ4"
+    },
+    {
+      "videoId": "8fp-G14hvUk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "published": "2026-10-26T22:03:40+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/8fp-G14hvUk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8fp-G14hvUk"
+    },
+    {
+      "videoId": "inrYeej3Big",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "published": "2026-10-26T22:03:06+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/inrYeej3Big/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=inrYeej3Big"
+    },
+    {
+      "videoId": "ouNWfNvqlDg",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How Audi is Reimagining Production With Digital Twins and Physical AI",
+      "published": "2026-10-26T19:49:36+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ouNWfNvqlDg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ouNWfNvqlDg"
+    },
+    {
+      "videoId": "dQMYDBGX0uk",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Tap to pause to find your Halloween costume 🎃",
+      "published": "2026-10-26T19:05:19+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/dQMYDBGX0uk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dQMYDBGX0uk"
+    },
+    {
+      "videoId": "CgNWlvDReMY",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "America's Workforce Academy: Ohio Chapter",
+      "published": "2026-10-26T18:45:11+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/CgNWlvDReMY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CgNWlvDReMY"
+    },
+    {
+      "videoId": "6__ZWHF_4-U",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Introducing America's Workforce Academy, Built by Meta",
+      "published": "2026-10-26T18:31:47+00:00",
+      "source": "Meta",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/6__ZWHF_4-U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6__ZWHF_4-U"
+    },
+    {
+      "videoId": "4uAzZnCZS84",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "America's Workforce Academy: Paid Training, a Job and a Path to the Future",
+      "published": "2026-10-26T18:20:57+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4uAzZnCZS84/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4uAzZnCZS84"
+    },
     {
       "videoId": "DDjr6gXqtN8",
       "leaderId": "sundar-pichai",
@@ -190,17 +454,6 @@
       "url": "https://www.youtube.com/watch?v=a7cnTxoV3v0"
     },
     {
-      "videoId": "6f7ojkd4_Wc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Hunt bugs with your dot",
-      "published": "2026-10-23T22:05:37+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/6f7ojkd4_Wc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6f7ojkd4_Wc"
-    },
-    {
       "videoId": "c_igmkuu0sI",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -243,83 +496,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/WFxgq6HWT0k/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=WFxgq6HWT0k"
-    },
-    {
-      "videoId": "7Cs5qyBlYQk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "From notes to AI training with ChatGPT Work | Realpage.",
-      "published": "2026-10-23T18:42:11+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/7Cs5qyBlYQk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=7Cs5qyBlYQk"
-    },
-    {
-      "videoId": "hgX1hgyWD4g",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Realpage. builds AI training with ChatGPT Work",
-      "published": "2026-10-23T18:39:14+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/hgX1hgyWD4g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hgX1hgyWD4g"
-    },
-    {
-      "videoId": "2lNUGkCg_qc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "AI agents for everyday IT fixes | Shield and OpenAI",
-      "published": "2026-10-23T18:36:34+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/2lNUGkCg_qc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2lNUGkCg_qc"
-    },
-    {
-      "videoId": "m6MlxaFMmPI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Shield uses OpenAI’s Astra to support IT teams",
-      "published": "2026-10-23T18:34:39+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/m6MlxaFMmPI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=m6MlxaFMmPI"
-    },
-    {
-      "videoId": "V39_L7uh66M",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How AT&T is building AI-powered legal workflows with OpenAI",
-      "published": "2026-10-23T18:32:03+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/V39_L7uh66M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=V39_L7uh66M"
-    },
-    {
-      "videoId": "qyGvwLgqmaU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "From analyst to builder with Codex | Benefit Street Partners",
-      "published": "2026-10-23T18:22:30+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/qyGvwLgqmaU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qyGvwLgqmaU"
-    },
-    {
-      "videoId": "CTkDi1THc_g",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Benefit Street Partners is building financial analysis tools with Codex",
-      "published": "2026-10-23T18:20:02+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/CTkDi1THc_g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CTkDi1THc_g"
     },
     {
       "videoId": "W3fUEVcaXwg",
@@ -377,28 +553,6 @@
       "url": "https://www.youtube.com/watch?v=v-NGxyPjcrE"
     },
     {
-      "videoId": "RLQR5_5fJDA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Messi asks ChatGPT to teach him a chess opening",
-      "published": "2026-10-22T21:58:00+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/RLQR5_5fJDA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=RLQR5_5fJDA"
-    },
-    {
-      "videoId": "l16Gw7oVLNQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Uber rolls out ChatGPT Work to 30,000+ employees",
-      "published": "2026-10-22T18:00:13+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/l16Gw7oVLNQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=l16Gw7oVLNQ"
-    },
-    {
       "videoId": "FWY4Trijf7o",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -441,17 +595,6 @@
       "type": "Interview",
       "thumb": "https://i.ytimg.com/vi/tFezqXBF-gw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=tFezqXBF-gw"
-    },
-    {
-      "videoId": "20IRGgQwPkc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "V7 cuts costs 78% while boosting accuracy with GPT‑5.6 Luna",
-      "published": "2026-10-21T22:05:10+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/20IRGgQwPkc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=20IRGgQwPkc"
     },
     {
       "videoId": "anAmTGcewX8",
@@ -498,50 +641,6 @@
       "url": "https://www.youtube.com/watch?v=4idQxzAyPDo"
     },
     {
-      "videoId": "Y39uub4n0LA",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How Lila Sciences’ AI and Automated Labs Help Scientists Discover New Medicines Faster",
-      "published": "2026-10-21T14:00:29+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Y39uub4n0LA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Y39uub4n0LA"
-    },
-    {
-      "videoId": "S2rX2NHzwOs",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "RFD4-Proteina: How IPD Researchers and NVIDIA Design New Proteins with AI",
-      "published": "2026-10-21T11:30:10+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/S2rX2NHzwOs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=S2rX2NHzwOs"
-    },
-    {
-      "videoId": "VvJai6HGfyE",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "From Prompt to Walking Robot With NVIDIA RTX Spark",
-      "published": "2026-10-21T11:22:03+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/VvJai6HGfyE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VvJai6HGfyE"
-    },
-    {
-      "videoId": "8n-SXxRIrm8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build a Better Shopping Experience with OpenAI | Shopping Agent Demo",
-      "published": "2026-10-20T22:57:52+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/8n-SXxRIrm8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8n-SXxRIrm8"
-    },
-    {
       "videoId": "WMjVP7QQyDI",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -553,17 +652,6 @@
       "url": "https://www.youtube.com/watch?v=WMjVP7QQyDI"
     },
     {
-      "videoId": "v45XAMqH7pE",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "You need a better headshot.",
-      "published": "2026-10-20T13:00:34+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/v45XAMqH7pE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=v45XAMqH7pE"
-    },
-    {
       "videoId": "i8IZfeuQypc",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -573,17 +661,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/i8IZfeuQypc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=i8IZfeuQypc"
-    },
-    {
-      "videoId": "DQHtmW9ZlIs",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Cooking with Codex: Ep. 1",
-      "published": "2026-10-19T22:55:26+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/DQHtmW9ZlIs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DQHtmW9ZlIs"
     },
     {
       "videoId": "29jCT5zL_O0",
@@ -617,17 +694,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/yI5C7LqBVEM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=yI5C7LqBVEM"
-    },
-    {
-      "videoId": "7lC2N9woZy4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
-      "published": "2026-10-19T15:13:45+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/7lC2N9woZy4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=7lC2N9woZy4"
     },
     {
       "videoId": "ALbuCR4uH2E",
@@ -1035,50 +1101,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Xr-EDQ5w-DI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Xr-EDQ5w-DI"
-    },
-    {
-      "videoId": "_fTT7TEOBH8",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Come with us to the Lucas Museum 🎒🏛️🖼️",
-      "published": "2026-09-28T16:31:41+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/_fTT7TEOBH8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_fTT7TEOBH8"
-    },
-    {
-      "videoId": "MfToE6Umn1w",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "All the latest on Meta Glasses",
-      "published": "2026-09-28T03:52:30+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/MfToE6Umn1w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MfToE6Umn1w"
-    },
-    {
-      "videoId": "bMe04_HLTNU",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meta Connect Key Beats",
-      "published": "2026-09-26T19:59:13+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/bMe04_HLTNU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=bMe04_HLTNU"
-    },
-    {
-      "videoId": "VD_z4f29xw0",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meta Connect Recap — Soundtracked",
-      "published": "2026-09-26T18:42:54+00:00",
-      "source": "Meta",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/VD_z4f29xw0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=VD_z4f29xw0"
     },
     {
       "videoId": "mHXELsEResE",
