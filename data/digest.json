@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T16:13:42.252Z",
+  "generatedAt": "2026-10-28T17:01:21.118Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,149 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "kP26OlW5PBk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Merge CEO Shensi Ding: AI fluency starts at the top",
+      "published": "2026-10-28T11:51:11+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/kP26OlW5PBk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=kP26OlW5PBk"
+    },
+    {
+      "videoId": "6ep8Vvm4Bdw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Why Merge CEO Shensi Ding stays hands-on with Codex",
+      "published": "2026-10-28T11:50:26+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/6ep8Vvm4Bdw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6ep8Vvm4Bdw"
+    },
+    {
+      "videoId": "M2Oa42hF67E",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "From legal bottleneck to business partner | Legora’s Emma Kadri Bergström",
+      "published": "2026-10-28T09:45:24+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/M2Oa42hF67E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=M2Oa42hF67E"
+    },
+    {
+      "videoId": "UOfmD1fY-i8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
+      "published": "2026-10-28T09:45:18+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/UOfmD1fY-i8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8"
+    },
+    {
+      "videoId": "z-WZMjNsg-k",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Faster contract review. Broader legal analysis. | Legora’s Alex Fortescue-Webb",
+      "published": "2026-10-28T09:45:16+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/z-WZMjNsg-k/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=z-WZMjNsg-k"
+    },
+    {
+      "videoId": "yJxZef1Ylok",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Legora is transforming legal work with OpenAI",
+      "published": "2026-10-28T09:45:14+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/yJxZef1Ylok/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yJxZef1Ylok"
+    },
+    {
+      "videoId": "QqeKRvAkIc8",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How AI Is Advancing Human Health",
+      "published": "2026-10-28T00:45:39+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/QqeKRvAkIc8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QqeKRvAkIc8"
+    },
+    {
+      "videoId": "NOUuyzWx8WI",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Apple Watch Heart Rate: Morgan’s True Apple Watch Story",
+      "published": "2026-10-27T23:08:07+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/NOUuyzWx8WI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NOUuyzWx8WI"
+    },
+    {
+      "videoId": "nBmS3DOebLc",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Apple Watch Activity Rings: Josh's True Apple Watch Story",
+      "published": "2026-10-27T23:08:07+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/nBmS3DOebLc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nBmS3DOebLc"
+    },
+    {
+      "videoId": "fKYjE9_qNSg",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "3 Google Search study hacks for students 📚",
+      "published": "2026-10-27T20:22:06+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/fKYjE9_qNSg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fKYjE9_qNSg"
+    },
+    {
+      "videoId": "efoVuiBuFkc",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Children’s Cancer Institute speeds genomic analysis with Azure, giving kids with cancer hope",
+      "published": "2026-10-27T20:03:36+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/efoVuiBuFkc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=efoVuiBuFkc"
+    },
+    {
+      "videoId": "GqEiCMCGIYE",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Artists on Fire Island Upcycle Used Furniture",
+      "published": "2026-10-27T16:45:04+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/GqEiCMCGIYE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GqEiCMCGIYE"
+    },
+    {
+      "videoId": "7cJlIJpKBW4",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Ten years. A Millionfold Leap in AI.",
+      "published": "2026-10-27T16:36:42+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/7cJlIJpKBW4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7cJlIJpKBW4"
+    },
     {
       "videoId": "Yim7JrVzSkk",
       "leaderId": "sam-altman",
@@ -179,28 +322,6 @@
       "url": "https://www.youtube.com/watch?v=XWYMvOFMacA"
     },
     {
-      "videoId": "tFmlEKQkZi0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Why Cybersecurity Needs AI | Cisco’s Jeetu Patel",
-      "published": "2026-10-27T12:49:09+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/tFmlEKQkZi0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tFmlEKQkZi0"
-    },
-    {
-      "videoId": "0qb0FQo3M5c",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Why Cybersecurity Needs AI | Cisco’s Jeetu Patel",
-      "published": "2026-10-27T12:45:06+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/0qb0FQo3M5c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0qb0FQo3M5c"
-    },
-    {
       "videoId": "dmbT2IHpOKU",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -210,50 +331,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/dmbT2IHpOKU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=dmbT2IHpOKU"
-    },
-    {
-      "videoId": "Wanw4woz7zc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Sullivan & Cromwell builds legal tools with Codex | OpenAI",
-      "published": "2026-10-26T23:24:00+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Wanw4woz7zc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Wanw4woz7zc"
-    },
-    {
-      "videoId": "zUybw-9ejZ4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "published": "2026-10-26T22:03:54+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/zUybw-9ejZ4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=zUybw-9ejZ4"
-    },
-    {
-      "videoId": "8fp-G14hvUk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "published": "2026-10-26T22:03:40+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/8fp-G14hvUk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8fp-G14hvUk"
-    },
-    {
-      "videoId": "inrYeej3Big",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "published": "2026-10-26T22:03:06+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/inrYeej3Big/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=inrYeej3Big"
     },
     {
       "videoId": "ouNWfNvqlDg",
@@ -542,17 +619,6 @@
       "url": "https://www.youtube.com/watch?v=3KZbymg-lOw"
     },
     {
-      "videoId": "v-NGxyPjcrE",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang",
-      "published": "2026-10-23T08:43:07+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/v-NGxyPjcrE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=v-NGxyPjcrE"
-    },
-    {
       "videoId": "FWY4Trijf7o",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -628,17 +694,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Mw2-d-hV0_M/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Mw2-d-hV0_M"
-    },
-    {
-      "videoId": "4idQxzAyPDo",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How AI Enables Better, More Connected Patient Care",
-      "published": "2026-10-21T16:16:52+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4idQxzAyPDo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4idQxzAyPDo"
     },
     {
       "videoId": "WMjVP7QQyDI",
@@ -1081,28 +1136,6 @@
       "url": "https://www.youtube.com/watch?v=Mgd07SgjC8c"
     },
     {
-      "videoId": "aSV48uAywcg",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Time for WNBA Playoffs 🔥",
-      "published": "2026-09-29T13:31:19+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/aSV48uAywcg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=aSV48uAywcg"
-    },
-    {
-      "videoId": "Xr-EDQ5w-DI",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Everything you missed at Meta Connect 2026",
-      "published": "2026-09-28T21:38:37+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Xr-EDQ5w-DI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Xr-EDQ5w-DI"
-    },
-    {
       "videoId": "mHXELsEResE",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -1134,17 +1167,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/EthkNLasUa8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=EthkNLasUa8"
-    },
-    {
-      "videoId": "1WLqGs7c_yA",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Shot on iPhone 18 Pro: \"new trick” by ROSÉ",
-      "published": "2026-09-18T16:01:00+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/1WLqGs7c_yA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=1WLqGs7c_yA"
     }
   ],
   "warnings": [
