@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T17:01:21.118Z",
+  "generatedAt": "2026-10-29T17:19:20.432Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "L6pzlo1QvoM",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
+      "published": "2026-10-29T16:23:43+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/L6pzlo1QvoM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=L6pzlo1QvoM"
+    },
+    {
+      "videoId": "P1s0L_RQ5MU",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Trick or Treat | Tesla Halloween Mode",
+      "published": "2026-10-29T00:46:06+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/P1s0L_RQ5MU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=P1s0L_RQ5MU"
+    },
+    {
+      "videoId": "ujmyzWSj8IU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "API credits, now in ChatGPT Pro and Business plans",
+      "published": "2026-10-28T23:45:26+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ujmyzWSj8IU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ujmyzWSj8IU"
+    },
+    {
+      "videoId": "WzuIZLoHqqA",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "New MacBook Pro with PROLED XDR Display and Touch: The world’s best laptop display",
+      "published": "2026-10-28T17:25:32+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/WzuIZLoHqqA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WzuIZLoHqqA"
+    },
+    {
+      "videoId": "hnZI5uUSdEo",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "New MacBook Pro with PROLED XDR Display: The first-ever Mac with Touch",
+      "published": "2026-10-28T17:13:26+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/hnZI5uUSdEo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hnZI5uUSdEo"
+    },
+    {
+      "videoId": "Aop7fAyKn00",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Spooky Gs just dropped 🎃",
+      "published": "2026-10-28T17:07:20+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Aop7fAyKn00/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Aop7fAyKn00"
+    },
     {
       "videoId": "kP26OlW5PBk",
       "leaderId": "sam-altman",
@@ -265,28 +331,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/uhpS6vfhrH8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=uhpS6vfhrH8"
-    },
-    {
-      "videoId": "kc9SMiwHw5g",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Taking on Harder Problems with Astra | Jump Trading",
-      "published": "2026-10-27T14:47:57+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/kc9SMiwHw5g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kc9SMiwHw5g"
-    },
-    {
-      "videoId": "XAVYrC9lY7Q",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Moving IPO Work Forward with AI | Cooley + OpenAI",
-      "published": "2026-10-27T14:42:25+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/XAVYrC9lY7Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XAVYrC9lY7Q"
     },
     {
       "videoId": "vT-o5hh1cVc",
@@ -886,23 +930,12 @@
       "videoId": "FGCP2F_7rQk",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
-      "title": "The FULL Taiwan Experience w/ Jensen Huang | Lex Fridman",
+      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
       "published": "2026-10-13T21:26:16+00:00",
       "source": "Lex Fridman",
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk"
-    },
-    {
-      "videoId": "_KhlazpW9d8",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "You just have to get started.",
-      "published": "2026-10-13T20:00:33+00:00",
-      "source": "a16z",
-      "type": "Speech",
-      "thumb": "https://i.ytimg.com/vi/_KhlazpW9d8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=_KhlazpW9d8"
     },
     {
       "videoId": "N1fhLtHmJ1I",
@@ -1114,17 +1147,6 @@
       "url": "https://www.youtube.com/watch?v=ktdbUIZKeSE"
     },
     {
-      "videoId": "KO2bNK9L7WA",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Keeping flying satellites connected with lasers",
-      "published": "2026-09-29T16:12:33+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/KO2bNK9L7WA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KO2bNK9L7WA"
-    },
-    {
       "videoId": "Mgd07SgjC8c",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1134,28 +1156,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Mgd07SgjC8c/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Mgd07SgjC8c"
-    },
-    {
-      "videoId": "mHXELsEResE",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "New Apple child safety features help parents keep kids safe online",
-      "published": "2026-09-24T16:15:20+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/mHXELsEResE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mHXELsEResE"
-    },
-    {
-      "videoId": "c43tABiPIyQ",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Apple Games: Behind the Scenes of Stop-Motion Animation",
-      "published": "2026-09-23T15:50:53+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/c43tABiPIyQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=c43tABiPIyQ"
     },
     {
       "videoId": "EthkNLasUa8",
