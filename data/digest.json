@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T17:19:20.432Z",
+  "generatedAt": "2026-10-30T16:57:06.025Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,6 +47,72 @@
   ],
   "videos": [
     {
+      "videoId": "7TtGMileCus",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
+      "published": "2026-10-30T15:24:48+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/7TtGMileCus/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7TtGMileCus"
+    },
+    {
+      "videoId": "Oi9DHk57KeQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
+      "published": "2026-10-30T15:22:47+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Oi9DHk57KeQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Oi9DHk57KeQ"
+    },
+    {
+      "videoId": "dIlza2R5hFE",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Spider bro went to WORK 🕸️",
+      "published": "2026-10-30T12:59:58+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/dIlza2R5hFE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=dIlza2R5hFE"
+    },
+    {
+      "videoId": "GNYHDltnwZQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
+      "published": "2026-10-29T22:48:11+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/GNYHDltnwZQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GNYHDltnwZQ"
+    },
+    {
+      "videoId": "JXEMFLQwi4A",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "GTC Berlin 2026: Power Demand, Increasing Grid Reliability and Resiliency",
+      "published": "2026-10-29T21:36:29+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/JXEMFLQwi4A/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JXEMFLQwi4A"
+    },
+    {
+      "videoId": "8mYfTR3E3Cw",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Designed in Berlin, for GTC Berlin.",
+      "published": "2026-10-29T21:35:36+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/8mYfTR3E3Cw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8mYfTR3E3Cw"
+    },
+    {
       "videoId": "L6pzlo1QvoM",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -61,7 +127,7 @@
       "videoId": "P1s0L_RQ5MU",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
-      "title": "Trick or Treat | Tesla Halloween Mode",
+      "title": "Tesla Halloween Mode",
       "published": "2026-10-29T00:46:06+00:00",
       "source": "Tesla",
       "type": "Talk",
@@ -298,39 +364,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/C2vdw5GSTQo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=C2vdw5GSTQo"
-    },
-    {
-      "videoId": "vKMDQJpRSvA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "AI for Detection and Response | Cloudflare’s Mark Anderson",
-      "published": "2026-10-27T14:55:22+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/vKMDQJpRSvA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vKMDQJpRSvA"
-    },
-    {
-      "videoId": "ilG7LPrngkI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "AI for Detection and Response | Cloudflare’s Mark Anderson",
-      "published": "2026-10-27T14:54:56+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ilG7LPrngkI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ilG7LPrngkI"
-    },
-    {
-      "videoId": "uhpS6vfhrH8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Better Sources, Better Presentations | Hebbia on Astra",
-      "published": "2026-10-27T14:50:21+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/uhpS6vfhrH8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=uhpS6vfhrH8"
     },
     {
       "videoId": "vT-o5hh1cVc",
@@ -619,17 +652,6 @@
       "url": "https://www.youtube.com/watch?v=WFxgq6HWT0k"
     },
     {
-      "videoId": "W3fUEVcaXwg",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How Nokia and NVIDIA Are Accelerating the Future of AI-Native Networks",
-      "published": "2026-10-23T17:00:03+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/W3fUEVcaXwg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=W3fUEVcaXwg"
-    },
-    {
       "videoId": "l7HGtHMDx38",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -650,17 +672,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/I7Nlw9rSCeo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=I7Nlw9rSCeo"
-    },
-    {
-      "videoId": "3KZbymg-lOw",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "A country’s data carries its culture, history, and values. It belongs to its people.",
-      "published": "2026-10-23T12:13:02+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/3KZbymg-lOw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3KZbymg-lOw"
     },
     {
       "videoId": "FWY4Trijf7o",
@@ -930,7 +941,7 @@
       "videoId": "FGCP2F_7rQk",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
-      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
       "published": "2026-10-13T21:26:16+00:00",
       "source": "Lex Fridman",
       "type": "Keynote",
@@ -1134,17 +1145,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/X2duObJWK5k/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=X2duObJWK5k"
-    },
-    {
-      "videoId": "ktdbUIZKeSE",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Making sure AI chips don’t overheat in space",
-      "published": "2026-09-30T16:07:24+00:00",
-      "source": "Google",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/ktdbUIZKeSE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ktdbUIZKeSE"
     },
     {
       "videoId": "Mgd07SgjC8c",
