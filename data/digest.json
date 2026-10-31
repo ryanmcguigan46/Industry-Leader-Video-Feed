@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T16:57:06.025Z",
+  "generatedAt": "2026-10-31T15:57:40.679Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,61 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "UhXxrc76q_c",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta at Future Forum London 2026 | Three Days in King's Cross",
+      "published": "2026-10-31T13:40:18+00:00",
+      "source": "Meta",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/UhXxrc76q_c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UhXxrc76q_c"
+    },
+    {
+      "videoId": "LRSJXRsKmLQ",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA GTC Berlin 2026 Event Highlights: AI in Action Across Europe",
+      "published": "2026-10-30T20:27:20+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/LRSJXRsKmLQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=LRSJXRsKmLQ"
+    },
+    {
+      "videoId": "o4D1J1YWjhg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "There are many futures. Which do you want to build?",
+      "published": "2026-10-30T20:17:12+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/o4D1J1YWjhg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=o4D1J1YWjhg"
+    },
+    {
+      "videoId": "ndtnt5kWT5A",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA Halos SAFE: Autonomous Vehicle Safety Evaluation From Road Testing to Simulation",
+      "published": "2026-10-30T19:47:01+00:00",
+      "source": "NVIDIA",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/ndtnt5kWT5A/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ndtnt5kWT5A"
+    },
+    {
+      "videoId": "rg6gRXwHaS8",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "From Berlin to your living room. 🌍",
+      "published": "2026-10-30T18:26:58+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/rg6gRXwHaS8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rg6gRXwHaS8"
+    },
     {
       "videoId": "7TtGMileCus",
       "leaderId": "sam-altman",
@@ -355,17 +410,6 @@
       "url": "https://www.youtube.com/watch?v=cflbzHRvGvg"
     },
     {
-      "videoId": "C2vdw5GSTQo",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Sotira Gives Unsold Inventory a Second Life with Codex",
-      "published": "2026-10-27T15:02:46+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/C2vdw5GSTQo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=C2vdw5GSTQo"
-    },
-    {
       "videoId": "vT-o5hh1cVc",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -595,39 +639,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/rySnll4sgu4/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=rySnll4sgu4"
-    },
-    {
-      "videoId": "a7cnTxoV3v0",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "A New Look for Minecraft: Java Edition with NVIDIA RTX Remix",
-      "published": "2026-10-23T22:26:51+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/a7cnTxoV3v0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=a7cnTxoV3v0"
-    },
-    {
-      "videoId": "c_igmkuu0sI",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA Halos SAFE: Autonomous Vehicle Safety Evaluation From Road Testing to Simulation",
-      "published": "2026-10-23T20:44:58+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/c_igmkuu0sI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=c_igmkuu0sI"
-    },
-    {
-      "videoId": "roUZ7_Rsf5c",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Accelerating Robot Development With AI Agents and NVIDIA Isaac",
-      "published": "2026-10-23T20:44:08+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/roUZ7_Rsf5c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=roUZ7_Rsf5c"
     },
     {
       "videoId": "mZ1IcqsaTwg",
@@ -1145,17 +1156,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/X2duObJWK5k/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=X2duObJWK5k"
-    },
-    {
-      "videoId": "Mgd07SgjC8c",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "George Russell x Muse",
-      "published": "2026-09-29T13:59:11+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Mgd07SgjC8c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Mgd07SgjC8c"
     },
     {
       "videoId": "EthkNLasUa8",
