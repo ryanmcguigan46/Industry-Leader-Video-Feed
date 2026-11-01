@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:57:40.679Z",
+  "generatedAt": "2026-11-01T17:00:53.261Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,50 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "aRg5DWHAC_g",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Double tap to break the ice, then search what’s inside ❄️",
+      "published": "2026-11-01T14:00:48+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/aRg5DWHAC_g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aRg5DWHAC_g"
+    },
+    {
+      "videoId": "8K08Ywgduno",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "The robots were told there’d be candy. 🍬🎃",
+      "published": "2026-10-31T18:04:07+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/8K08Ywgduno/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8K08Ywgduno"
+    },
+    {
+      "videoId": "0oaW9AydaEo",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Bone Voyage 💀",
+      "published": "2026-10-31T17:48:49+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/0oaW9AydaEo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0oaW9AydaEo"
+    },
+    {
+      "videoId": "22YWTc-KaNo",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Happy Halloween 🎃",
+      "published": "2026-10-31T16:11:38+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/22YWTc-KaNo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=22YWTc-KaNo"
+    },
     {
       "videoId": "UhXxrc76q_c",
       "leaderId": "mark-zuckerberg",
@@ -630,17 +674,6 @@
       "url": "https://www.youtube.com/watch?v=fdFyXTdJPLA"
     },
     {
-      "videoId": "rySnll4sgu4",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA GTC Berlin 2026 | Live Keynote Pregame",
-      "published": "2026-10-24T10:42:33+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/rySnll4sgu4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rySnll4sgu4"
-    },
-    {
       "videoId": "mZ1IcqsaTwg",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1059,17 +1092,6 @@
       "url": "https://www.youtube.com/watch?v=VFiWYLSQNP4"
     },
     {
-      "videoId": "MSf34rqZxbU",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "How big is space really? 🤔",
-      "published": "2026-10-08T16:22:05+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/MSf34rqZxbU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MSf34rqZxbU"
-    },
-    {
       "videoId": "bZjsD89p5mo",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -1112,28 +1134,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/DWoO0PowIuk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=DWoO0PowIuk"
-    },
-    {
-      "videoId": "vCiOLi-NDic",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Turn notes into quizzes with Google Search 📝",
-      "published": "2026-10-06T13:14:55+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/vCiOLi-NDic/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vCiOLi-NDic"
-    },
-    {
-      "videoId": "3SsXy3Mp_iM",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Halloween is coming",
-      "published": "2026-10-01T22:36:19+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/3SsXy3Mp_iM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3SsXy3Mp_iM"
     },
     {
       "videoId": "DgdCQ38Qitw",
