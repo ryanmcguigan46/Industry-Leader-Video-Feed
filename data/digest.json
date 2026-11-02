@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T17:00:53.261Z",
+  "generatedAt": "2026-11-02T20:38:37.369Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "Amm9ySSET4c",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Coinbase on OpenAI Private Intelligence",
+      "published": "2026-11-02T16:59:21+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Amm9ySSET4c/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Amm9ySSET4c"
+    },
     {
       "videoId": "aRg5DWHAC_g",
       "leaderId": "sundar-pichai",
@@ -441,17 +452,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/lPZQrVFcz3c/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=lPZQrVFcz3c"
-    },
-    {
-      "videoId": "cflbzHRvGvg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "From Ideas to Prototypes with Codex | Shopify’s Mikhail Parakhin",
-      "published": "2026-10-27T15:03:41+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/cflbzHRvGvg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cflbzHRvGvg"
     },
     {
       "videoId": "vT-o5hh1cVc",
@@ -1156,17 +1156,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/X2duObJWK5k/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=X2duObJWK5k"
-    },
-    {
-      "videoId": "EthkNLasUa8",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Starship - The Holy Grail of Rocketry",
-      "published": "2026-09-18T18:10:39+00:00",
-      "source": "SpaceX",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/EthkNLasUa8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=EthkNLasUa8"
     }
   ],
   "warnings": [
