@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T18:15:05.496Z",
+  "generatedAt": "2026-11-04T18:29:38.916Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "0LDs5rvx1EI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Figma Is Building Self-Serve Analytics with OpenAI",
+      "published": "2026-11-04T17:33:11+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/0LDs5rvx1EI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=0LDs5rvx1EI"
+    },
+    {
+      "videoId": "44GBqQGc-v0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Figma Is Building Self-Serve Analytics with OpenAI",
+      "published": "2026-11-04T17:27:07+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/44GBqQGc-v0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=44GBqQGc-v0"
+    },
+    {
+      "videoId": "3NyyOZQzy_E",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Flight POV | Roadster",
+      "published": "2026-11-03T22:59:30+00:00",
+      "source": "Tesla",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/3NyyOZQzy_E/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3NyyOZQzy_E"
+    },
+    {
+      "videoId": "NCxD-qsQcN0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "TamaGPT",
+      "published": "2026-11-03T18:30:30+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/NCxD-qsQcN0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NCxD-qsQcN0"
+    },
+    {
+      "videoId": "yC72iQx6rM0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Qodo brings company context into Codex code review",
+      "published": "2026-11-03T18:11:23+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/yC72iQx6rM0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yC72iQx6rM0"
+    },
+    {
+      "videoId": "63pcV4z0DwI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT Voice is now in Finances",
+      "published": "2026-11-03T18:04:51+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/63pcV4z0DwI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=63pcV4z0DwI"
+    },
     {
       "videoId": "23hF7xwWauE",
       "leaderId": "elon-musk",
@@ -353,61 +419,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/Aop7fAyKn00/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=Aop7fAyKn00"
-    },
-    {
-      "videoId": "kP26OlW5PBk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Merge CEO Shensi Ding: AI fluency starts at the top",
-      "published": "2026-10-28T11:51:11+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/kP26OlW5PBk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=kP26OlW5PBk"
-    },
-    {
-      "videoId": "6ep8Vvm4Bdw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Why Merge CEO Shensi Ding stays hands-on with Codex",
-      "published": "2026-10-28T11:50:26+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/6ep8Vvm4Bdw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6ep8Vvm4Bdw"
-    },
-    {
-      "videoId": "M2Oa42hF67E",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "From legal bottleneck to business partner | Legora’s Emma Kadri Bergström",
-      "published": "2026-10-28T09:45:24+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/M2Oa42hF67E/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=M2Oa42hF67E"
-    },
-    {
-      "videoId": "UOfmD1fY-i8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Building the future of legal work with AI | Legora CEO Max Junestrand",
-      "published": "2026-10-28T09:45:18+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/UOfmD1fY-i8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UOfmD1fY-i8"
-    },
-    {
-      "videoId": "z-WZMjNsg-k",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Faster contract review. Broader legal analysis. | Legora’s Alex Fortescue-Webb",
-      "published": "2026-10-28T09:45:16+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/z-WZMjNsg-k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=z-WZMjNsg-k"
     },
     {
       "videoId": "QqeKRvAkIc8",
@@ -958,17 +969,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/cvKIR-c1SsU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=cvKIR-c1SsU"
-    },
-    {
-      "videoId": "qt5p-_tE8d0",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Roadster Event",
-      "published": "2026-10-16T01:34:18+00:00",
-      "source": "Tesla",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/qt5p-_tE8d0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=qt5p-_tE8d0"
     },
     {
       "videoId": "ca6EzNHSHRg",
