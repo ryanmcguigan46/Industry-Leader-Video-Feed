@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T18:29:38.916Z",
+  "generatedAt": "2026-11-05T18:33:12.883Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,6 +47,61 @@
   ],
   "videos": [
     {
+      "videoId": "pheCh2nQPjQ",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Washington, D.C. is up next. 🏛️",
+      "published": "2026-11-05T17:49:47+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/pheCh2nQPjQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pheCh2nQPjQ"
+    },
+    {
+      "videoId": "pXRZyOxbDL4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
+      "published": "2026-11-05T17:14:11+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/pXRZyOxbDL4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pXRZyOxbDL4"
+    },
+    {
+      "videoId": "bJldMYfRvMQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Introducing ChatGPT Images 2.6",
+      "published": "2026-11-05T02:32:21+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/bJldMYfRvMQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=bJldMYfRvMQ"
+    },
+    {
+      "videoId": "9ZxCOHkfn_8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-Image-2.6: Faster image generation with Flare and Sunburst",
+      "published": "2026-11-04T23:42:40+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/9ZxCOHkfn_8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=9ZxCOHkfn_8"
+    },
+    {
+      "videoId": "6IttBmI4P9M",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Messi asks ChatGPT to reimagine his room",
+      "published": "2026-11-04T19:25:46+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/6IttBmI4P9M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=6IttBmI4P9M"
+    },
+    {
       "videoId": "0LDs5rvx1EI",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -83,7 +138,7 @@
       "videoId": "NCxD-qsQcN0",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
-      "title": "TamaGPT",
+      "title": "Design hardware with Astra",
       "published": "2026-11-03T18:30:30+00:00",
       "source": "OpenAI",
       "type": "Talk",
@@ -300,17 +355,6 @@
       "url": "https://www.youtube.com/watch?v=7TtGMileCus"
     },
     {
-      "videoId": "Oi9DHk57KeQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
-      "published": "2026-10-30T15:22:47+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Oi9DHk57KeQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Oi9DHk57KeQ"
-    },
-    {
       "videoId": "dIlza2R5hFE",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -320,17 +364,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/dIlza2R5hFE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=dIlza2R5hFE"
-    },
-    {
-      "videoId": "GNYHDltnwZQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
-      "published": "2026-10-29T22:48:11+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/GNYHDltnwZQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=GNYHDltnwZQ"
     },
     {
       "videoId": "JXEMFLQwi4A",
@@ -355,17 +388,6 @@
       "url": "https://www.youtube.com/watch?v=8mYfTR3E3Cw"
     },
     {
-      "videoId": "L6pzlo1QvoM",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Enterprise at Zendesk: Putting Company Data to Work",
-      "published": "2026-10-29T16:23:43+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/L6pzlo1QvoM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=L6pzlo1QvoM"
-    },
-    {
       "videoId": "P1s0L_RQ5MU",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -375,17 +397,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/P1s0L_RQ5MU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=P1s0L_RQ5MU"
-    },
-    {
-      "videoId": "ujmyzWSj8IU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "API credits, now in ChatGPT Pro and Business plans",
-      "published": "2026-10-28T23:45:26+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ujmyzWSj8IU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ujmyzWSj8IU"
     },
     {
       "videoId": "WzuIZLoHqqA",
@@ -661,17 +672,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/x5h1JykMcFU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=x5h1JykMcFU"
-    },
-    {
-      "videoId": "MLHcSiNVIto",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Microducks Took Over GTC Berlin #NVIDIAGTC #Robots #Microducks",
-      "published": "2026-10-25T23:00:08+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/MLHcSiNVIto/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=MLHcSiNVIto"
     },
     {
       "videoId": "PFVOThWzcAQ",
