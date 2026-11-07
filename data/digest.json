@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T17:49:29.974Z",
+  "generatedAt": "2026-11-07T16:45:46.806Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "8ySMdUIF3cY",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Starship - Go For Orbit",
+      "published": "2026-11-07T15:00:36+00:00",
+      "source": "SpaceX",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/8ySMdUIF3cY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8ySMdUIF3cY"
+    },
+    {
+      "videoId": "784YQBiZArk",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "How Siemens Plans Production in Minutes With NVIDIA AI",
+      "published": "2026-11-06T23:10:49+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/784YQBiZArk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=784YQBiZArk"
+    },
+    {
+      "videoId": "FP25dmOnKb8",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Tesla Argentina Launch",
+      "published": "2026-11-06T22:21:15+00:00",
+      "source": "Tesla",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/FP25dmOnKb8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FP25dmOnKb8"
+    },
+    {
+      "videoId": "3izhk1dJ6VY",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meta AI assists Riley's car rebuilding business",
+      "published": "2026-11-06T21:50:42+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/3izhk1dJ6VY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3izhk1dJ6VY"
+    },
+    {
+      "videoId": "hJOwOkLHRN0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "LifeVal: Measuring AI progress on the tasks that matter in everyday life.",
+      "published": "2026-11-06T21:11:34+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/hJOwOkLHRN0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hJOwOkLHRN0"
+    },
+    {
+      "videoId": "NcROXiN_cdE",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Tesla Cybertruck Unveil",
+      "published": "2026-11-06T19:52:58+00:00",
+      "source": "Tesla",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/NcROXiN_cdE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NcROXiN_cdE"
+    },
     {
       "videoId": "1JiNcQ-BbFc",
       "leaderId": "tim-cook",
@@ -399,17 +465,6 @@
       "url": "https://www.youtube.com/watch?v=rg6gRXwHaS8"
     },
     {
-      "videoId": "7TtGMileCus",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
-      "published": "2026-10-30T15:24:48+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/7TtGMileCus/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=7TtGMileCus"
-    },
-    {
       "videoId": "dIlza2R5hFE",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -696,17 +751,6 @@
       "url": "https://www.youtube.com/watch?v=aCNvcXxTSlE"
     },
     {
-      "videoId": "bXNTUB209KE",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Using AI Agents to Teach Robots to Walk in Simulation #NVIDIAGTC #Microducks #Robotics",
-      "published": "2026-10-26T16:00:24+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/bXNTUB209KE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=bXNTUB209KE"
-    },
-    {
       "videoId": "3pQYJ_Um7YI",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -982,28 +1026,6 @@
       "url": "https://www.youtube.com/watch?v=r5vsHHPVhJg"
     },
     {
-      "videoId": "7p5LxFdc-Qg",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "The Ramp | Roadster",
-      "published": "2026-10-16T02:23:48+00:00",
-      "source": "Tesla",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/7p5LxFdc-Qg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=7p5LxFdc-Qg"
-    },
-    {
-      "videoId": "cvKIR-c1SsU",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "Roadster | The Last Best Driver's Car",
-      "published": "2026-10-16T01:34:45+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/cvKIR-c1SsU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=cvKIR-c1SsU"
-    },
-    {
       "videoId": "ca6EzNHSHRg",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1134,17 +1156,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/DWoO0PowIuk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=DWoO0PowIuk"
-    },
-    {
-      "videoId": "DgdCQ38Qitw",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meta's CTO shares thoughts on our latest announcements",
-      "published": "2026-10-01T16:01:37+00:00",
-      "source": "Meta",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/DgdCQ38Qitw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DgdCQ38Qitw"
     }
   ],
   "warnings": [
