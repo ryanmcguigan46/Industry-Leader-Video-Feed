@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T16:55:43.588Z",
+  "generatedAt": "2026-11-09T21:18:38.551Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "cnJUlm-ktKA",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Prosper Global connects tech innovation to humanitarian impact with Microsoft Elevate",
+      "published": "2026-11-09T20:03:24+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/cnJUlm-ktKA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cnJUlm-ktKA"
+    },
+    {
+      "videoId": "miUjxZ2ASRs",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Apple Pay: The fast, easy, and secure way to pay.",
+      "published": "2026-11-09T17:25:01+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/miUjxZ2ASRs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=miUjxZ2ASRs"
+    },
+    {
+      "videoId": "N8mdDQXM7-o",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Reel of the Week | BMX ride from Meta Glasses POV",
+      "published": "2026-11-09T17:22:28+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/N8mdDQXM7-o/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N8mdDQXM7-o"
+    },
     {
       "videoId": "8ySMdUIF3cY",
       "leaderId": "elon-musk",
@@ -1114,17 +1147,6 @@
       "url": "https://www.youtube.com/watch?v=iUr53gDq380"
     },
     {
-      "videoId": "a110BjghioM",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Safari Helps Keep Trackers Away",
-      "published": "2026-10-12T19:25:26+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/a110BjghioM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=a110BjghioM"
-    },
-    {
       "videoId": "cAMjVquiEL0",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -1145,17 +1167,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/4mjXPWPkWo8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=4mjXPWPkWo8"
-    },
-    {
-      "videoId": "DWoO0PowIuk",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "climate scientist breaks down biology in the Everglades",
-      "published": "2026-10-06T16:11:54+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/DWoO0PowIuk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=DWoO0PowIuk"
     }
   ],
   "warnings": [
