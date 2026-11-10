@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T21:18:38.551Z",
+  "generatedAt": "2026-11-10T18:29:46.281Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,83 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "Z9k5oI3Paoc",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Introducing Businesses in ChatGPT in beta",
+      "published": "2026-11-10T18:07:12+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/Z9k5oI3Paoc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc"
+    },
+    {
+      "videoId": "N5YLi8Ar3Wg",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Meet the Startup: Aegiq, A Full-Stack Photonic Quantum Computing Company",
+      "published": "2026-11-10T17:00:21+00:00",
+      "source": "NVIDIA",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/N5YLi8Ar3Wg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N5YLi8Ar3Wg"
+    },
+    {
+      "videoId": "OZ5KXB6kHUg",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA Alpamayo 2 Edge is here, bringing adaptive AI reasoning in real-time to the vehicle. 🚘",
+      "published": "2026-11-10T16:08:39+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/OZ5KXB6kHUg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OZ5KXB6kHUg"
+    },
+    {
+      "videoId": "sSyzj08Cy2U",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Greg Brockman on how OpenAI uses frontier models for cyber defense",
+      "published": "2026-11-10T16:07:53+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/sSyzj08Cy2U/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sSyzj08Cy2U"
+    },
+    {
+      "videoId": "vdEGZYIvFiI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Greg Brockman on how OpenAI uses frontier models for cyber defense",
+      "published": "2026-11-10T16:02:15+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vdEGZYIvFiI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vdEGZYIvFiI"
+    },
+    {
+      "videoId": "ZTxzWJeGFAA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How CodeRabbit uses OpenAI to review AI-generated code",
+      "published": "2026-11-10T15:05:40+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ZTxzWJeGFAA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZTxzWJeGFAA"
+    },
+    {
+      "videoId": "FNTz0CdqL6g",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "published": "2026-11-10T02:41:23+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/FNTz0CdqL6g/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=FNTz0CdqL6g"
+    },
     {
       "videoId": "cnJUlm-ktKA",
       "leaderId": "satya-nadella",
@@ -333,28 +410,6 @@
       "url": "https://www.youtube.com/watch?v=23hF7xwWauE"
     },
     {
-      "videoId": "JR7xBi2kJjY",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Glean on privacy and OpenAI Private Intelligence",
-      "published": "2026-11-03T16:51:36+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/JR7xBi2kJjY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JR7xBi2kJjY"
-    },
-    {
-      "videoId": "2h16j4K_NbA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Glean on privacy and OpenAI Private Intelligence",
-      "published": "2026-11-03T16:46:37+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/2h16j4K_NbA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=2h16j4K_NbA"
-    },
-    {
       "videoId": "yLMjEpMio2w",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -366,17 +421,6 @@
       "url": "https://www.youtube.com/watch?v=yLMjEpMio2w"
     },
     {
-      "videoId": "NbDF90z-g6w",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Coinbase on OpenAI Private Intelligence",
-      "published": "2026-11-02T22:44:26+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/NbDF90z-g6w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NbDF90z-g6w"
-    },
-    {
       "videoId": "sooiYbnctEw",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -386,17 +430,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/sooiYbnctEw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=sooiYbnctEw"
-    },
-    {
-      "videoId": "Amm9ySSET4c",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Coinbase on OpenAI Private Intelligence",
-      "published": "2026-11-02T16:59:21+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Amm9ySSET4c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Amm9ySSET4c"
     },
     {
       "videoId": "aRg5DWHAC_g",
@@ -463,17 +496,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/LRSJXRsKmLQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=LRSJXRsKmLQ"
-    },
-    {
-      "videoId": "o4D1J1YWjhg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "There are many futures. Which do you want to build?",
-      "published": "2026-10-30T20:17:12+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/o4D1J1YWjhg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=o4D1J1YWjhg"
     },
     {
       "videoId": "ndtnt5kWT5A",
@@ -683,28 +705,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/XWYMvOFMacA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=XWYMvOFMacA"
-    },
-    {
-      "videoId": "dmbT2IHpOKU",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "AI in France: From NVIDIA’s First Chip to AI Factories | NVIDIA",
-      "published": "2026-10-26T23:43:23+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/dmbT2IHpOKU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=dmbT2IHpOKU"
-    },
-    {
-      "videoId": "ouNWfNvqlDg",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How Audi is Reimagining Production With Digital Twins and Physical AI",
-      "published": "2026-10-26T19:49:36+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ouNWfNvqlDg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ouNWfNvqlDg"
     },
     {
       "videoId": "dQMYDBGX0uk",
