@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T18:29:46.281Z",
+  "generatedAt": "2026-11-11T18:24:52.951Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,149 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "4cwP_N-zfYM",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "How veteran Jerry LeBlanc uses Ray-Ban Meta smart glasses to help care for his farm",
+      "published": "2026-11-11T15:48:37+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/4cwP_N-zfYM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=4cwP_N-zfYM"
+    },
+    {
+      "videoId": "2U62qLtkHWY",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Joshua: Active Navy Reservist and Meta Product Management Leader",
+      "published": "2026-11-11T14:00:27+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/2U62qLtkHWY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2U62qLtkHWY"
+    },
+    {
+      "videoId": "3Pdpo0Ps4kI",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Bringing Megapack Online Faster",
+      "published": "2026-11-11T03:45:49+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/3Pdpo0Ps4kI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3Pdpo0Ps4kI"
+    },
+    {
+      "videoId": "HJ4Xq1UZRJk",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Honoring Our Veterans: An Honor Flight to Washington, DC",
+      "published": "2026-11-11T01:54:29+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/HJ4Xq1UZRJk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HJ4Xq1UZRJk"
+    },
+    {
+      "videoId": "jDxKzlGLCas",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Building with GPT-Live and Image Generation | DevDay 2026",
+      "published": "2026-11-11T01:24:08+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/jDxKzlGLCas/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=jDxKzlGLCas"
+    },
+    {
+      "videoId": "pIW_8VyvCuQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Build What’s Next on the ChatGPT Platform with Plugins | DevDay 2026",
+      "published": "2026-11-11T01:24:08+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/pIW_8VyvCuQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pIW_8VyvCuQ"
+    },
+    {
+      "videoId": "QRm7VNMnurA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Sites and the Next Generation of Web Apps | DevDay 2026",
+      "published": "2026-11-11T01:24:07+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/QRm7VNMnurA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QRm7VNMnurA"
+    },
+    {
+      "videoId": "U1IVZy9FhVQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "What Will You Build With Coding Agents That Don’t Quit? | DevDay 2026",
+      "published": "2026-11-11T01:24:07+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/U1IVZy9FhVQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=U1IVZy9FhVQ"
+    },
+    {
+      "videoId": "b7l_Dhe1h8M",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Harness-as-a-Service: Building with the Agents API | DevDay 2026",
+      "published": "2026-11-11T01:24:07+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/b7l_Dhe1h8M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=b7l_Dhe1h8M"
+    },
+    {
+      "videoId": "gUQN7juxvVI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Codex Security: From Vulnerability to Verified Fix | DevDay 2026",
+      "published": "2026-11-11T01:24:07+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/gUQN7juxvVI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gUQN7juxvVI"
+    },
+    {
+      "videoId": "nAubbmlhPfI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "What Comes After Loops?: Deep Dive Into Agentic Architecture | DevDay 2026",
+      "published": "2026-11-11T01:24:07+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/nAubbmlhPfI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nAubbmlhPfI"
+    },
+    {
+      "videoId": "YaPx9scLwfk",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Created live on Mac: “Surrender” by Labrinth",
+      "published": "2026-11-10T22:15:59+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/YaPx9scLwfk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YaPx9scLwfk"
+    },
+    {
+      "videoId": "5YXlrzC_RYE",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Answering your questions about GPT-Live",
+      "published": "2026-11-10T21:10:08+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/5YXlrzC_RYE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5YXlrzC_RYE"
+    },
     {
       "videoId": "Z9k5oI3Paoc",
       "leaderId": "sam-altman",
@@ -300,61 +443,6 @@
       "url": "https://www.youtube.com/watch?v=pXRZyOxbDL4"
     },
     {
-      "videoId": "bJldMYfRvMQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Introducing ChatGPT Images 2.6",
-      "published": "2026-11-05T02:32:21+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/bJldMYfRvMQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=bJldMYfRvMQ"
-    },
-    {
-      "videoId": "9ZxCOHkfn_8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "GPT-Image-2.6: Faster image generation with Flare and Sunburst",
-      "published": "2026-11-04T23:42:40+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/9ZxCOHkfn_8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=9ZxCOHkfn_8"
-    },
-    {
-      "videoId": "6IttBmI4P9M",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Messi asks ChatGPT to reimagine his room",
-      "published": "2026-11-04T19:25:46+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/6IttBmI4P9M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6IttBmI4P9M"
-    },
-    {
-      "videoId": "0LDs5rvx1EI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Figma Is Building Self-Serve Analytics with OpenAI",
-      "published": "2026-11-04T17:33:11+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/0LDs5rvx1EI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=0LDs5rvx1EI"
-    },
-    {
-      "videoId": "44GBqQGc-v0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Figma Is Building Self-Serve Analytics with OpenAI",
-      "published": "2026-11-04T17:27:07+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/44GBqQGc-v0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=44GBqQGc-v0"
-    },
-    {
       "videoId": "3NyyOZQzy_E",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -364,39 +452,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/3NyyOZQzy_E/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=3NyyOZQzy_E"
-    },
-    {
-      "videoId": "NCxD-qsQcN0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Design hardware with Astra",
-      "published": "2026-11-03T18:30:30+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/NCxD-qsQcN0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NCxD-qsQcN0"
-    },
-    {
-      "videoId": "yC72iQx6rM0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Qodo brings company context into Codex code review",
-      "published": "2026-11-03T18:11:23+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/yC72iQx6rM0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=yC72iQx6rM0"
-    },
-    {
-      "videoId": "63pcV4z0DwI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Voice is now in Finances",
-      "published": "2026-11-03T18:04:51+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/63pcV4z0DwI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=63pcV4z0DwI"
     },
     {
       "videoId": "23hF7xwWauE",
@@ -419,6 +474,17 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/yLMjEpMio2w/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=yLMjEpMio2w"
+    },
+    {
+      "videoId": "ZR4v1c4CClc",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Microsoft Ignite: Opening Keynote 2026",
+      "published": "2026-11-02T22:02:28+00:00",
+      "source": "Microsoft",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/ZR4v1c4CClc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZR4v1c4CClc"
     },
     {
       "videoId": "sooiYbnctEw",
@@ -971,17 +1037,6 @@
       "url": "https://www.youtube.com/watch?v=i8IZfeuQypc"
     },
     {
-      "videoId": "29jCT5zL_O0",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "From Sketch to Scale: How Our Teams Built Meta VR Glasses",
-      "published": "2026-10-19T22:40:22+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/29jCT5zL_O0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=29jCT5zL_O0"
-    },
-    {
       "videoId": "BII3FrsTBlU",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -1048,28 +1103,6 @@
       "url": "https://www.youtube.com/watch?v=-yRQsurykGw"
     },
     {
-      "videoId": "r5vsHHPVhJg",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "The Kickflip | Roadster",
-      "published": "2026-10-16T02:52:38+00:00",
-      "source": "Tesla",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/r5vsHHPVhJg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=r5vsHHPVhJg"
-    },
-    {
-      "videoId": "ca6EzNHSHRg",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Inside the Making of Meta VR Glasses",
-      "published": "2026-10-15T16:01:09+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ca6EzNHSHRg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ca6EzNHSHRg"
-    },
-    {
       "videoId": "FGCP2F_7rQk",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -1079,17 +1112,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk"
-    },
-    {
-      "videoId": "N1fhLtHmJ1I",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Reel of the Week | Surreal Instagram Illustrator",
-      "published": "2026-10-13T16:04:23+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/N1fhLtHmJ1I/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=N1fhLtHmJ1I"
     },
     {
       "videoId": "QeQAXuQpGEA",
@@ -1134,17 +1156,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/hkrYiZ_g9tw/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=hkrYiZ_g9tw"
-    },
-    {
-      "videoId": "iUr53gDq380",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Safari Helps Keep Distractions Hidden",
-      "published": "2026-10-12T19:25:32+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/iUr53gDq380/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=iUr53gDq380"
     },
     {
       "videoId": "cAMjVquiEL0",
