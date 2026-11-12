@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T18:24:52.951Z",
+  "generatedAt": "2026-11-12T18:43:17.936Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,6 +47,105 @@
   ],
   "videos": [
     {
+      "videoId": "vu3YlUMkvyg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "What Codex Unlocks for Holiday Extras",
+      "published": "2026-11-12T09:45:17+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vu3YlUMkvyg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vu3YlUMkvyg"
+    },
+    {
+      "videoId": "Sp54mxnWjUM",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "“The Dreamer”: An Apple Holiday Film featuring MacBook Neo",
+      "published": "2026-11-12T08:00:35+00:00",
+      "source": "Apple",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/Sp54mxnWjUM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Sp54mxnWjUM"
+    },
+    {
+      "videoId": "-lCz0NOIZ5Y",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Stories from Our Veterans, with Vic Blends — Aaron Cornelius",
+      "published": "2026-11-12T00:57:25+00:00",
+      "source": "Meta",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/-lCz0NOIZ5Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-lCz0NOIZ5Y"
+    },
+    {
+      "videoId": "nDBLJ2oj2LI",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Stories from Our Veterans, with Vic Blends — Sam Meyer",
+      "published": "2026-11-12T00:55:30+00:00",
+      "source": "Meta",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/nDBLJ2oj2LI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nDBLJ2oj2LI"
+    },
+    {
+      "videoId": "NNdJGAuj8HU",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Stories from Our Veterans, with Vic Blends — Belard Ernest",
+      "published": "2026-11-12T00:55:07+00:00",
+      "source": "Meta",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/NNdJGAuj8HU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NNdJGAuj8HU"
+    },
+    {
+      "videoId": "NS220dAaRMo",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How to request and enable Daybreak Blue",
+      "published": "2026-11-11T21:10:28+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/NS220dAaRMo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=NS220dAaRMo"
+    },
+    {
+      "videoId": "vdBDMj2UhDg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How to enable PR security reviews with Codex Security",
+      "published": "2026-11-11T21:10:24+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vdBDMj2UhDg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vdBDMj2UhDg"
+    },
+    {
+      "videoId": "CrrpfvbNyMw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "ChatGPT Images: Three Ways to Get Started",
+      "published": "2026-11-11T21:10:10+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/CrrpfvbNyMw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=CrrpfvbNyMw"
+    },
+    {
+      "videoId": "hUhr0JiVZZs",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How to run your first Codex Security scan",
+      "published": "2026-11-11T21:10:05+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/hUhr0JiVZZs/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hUhr0JiVZZs"
+    },
+    {
       "videoId": "4cwP_N-zfYM",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -67,6 +166,17 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/2U62qLtkHWY/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2U62qLtkHWY"
+    },
+    {
+      "videoId": "YsnS2PpTr1w",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Cyber at the Frontier",
+      "published": "2026-11-11T04:51:51+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/YsnS2PpTr1w/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YsnS2PpTr1w"
     },
     {
       "videoId": "3Pdpo0Ps4kI",
@@ -223,50 +333,6 @@
       "url": "https://www.youtube.com/watch?v=OZ5KXB6kHUg"
     },
     {
-      "videoId": "sSyzj08Cy2U",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Greg Brockman on how OpenAI uses frontier models for cyber defense",
-      "published": "2026-11-10T16:07:53+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/sSyzj08Cy2U/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sSyzj08Cy2U"
-    },
-    {
-      "videoId": "vdEGZYIvFiI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Greg Brockman on how OpenAI uses frontier models for cyber defense",
-      "published": "2026-11-10T16:02:15+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/vdEGZYIvFiI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vdEGZYIvFiI"
-    },
-    {
-      "videoId": "ZTxzWJeGFAA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How CodeRabbit uses OpenAI to review AI-generated code",
-      "published": "2026-11-10T15:05:40+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ZTxzWJeGFAA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZTxzWJeGFAA"
-    },
-    {
-      "videoId": "FNTz0CdqL6g",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "published": "2026-11-10T02:41:23+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/FNTz0CdqL6g/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=FNTz0CdqL6g"
-    },
-    {
       "videoId": "cnJUlm-ktKA",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -344,17 +410,6 @@
       "url": "https://www.youtube.com/watch?v=3izhk1dJ6VY"
     },
     {
-      "videoId": "hJOwOkLHRN0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "LifeVal: Measuring AI progress on the tasks that matter in everyday life.",
-      "published": "2026-11-06T21:11:34+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/hJOwOkLHRN0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hJOwOkLHRN0"
-    },
-    {
       "videoId": "NcROXiN_cdE",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -430,17 +485,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/pheCh2nQPjQ/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=pheCh2nQPjQ"
-    },
-    {
-      "videoId": "pXRZyOxbDL4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
-      "published": "2026-11-05T17:14:11+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/pXRZyOxbDL4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pXRZyOxbDL4"
     },
     {
       "videoId": "3NyyOZQzy_E",
@@ -905,17 +949,6 @@
       "url": "https://www.youtube.com/watch?v=mZ1IcqsaTwg"
     },
     {
-      "videoId": "WFxgq6HWT0k",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "The Future Is for Everyone: Sensing Art with AI Glasses",
-      "published": "2026-10-23T19:00:10+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/WFxgq6HWT0k/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=WFxgq6HWT0k"
-    },
-    {
       "videoId": "l7HGtHMDx38",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -936,17 +969,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/I7Nlw9rSCeo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=I7Nlw9rSCeo"
-    },
-    {
-      "videoId": "FWY4Trijf7o",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Reel of the Week: Faridi (@faridisartwork)",
-      "published": "2026-10-22T16:31:07+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/FWY4Trijf7o/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=FWY4Trijf7o"
     },
     {
       "videoId": "CEEP7RecnFM",
@@ -1002,17 +1024,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/sAYti12cStU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=sAYti12cStU"
-    },
-    {
-      "videoId": "Mw2-d-hV0_M",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Azzi Fudd Basketball Camp Builds Community using Instagram and Facebook",
-      "published": "2026-10-21T16:57:38+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Mw2-d-hV0_M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Mw2-d-hV0_M"
     },
     {
       "videoId": "WMjVP7QQyDI",
@@ -1145,17 +1156,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/xLL4UnrLNWs/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=xLL4UnrLNWs"
-    },
-    {
-      "videoId": "hkrYiZ_g9tw",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "Welcome Apple HomeView: Designed for life at home.",
-      "published": "2026-10-13T13:12:01+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/hkrYiZ_g9tw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hkrYiZ_g9tw"
     },
     {
       "videoId": "cAMjVquiEL0",
