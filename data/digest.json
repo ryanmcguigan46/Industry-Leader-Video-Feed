@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T18:43:17.936Z",
+  "generatedAt": "2026-11-13T18:24:52.150Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "iC6H8KOQTFU",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Meet the Startup: Prima Mente, an AI Biology Company",
+      "published": "2026-11-13T18:14:03+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/iC6H8KOQTFU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iC6H8KOQTFU"
+    },
+    {
+      "videoId": "IybC6q43-cY",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Every Mile Has a Purpose: Mina Guli’s Mission to Save Water",
+      "published": "2026-11-13T17:08:52+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/IybC6q43-cY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IybC6q43-cY"
+    },
+    {
+      "videoId": "PkAmyub12K8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Mozilla uses GPT-6 Cyber to find and fix Firefox vulnerabilities",
+      "published": "2026-11-13T16:56:45+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/PkAmyub12K8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PkAmyub12K8"
+    },
+    {
+      "videoId": "pfbfZKxUEDQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
+      "published": "2026-11-13T16:38:23+00:00",
+      "source": "OpenAI",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/pfbfZKxUEDQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pfbfZKxUEDQ"
+    },
+    {
+      "videoId": "YmxpxJZvm4M",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Cyber at the Frontier",
+      "published": "2026-11-12T22:37:14+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/YmxpxJZvm4M/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=YmxpxJZvm4M"
+    },
+    {
+      "videoId": "ri8_DNt5HY0",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Cybertruck RC Racer",
+      "published": "2026-11-12T20:14:06+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ri8_DNt5HY0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ri8_DNt5HY0"
+    },
     {
       "videoId": "vu3YlUMkvyg",
       "leaderId": "sam-altman",
@@ -168,17 +234,6 @@
       "url": "https://www.youtube.com/watch?v=2U62qLtkHWY"
     },
     {
-      "videoId": "YsnS2PpTr1w",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Cyber at the Frontier",
-      "published": "2026-11-11T04:51:51+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/YsnS2PpTr1w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YsnS2PpTr1w"
-    },
-    {
       "videoId": "3Pdpo0Ps4kI",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -289,28 +344,6 @@
       "url": "https://www.youtube.com/watch?v=YaPx9scLwfk"
     },
     {
-      "videoId": "5YXlrzC_RYE",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Answering your questions about GPT-Live",
-      "published": "2026-11-10T21:10:08+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/5YXlrzC_RYE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=5YXlrzC_RYE"
-    },
-    {
-      "videoId": "Z9k5oI3Paoc",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Introducing Businesses in ChatGPT in beta",
-      "published": "2026-11-10T18:07:12+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/Z9k5oI3Paoc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Z9k5oI3Paoc"
-    },
-    {
       "videoId": "N5YLi8Ar3Wg",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
@@ -336,7 +369,7 @@
       "videoId": "cnJUlm-ktKA",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
-      "title": "Prosper Global connects tech innovation to humanitarian impact with Microsoft Elevate",
+      "title": "These crises were impossible to solve. Now they aren't. | Microsoft Elevate + Prosper Global",
       "published": "2026-11-09T20:03:24+00:00",
       "source": "Microsoft",
       "type": "Talk",
@@ -754,7 +787,7 @@
       "videoId": "efoVuiBuFkc",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
-      "title": "Children’s Cancer Institute speeds genomic analysis with Azure, giving kids with cancer hope",
+      "title": "Her cancer was 1 of 300 types, Azure helped find it | Children's Cancer Institute",
       "published": "2026-10-27T20:03:36+00:00",
       "source": "Microsoft",
       "type": "Talk",
@@ -804,17 +837,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/xWfNhWn88Bc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=xWfNhWn88Bc"
-    },
-    {
-      "videoId": "XWYMvOFMacA",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "AI in the UK: Drug Discovery, Robotics and AI Factories | NVIDIA",
-      "published": "2026-10-27T13:00:19+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/XWYMvOFMacA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=XWYMvOFMacA"
     },
     {
       "videoId": "dQMYDBGX0uk",
@@ -936,17 +958,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/fdFyXTdJPLA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=fdFyXTdJPLA"
-    },
-    {
-      "videoId": "mZ1IcqsaTwg",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Every Dream Deserves A Shot",
-      "published": "2026-10-23T19:16:39+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/mZ1IcqsaTwg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=mZ1IcqsaTwg"
     },
     {
       "videoId": "l7HGtHMDx38",
@@ -1103,21 +1114,10 @@
       "url": "https://www.youtube.com/watch?v=Uq_0kEthH3U"
     },
     {
-      "videoId": "-yRQsurykGw",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "The Ramp | Roadster",
-      "published": "2026-10-16T03:04:38+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/-yRQsurykGw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-yRQsurykGw"
-    },
-    {
       "videoId": "FGCP2F_7rQk",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
-      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
+      "title": "Jensen Huang & Lex in Taiwan",
       "published": "2026-10-13T21:26:16+00:00",
       "source": "Lex Fridman",
       "type": "Keynote",
