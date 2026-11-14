@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T18:24:52.150Z",
+  "generatedAt": "2026-11-14T16:51:58.248Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,61 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "5ibgnmypP8I",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Autonomous Vehicle Safety: 5 Things to Know",
+      "published": "2026-11-13T22:00:05+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/5ibgnmypP8I/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=5ibgnmypP8I"
+    },
+    {
+      "videoId": "vFLpMFWjEz8",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Meet the people of Richland Parish, Louisiana",
+      "published": "2026-11-13T20:09:57+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vFLpMFWjEz8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vFLpMFWjEz8"
+    },
+    {
+      "videoId": "MJ5f8oJsDaY",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "In our element",
+      "published": "2026-11-13T19:50:09+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/MJ5f8oJsDaY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MJ5f8oJsDaY"
+    },
+    {
+      "videoId": "IOcODanTpN0",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Meet GR00T 2, our most advanced, open System One model for robotics research.",
+      "published": "2026-11-13T19:36:39+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/IOcODanTpN0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=IOcODanTpN0"
+    },
+    {
+      "videoId": "ErOVIC-MGVA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "6 Underrated Ways to Use ChatGPT",
+      "published": "2026-11-13T18:15:41+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ErOVIC-MGVA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ErOVIC-MGVA"
+    },
     {
       "videoId": "iC6H8KOQTFU",
       "leaderId": "jensen-huang",
@@ -94,7 +149,7 @@
       "videoId": "YmxpxJZvm4M",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
-      "title": "Cyber at the Frontier",
+      "title": "Cyber at the Frontier: Introducing Daybreak Red Team & Daybreak Defense Factory",
       "published": "2026-11-12T22:37:14+00:00",
       "source": "OpenAI",
       "type": "Press",
@@ -320,17 +375,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/gUQN7juxvVI/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=gUQN7juxvVI"
-    },
-    {
-      "videoId": "nAubbmlhPfI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "What Comes After Loops?: Deep Dive Into Agentic Architecture | DevDay 2026",
-      "published": "2026-11-11T01:24:07+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/nAubbmlhPfI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=nAubbmlhPfI"
     },
     {
       "videoId": "YaPx9scLwfk",
@@ -740,17 +784,6 @@
       "url": "https://www.youtube.com/watch?v=Aop7fAyKn00"
     },
     {
-      "videoId": "QqeKRvAkIc8",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How AI Is Advancing Human Health",
-      "published": "2026-10-28T00:45:39+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/QqeKRvAkIc8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=QqeKRvAkIc8"
-    },
-    {
       "videoId": "NOUuyzWx8WI",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -806,17 +839,6 @@
       "url": "https://www.youtube.com/watch?v=GqEiCMCGIYE"
     },
     {
-      "videoId": "7cJlIJpKBW4",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Ten years. A Millionfold Leap in AI.",
-      "published": "2026-10-27T16:36:42+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/7cJlIJpKBW4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=7cJlIJpKBW4"
-    },
-    {
       "videoId": "vT-o5hh1cVc",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -870,17 +892,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/6__ZWHF_4-U/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=6__ZWHF_4-U"
-    },
-    {
-      "videoId": "4uAzZnCZS84",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "America's Workforce Academy: Paid Training, a Job and a Path to the Future",
-      "published": "2026-10-26T18:20:57+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4uAzZnCZS84/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4uAzZnCZS84"
     },
     {
       "videoId": "DDjr6gXqtN8",
@@ -1081,17 +1092,6 @@
       "url": "https://www.youtube.com/watch?v=yI5C7LqBVEM"
     },
     {
-      "videoId": "RcEmV2BB_XE",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Who could it be? 🧐",
-      "published": "2026-10-18T15:59:32+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/RcEmV2BB_XE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=RcEmV2BB_XE"
-    },
-    {
       "videoId": "Zg9Q56t7bdo",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -1117,7 +1117,7 @@
       "videoId": "FGCP2F_7rQk",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
-      "title": "Jensen Huang & Lex in Taiwan",
+      "title": "Taiwan: Street Food with the CEO of a $5 Trillion Company | Jensen Huang and Lex Fridman",
       "published": "2026-10-13T21:26:16+00:00",
       "source": "Lex Fridman",
       "type": "Keynote",
