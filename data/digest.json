@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:51:58.248Z",
+  "generatedAt": "2026-11-15T17:35:34.311Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "ha-gDrDm8Es",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "From AI Factories to Intelligent Cities",
+      "published": "2026-11-14T17:48:26+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ha-gDrDm8Es/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ha-gDrDm8Es"
+    },
     {
       "videoId": "5ibgnmypP8I",
       "leaderId": "jensen-huang",
@@ -729,17 +740,6 @@
       "url": "https://www.youtube.com/watch?v=JXEMFLQwi4A"
     },
     {
-      "videoId": "8mYfTR3E3Cw",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Designed in Berlin, for GTC Berlin.",
-      "published": "2026-10-29T21:35:36+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/8mYfTR3E3Cw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8mYfTR3E3Cw"
-    },
-    {
       "videoId": "P1s0L_RQ5MU",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -1117,7 +1117,7 @@
       "videoId": "FGCP2F_7rQk",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
-      "title": "Taiwan: Street Food with the CEO of a $5 Trillion Company | Jensen Huang and Lex Fridman",
+      "title": "Taiwan w/ Jensen Huang | Lex Fridman",
       "published": "2026-10-13T21:26:16+00:00",
       "source": "Lex Fridman",
       "type": "Keynote",
