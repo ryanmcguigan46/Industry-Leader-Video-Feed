@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T17:35:34.311Z",
+  "generatedAt": "2026-11-16T20:49:31.440Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,83 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "Zbv70lLBHgo",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
+      "published": "2026-11-16T20:23:56+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Zbv70lLBHgo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Zbv70lLBHgo"
+    },
+    {
+      "videoId": "ytfzbmLCTas",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Majorana 2 Explained: The road to 1000x improvement",
+      "published": "2026-11-16T19:27:54+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ytfzbmLCTas/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ytfzbmLCTas"
+    },
+    {
+      "videoId": "E3Hy-WRJbXE",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA cuPhoton Brings Real-Time Black Hole Science to GPUs",
+      "published": "2026-11-16T18:32:32+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/E3Hy-WRJbXE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=E3Hy-WRJbXE"
+    },
+    {
+      "videoId": "uGZO6I-CJtM",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Real-Time Discovery Starts With NVIDIA DAQIRI",
+      "published": "2026-11-16T18:30:41+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/uGZO6I-CJtM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uGZO6I-CJtM"
+    },
+    {
+      "videoId": "v2I4vqz87fk",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "20 Years of CUDA: Honoring the Architects of Progress",
+      "published": "2026-11-16T18:09:00+00:00",
+      "source": "NVIDIA",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/v2I4vqz87fk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=v2I4vqz87fk"
+    },
+    {
+      "videoId": "vVVdxMwPBuA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
+      "published": "2026-11-16T16:55:56+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/vVVdxMwPBuA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=vVVdxMwPBuA"
+    },
+    {
+      "videoId": "soNLXvgUqNY",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "La Cousinade",
+      "published": "2026-11-16T05:00:26+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/soNLXvgUqNY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=soNLXvgUqNY"
+    },
     {
       "videoId": "ha-gDrDm8Es",
       "leaderId": "jensen-huang",
@@ -353,39 +430,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/QRm7VNMnurA/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=QRm7VNMnurA"
-    },
-    {
-      "videoId": "U1IVZy9FhVQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "What Will You Build With Coding Agents That Don’t Quit? | DevDay 2026",
-      "published": "2026-11-11T01:24:07+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/U1IVZy9FhVQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=U1IVZy9FhVQ"
-    },
-    {
-      "videoId": "b7l_Dhe1h8M",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Harness-as-a-Service: Building with the Agents API | DevDay 2026",
-      "published": "2026-11-11T01:24:07+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/b7l_Dhe1h8M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=b7l_Dhe1h8M"
-    },
-    {
-      "videoId": "gUQN7juxvVI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Codex Security: From Vulnerability to Verified Fix | DevDay 2026",
-      "published": "2026-11-11T01:24:07+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/gUQN7juxvVI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gUQN7juxvVI"
     },
     {
       "videoId": "YaPx9scLwfk",
@@ -696,28 +740,6 @@
       "url": "https://www.youtube.com/watch?v=LRSJXRsKmLQ"
     },
     {
-      "videoId": "ndtnt5kWT5A",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA Halos SAFE: Autonomous Vehicle Safety Evaluation From Road Testing to Simulation",
-      "published": "2026-10-30T19:47:01+00:00",
-      "source": "NVIDIA",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/ndtnt5kWT5A/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ndtnt5kWT5A"
-    },
-    {
-      "videoId": "rg6gRXwHaS8",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "From Berlin to your living room. 🌍",
-      "published": "2026-10-30T18:26:58+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/rg6gRXwHaS8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=rg6gRXwHaS8"
-    },
-    {
       "videoId": "dIlza2R5hFE",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -727,17 +749,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/dIlza2R5hFE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=dIlza2R5hFE"
-    },
-    {
-      "videoId": "JXEMFLQwi4A",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Power Demand, Increasing Grid Reliability and Resiliency",
-      "published": "2026-10-29T21:36:29+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/JXEMFLQwi4A/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=JXEMFLQwi4A"
     },
     {
       "videoId": "P1s0L_RQ5MU",
@@ -1117,7 +1128,7 @@
       "videoId": "FGCP2F_7rQk",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
-      "title": "Taiwan w/ Jensen Huang | Lex Fridman",
+      "title": "Jensen & Lex in Taiwan",
       "published": "2026-10-13T21:26:16+00:00",
       "source": "Lex Fridman",
       "type": "Keynote",
