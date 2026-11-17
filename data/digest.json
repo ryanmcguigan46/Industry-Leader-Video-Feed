@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T20:49:31.440Z",
+  "generatedAt": "2026-11-17T19:39:17.744Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,138 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "tKoDPOrLMX0",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Building 3D video sets with GPT-6.2 Astra",
+      "published": "2026-11-17T18:41:32+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/tKoDPOrLMX0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tKoDPOrLMX0"
+    },
+    {
+      "videoId": "Jwp2aZDSVss",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Introducing Copilot Workspaces | Microsoft Ignite 2026",
+      "published": "2026-11-17T18:18:58+00:00",
+      "source": "Microsoft",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/Jwp2aZDSVss/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Jwp2aZDSVss"
+    },
+    {
+      "videoId": "I7ovGye-ACc",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "A moment unlike any other | Microsoft Ignite 2026",
+      "published": "2026-11-17T18:06:58+00:00",
+      "source": "Microsoft",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/I7ovGye-ACc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=I7ovGye-ACc"
+    },
+    {
+      "videoId": "C1zYX5jwqq4",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
+      "published": "2026-11-17T17:55:40+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/C1zYX5jwqq4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4"
+    },
+    {
+      "videoId": "ZIpm-0RczCk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Revolut’s lean teams take on bigger challenges with OpenAI",
+      "published": "2026-11-17T09:45:35+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/ZIpm-0RczCk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZIpm-0RczCk"
+    },
+    {
+      "videoId": "R_sl8zEp9ng",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How one engineer built a code review service with Codex | Revolut’s Dmitry Pitik",
+      "published": "2026-11-17T09:45:34+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/R_sl8zEp9ng/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=R_sl8zEp9ng"
+    },
+    {
+      "videoId": "xkeXefmxArU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Making marketing feel local across 40 markets | Revolut’s Kim Maniovich",
+      "published": "2026-11-17T09:45:31+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/xkeXefmxArU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xkeXefmxArU"
+    },
+    {
+      "videoId": "-O0tMcyH4Wo",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Faster fraud response for safer shopping | Revolut’s David Abitbol",
+      "published": "2026-11-17T09:45:26+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/-O0tMcyH4Wo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-O0tMcyH4Wo"
+    },
+    {
+      "videoId": "hAASMPKkaXA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Making seven years of design documentation AI-readable in a day | Revolut’s Dmytro Pavlov",
+      "published": "2026-11-17T09:45:10+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/hAASMPKkaXA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hAASMPKkaXA"
+    },
+    {
+      "videoId": "GgGKUOqufM8",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "America's Workforce Academy: An Opportunity for Everyone",
+      "published": "2026-11-16T23:26:07+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/GgGKUOqufM8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GgGKUOqufM8"
+    },
+    {
+      "videoId": "tEXlSuqhk3w",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "America's Workforce Academy: Dina Powell McCormick and Mike Rowe",
+      "published": "2026-11-16T23:25:01+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/tEXlSuqhk3w/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=tEXlSuqhk3w"
+    },
+    {
+      "videoId": "KsjEDVroCCI",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Richland Parish",
+      "published": "2026-11-16T22:26:45+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/KsjEDVroCCI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KsjEDVroCCI"
+    },
     {
       "videoId": "Zbv70lLBHgo",
       "leaderId": "sam-altman",
@@ -97,7 +229,7 @@
       "title": "20 Years of CUDA: Honoring the Architects of Progress",
       "published": "2026-11-16T18:09:00+00:00",
       "source": "NVIDIA",
-      "type": "Speech",
+      "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/v2I4vqz87fk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=v2I4vqz87fk"
     },
@@ -311,50 +443,6 @@
       "url": "https://www.youtube.com/watch?v=NNdJGAuj8HU"
     },
     {
-      "videoId": "NS220dAaRMo",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to request and enable Daybreak Blue",
-      "published": "2026-11-11T21:10:28+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/NS220dAaRMo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=NS220dAaRMo"
-    },
-    {
-      "videoId": "vdBDMj2UhDg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to enable PR security reviews with Codex Security",
-      "published": "2026-11-11T21:10:24+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/vdBDMj2UhDg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vdBDMj2UhDg"
-    },
-    {
-      "videoId": "CrrpfvbNyMw",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "ChatGPT Images: Three Ways to Get Started",
-      "published": "2026-11-11T21:10:10+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/CrrpfvbNyMw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CrrpfvbNyMw"
-    },
-    {
-      "videoId": "hUhr0JiVZZs",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How to run your first Codex Security scan",
-      "published": "2026-11-11T21:10:05+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/hUhr0JiVZZs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hUhr0JiVZZs"
-    },
-    {
       "videoId": "4cwP_N-zfYM",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -397,39 +485,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/HJ4Xq1UZRJk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=HJ4Xq1UZRJk"
-    },
-    {
-      "videoId": "jDxKzlGLCas",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Building with GPT-Live and Image Generation | DevDay 2026",
-      "published": "2026-11-11T01:24:08+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/jDxKzlGLCas/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=jDxKzlGLCas"
-    },
-    {
-      "videoId": "pIW_8VyvCuQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Build What’s Next on the ChatGPT Platform with Plugins | DevDay 2026",
-      "published": "2026-11-11T01:24:08+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/pIW_8VyvCuQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pIW_8VyvCuQ"
-    },
-    {
-      "videoId": "QRm7VNMnurA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Sites and the Next Generation of Web Apps | DevDay 2026",
-      "published": "2026-11-11T01:24:07+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/QRm7VNMnurA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=QRm7VNMnurA"
     },
     {
       "videoId": "YaPx9scLwfk",
@@ -839,17 +894,6 @@
       "url": "https://www.youtube.com/watch?v=efoVuiBuFkc"
     },
     {
-      "videoId": "GqEiCMCGIYE",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Artists on Fire Island Upcycle Used Furniture",
-      "published": "2026-10-27T16:45:04+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/GqEiCMCGIYE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=GqEiCMCGIYE"
-    },
-    {
       "videoId": "vT-o5hh1cVc",
       "leaderId": "tim-cook",
       "leaderName": "Tim Cook",
@@ -881,28 +925,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/dQMYDBGX0uk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=dQMYDBGX0uk"
-    },
-    {
-      "videoId": "CgNWlvDReMY",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "America's Workforce Academy: Ohio Chapter",
-      "published": "2026-10-26T18:45:11+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/CgNWlvDReMY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=CgNWlvDReMY"
-    },
-    {
-      "videoId": "6__ZWHF_4-U",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Introducing America's Workforce Academy, Built by Meta",
-      "published": "2026-10-26T18:31:47+00:00",
-      "source": "Meta",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/6__ZWHF_4-U/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=6__ZWHF_4-U"
     },
     {
       "videoId": "DDjr6gXqtN8",
@@ -1037,17 +1059,6 @@
       "url": "https://www.youtube.com/watch?v=tFezqXBF-gw"
     },
     {
-      "videoId": "anAmTGcewX8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Sam Altman, Co-Founder and CEO of OpenAI: Staying Human While Scaling Superintelligence",
-      "published": "2026-10-21T21:21:00+00:00",
-      "source": "Stanford GSB",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/anAmTGcewX8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=anAmTGcewX8"
-    },
-    {
       "videoId": "sAYti12cStU",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -1128,7 +1139,7 @@
       "videoId": "FGCP2F_7rQk",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
-      "title": "Jensen & Lex in Taiwan",
+      "title": "Lex & Jensen Huang visit Taiwan",
       "published": "2026-10-13T21:26:16+00:00",
       "source": "Lex Fridman",
       "type": "Keynote",
