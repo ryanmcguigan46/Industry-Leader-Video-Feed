@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T19:39:17.744Z",
+  "generatedAt": "2026-11-18T19:15:22.139Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,116 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "uJG53ligJt4",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "NVIDIA SC26 Special Address",
+      "published": "2026-11-18T18:36:18+00:00",
+      "source": "NVIDIA",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/uJG53ligJt4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uJG53ligJt4"
+    },
+    {
+      "videoId": "WtgpKNds5To",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "What If Your Brain Could Type For You?",
+      "published": "2026-11-18T17:26:39+00:00",
+      "source": "Meta",
+      "type": "Speech",
+      "thumb": "https://i.ytimg.com/vi/WtgpKNds5To/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WtgpKNds5To"
+    },
+    {
+      "videoId": "Hz64WOtsT4Y",
+      "leaderId": "tim-cook",
+      "leaderName": "Tim Cook",
+      "title": "Take a behind-the-scenes look at the making of the new action-packed Apple Pay film.",
+      "published": "2026-11-18T17:04:41+00:00",
+      "source": "Apple",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Hz64WOtsT4Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Hz64WOtsT4Y"
+    },
+    {
+      "videoId": "gn_LIY2D2Ag",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "The AI Podcast is back.",
+      "published": "2026-11-18T14:41:35+00:00",
+      "source": "NVIDIA",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/gn_LIY2D2Ag/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gn_LIY2D2Ag"
+    },
+    {
+      "videoId": "y9AALMeAeGI",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Can Open Source Make AI Agents Safer?",
+      "published": "2026-11-18T11:00:32+00:00",
+      "source": "NVIDIA",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/y9AALMeAeGI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=y9AALMeAeGI"
+    },
+    {
+      "videoId": "8Wtr78o1wnI",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Satya Nadella's Ignite Keynote in under 5 minutes | Microsoft Ignite 2026",
+      "published": "2026-11-18T03:03:23+00:00",
+      "source": "Microsoft",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/8Wtr78o1wnI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8Wtr78o1wnI"
+    },
+    {
+      "videoId": "Nv8-Km25Qj4",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Satya Nadella opens Microsoft Ignite 2026",
+      "published": "2026-11-18T03:03:07+00:00",
+      "source": "Microsoft",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/Nv8-Km25Qj4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Nv8-Km25Qj4"
+    },
+    {
+      "videoId": "2pdF52EVlbM",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "An underrated way to use ChatGPT: Life admin",
+      "published": "2026-11-18T00:06:39+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/2pdF52EVlbM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2pdF52EVlbM"
+    },
+    {
+      "videoId": "pmOJIq7Ah00",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Introducing ChatGPT for Sales",
+      "published": "2026-11-17T23:24:04+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/pmOJIq7Ah00/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=pmOJIq7Ah00"
+    },
+    {
+      "videoId": "ZR4v1c4CClc",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Microsoft Ignite: Opening Keynote 2026",
+      "published": "2026-11-17T20:38:29+00:00",
+      "source": "Microsoft",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/ZR4v1c4CClc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ZR4v1c4CClc"
+    },
     {
       "videoId": "tKoDPOrLMX0",
       "leaderId": "sam-altman",
@@ -366,17 +476,6 @@
       "url": "https://www.youtube.com/watch?v=pfbfZKxUEDQ"
     },
     {
-      "videoId": "YmxpxJZvm4M",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Cyber at the Frontier: Introducing Daybreak Red Team & Daybreak Defense Factory",
-      "published": "2026-11-12T22:37:14+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/YmxpxJZvm4M/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YmxpxJZvm4M"
-    },
-    {
       "videoId": "ri8_DNt5HY0",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -386,17 +485,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/ri8_DNt5HY0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ri8_DNt5HY0"
-    },
-    {
-      "videoId": "vu3YlUMkvyg",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "What Codex Unlocks for Holiday Extras",
-      "published": "2026-11-12T09:45:17+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/vu3YlUMkvyg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vu3YlUMkvyg"
     },
     {
       "videoId": "Sp54mxnWjUM",
@@ -707,28 +795,6 @@
       "url": "https://www.youtube.com/watch?v=yLMjEpMio2w"
     },
     {
-      "videoId": "ZR4v1c4CClc",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "Microsoft Ignite: Opening Keynote 2026",
-      "published": "2026-11-02T22:02:28+00:00",
-      "source": "Microsoft",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/ZR4v1c4CClc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZR4v1c4CClc"
-    },
-    {
-      "videoId": "sooiYbnctEw",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Your Spark, Your Story: Yannik Marek | NVIDIA RTX Spark",
-      "published": "2026-11-02T20:51:00+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/sooiYbnctEw/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=sooiYbnctEw"
-    },
-    {
       "videoId": "aRg5DWHAC_g",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -738,17 +804,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/aRg5DWHAC_g/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=aRg5DWHAC_g"
-    },
-    {
-      "videoId": "8K08Ywgduno",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "The robots were told there’d be candy. 🍬🎃",
-      "published": "2026-10-31T18:04:07+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/8K08Ywgduno/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=8K08Ywgduno"
     },
     {
       "videoId": "0oaW9AydaEo",
@@ -771,28 +826,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/22YWTc-KaNo/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=22YWTc-KaNo"
-    },
-    {
-      "videoId": "UhXxrc76q_c",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meta at Future Forum London 2026 | Three Days in King's Cross",
-      "published": "2026-10-31T13:40:18+00:00",
-      "source": "Meta",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/UhXxrc76q_c/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=UhXxrc76q_c"
-    },
-    {
-      "videoId": "LRSJXRsKmLQ",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA GTC Berlin 2026 Event Highlights: AI in Action Across Europe",
-      "published": "2026-10-30T20:27:20+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/LRSJXRsKmLQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=LRSJXRsKmLQ"
     },
     {
       "videoId": "dIlza2R5hFE",
@@ -1139,7 +1172,7 @@
       "videoId": "FGCP2F_7rQk",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
-      "title": "Lex & Jensen Huang visit Taiwan",
+      "title": "Jensen & Lex in Taiwan",
       "published": "2026-10-13T21:26:16+00:00",
       "source": "Lex Fridman",
       "type": "Keynote",
@@ -1167,17 +1200,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/bNdmGYamiWM/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=bNdmGYamiWM"
-    },
-    {
-      "videoId": "xLL4UnrLNWs",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "The new HomePod mini 2: Rich, room-filling sound in a compact design.",
-      "published": "2026-10-13T13:16:22+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/xLL4UnrLNWs/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xLL4UnrLNWs"
     },
     {
       "videoId": "cAMjVquiEL0",
