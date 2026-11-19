@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T19:15:22.139Z",
+  "generatedAt": "2026-11-19T19:22:28.478Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,83 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "WBfAcp5AWbE",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "From One Instagram Post to a Crabbing Community",
+      "published": "2026-11-19T17:07:05+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/WBfAcp5AWbE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WBfAcp5AWbE"
+    },
+    {
+      "videoId": "Di8ntBu1ouY",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Creativity is a team sport | Walter Isaacson & Kent Walker",
+      "published": "2026-11-19T17:00:31+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Di8ntBu1ouY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Di8ntBu1ouY"
+    },
+    {
+      "videoId": "xkSVuGruhgE",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Think childproofing, but for AI.",
+      "published": "2026-11-19T17:00:13+00:00",
+      "source": "NVIDIA",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/xkSVuGruhgE/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=xkSVuGruhgE"
+    },
+    {
+      "videoId": "ikNf7eW8CHk",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Meet Brian and Beast, the dots at work at Holiday Extras",
+      "published": "2026-11-19T11:38:57+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/ikNf7eW8CHk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ikNf7eW8CHk"
+    },
+    {
+      "videoId": "AhmCKHNqhB8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Introducing ChatGPT for Accounting",
+      "published": "2026-11-18T21:01:26+00:00",
+      "source": "OpenAI",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/AhmCKHNqhB8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=AhmCKHNqhB8"
+    },
+    {
+      "videoId": "QJ0AfOosQQU",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Copilot goes multiplayer: Autopilot and Workspaces  #msignite",
+      "published": "2026-11-18T21:00:23+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/QJ0AfOosQQU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QJ0AfOosQQU"
+    },
+    {
+      "videoId": "2Y3e3RYNjFk",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "AI is getting better at figuring out how software works. Even when the code is hidden.",
+      "published": "2026-11-18T20:00:13+00:00",
+      "source": "NVIDIA",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/2Y3e3RYNjFk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2Y3e3RYNjFk"
+    },
     {
       "videoId": "uJG53ligJt4",
       "leaderId": "jensen-huang",
@@ -454,28 +531,6 @@
       "url": "https://www.youtube.com/watch?v=IybC6q43-cY"
     },
     {
-      "videoId": "PkAmyub12K8",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Mozilla uses GPT-6 Cyber to find and fix Firefox vulnerabilities",
-      "published": "2026-11-13T16:56:45+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/PkAmyub12K8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PkAmyub12K8"
-    },
-    {
-      "videoId": "pfbfZKxUEDQ",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Mozilla strengthens Firefox security with GPT-6 Cyber",
-      "published": "2026-11-13T16:38:23+00:00",
-      "source": "OpenAI",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/pfbfZKxUEDQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pfbfZKxUEDQ"
-    },
-    {
       "videoId": "ri8_DNt5HY0",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -718,17 +773,6 @@
       "url": "https://www.youtube.com/watch?v=mdSB_Fizm0A"
     },
     {
-      "videoId": "yox5STy6Fu4",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "AI Glasses in 60 seconds",
-      "published": "2026-11-05T22:05:03+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/yox5STy6Fu4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=yox5STy6Fu4"
-    },
-    {
       "videoId": "MFwdoEtxbwA",
       "leaderId": "sundar-pichai",
       "leaderName": "Sundar Pichai",
@@ -751,17 +795,6 @@
       "url": "https://www.youtube.com/watch?v=wNZdVkiEZtE"
     },
     {
-      "videoId": "pheCh2nQPjQ",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Washington, D.C. is up next. 🏛️",
-      "published": "2026-11-05T17:49:47+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/pheCh2nQPjQ/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pheCh2nQPjQ"
-    },
-    {
       "videoId": "3NyyOZQzy_E",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -782,17 +815,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/23hF7xwWauE/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=23hF7xwWauE"
-    },
-    {
-      "videoId": "yLMjEpMio2w",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "From AI Infrastructure to the 6G Future",
-      "published": "2026-11-03T13:00:13+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/yLMjEpMio2w/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=yLMjEpMio2w"
     },
     {
       "videoId": "aRg5DWHAC_g",
@@ -1136,17 +1158,6 @@
       "url": "https://www.youtube.com/watch?v=BII3FrsTBlU"
     },
     {
-      "videoId": "yI5C7LqBVEM",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "Turn messy notes into clean PDFs with Google Search ✨",
-      "published": "2026-10-19T16:01:07+00:00",
-      "source": "Google",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/yI5C7LqBVEM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=yI5C7LqBVEM"
-    },
-    {
       "videoId": "Zg9Q56t7bdo",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -1172,7 +1183,7 @@
       "videoId": "FGCP2F_7rQk",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
-      "title": "Jensen & Lex in Taiwan",
+      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
       "published": "2026-10-13T21:26:16+00:00",
       "source": "Lex Fridman",
       "type": "Keynote",
@@ -1211,17 +1222,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/cAMjVquiEL0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=cAMjVquiEL0"
-    },
-    {
-      "videoId": "4mjXPWPkWo8",
-      "leaderId": "satya-nadella",
-      "leaderName": "Satya Nadella",
-      "title": "How this data scientist is using AI to help 130,000 AT&T employees",
-      "published": "2026-10-06T16:30:18+00:00",
-      "source": "Microsoft",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/4mjXPWPkWo8/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=4mjXPWPkWo8"
     }
   ],
   "warnings": [
