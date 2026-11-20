@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T19:22:28.478Z",
+  "generatedAt": "2026-11-20T18:58:49.060Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,116 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "X19Q12hmRjY",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "An underrated way to use ChatGPT: Finding a doctor",
+      "published": "2026-11-20T17:22:23+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/X19Q12hmRjY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=X19Q12hmRjY"
+    },
+    {
+      "videoId": "WGvsk0LIveU",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "3 ChatGPT Tips to Save Money",
+      "published": "2026-11-20T16:00:17+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/WGvsk0LIveU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=WGvsk0LIveU"
+    },
+    {
+      "videoId": "OSHSopaYjTw",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Create and Share a Dashboard in ChatGPT",
+      "published": "2026-11-20T06:07:50+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/OSHSopaYjTw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=OSHSopaYjTw"
+    },
+    {
+      "videoId": "JEgTn37Sk50",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Ask Questions About Your Data in ChatGPT",
+      "published": "2026-11-20T06:05:59+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/JEgTn37Sk50/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JEgTn37Sk50"
+    },
+    {
+      "videoId": "oJIuz3AFfEQ",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Connect Your Team’s Data to ChatGPT",
+      "published": "2026-11-20T06:02:57+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/oJIuz3AFfEQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oJIuz3AFfEQ"
+    },
+    {
+      "videoId": "KrlfehIapEA",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Meet the Data Agent in ChatGPT",
+      "published": "2026-11-20T05:35:32+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/KrlfehIapEA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=KrlfehIapEA"
+    },
+    {
+      "videoId": "3_fayTbZrW8",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Create and Share a Report in ChatGPT Space",
+      "published": "2026-11-20T05:32:52+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/3_fayTbZrW8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3_fayTbZrW8"
+    },
+    {
+      "videoId": "spOp_5_C5SQ",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Making the Impossible Possible | Tesla",
+      "published": "2026-11-19T23:09:01+00:00",
+      "source": "Tesla",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/spOp_5_C5SQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=spOp_5_C5SQ"
+    },
+    {
+      "videoId": "Hgv4wjYXHKw",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "AI is more than a better way to search.",
+      "published": "2026-11-19T20:15:21+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Hgv4wjYXHKw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Hgv4wjYXHKw"
+    },
+    {
+      "videoId": "N5YwZjN4_oI",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Europe’s AI Future With Judith Dada | Pub Conversations",
+      "published": "2026-11-19T20:00:07+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/N5YwZjN4_oI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N5YwZjN4_oI"
+    },
     {
       "videoId": "WBfAcp5AWbE",
       "leaderId": "mark-zuckerberg",
@@ -300,39 +410,6 @@
       "url": "https://www.youtube.com/watch?v=R_sl8zEp9ng"
     },
     {
-      "videoId": "xkeXefmxArU",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Making marketing feel local across 40 markets | Revolut’s Kim Maniovich",
-      "published": "2026-11-17T09:45:31+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/xkeXefmxArU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=xkeXefmxArU"
-    },
-    {
-      "videoId": "-O0tMcyH4Wo",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Faster fraud response for safer shopping | Revolut’s David Abitbol",
-      "published": "2026-11-17T09:45:26+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/-O0tMcyH4Wo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-O0tMcyH4Wo"
-    },
-    {
-      "videoId": "hAASMPKkaXA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Making seven years of design documentation AI-readable in a day | Revolut’s Dmytro Pavlov",
-      "published": "2026-11-17T09:45:10+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/hAASMPKkaXA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hAASMPKkaXA"
-    },
-    {
       "videoId": "GgGKUOqufM8",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -353,28 +430,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/tEXlSuqhk3w/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=tEXlSuqhk3w"
-    },
-    {
-      "videoId": "KsjEDVroCCI",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Richland Parish",
-      "published": "2026-11-16T22:26:45+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/KsjEDVroCCI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=KsjEDVroCCI"
-    },
-    {
-      "videoId": "Zbv70lLBHgo",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
-      "published": "2026-11-16T20:23:56+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Zbv70lLBHgo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Zbv70lLBHgo"
     },
     {
       "videoId": "ytfzbmLCTas",
@@ -419,28 +474,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/v2I4vqz87fk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=v2I4vqz87fk"
-    },
-    {
-      "videoId": "vVVdxMwPBuA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Check Point speeds up vulnerability research with Daybreak | OpenAI for Cybersecurity",
-      "published": "2026-11-16T16:55:56+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/vVVdxMwPBuA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=vVVdxMwPBuA"
-    },
-    {
-      "videoId": "soNLXvgUqNY",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "La Cousinade",
-      "published": "2026-11-16T05:00:26+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/soNLXvgUqNY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=soNLXvgUqNY"
     },
     {
       "videoId": "ha-gDrDm8Es",
@@ -496,17 +529,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/IOcODanTpN0/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=IOcODanTpN0"
-    },
-    {
-      "videoId": "ErOVIC-MGVA",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "6 Underrated Ways to Use ChatGPT",
-      "published": "2026-11-13T18:15:41+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ErOVIC-MGVA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ErOVIC-MGVA"
     },
     {
       "videoId": "iC6H8KOQTFU",
@@ -652,17 +674,6 @@
       "url": "https://www.youtube.com/watch?v=N5YLi8Ar3Wg"
     },
     {
-      "videoId": "OZ5KXB6kHUg",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA Alpamayo 2 Edge is here, bringing adaptive AI reasoning in real-time to the vehicle. 🚘",
-      "published": "2026-11-10T16:08:39+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/OZ5KXB6kHUg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=OZ5KXB6kHUg"
-    },
-    {
       "videoId": "cnJUlm-ktKA",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -705,17 +716,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/8ySMdUIF3cY/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=8ySMdUIF3cY"
-    },
-    {
-      "videoId": "784YQBiZArk",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "How Siemens Plans Production in Minutes With NVIDIA AI",
-      "published": "2026-11-06T23:10:49+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/784YQBiZArk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=784YQBiZArk"
     },
     {
       "videoId": "FP25dmOnKb8",
@@ -771,6 +771,17 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/mdSB_Fizm0A/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=mdSB_Fizm0A"
+    },
+    {
+      "videoId": "yox5STy6Fu4",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "AI Glasses in 60 seconds",
+      "published": "2026-11-05T22:05:03+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/yox5STy6Fu4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=yox5STy6Fu4"
     },
     {
       "videoId": "MFwdoEtxbwA",
@@ -1169,21 +1180,10 @@
       "url": "https://www.youtube.com/watch?v=Zg9Q56t7bdo"
     },
     {
-      "videoId": "Uq_0kEthH3U",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "The Kickflip | Roadster",
-      "published": "2026-10-16T03:14:14+00:00",
-      "source": "Tesla",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/Uq_0kEthH3U/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Uq_0kEthH3U"
-    },
-    {
       "videoId": "FGCP2F_7rQk",
       "leaderId": "jensen-huang",
       "leaderName": "Jensen Huang",
-      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
       "published": "2026-10-13T21:26:16+00:00",
       "source": "Lex Fridman",
       "type": "Keynote",
