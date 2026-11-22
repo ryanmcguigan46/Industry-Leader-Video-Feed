@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:53:44.672Z",
+  "generatedAt": "2026-11-22T18:16:34.387Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -47,6 +47,28 @@
   ],
   "videos": [
     {
+      "videoId": "Ay6JlZM4Qks",
+      "leaderId": "satya-nadella",
+      "leaderName": "Satya Nadella",
+      "title": "Step up to the plate with Mariners catcher Cal Raleigh",
+      "published": "2026-11-22T17:30:30+00:00",
+      "source": "Microsoft",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/Ay6JlZM4Qks/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ay6JlZM4Qks"
+    },
+    {
+      "videoId": "eNBqkc7V1nU",
+      "leaderId": "elon-musk",
+      "leaderName": "Elon Musk",
+      "title": "Introducing Tesla Self-Driving V15",
+      "published": "2026-11-22T00:17:39+00:00",
+      "source": "Tesla",
+      "type": "Press",
+      "thumb": "https://i.ytimg.com/vi/eNBqkc7V1nU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=eNBqkc7V1nU"
+    },
+    {
       "videoId": "mX7wHNnsghs",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
@@ -83,7 +105,7 @@
       "videoId": "WGvsk0LIveU",
       "leaderId": "sam-altman",
       "leaderName": "Sam Altman",
-      "title": "3 ChatGPT Tips to Save Money",
+      "title": "3 Tips to Save Money With ChatGPT",
       "published": "2026-11-20T16:00:17+00:00",
       "source": "OpenAI",
       "type": "Talk",
@@ -1167,17 +1189,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/BII3FrsTBlU/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=BII3FrsTBlU"
-    },
-    {
-      "videoId": "Zg9Q56t7bdo",
-      "leaderId": "elon-musk",
-      "leaderName": "Elon Musk",
-      "title": "The 0-60 | Roadster",
-      "published": "2026-10-16T05:51:07+00:00",
-      "source": "Tesla",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/Zg9Q56t7bdo/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=Zg9Q56t7bdo"
     },
     {
       "videoId": "FGCP2F_7rQk",
