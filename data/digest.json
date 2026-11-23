@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:16:34.387Z",
+  "generatedAt": "2026-11-23T22:28:06.183Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,72 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "oF2xi9BaHco",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Tomorrow on the NVIDIA AI Podcast.",
+      "published": "2026-11-23T22:03:46+00:00",
+      "source": "NVIDIA",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/oF2xi9BaHco/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oF2xi9BaHco"
+    },
+    {
+      "videoId": "w-ltt0Np2cY",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
+      "published": "2026-11-23T20:03:11+00:00",
+      "source": "OpenAI",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/w-ltt0Np2cY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=w-ltt0Np2cY"
+    },
+    {
+      "videoId": "MpsO8Ds8uyo",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "Investigating Linux Vulnerabilities with GPT-6 Cyber",
+      "published": "2026-11-23T20:02:15+00:00",
+      "source": "OpenAI",
+      "type": "Interview",
+      "thumb": "https://i.ytimg.com/vi/MpsO8Ds8uyo/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=MpsO8Ds8uyo"
+    },
+    {
+      "videoId": "2b4QUm0tuVc",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "Unwrap new possibilities this holiday season. 🎁",
+      "published": "2026-11-23T19:03:04+00:00",
+      "source": "NVIDIA",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/2b4QUm0tuVc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=2b4QUm0tuVc"
+    },
+    {
+      "videoId": "gAmjBqXNoFI",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Franklin Templeton uses AI for investment research | OpenAI",
+      "published": "2026-11-23T15:23:23+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/gAmjBqXNoFI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=gAmjBqXNoFI"
+    },
+    {
+      "videoId": "PXKvR8ta22Q",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "How Franklin Templeton uses AI for investment research | OpenAI",
+      "published": "2026-11-23T15:21:09+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/PXKvR8ta22Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PXKvR8ta22Q"
+    },
     {
       "videoId": "Ay6JlZM4Qks",
       "leaderId": "satya-nadella",
@@ -366,17 +432,6 @@
       "url": "https://www.youtube.com/watch?v=2pdF52EVlbM"
     },
     {
-      "videoId": "pmOJIq7Ah00",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Introducing ChatGPT for Sales",
-      "published": "2026-11-17T23:24:04+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/pmOJIq7Ah00/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pmOJIq7Ah00"
-    },
-    {
       "videoId": "ZR4v1c4CClc",
       "leaderId": "satya-nadella",
       "leaderName": "Satya Nadella",
@@ -386,17 +441,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/ZR4v1c4CClc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=ZR4v1c4CClc"
-    },
-    {
-      "videoId": "tKoDPOrLMX0",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "Building 3D video sets with GPT-6.2 Astra",
-      "published": "2026-11-17T18:41:32+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/tKoDPOrLMX0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=tKoDPOrLMX0"
     },
     {
       "videoId": "Jwp2aZDSVss",
@@ -419,28 +463,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/I7ovGye-ACc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=I7ovGye-ACc"
-    },
-    {
-      "videoId": "C1zYX5jwqq4",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "GPT-6.2 Astra and GPT-6.2 Sol—Models built for the real world",
-      "published": "2026-11-17T17:55:40+00:00",
-      "source": "OpenAI",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/C1zYX5jwqq4/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=C1zYX5jwqq4"
-    },
-    {
-      "videoId": "ZIpm-0RczCk",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Revolut’s lean teams take on bigger challenges with OpenAI",
-      "published": "2026-11-17T09:45:35+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/ZIpm-0RczCk/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=ZIpm-0RczCk"
     },
     {
       "videoId": "GgGKUOqufM8",
@@ -564,17 +586,6 @@
       "url": "https://www.youtube.com/watch?v=IOcODanTpN0"
     },
     {
-      "videoId": "iC6H8KOQTFU",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Meet the Startup: Prima Mente, an AI Biology Company",
-      "published": "2026-11-13T18:14:03+00:00",
-      "source": "NVIDIA",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/iC6H8KOQTFU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=iC6H8KOQTFU"
-    },
-    {
       "videoId": "IybC6q43-cY",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -694,17 +705,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/YaPx9scLwfk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=YaPx9scLwfk"
-    },
-    {
-      "videoId": "N5YLi8Ar3Wg",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "Meet the Startup: Aegiq, A Full-Stack Photonic Quantum Computing Company",
-      "published": "2026-11-10T17:00:21+00:00",
-      "source": "NVIDIA",
-      "type": "Interview",
-      "thumb": "https://i.ytimg.com/vi/N5YLi8Ar3Wg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=N5YLi8Ar3Wg"
     },
     {
       "videoId": "cnJUlm-ktKA",
