@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T20:23:38.843Z",
+  "generatedAt": "2026-11-26T19:59:59.249Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,39 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "_Bap4F2gaUk",
+      "leaderId": "mark-zuckerberg",
+      "leaderName": "Mark Zuckerberg",
+      "title": "Reel of the Week | The Harpist Living on a Turkey Farm",
+      "published": "2026-11-26T18:00:16+00:00",
+      "source": "Meta",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/_Bap4F2gaUk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_Bap4F2gaUk"
+    },
+    {
+      "videoId": "8AHYLrvxuSw",
+      "leaderId": "sundar-pichai",
+      "leaderName": "Sundar Pichai",
+      "title": "Fifty years, zero skips 🎶",
+      "published": "2026-11-26T03:00:17+00:00",
+      "source": "Google",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/8AHYLrvxuSw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=8AHYLrvxuSw"
+    },
+    {
+      "videoId": "C6DENY3rgqg",
+      "leaderId": "sam-altman",
+      "leaderName": "Sam Altman",
+      "title": "You had us at Deployed",
+      "published": "2026-11-25T23:50:43+00:00",
+      "source": "OpenAI",
+      "type": "Talk",
+      "thumb": "https://i.ytimg.com/vi/C6DENY3rgqg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=C6DENY3rgqg"
+    },
     {
       "videoId": "A4UNP-axGHU",
       "leaderId": "sam-altman",
@@ -331,17 +364,6 @@
       "type": "Talk",
       "thumb": "https://i.ytimg.com/vi/2b4QUm0tuVc/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=2b4QUm0tuVc"
-    },
-    {
-      "videoId": "gAmjBqXNoFI",
-      "leaderId": "sam-altman",
-      "leaderName": "Sam Altman",
-      "title": "How Franklin Templeton uses AI for investment research | OpenAI",
-      "published": "2026-11-23T15:23:23+00:00",
-      "source": "OpenAI",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/gAmjBqXNoFI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=gAmjBqXNoFI"
     },
     {
       "videoId": "Ay6JlZM4Qks",
@@ -817,17 +839,6 @@
       "url": "https://www.youtube.com/watch?v=FP25dmOnKb8"
     },
     {
-      "videoId": "3izhk1dJ6VY",
-      "leaderId": "mark-zuckerberg",
-      "leaderName": "Mark Zuckerberg",
-      "title": "Meta AI assists Riley's car rebuilding business",
-      "published": "2026-11-06T21:50:42+00:00",
-      "source": "Meta",
-      "type": "Talk",
-      "thumb": "https://i.ytimg.com/vi/3izhk1dJ6VY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=3izhk1dJ6VY"
-    },
-    {
       "videoId": "NcROXiN_cdE",
       "leaderId": "elon-musk",
       "leaderName": "Elon Musk",
@@ -1079,17 +1090,6 @@
       "type": "Press",
       "thumb": "https://i.ytimg.com/vi/DDjr6gXqtN8/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=DDjr6gXqtN8"
-    },
-    {
-      "videoId": "lL7L6DiGeLc",
-      "leaderId": "sundar-pichai",
-      "leaderName": "Sundar Pichai",
-      "title": "What’s New in Google Accessibility | Episode 13",
-      "published": "2026-10-26T16:41:35+00:00",
-      "source": "Google",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/lL7L6DiGeLc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=lL7L6DiGeLc"
     },
     {
       "videoId": "aCNvcXxTSlE",
