@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T19:59:59.249Z",
+  "generatedAt": "2026-11-27T19:48:45.202Z",
   "lookbackDays": 45,
   "leaders": [
     {
@@ -46,6 +46,17 @@
     }
   ],
   "videos": [
+    {
+      "videoId": "sHWEMk0l2iU",
+      "leaderId": "jensen-huang",
+      "leaderName": "Jensen Huang",
+      "title": "One livestream. Four Spotlight Sessions. Straight from #NVIDIAGTC in Washington, D.C.",
+      "published": "2026-11-27T18:06:08+00:00",
+      "source": "NVIDIA",
+      "type": "Keynote",
+      "thumb": "https://i.ytimg.com/vi/sHWEMk0l2iU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=sHWEMk0l2iU"
+    },
     {
       "videoId": "_Bap4F2gaUk",
       "leaderId": "mark-zuckerberg",
@@ -630,17 +641,6 @@
       "url": "https://www.youtube.com/watch?v=ytfzbmLCTas"
     },
     {
-      "videoId": "E3Hy-WRJbXE",
-      "leaderId": "jensen-huang",
-      "leaderName": "Jensen Huang",
-      "title": "NVIDIA cuPhoton Brings Real-Time Black Hole Science to GPUs",
-      "published": "2026-11-16T18:32:32+00:00",
-      "source": "NVIDIA",
-      "type": "Keynote",
-      "thumb": "https://i.ytimg.com/vi/E3Hy-WRJbXE/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=E3Hy-WRJbXE"
-    },
-    {
       "videoId": "vFLpMFWjEz8",
       "leaderId": "mark-zuckerberg",
       "leaderName": "Mark Zuckerberg",
@@ -1211,17 +1211,6 @@
       "type": "Keynote",
       "thumb": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk"
-    },
-    {
-      "videoId": "QeQAXuQpGEA",
-      "leaderId": "tim-cook",
-      "leaderName": "Tim Cook",
-      "title": "The new Apple HomeView: Keep the whole home connected, entertained, and in the know.",
-      "published": "2026-10-13T13:29:22+00:00",
-      "source": "Apple",
-      "type": "Press",
-      "thumb": "https://i.ytimg.com/vi/QeQAXuQpGEA/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=QeQAXuQpGEA"
     }
   ],
   "warnings": [
